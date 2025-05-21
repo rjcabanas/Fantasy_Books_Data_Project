@@ -1,0 +1,19 @@
+{
+    "name": "Stephen Messer",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-12-11T16:58:25.034102"
+    },
+    "personal_name": "Stephen Messer",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-12-11T16:58:25.034102"
+    },
+    "key": "/authors/OL6504703A",
+    "birth_date": "1972",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33259022,
+    "revision": 1
+}

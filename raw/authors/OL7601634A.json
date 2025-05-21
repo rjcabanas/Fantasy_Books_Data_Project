@@ -1,0 +1,19 @@
+{
+    "name": "Gilson",
+    "personal_name": "Gilson",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T23:02:08.156152"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T23:02:08.156152"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7601634A",
+    "birth_date": "1965",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,104 @@
+{
+    "alternate_names": [
+        "Jonathan Swift",
+        "Jonathan SWIFT",
+        "Jonathan, Swift",
+        "Jonathan [Swift",
+        "Jonathan] [Swift",
+        "Jonathan swift",
+        "JONATHAN SWIFT",
+        "SWIFT, JONATHAN, 1667-1745.",
+        "Jonathan Jonathan Swift",
+        "J. Swift",
+        "Swift, Jonathan attributed author",
+        "Johnathan Swift",
+        "Swift,Jonathan \u30b9\u30a6\u30a3\u30d5\u30c8,\u30b8\u30e7\u30ca\u30b5\u30f3 (1667-1745)",
+        "Shi hui fu tuo (Swift, Jonathan, 1667-1745)",
+        "(ying) Si, wei fu te (Swift, Jonathan",
+        "(ying) Siwei, Fute (Swift, Jonathan",
+        "Swift Jonathan 1667-1745",
+        "Jonathan Dean Swift",
+        "Si, Weifute Swift, Jonathan",
+        "Dr Jonathan Swift",
+        "Jonathan Swift Swift",
+        "Jonathan JONATHAN SWIFT",
+        "Swift Jonathan",
+        "Lemuel Gulliver",
+        "Joanthan Swift",
+        "Jonathan Swift dean of st. patrick's",
+        "Jonathan Swift Dean of st. patrick's",
+        "Jonathan Swift dean of st patrick's",
+        "Jonathan 1667-1745 Swift",
+        "(ying) Si, wei fu te",
+        "\u0414\u0436\u043e\u043d\u0430\u0442\u0430\u043d \u0421\u0432\u0438\u0444\u0442",
+        "\u0414. \u0421\u0432\u0438\u0444\u0442"
+    ],
+    "bio": "Jonathan Swift was an Irish satirist, essayist, political pamphleteer (first for the Whigs, then for the Tories), poet and cleric who became Dean of St. Patrick's, Dublin. He is remembered for works such as Gulliver's Travels, A Modest Proposal, A Journal to Stella, Drapier's Letters, The Battle of the Books, An Argument Against Abolishing Christianity, and A Tale of a Tub. \r\n\r\nSource and more information: https://en.wikipedia.org/wiki/Jonathan_Swift",
+    "type": {
+        "key": "/type/author"
+    },
+    "death_date": "19 October 1745",
+    "name": "Jonathan Swift",
+    "photos": [
+        6294049,
+        6294049,
+        3367004
+    ],
+    "birth_date": "30 November 1667",
+    "key": "/authors/OL24522A",
+    "personal_name": "Swift, Jonathan",
+    "remote_ids": {
+        "wikidata": "Q41166",
+        "viaf": "14777110",
+        "isni": "0000000121214321"
+    },
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Jonathan_Swift",
+            "title": "Wikipedia",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://bookbrainz.org/author/d57c2ab8-8388-4949-931b-ae5a45bb824f",
+            "title": "BookBrainz",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "inventaire.io",
+            "url": "https://inventaire.io/entity/wd:Q41166",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "title": "attributed author",
+    "source_records": [
+        "ia:geliefoyouji0000shih_t3i4",
+        "amazon:1313150029",
+        "amazon:1447477421",
+        "amazon:1549880373",
+        "bwb:9798483082606",
+        "amazon:6071415322",
+        "bwb:9798768919405",
+        "bwb:9798489740951",
+        "bwb:9798777492869",
+        "bwb:9798433842182",
+        "bwb:9798774574148",
+        "bwb:9798403087896",
+        "amazon:1371810788"
+    ],
+    "latest_revision": 22,
+    "revision": 22,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T11:16:55.115093"
+    }
+}

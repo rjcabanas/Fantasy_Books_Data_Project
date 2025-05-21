@@ -1,0 +1,34 @@
+{
+    "key": "/authors/OL1387961A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        7284260
+    ],
+    "birth_date": "1 Nov 1959",
+    "remote_ids": {
+        "wikidata": "Q232772",
+        "isni": "0000000108771086",
+        "viaf": "19931023"
+    },
+    "personal_name": "Susanna Clarke",
+    "name": "Susanna Clarke",
+    "source_records": [
+        "amazon:1526622432",
+        "amazon:2221250249",
+        "amazon:8850212968",
+        "amazon:1608190862"
+    ],
+    "bio": "Susanna Mary Clarke (born 1 November 1959) is an English author known for her debut novel *Jonathan Strange & Mr Norrell* (2004), a Hugo Award-winning alternative history. Clarke began *Jonathan Strange* in 1993 and worked on it during her spare time. For the next decade, she published short stories from the *Strange* universe, but it was not until 2003 that Bloomsbury bought her manuscript and began work on its publication. The novel became a best-seller. \r\n\r\n**Source**: [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke) on Wikipedia.",
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-08T20:05:51.547647"
+    }
+}

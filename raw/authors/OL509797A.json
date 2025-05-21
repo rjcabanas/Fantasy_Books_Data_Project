@@ -1,0 +1,25 @@
+{
+    "photos": [
+        9267000
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-09T12:48:17.054729"
+    },
+    "latest_revision": 5,
+    "name": "Welwyn Wilton Katz",
+    "key": "/authors/OL509797A",
+    "personal_name": "Welwyn Wilton Katz",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Welwyn Katz",
+        "Welwyn W. Katz"
+    ],
+    "revision": 5
+}

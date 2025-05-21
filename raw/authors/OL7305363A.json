@@ -1,0 +1,17 @@
+{
+    "name": "Richard Thake",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:35:07.657893"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:35:07.657893"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7305363A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

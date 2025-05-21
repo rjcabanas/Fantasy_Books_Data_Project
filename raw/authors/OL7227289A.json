@@ -1,0 +1,23 @@
+{
+    "key": "/authors/OL7227289A",
+    "name": "Luke Pearson",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Luke Pearson Luke"
+    ],
+    "photos": [
+        14832045
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-09-20T07:32:10.706160"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-12-31T10:14:40.656986"
+    }
+}

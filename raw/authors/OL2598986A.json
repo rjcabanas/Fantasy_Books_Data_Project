@@ -1,0 +1,52 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "An American comic book creator and film director best known for his dark, film noir-style comic book stories and graphic novels."
+    },
+    "name": "Frank Miller",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Frank_Miller_%28comics%29",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia entry"
+        },
+        {
+            "url": "http://moebiusgraphics.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Complete Works"
+        }
+    ],
+    "personal_name": "Frank Miller",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Miller, Frank",
+        "frank miller",
+        "FRANK MILLER"
+    ],
+    "photos": [
+        6462236
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:04:47.292038"
+    },
+    "latest_revision": 9,
+    "key": "/authors/OL2598986A",
+    "birth_date": "27 January 1957",
+    "revision": 9,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "119775784",
+        "wikidata": "Q207676",
+        "isni": "0000000121489691"
+    }
+}

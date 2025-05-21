@@ -1,0 +1,19 @@
+{
+    "name": "Kimberly Derting",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-11-24T03:34:19.039280"
+    },
+    "personal_name": "Kimberly Derting",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-11-24T03:34:19.039280"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6760011A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 35473401,
+    "revision": 1
+}

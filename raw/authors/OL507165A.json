@@ -1,0 +1,48 @@
+{
+    "source_records": [
+        "amazon:0374651000",
+        "amazon:1681411164",
+        "amazon:014119393X",
+        "bwb:9798789273661",
+        "bwb:9798505727799"
+    ],
+    "name": "Shirley Jackson",
+    "bio": "Shirley Hardie Jackson (December 14, 1916 \u2013 August 8, 1965) was an American writer, known primarily for her works of horror and mystery.\r\n\r\n**Source**: [Shirley Jackson](https://en.wikipedia.org/wiki/Shirley_Jackson) on Wikipedia.",
+    "key": "/authors/OL507165A",
+    "remote_ids": {
+        "wikidata": "Q239910",
+        "isni": "0000000121435300",
+        "viaf": "91864979"
+    },
+    "death_date": "8 Aug 1965",
+    "alternate_names": [
+        "Shirley Hardie Jackson"
+    ],
+    "photos": [
+        7280455
+    ],
+    "personal_name": "Jackson, Shirley",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "14 Dec 1916",
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/Shirley_Jackson",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 15,
+    "revision": 15,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-19T15:58:23.634411"
+    }
+}

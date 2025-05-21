@@ -1,0 +1,39 @@
+{
+    "key": "/authors/OL278396A",
+    "death_date": "26 July 1976",
+    "photograph": "/static/images/book.trans.gif",
+    "name": "Nikola\u012d Nikolaevich Nosov",
+    "bio": "Nikolay Nikolayevich Nosov (Russian: \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447 \u041d\u043e\u0441\u043e\u0432) was a Russian and Soviet writer of children's literature, the author of a number of humorous short stories, a school novel, and the popular trilogy of fairy tale novels about the adventures of Dunno and his friends.",
+    "photos": [
+        14355278
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Nikola\u012d Nikolaevich Nosov",
+    "alternate_names": [
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447 \u041d\u043e\u0441\u043e\u0432",
+        "Nikolay Nosov",
+        "Nikolay Nikolayevich Nosov",
+        "Nikolai Nikolajewitsch Nossow",
+        "Nikolai\u030c Nikolaevich Nosov",
+        "Nossow, Nikolai Nikolajewitsch",
+        "Nosov, Nikolai Nikolaevich"
+    ],
+    "birth_date": "23 November [O.S. 10 November] 1908",
+    "remote_ids": {
+        "viaf": "79290115",
+        "wikidata": "Q653320",
+        "isni": "000000011449250X"
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-30T04:49:14.256454"
+    }
+}

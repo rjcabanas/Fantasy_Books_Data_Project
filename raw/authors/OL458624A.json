@@ -1,0 +1,55 @@
+{
+    "name": "Richard A. Knaak",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "28 May 1961",
+    "personal_name": "Richard A. Knaak",
+    "key": "/authors/OL458624A",
+    "source_records": [
+        "amazon:8490945381",
+        "amazon:849885802X",
+        "amazon:8498856531",
+        "amazon:8491675434",
+        "bwb:9781945683534"
+    ],
+    "photos": [
+        14315203
+    ],
+    "remote_ids": {
+        "wikidata": "Q526744",
+        "isni": "0000000083862693",
+        "viaf": "59252888"
+    },
+    "alternate_names": [
+        "Richard A Knaak",
+        "RICHARD A. KNAAK",
+        "KNAAK,RICHARD A.",
+        "Douglas",
+        "Baker, Linda P.",
+        "Thompson, Paul B.",
+        "Cook, Tonya",
+        "Knaak, Richard A.",
+        "Parkinson, Dan Niles",
+        "Richard Knaak",
+        "Knaak",
+        "KNAAK",
+        "R. Knaak",
+        "Knaak Richard",
+        "RICHARD KNAAK"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Richard A. Knaak (born May 28, 1961 in Chicago) is the author of Dragonlance novels, Dragonrealm, six novels for Blizzard Entertainment's Diablo series, and ten works in the Warcraft universe. He has also written five non-series fantasy books. [source](https://en.wikipedia.org/wiki/Richard_A._Knaak)"
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-01T05:20:09.864490"
+    }
+}

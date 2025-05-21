@@ -1,0 +1,32 @@
+{
+    "alternate_names": [
+        "Kevin Eastman; Kevin Brooks Eastman"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Kevin B. Eastman",
+    "personal_name": "Kevin B. Eastman",
+    "source_records": [
+        "promise:bwb_daily_pallets_2021-02-18"
+    ],
+    "key": "/authors/OL257278A",
+    "photos": [
+        14619662
+    ],
+    "bio": "Kevin Brooks Eastman (born May 30, 1962) is an American comic book writer and artist best known for co-creating the Teenage Mutant Ninja Turtles with Peter Laird. Eastman was also formerly the editor and publisher of the magazine Heavy Metal. [source](https://en.wikipedia.org/wiki/Kevin_Eastman)",
+    "birth_date": "30 May 1962",
+    "remote_ids": {
+        "viaf": "64172434"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-28T15:06:24.202878"
+    }
+}

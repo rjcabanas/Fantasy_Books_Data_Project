@@ -1,0 +1,20 @@
+{
+    "name": "Nicholas Stuart Gray",
+    "personal_name": "Nicholas Stuart Gray",
+    "key": "/authors/OL1194871A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "23 October 1922",
+    "death_date": "17 March 1981",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-01T14:00:22.525667"
+    }
+}

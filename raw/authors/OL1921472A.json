@@ -1,0 +1,21 @@
+{
+    "name": "Andrew Rowe",
+    "personal_name": "Andrew Rowe",
+    "key": "/authors/OL1921472A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        11177492
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-05-28T16:22:00.636829"
+    }
+}

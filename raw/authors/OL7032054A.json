@@ -1,0 +1,101 @@
+{
+    "source_records": [
+        "amazon:162779509X",
+        "amazon:1510106456",
+        "amazon:1510104518",
+        "amazon:9124098590",
+        "bwb:9780805097108",
+        "bwb:9781510104495",
+        "amazon:9124110647",
+        "amazon:9873820892",
+        "amazon:6073154119",
+        "bwb:9780141387383",
+        "bwb:9781536453614",
+        "amazon:9124098574",
+        "amazon:1780621701",
+        "promise:bwb_daily_pallets_2022-08-01",
+        "amazon:8366409406",
+        "bwb:9780008467357",
+        "amazon:8582353820",
+        "amazon:1250859441",
+        "bwb:9781779522788",
+        "bwb:9781250231079",
+        "amazon:5171366160",
+        "bwb:9780241999844"
+    ],
+    "key": "/authors/OL7032054A",
+    "bio": "Leigh was born in Jerusalem, grew up in Southern California, and graduated from Yale University. These days she lives and writes in Los Angeles. \r\n([source][1])\r\n\r\n\r\n  [1]: https://www.leighbardugo.com/about/",
+    "alternate_names": [
+        "L. Bardugo",
+        "BARDUGO,LEIGH",
+        "\u041b\u0456 \u0411\u0430\u0440\u0434\u0443\u0433\u043e",
+        "\u041b\u0456 \u0411\u0430\u0440\u0434\u0443\u0491\u043e",
+        "Li Bardugo"
+    ],
+    "remote_ids": {
+        "viaf": "261747914",
+        "librarything": "bardugoleigh",
+        "storygraph": "b0cf2339-a147-4668-a78f-d9bec0477450",
+        "isni": "0000000381599141",
+        "amazon": "B005ZZ8XQS",
+        "goodreads": "4575289",
+        "wikidata": "Q18209683",
+        "bookbrainz": "064e756b-435b-4b80-8f06-c4e4ef142843",
+        "gnd": "1023318695",
+        "imdb": "nm1785723",
+        "lc_naf": "n2011074624",
+        "musicbrainz": "cbbcc877-3447-49b2-ac74-479f8b61765a",
+        "inventaire": "wd:Q18209683"
+    },
+    "birth_date": "6 Apr 1975",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Leigh Bardugo",
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.leighbardugo.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Author's Pinterest",
+            "url": "https://www.pinterest.com/lbardugo/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/b/leigh-bardugo/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?172155",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14852196,
+        14852195,
+        8758343
+    ],
+    "name": "Leigh Bardugo",
+    "latest_revision": 30,
+    "revision": 30,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-11-04T09:11:43.335968"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-12T17:33:09.366148"
+    }
+}

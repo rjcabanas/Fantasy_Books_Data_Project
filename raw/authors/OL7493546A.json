@@ -1,0 +1,17 @@
+{
+    "name": "Emily Bliss",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-03T18:50:46.815681"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-03T18:50:46.815681"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7493546A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

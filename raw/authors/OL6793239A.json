@@ -1,0 +1,22 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Duplicate, see [Sergey Lukyanenko](/authors/OL5238643A/Sergey_Lukyanenko)"
+    },
+    "name": "Sergej Lukianenko",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-23T01:21:47.638711"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-03-23T15:26:21.918330"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL6793239A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 49418915,
+    "revision": 2
+}

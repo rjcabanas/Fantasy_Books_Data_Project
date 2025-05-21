@@ -1,0 +1,50 @@
+{
+    "name": "Jonathan French",
+    "key": "/authors/OL15140664A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14852161
+    ],
+    "alternate_names": [
+        "French, Jonathan P.",
+        "French, Jonathan",
+        "Jonathan P. French"
+    ],
+    "remote_ids": {
+        "amazon": "B009TAMF5U",
+        "goodreads": "7065807",
+        "isni": "0000000499352494",
+        "gnd": "1272970779",
+        "lc_naf": "no2018081597",
+        "librarything": "frenchjonathan-1",
+        "storygraph": "7f4f7c76-4eb6-4f64-b814-b271d6e5f6f8"
+    },
+    "links": [
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/f/jonathan-french/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?270744",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2025-03-14T19:02:40.189642"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-14T19:30:11.780215"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "source_records": [
+        "promise:bwb_daily_pallets_2020-04-30"
+    ],
+    "personal_name": "Kathleen Duey",
+    "key": "/authors/OL20118A",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Kathleen Duey",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T12:56:09.603178"
+    }
+}

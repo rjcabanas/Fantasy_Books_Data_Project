@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "D. T. Kizis",
+    "personal_name": "D. T. Kizis",
+    "key": "/authors/OL9089471A",
+    "source_records": [
+        "ia:packs0000kizi"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-23T15:30:25.189543"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-01-23T15:30:25.189543"
+    }
+}

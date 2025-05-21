@@ -1,0 +1,22 @@
+{
+    "name": "John Joseph Adams",
+    "personal_name": "John Joseph Adams",
+    "key": "/authors/OL7207957A",
+    "birth_date": "1976",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q6242102"
+    },
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-07-29T10:47:13.388612"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-19T11:18:28.915132"
+    }
+}

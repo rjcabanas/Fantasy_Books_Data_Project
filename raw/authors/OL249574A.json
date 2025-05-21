@@ -1,0 +1,42 @@
+{
+    "birth_date": "26 Sep 1946",
+    "name": "Louise Simonson",
+    "remote_ids": {
+        "isni": "0000000030058351",
+        "viaf": "2507285",
+        "wikidata": "Q469794"
+    },
+    "alternate_names": [
+        "Simonson,Louise",
+        "LOUISE SIMONSON",
+        "Simonson, Louise",
+        "Simonson, Louise, (gui\u00f3n)"
+    ],
+    "source_records": [
+        "ia:supersecretcrisi0000unse",
+        "amazon:8411011631",
+        "amazon:8498855349",
+        "amazon:849885606X",
+        "amazon:8490948852",
+        "amazon:8498857899"
+    ],
+    "photos": [
+        9417297
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Louise Simonson (born Mary Louise Alexander; born September 26, 1946) is an American comic book writer and editor. She is best known for her work on comic book titles such as *Power Pack*, *X-Factor*, *New Mutants*, *Superman: The Man of Steel*, and *Steel*. She is often referred to by the nickname \"Weezie\". Among the comic characters she co-created are Cable, Steel, Power Pack, Rictor and the X-Men villain Apocalypse.\r\n\r\nIn recognition of her contributions to comics, Comics Alliance listed Simonson as one of twelve women cartoonists deserving of lifetime achievement recognition.\r\n\r\n**Source**: [Louise Simonson](https://en.wikipedia.org/wiki/Louise_Simonson) on Wikipedia.",
+    "personal_name": "Louise Simonson",
+    "key": "/authors/OL249574A",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-18T18:55:42.957135"
+    }
+}

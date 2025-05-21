@@ -1,0 +1,17 @@
+{
+    "name": "Annette Betz Verlag",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-25T07:37:47.155747"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-25T07:37:47.155747"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7485866A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

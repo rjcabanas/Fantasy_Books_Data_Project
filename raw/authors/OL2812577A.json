@@ -1,0 +1,40 @@
+{
+    "source_records": [
+        "bwb:9780774716314",
+        "bwb:9781418946722",
+        "promise:bwb_daily_pallets_2022-11-17",
+        "promise:bwb_daily_pallets_2023-10-11:O9-ASE-730",
+        "promise:bwb_daily_pallets_2024-01-24:P9-CVB-978"
+    ],
+    "key": "/authors/OL2812577A",
+    "name": "Steck-Vaughn Company",
+    "personal_name": "STECK VAUGHN",
+    "alternate_names": [
+        "Steck-Vaughn",
+        "Steck Vaughn",
+        "Steck-Vaughn Staff",
+        "STECK VAUGHN",
+        "STECK-VAUGHN",
+        "Staff Steck-Vaughn Co",
+        "Steck and Vaughn",
+        "Steck And Vaughn",
+        "Steck-vaughn",
+        "Steck-Vaughn Company Staff",
+        "Steck-Vaughn Company Various",
+        "Steck-vaughn Company",
+        "Steck-Vaughn Co."
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-03T20:35:08.314553"
+    }
+}

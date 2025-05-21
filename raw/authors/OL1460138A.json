@@ -1,0 +1,41 @@
+{
+    "name": "Seon Manley",
+    "personal_name": "Seon Manley",
+    "key": "/authors/OL1460138A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1921",
+    "bio": {
+        "type": "/type/text",
+        "value": ">Janet Helen \"Seon\" Givens (1921-2009) and Mona \"Gogo\" Givens (1923-2008) were sisters who were raised in Connecticut and began collecting books as children. After college, they moved to New York City and became familiar faces in literary circles. Seon married Robert Manley, and Gogo married William Lewis.\r\n\r\n>Beginning in the early 1960s, Seon Manley and  <a href=https://openlibrary.org/authors/OL2677362A/Gogo_Lewis/>Gogo Lewis</a> compiled over twenty anthologies which included subjects ranging from the natural world and science. The sisters drew inspiration for their anthologies from their private libraries and personal interests. Their main focus  was collecting and publishing anthologies of stories about ghosts and the supernatural. From 1973 to 1979, the famous illustrator Edward Gorey created covers for eight titles by Manley & Lewis, all but one of which focused on tales by female authors."
+    },
+    "links": [
+        {
+            "title": "Goreyana blog post on Seon Maley and Gogo Lewis",
+            "url": "https://goreyana.blogspot.com/2017/01/anthologies-by-seon-manley-and-gogo.html",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "death_date": "2009",
+    "alternate_names": [
+        "Janet Helen Givens",
+        "Seon Givens",
+        "Janet Manley"
+    ],
+    "remote_ids": {
+        "wikidata": "Q84558538"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-23T02:27:17.339550"
+    }
+}

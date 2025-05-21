@@ -1,0 +1,23 @@
+{
+    "name": "Cora Carmack",
+    "personal_name": "Cora Carmack",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-06-01T05:14:57.989857"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T07:33:14.375013"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL7414541A",
+    "revision": 2,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "297618930",
+        "wikidata": "Q96440068",
+        "isni": "0000000402317415"
+    }
+}

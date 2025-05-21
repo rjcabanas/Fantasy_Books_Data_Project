@@ -1,0 +1,88 @@
+{
+    "name": "Peter V. Brett",
+    "personal_name": "Peter V. Brett",
+    "key": "/authors/OL6546299A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "48707871",
+        "wikidata": "Q1593961",
+        "isni": "0000000121316889",
+        "gnd": "138110247",
+        "amazon": "B001OJR7Y8",
+        "goodreads": "1405152",
+        "lc_naf": "n2008084805",
+        "librarything": "brettpeterv",
+        "musicbrainz": "344d48fb-3b43-4983-a95c-ac974fc82476",
+        "storygraph": "3230b7a9-aca7-4529-8a8f-b1a66d60cc39",
+        "inventaire": "wd:Q1593961"
+    },
+    "photos": [
+        14839264,
+        14852590,
+        -1
+    ],
+    "birth_date": "8 February 1973",
+    "alternate_names": [
+        "P.V. Brett",
+        "P. V. Brett",
+        "Brett, Peter V.",
+        "Brett, P. V.",
+        "Brett, P.V."
+    ],
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.petervbrett.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Blog",
+            "url": "https://www.petervbrett.com/blog",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Author's Tumblr",
+            "url": "https://pvbrett.tumblr.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Author's Linktree",
+            "url": "https://linktr.ee/pvbrett",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/b/peter-v-brett/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?115695",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-01-07T18:22:45.765549"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-16T23:23:07.357215"
+    }
+}

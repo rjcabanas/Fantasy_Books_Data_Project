@@ -1,0 +1,104 @@
+{
+    "name": "L. E. Modesitt, Jr.",
+    "alternate_names": [
+        "Leland Exton Modesitt, Jr.",
+        "L.E. Modesitt",
+        "L.E. Modesitt, Jr.",
+        "L. E. Modesitt",
+        "Modesitt, L. E., Jr.",
+        "Jr. L. E. Modesitt",
+        "L. E. Modesitt Jr.",
+        "L. E. Modessitt Jr.",
+        "Jr L. E. Modessitt",
+        "Modesitt, Leland Exton",
+        "Modesitt, L. Exton"
+    ],
+    "photos": [
+        12726058
+    ],
+    "birth_date": "19 October 1943",
+    "bio": "L. E. (Leland Exton) Modesitt, Jr. is an author of science fiction and fantasy novels. He is best known for the fantasy series The Saga of Recluce. He graduated from Williams College in Massachusetts, lived in Washington, D.C. for 20 years, then moved to New Hampshire in 1989 where he met his wife. They relocated to Cedar City, Utah in 1993.",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "ia:lordreblanc0000mode",
+        "amazon:1250217547",
+        "amazon:0765392232",
+        "amazon:1665217316",
+        "bwb:9780312700850",
+        "bwb:9781250856807",
+        "promise:bwb_daily_pallets_2021-08-19",
+        "amazon:1541459490",
+        "promise:bwb_daily_pallets_2023-01-23:P8-AQM-221",
+        "promise:bwb_daily_pallets_2021-06-03"
+    ],
+    "key": "/authors/OL7024126A",
+    "personal_name": "Modesitt, L. E., Jr",
+    "remote_ids": {
+        "isni": "0000000115762356",
+        "viaf": "79452695",
+        "wikidata": "Q1797771",
+        "amazon": "B000APVZ5O",
+        "goodreads": "1301649",
+        "gnd": "1088444903",
+        "lc_naf": "n88636272",
+        "librarything": "jrlemodesitt",
+        "storygraph": "e0248f1a-2757-462c-9a8b-844850c659ac",
+        "inventaire": "wd:Q1797771"
+    },
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.lemodesittjr.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Blog",
+            "url": "https://www.lemodesittjr.com/blog",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Forum (IBDoF)",
+            "url": "http://www.ibdof.com/viewforum.php?f=52",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/m/l-e-modesitt/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?40",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/modesitt_l_e",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 17,
+    "revision": 17,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-10-25T19:36:06.039379"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-18T01:41:32.898860"
+    }
+}

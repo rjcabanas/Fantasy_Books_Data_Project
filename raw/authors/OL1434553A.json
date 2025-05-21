@@ -1,0 +1,84 @@
+{
+    "remote_ids": {
+        "wikidata": "Q242643",
+        "isni": "0000000122826784",
+        "viaf": "87557309",
+        "amazon": "B001IGNGVK",
+        "bookbrainz": "b5a19ae3-32a6-4aa4-8ac4-e7393ff7500b",
+        "musicbrainz": "b5553bf7-dcae-4212-b24d-5e515e16907b",
+        "goodreads": "8730",
+        "librarything": "noviknaomi",
+        "lc_naf": "n2005036162",
+        "gnd": "133202488",
+        "imdb": "nm2387228",
+        "storygraph": "db79c65d-f1ff-4fba-a765-43732255160c",
+        "inventaire": "wd:Q242643"
+    },
+    "photos": [
+        14852585,
+        14852584,
+        10445527
+    ],
+    "personal_name": "Naomi Novik",
+    "birth_date": "30 April 1973",
+    "key": "/authors/OL1434553A",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Novik  Naomi",
+        "Novik, Naomi",
+        "Novik, N.",
+        "N. Novik"
+    ],
+    "source_records": [
+        "amazon:0593359542",
+        "amazon:0593357280",
+        "amazon:1415940142",
+        "bwb:9780804179041",
+        "amazon:1529100925",
+        "amazon:0739488422",
+        "promise:bwb_daily_pallets_2024-09-02:KU-477-003"
+    ],
+    "name": "Naomi Novik",
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.naominovik.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Author's Livejournal (Old)",
+            "url": "https://naominovik.livejournal.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/n/naomi-novik/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?36113",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-16T22:23:04.697149"
+    }
+}

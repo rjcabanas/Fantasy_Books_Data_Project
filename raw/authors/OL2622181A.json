@@ -1,0 +1,44 @@
+{
+    "birth_date": "20 March 1939",
+    "personal_name": "Robert E. Swindells",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "85102991",
+        "wikidata": "Q2064855",
+        "isni": "0000000114502296"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "British writer"
+    },
+    "key": "/authors/OL2622181A",
+    "alternate_names": [
+        "Robert E. Swindells",
+        "Robert E. SWINDELLS",
+        "ROBERT SWINDELLS",
+        "Swindells Robert",
+        "Robert Edward Swindells"
+    ],
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Robert_Swindells",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "name": "Robert Swindells",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-06-27T20:48:15.323247"
+    }
+}

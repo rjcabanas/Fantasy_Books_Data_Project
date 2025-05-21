@@ -1,0 +1,19 @@
+{
+    "name": "Atsuko Asano",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T14:02:13.296984"
+    },
+    "personal_name": "Atsuko Asano",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T14:02:13.296984"
+    },
+    "key": "/authors/OL6589585A",
+    "birth_date": "1954",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33845349,
+    "revision": 1
+}

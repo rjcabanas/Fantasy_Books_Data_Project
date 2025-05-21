@@ -1,0 +1,18 @@
+{
+    "name": "Victor Burgin",
+    "personal_name": "Victor Burgin",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-11-09T12:04:32.133341"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-11-09T12:04:32.133341"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6840903A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

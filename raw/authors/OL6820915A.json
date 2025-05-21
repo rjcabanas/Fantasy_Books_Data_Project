@@ -1,0 +1,17 @@
+{
+    "name": "John Bushore",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T07:18:10.053928"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T07:18:10.053928"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6820915A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

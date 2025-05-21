@@ -1,0 +1,94 @@
+{
+    "source_records": [
+        "amazon:1549167359",
+        "amazon:912396314X",
+        "bwb:9780316423724"
+    ],
+    "photos": [
+        14852827,
+        14852826,
+        14852825,
+        6757706,
+        7319858,
+        7319857,
+        7319856
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Polish fantasy writer",
+    "birth_date": "21 June 1948",
+    "personal_name": "Andrzej Sapkowski",
+    "name": "Andrzej Sapkowski",
+    "key": "/authors/OL368638A",
+    "links": [
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/s/andrzej-sapkowski/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?77165",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/sapkowski_andrzej",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Culture.pl Author Profile",
+            "url": "https://culture.pl/en/artist/andrzej-sapkowski",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "remote_ids": {
+        "isni": "0000000114618264",
+        "viaf": "74736122",
+        "wikidata": "Q312101",
+        "amazon": "B001ICAMAW",
+        "bookbrainz": "ab90888b-fef3-41ee-af93-0c70d14575c2",
+        "goodreads": "38569",
+        "gnd": "12249945X",
+        "imdb": "nm1140292",
+        "lc_naf": "no95039140",
+        "librarything": "sapkowskiandrzej",
+        "musicbrainz": "1f48ed9d-e933-4f8d-80fc-d19ae21e8821",
+        "storygraph": "51ac1291-13b1-4c7c-9e09-fbfab16e37a7",
+        "inventaire": "wd:Q312101"
+    },
+    "alternate_names": [
+        "Sapkowski, Andrzej",
+        "Sapkowski, A.",
+        "A. Sapkowski",
+        "Sapkovskii, Andzhei",
+        "Sapkovskij, And\u017eej",
+        "Sapkovs\u02b9kyj, And\u017eej",
+        "Sapko\u016dski, And\u017e\u0117j",
+        "Andrej Sapkowski",
+        "Andrejz Sapkowski",
+        "And\u017eeja Sapkovskog",
+        "\u0410\u043d\u0434\u0436\u0435\u0439 \u0421\u0430\u043f\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "\u0410. \u0421\u0430\u043f\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "\u30a2\u30f3\u30c9\u30ec\u30a4\u30fb\u30b5\u30d7\u30b3\u30d5\u30b9\u30ad"
+    ],
+    "latest_revision": 22,
+    "revision": 22,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-18T00:10:24.084243"
+    }
+}

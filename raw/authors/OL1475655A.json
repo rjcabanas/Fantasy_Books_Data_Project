@@ -1,0 +1,27 @@
+{
+    "personal_name": "Phyllis Eisenstein",
+    "photos": [
+        6882601
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:00:21.919995"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL1475655A",
+    "remote_ids": {
+        "viaf": "116760521",
+        "wikidata": "Q768776",
+        "isni": "0000000083264415"
+    },
+    "name": "Phyllis Eisenstein",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "birth_date": "1946",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

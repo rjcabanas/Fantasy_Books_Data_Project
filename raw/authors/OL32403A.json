@@ -1,0 +1,52 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Jerry Bruce Jenkins (born in Kalamazoo, Michigan) is an American novelist and biographer. ([Source: Wikipedia][1])\r\n\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Jerry_B._Jenkins \"Wikipedia\""
+    },
+    "name": "Jerry B. Jenkins",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Jerry_B._Jenkins",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        },
+        {
+            "url": "http://www.jerryjenkins.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Homepage"
+        }
+    ],
+    "personal_name": "Jerry B. Jenkins",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "JERRY B. JENKINS",
+        "Jenkins, Jerry B",
+        "Jerry B Jenkins"
+    ],
+    "photos": [
+        7278936
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T14:28:29.901628"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL32403A",
+    "birth_date": "23 September 1949",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "61669297",
+        "wikidata": "Q1910044",
+        "isni": "0000000121358157"
+    }
+}

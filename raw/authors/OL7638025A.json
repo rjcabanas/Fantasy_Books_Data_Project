@@ -1,0 +1,17 @@
+{
+    "name": "Kenji Tsurata",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-04T22:16:04.208614"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-04T22:16:04.208614"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7638025A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

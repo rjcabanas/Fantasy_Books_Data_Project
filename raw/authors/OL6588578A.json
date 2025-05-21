@@ -1,0 +1,19 @@
+{
+    "name": "Rafael Abalos",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T12:55:35.223788"
+    },
+    "personal_name": "Rafael Abalos",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T12:55:35.223788"
+    },
+    "key": "/authors/OL6588578A",
+    "birth_date": "1956",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33838428,
+    "revision": 1
+}

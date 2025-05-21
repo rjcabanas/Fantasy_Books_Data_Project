@@ -1,0 +1,19 @@
+{
+    "name": "Stephen Wren",
+    "personal_name": "Stephen Wren",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-06-14T00:19:33.095421"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-06-14T00:19:33.095421"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7134831A",
+    "birth_date": "1974",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

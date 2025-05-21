@@ -1,0 +1,15 @@
+{
+    "name": "Peter Howe",
+    "personal_name": "Peter Howe",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-02 05:02:01.90282"
+    },
+    "key": "/authors/OL4453911A",
+    "birth_date": "19",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 18465570,
+    "revision": 1
+}

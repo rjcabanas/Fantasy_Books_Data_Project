@@ -1,0 +1,47 @@
+{
+    "key": "/authors/OL419303A",
+    "birth_date": "1948",
+    "name": "Joan D. Vinge",
+    "photos": [
+        7225603
+    ],
+    "alternate_names": [
+        "Joan D Vinge",
+        "JOAN D. VINGE",
+        "vinge joan d.",
+        "JOAN D VINGE",
+        "Joan d. Vinge",
+        "Vinge, Joan D.",
+        "Joan Vinge",
+        "JOAN VINGE",
+        "Vinge Joan",
+        "Joan Carol Dennison"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Joan D. Vinge",
+    "source_records": [
+        "ia:santaclauseungla0000ving",
+        "ia:starwarsreturnof0000ving",
+        "amazon:0283990287",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "promise:bwb_daily_pallets_2021-03-10",
+        "promise:bwb_daily_pallets_2023-01-05"
+    ],
+    "remote_ids": {
+        "wikidata": "Q268371",
+        "viaf": "29541876",
+        "isni": "0000000111299165"
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T18:39:42.456317"
+    }
+}

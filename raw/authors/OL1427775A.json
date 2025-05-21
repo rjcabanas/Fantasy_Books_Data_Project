@@ -1,0 +1,32 @@
+{
+    "bio": "Rebecca Moesta Anderson (born November 17, 1956, in Heidelberg, West Germany) is the author of several science fiction books.",
+    "source_records": [
+        "promise:bwb_daily_pallets_2020-12-09"
+    ],
+    "birth_date": "17 November 1956",
+    "name": "Rebecca Moesta",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL1427775A",
+    "personal_name": "Rebecca Moesta",
+    "photos": [
+        11140683
+    ],
+    "alternate_names": [
+        "Moesta, Rebecca, Kevin Ja Anderson"
+    ],
+    "remote_ids": {
+        "viaf": "71528027"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-23T19:20:26.387121"
+    }
+}

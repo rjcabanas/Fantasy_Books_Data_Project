@@ -1,0 +1,17 @@
+{
+    "name": "P.S.Clinen",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-05-04T04:49:30.929683"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2014-05-04T04:49:30.929683"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7174246A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

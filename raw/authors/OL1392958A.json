@@ -1,0 +1,24 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 4,
+    "name": "Carol Goodman",
+    "key": "/authors/OL1392958A",
+    "personal_name": "Carol Goodman",
+    "birth_date": "1959",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:00:59.535235"
+    },
+    "remote_ids": {
+        "viaf": "65058739",
+        "wikidata": "Q1044175",
+        "isni": "0000000121019411"
+    }
+}

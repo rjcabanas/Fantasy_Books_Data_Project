@@ -1,0 +1,36 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Patricia Briggs was born on 1965 in Butte, Montana, USA. She has lived in various cities in the Pacific Northwest, and now resides in Washington state. Briggs began writing in 1990 and published her first novel in 1993."
+    },
+    "name": "Patricia Briggs",
+    "personal_name": "Patricia Briggs",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "patricia briggs",
+        "Patricia Briggs (author)"
+    ],
+    "photos": [
+        7140376,
+        7105413
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:55:30.436781"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL1385348A",
+    "birth_date": "1965",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "70112022",
+        "wikidata": "Q372737",
+        "isni": "0000000078513501"
+    }
+}

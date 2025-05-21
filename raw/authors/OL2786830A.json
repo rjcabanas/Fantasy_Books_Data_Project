@@ -1,0 +1,23 @@
+{
+    "name": "Julius Goodman",
+    "source_records": [
+        "bwb:9798781073689"
+    ],
+    "key": "/authors/OL2786830A",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Julius Julius Goodman"
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-10T19:40:02.898406"
+    }
+}

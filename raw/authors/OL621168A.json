@@ -1,0 +1,26 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "Bill Peet",
+    "key": "/authors/OL621168A",
+    "personal_name": "Bill Peet",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5,
+    "alternate_names": [
+        "Bill PEET"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:19:06.442229"
+    },
+    "remote_ids": {
+        "viaf": "71517504",
+        "wikidata": "Q321790",
+        "isni": "0000000116689525"
+    }
+}

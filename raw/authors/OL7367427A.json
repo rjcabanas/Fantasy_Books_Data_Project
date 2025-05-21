@@ -1,0 +1,17 @@
+{
+    "name": "Kirby, Matthew J.",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2017-03-08T18:39:58.829400"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-03-08T18:39:58.829400"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7367427A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

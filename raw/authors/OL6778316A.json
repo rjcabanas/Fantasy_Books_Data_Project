@@ -1,0 +1,19 @@
+{
+    "name": "Jonny Duddle",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-01-27T08:16:08.538778"
+    },
+    "personal_name": "Jonny Duddle",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-01-27T08:16:08.538778"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6778316A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 49127044,
+    "revision": 1
+}

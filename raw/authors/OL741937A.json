@@ -1,0 +1,22 @@
+{
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-01-26T20:54:49.687384"
+    },
+    "latest_revision": 3,
+    "name": "Robert Stanek",
+    "key": "/authors/OL741937A",
+    "personal_name": "Robert Stanek",
+    "birth_date": "1961",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Robert, Stanek"
+    ],
+    "revision": 3
+}

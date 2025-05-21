@@ -1,0 +1,64 @@
+{
+    "alternate_names": [
+        "Slavoj Zizek",
+        "Slavoj Z\u030ciz\u030cek",
+        "Slavoj \u017di\u017dek",
+        "\u0421\u043b\u0430\u0432\u043e\u0439 \u0416\u0438\u0436\u0435\u043a"
+    ],
+    "source_records": [
+        "amazon:8449336821",
+        "amazon:1682193012",
+        "bwb:9781350264045",
+        "bwb:9780745657240",
+        "amazon:0141979542",
+        "bwb:9781472570079",
+        "bwb:9781682192856",
+        "ia:difesadellintoll0000zize",
+        "bwb:9780231538411",
+        "bwb:9781136320965"
+    ],
+    "birth_date": "21 March 1949",
+    "name": "Slavoj \u017di\u017eek",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "amazon": "B000APK7P8",
+        "storygraph": "302cdffb-8031-492a-8d03-695e9ec79b67",
+        "goodreads": "2340358",
+        "wikidata": "Q184750",
+        "librarything": "zizekslavoj",
+        "isni": "0000000120954619",
+        "viaf": "2478493",
+        "bookbrainz": "cb2dfb21-a849-464f-9b2e-69671e8057a5",
+        "gnd": "104308281",
+        "lc_naf": "n85179035",
+        "musicbrainz": "7bf9c33f-33a9-44ea-87c8-0e130550bce3",
+        "imdb": "nm1670978"
+    },
+    "personal_name": "Slavoj Z iz ek",
+    "photos": [
+        7399137
+    ],
+    "key": "/authors/OL3278524A",
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": "Slavoj \u017di\u017eek is Senior Researcher at the Institute for Social Sciences at the University of Ljubljana, Slovenia. He is a coeditor of Gaze and Voice as Love Objects and author of Tarrying with the Negative, both published by Duke University Press.",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-12-16T14:44:28.456982"
+    }
+}

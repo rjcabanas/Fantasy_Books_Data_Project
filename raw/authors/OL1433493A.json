@@ -1,0 +1,88 @@
+{
+    "remote_ids": {
+        "viaf": "5100940",
+        "wikidata": "Q720317",
+        "isni": "0000000063013002",
+        "amazon": "B001JP7NWS",
+        "bookbrainz": "bba49db8-4df9-41ca-b2d8-a5c2e5d27092",
+        "goodreads": "33262",
+        "gnd": "130370126",
+        "imdb": "nm3966115",
+        "lc_naf": "n96067083",
+        "librarything": "abnettdan",
+        "musicbrainz": "69485480-6559-42b8-b6da-dc74b7620898",
+        "storygraph": "4aa846ab-8e24-4fef-894a-1a28c7af6cc1",
+        "inventaire": "wd:Q720317"
+    },
+    "photos": [
+        14853640,
+        14853641,
+        14853639,
+        14853638,
+        7284346,
+        -1
+    ],
+    "personal_name": "Dan Abnett",
+    "key": "/authors/OL1433493A",
+    "bio": "Dan Abnett (born 12 October 1965) is an English comic book writer and novelist. He has been a frequent collaborator with fellow writer Andy Lanning, and is known for his work on books for both Marvel Comics, and their UK imprint, Marvel UK, since the 1990s, and also 2000 AD. He has also contributed to DC Comics titles, and his *Warhammer Fantasy* and *Warhammer 40,000* novels and graphic novels for Games Workshop's Black Library now run to several dozen titles and have sold over two million copies. In 2009 he released his first original fiction novels through Angry Robot books. \r\n\r\n**Source**: [Dan Abnett](https://en.wikipedia.org/wiki/Dan_Abnett) on Wikipedia.",
+    "birth_date": "12 October 1965",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "dan-abnett",
+        "Dan Et Al Abnett",
+        "Dan Abnett Dan",
+        "Abnett Dan",
+        "Abnett, Dan",
+        "Abnett, D."
+    ],
+    "name": "Dan Abnett",
+    "links": [
+        {
+            "title": "Author's Blog",
+            "url": "https://theprimaryclone.blogspot.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/a/dan-abnett/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?7040",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/abnett_dan",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "GCD Author Entry",
+            "url": "https://www.comics.org/creator/2654",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-20T23:58:03.719398"
+    }
+}

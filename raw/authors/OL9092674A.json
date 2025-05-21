@@ -1,0 +1,17 @@
+{
+    "name": "Eoin N. Andrews",
+    "key": "/authors/OL9092674A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-28T16:39:58.532001"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-01-28T16:39:58.532001"
+    }
+}

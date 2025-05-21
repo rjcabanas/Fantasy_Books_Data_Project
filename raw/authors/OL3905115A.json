@@ -1,0 +1,22 @@
+{
+    "name": "Faith Erin Hicks",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:15:19.973841"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL3905115A",
+    "remote_ids": {
+        "viaf": "14588321",
+        "wikidata": "Q5431180",
+        "isni": "0000000050648631"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

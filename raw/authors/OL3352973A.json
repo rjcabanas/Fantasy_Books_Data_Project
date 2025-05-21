@@ -1,0 +1,36 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "American writer"
+    },
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Sarah_Prineas",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:04:18.364804"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL3352973A",
+    "remote_ids": {
+        "viaf": "85879233",
+        "wikidata": "Q2083562",
+        "isni": "0000000073715593"
+    },
+    "name": "Sarah Prineas",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "birth_date": "19 November 1966",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

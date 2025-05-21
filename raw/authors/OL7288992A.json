@@ -1,0 +1,20 @@
+{
+    "name": "Jennifer Lynn Alvarez",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL7288992A",
+    "alternate_names": [
+        "Jennifer Lynnn Alvarez"
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-07-02T16:00:31.139499"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-04T02:41:04.971591"
+    }
+}

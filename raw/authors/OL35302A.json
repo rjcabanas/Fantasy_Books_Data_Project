@@ -1,0 +1,32 @@
+{
+    "alternate_names": [
+        "Lawrence Weinberg",
+        "Weinberg Lawrence"
+    ],
+    "personal_name": "Larry Weinberg",
+    "key": "/authors/OL35302A",
+    "remote_ids": {
+        "viaf": "71399063"
+    },
+    "name": "Larry Weinberg",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14337556
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Larry Weinberg is the author of numerous books for children and juvenile readers, including Star Wars \u2013 A New Hope (Companion Edition), and the Ghost Hotel series.\r\n\r\nGarden of Regrets is his first novel for adult audiences."
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-01T15:31:42.297432"
+    }
+}

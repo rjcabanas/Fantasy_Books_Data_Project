@@ -1,0 +1,26 @@
+{
+    "name": "Richelle Mead",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "alternate_names": [
+        "Richelle Meade",
+        "richelle mead"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:55:05.525220"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL2834855A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "96947977",
+        "wikidata": "Q292071",
+        "isni": "0000000109277151"
+    }
+}

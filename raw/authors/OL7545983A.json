@@ -1,0 +1,24 @@
+{
+    "name": "Patora Fuyuhara",
+    "key": "/authors/OL7545983A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q106190729"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Patora Fuyuhara (\u51ac\u539f\u30d1\u30c8\u30e9 Fuyuhara Patora?) is a light novel author and the creator of the In Another With My Smartphone series. He also works with the manga artist, Soto. As he uses a pen name, his real name and identity are unknown."
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-06-03T07:01:29.664546"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-27T17:45:13.798114"
+    }
+}

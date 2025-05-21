@@ -1,0 +1,14 @@
+{
+    "name": "Jane Kurtz",
+    "personal_name": "Jane Kurtz",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-10 14:37:42.873543"
+    },
+    "key": "/authors/OL19678A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 51393,
+    "revision": 2
+}

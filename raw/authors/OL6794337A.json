@@ -1,0 +1,19 @@
+{
+    "name": "Joshua Williamson",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-27T04:52:23.624674"
+    },
+    "personal_name": "Joshua Williamson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-03-27T04:52:23.624674"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6794337A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 49434504,
+    "revision": 1
+}

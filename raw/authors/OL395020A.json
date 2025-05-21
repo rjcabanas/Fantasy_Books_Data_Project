@@ -1,0 +1,21 @@
+{
+    "name": "John Charles Cooper",
+    "personal_name": "John Charles Cooper",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        6666968
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-11-06T18:00:37.710036"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL395020A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

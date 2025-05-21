@@ -1,0 +1,14 @@
+{
+    "name": "Tom Eisenman",
+    "personal_name": "Tom Eisenman",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-02 14:13:29.254164"
+    },
+    "key": "/authors/OL392212A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1069897,
+    "revision": 2
+}

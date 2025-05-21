@@ -1,0 +1,34 @@
+{
+    "photos": [
+        9424951,
+        9424959
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:1398501174",
+        "amazon:9124126144"
+    ],
+    "name": "Shannon Messenger",
+    "personal_name": "Shannon Messenger",
+    "key": "/authors/OL7051946A",
+    "remote_ids": {
+        "viaf": "221070626",
+        "librarything": "messengershannon",
+        "isni": "0000000359930854",
+        "amazon": "B006N1MEGS",
+        "wikidata": "Q29048765",
+        "goodreads": "5265998"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-12-28T11:09:17.584068"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-19T12:14:07.493575"
+    }
+}

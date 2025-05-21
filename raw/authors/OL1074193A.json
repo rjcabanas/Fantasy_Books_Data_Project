@@ -1,0 +1,52 @@
+{
+    "alternate_names": [
+        "Anderson, Lonzo, 1905-1993",
+        "Anderson, John Lonzo (1905-....)",
+        "Anderson, John L.",
+        "Lonzo Anderson (1905-1993) American writer",
+        "John Lonzo Anderson Lonzo Anderson",
+        "Anderson, Lonzo, 1905-",
+        "Anderson, Lonzo",
+        "John L. Anderson",
+        "Lonzo Anderson (1905-1993)",
+        "John Lorenzo Anderson"
+    ],
+    "remote_ids": {
+        "viaf": "34586859",
+        "wikidata": "Q109938491",
+        "isni": "0000000081136436",
+        "goodreads": "4369602.Lonzo_Anderson",
+        "librarything": "andersonlonzo"
+    },
+    "personal_name": "Lonzo Anderson",
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lonzo_Anderson",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "John Lonzo Anderson was born on March 1, 1905 outside of Ellijay, Georgia. He graduated from Harvard University in 1928 and married illustrator Adrienne Adams in 1935. Anderson and his wife collaborated on a number of children's books. -Goodreads"
+    },
+    "birth_date": "1905",
+    "name": "Lonzo Anderson",
+    "death_date": "23 April 1993",
+    "key": "/authors/OL1074193A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T18:04:07.462233"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "bio": "Jack C. Harris was born in 1947. He received a B.F.A. from the Philadelphia University of the Arts. He began working in comic books as an assistant editor at DC Comics. He went on to become a comic book writer and editor, working for DC Comics and later Marvel Comics, among others. He taught History of the American Comic Book at Philadelphia College of Art from 1973-1975. In the early 1980s, he was the Art Director for Licensing International Magazine, and in 1985 he became its Managing Editor. From 1985 through 1992 he wrote books, primarily children's books. He briefly returned to DC Comics in the early 1990s to write The Ray series with Joe Quesada. He is currently an instructor at the School of Visual Arts in New York, NY.",
+    "date": "March 2009",
+    "name": "Jack C. Harris",
+    "personal_name": "Jack C. Harris",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        6462038,
+        5547887
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-24T03:00:56.730986"
+    },
+    "latest_revision": 6,
+    "location": "New York City, NY",
+    "key": "/authors/OL511468A",
+    "birth_date": "30 Aug. 1947",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 6
+}

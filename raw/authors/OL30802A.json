@@ -1,0 +1,58 @@
+{
+    "alternate_names": [
+        "Octavia Butler",
+        "Octavia Estelle Butler"
+    ],
+    "photos": [
+        6926216
+    ],
+    "links": [
+        {
+            "title": "Wikipedia entry",
+            "url": "https://secure.wikimedia.org/wikipedia/en/wiki/Octavia_E._Butler",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "name": "Octavia E. Butler",
+    "key": "/authors/OL30802A",
+    "death_date": "February 24, 2006",
+    "bio": "An American science fiction writer, one of the best-known among the few African-American women in the field.\r\n\r\n[Comment by Tricia Sullivan, on The Guardian][1]:\r\nOctavia E Butler (1947\u20132006)\r\n\r\n> I was teaching in New York when I came across Octavia E Butler's Kindred in a secondary-school catalogue of novels recommended to support diversity. It caught my attention because Butler was described as a science-fiction writer. I thought I was familiar with science fiction, but I'd never heard of her \u2013 nor have a great many other readers, I suspect. For many years, Butler was the sole African-American woman novelist in science fiction. Kindred tells the wrenching and unforgettable story of a young black woman who time-travels and saves the life of her slaveholder ancestor, but it is, in Butler's words, \"a grim fantasy\", not science fiction.\r\n\r\n> Beginning in the 1970s, Butler wrote three sequences of novels: the Patternist books, the Lilith's Brood series and the Parable novels (incomplete at her tragic death in 2006). Critically respected, she won the Hugo and Nebula awards, received a Clarke nomination, the PEN lifetime achievement award and a MacArthur Foundation \"genius\" grant. A serious writer working in a field that is seldom taken seriously, Butler addressed biological control, gender, humanity's relationship with aliens, genetics and even the development of a fictional religion. Her narratives leave space for the reader's involvement while exploring the nature of change. They gaze unflinchingly on power dynamics. \"Who will rule? Who will lead? Who will define, refine, confine, design? Who will dominate? All struggles are essentially power struggles,\" Butler stated, \"and most are no more intellectual than two rams knocking their heads together.\" Butler's writing is courageous, stimulating and infused with a rare purity of intention. Crushingly, she died at the height of her powers. [Bloodchild and Other Stories][2] is a good place to begin discovering her work.\r\n\r\n\r\n  [1]: http://www.guardian.co.uk/books/2011/may/14/science-fiction-authors-choice\r\n  [2]: http://openlibrary.org/works/OL35621W/Bloodchild_and_other_stories",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "June 22, 1947",
+    "personal_name": "Octavia E. Butler",
+    "remote_ids": {
+        "viaf": "34453955",
+        "wikidata": "Q239739",
+        "isni": "0000000121272003",
+        "amazon": "B000AQ1SQE",
+        "storygraph": "009e05c0-ca93-4527-87f5-d9660fe7dac0",
+        "librarything": "butleroctaviae"
+    },
+    "source_records": [
+        "amazon:1511338466",
+        "amazon:0792746716",
+        "amazon:1664411615",
+        "bwb:9781453265437",
+        "bwb:9781598536751",
+        "bwb:9781453271759",
+        "bwb:9781737277583",
+        "amazon:8416205515",
+        "amazon:2846261245",
+        "promise:bwb_daily_pallets_2023-10-05:O9-AZX-162",
+        "bwb:9781035410088"
+    ],
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-19T12:56:25.953502"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "alternate_names": [
+        "Deborah E. Harkness"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        8060488
+    ],
+    "key": "/authors/OL236272A",
+    "birth_date": "1965",
+    "remote_ids": {
+        "viaf": "117039140",
+        "wikidata": "Q2541295",
+        "isni": "0000000114804737",
+        "amazon": "B001IO8EOQ",
+        "goodreads": "3849415",
+        "lc_naf": "n98074390",
+        "librarything": "harknessdeborahe",
+        "opac_sbn": "MILV235049",
+        "storygraph": "a7ef6ee8-f32a-42da-82ba-a6b5f2f36953",
+        "bookbrainz": "fa67008a-52eb-47ee-b511-ab7bb989b227",
+        "imdb": "nm3894489",
+        "gnd": "138703817"
+    },
+    "personal_name": "Deborah E. Harkness",
+    "name": "Deborah Harkness",
+    "links": [
+        {
+            "title": "Author's website",
+            "url": "https://deborahharkness.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-12-10T08:18:34.835893"
+    }
+}

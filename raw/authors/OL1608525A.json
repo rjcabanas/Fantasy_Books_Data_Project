@@ -1,0 +1,23 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Emily Drake is one of the pseudonyms of Rhondi Vilott Salsitz."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-02-20T11:03:18.213426"
+    },
+    "latest_revision": 3,
+    "name": "Emily Drake",
+    "key": "/authors/OL1608525A",
+    "personal_name": "Emily Drake",
+    "birth_date": "1949",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

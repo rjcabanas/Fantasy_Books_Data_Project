@@ -1,0 +1,33 @@
+{
+    "key": "/authors/OL7170981A",
+    "bio": {
+        "type": "/type/text",
+        "value": "April Genevieve Tucholke is the author of Seven Endless Forests, The Boneless Mercies, Between the Devil and the Deep Blue Sea, Between the Spark and the Burn, and Wink Poppy Midnight. Her books have been published in sixteen countries, and have received ten starred reviews. They have been selected for the Junior Library Guild, Kids' Indie Next picks, and YALSA Teens Top Ten. When she's not writing, April likes walking in the woods, exploring abandoned houses, and drinking expensive coffee. She currently resides in the Pacific Northwest with her husband.\r\n([source][1])\r\n\r\n\r\n  [1]: https://www.apriltucholke.com/"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-12T18:43:38.886351"
+    },
+    "latest_revision": 3,
+    "name": "April Genevieve Tucholke",
+    "links": [
+        {
+            "url": "https://www.apriltucholke.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "apriltucholke.com"
+        }
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2013-09-27T22:33:01.479081"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "APRIL TUCHOLKE"
+    ],
+    "revision": 3
+}

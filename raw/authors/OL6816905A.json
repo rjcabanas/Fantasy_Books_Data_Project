@@ -1,0 +1,17 @@
+{
+    "name": "E. L Arch",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T21:29:24.276538"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T21:29:24.276538"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6816905A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

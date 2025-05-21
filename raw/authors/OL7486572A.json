@@ -1,0 +1,17 @@
+{
+    "name": "A.R. Kahler",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-26T01:40:03.555782"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-26T01:40:03.555782"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7486572A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

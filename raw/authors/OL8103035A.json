@@ -1,0 +1,17 @@
+{
+    "name": "Ellie O'Neill",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-05T19:37:53.004708"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-05T19:37:53.004708"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8103035A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

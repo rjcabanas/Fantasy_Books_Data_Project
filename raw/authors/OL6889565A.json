@@ -1,0 +1,17 @@
+{
+    "name": "C. Alexander London",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-02-21T19:55:42.724434"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-02-21T19:55:42.724434"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6889565A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,58 @@
+{
+    "key": "/authors/OL7168709A",
+    "bio": "Born and raised in southern California where flowers bloom year-round, Jill K. Sayre loves plants and gardening. She grew up in a small town, just outside of Los Angeles, full of beautiful Arts & Crafts homes, with her antique-collecting parents. While attending UCLA, Jill modeled and received her degree in Art. She continued on to receive her Teaching Credentials in Elementary Education, specializing in gifted learners. \r\n\r\nHer husband\u2019s work moved them, and their three children, to Dallas . . . twice. She fell in love with the beauty found in Highland Park, Texas where she resides today. Her first book, The Fairies of Turtle Creek, is woven with the things she loves, like nature, science, art, folklore, and the early 1900\u2019s. Jill illustrated the beginning of every chapter and much of the story takes place along Turtle Creek, where she often walks her vizsla dog, Bella. \r\n\r\nJill currently works at an acting college, instructing teens in the areas of acting, modeling, and etiquette. She loves to help other writers and speaks on \u201cWant to Write a Book? Let\u2019s Get Started!,\u201d and assists parents by sharing her educational strategies when she speaks about \u201cHow to Help Your Child Become a Better Reader.\u201d She is active in her local chapter of SCBWI (Society of Children\u2019s Book Writers and Illustrators), is the founder of a Dallas writer\u2019s salon, \u201cThe Little Read Writing Hood\u201d ([www.thelittlereadwritinghood.com][2]), and is co-chair of the 18th annual Highland Park Literary Festival ([www.hplitfest.com][3]). \r\n\r\nShe is currently working on a different trilogy, the first book of which is called, \u201cGrotesque,\u201d with gargoyles that come to life. There are also plans for a second book in the Fairies series, which is set in Maui, Hawaii with sea sprites, mermaids, and the Hawaiian fairies called menehunes! To learn more about Jill and her books, go to [www.jillksayre.com][4].\r\n\r\n\r\n  [2]: http://www.thelittlereadwritinghood.com\r\n  [3]: http://www.hplitfest.com\r\n  [4]: http://jillksayre.com",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-11-21T22:30:41.297475"
+    },
+    "latest_revision": 5,
+    "name": "Jill K. Sayre",
+    "links": [
+        {
+            "url": "http://www.thefairiesofturtlecreek.com",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Official Fairies of Turtle Creek Website"
+        },
+        {
+            "url": "http://www.wisdomhousebooks.com",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Publisher's Website"
+        },
+        {
+            "url": "https://www.facebook.com/FairiesOfTurtleCreek",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's Facebook Page"
+        },
+        {
+            "url": "https://www.twitter.com/jillksayre",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's Twitter Page"
+        },
+        {
+            "url": "http://www.thefairytrail.net/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's Blog"
+        }
+    ],
+    "photos": [
+        7266102
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2013-03-02T16:38:57.845807"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

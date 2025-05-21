@@ -1,0 +1,31 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Swedish illustrator and writer of children's books, most famous for <i>Pettson and Findus</i>."
+    },
+    "name": "Sven Nordqvist",
+    "personal_name": "Sven Nordqvist",
+    "photos": [
+        6015867
+    ],
+    "key": "/authors/OL478901A",
+    "birth_date": "1946",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "37038982",
+        "wikidata": "Q962322",
+        "isni": "0000000121282850"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T15:51:26.944254"
+    }
+}

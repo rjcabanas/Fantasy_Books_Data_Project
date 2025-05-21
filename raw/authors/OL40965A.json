@@ -1,0 +1,41 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Nancy Holder is an American fantasy novelist, best known for her media tie-in novels. She has written many novels and short stories set in the Buffy the Vampire Slayer, Angel, Sabrina the Teenage Witch, and Smallville universes, as well as many original novels and novel series.  She is a four-time winner of the Bram Stoker Award from the Horror Writers Association for her work in supernatural fiction.\r\n\r\nShe lives in San Diego with her husband Wayne and daughter Belle. \r\n\r\n(Source: Fantastic Fiction)"
+    },
+    "name": "Nancy Holder",
+    "personal_name": "Nancy Holder",
+    "title": "FRSA",
+    "alternate_names": [
+        "Nancy Lindsay Jones Holder",
+        "Nancy L. Holder",
+        "Laurel Chandler"
+    ],
+    "photos": [
+        7319690,
+        3367124,
+        6706800,
+        7005421,
+        6450768
+    ],
+    "key": "/authors/OL40965A",
+    "birth_date": "August 29 1953",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "7510274",
+        "wikidata": "Q6962746",
+        "isni": "0000000114874428"
+    },
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T14:09:30.605365"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_records": [
+        "amazon:419861475X"
+    ],
+    "name": "Hayao Miyazaki",
+    "personal_name": "Hayao Miyazaki",
+    "links": [
+        {
+            "title": "needs-merge-openlibrary",
+            "url": "https://openlibrary.org/works/OL724022A",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "alternate_names": [
+        "\u5bae\u5d0e \u99ff",
+        "Hayao Miyazaki.",
+        "Miyazaki Hayao"
+    ],
+    "photos": [
+        8751280
+    ],
+    "birth_date": "1941",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL724022A",
+    "remote_ids": {
+        "viaf": "85117053",
+        "wikidata": "Q55400",
+        "isni": "000000012096522X"
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-31T00:49:51.011493"
+    }
+}

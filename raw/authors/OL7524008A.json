@@ -1,0 +1,19 @@
+{
+    "name": "Fink, Joseph (Fiction writer)",
+    "personal_name": "Fink, Joseph",
+    "title": "(Fiction writer)",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:45:16.974998"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:45:16.974998"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7524008A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Adam Shaughnessy",
+    "personal_name": "Adam Shaughnessy",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-08-01T05:00:27.737130"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-08-01T05:00:27.737130"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7418283A",
+    "birth_date": "1973",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

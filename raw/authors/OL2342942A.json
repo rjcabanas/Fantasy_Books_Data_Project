@@ -1,0 +1,29 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "William Alvin Bowen"
+    },
+    "name": "William Bowen",
+    "personal_name": "William Bowen",
+    "death_date": "18 September 1937",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-09T05:14:22.686755"
+    },
+    "latest_revision": 6,
+    "key": "/authors/OL2342942A",
+    "birth_date": "15 May 1877",
+    "revision": 6,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "38965499",
+        "wikidata": "Q19873778",
+        "isni": "0000000046346550"
+    }
+}

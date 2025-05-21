@@ -1,0 +1,20 @@
+{
+    "name": "Chin-s\u014fk Ch\u014fn",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-18T07:29:53.094258"
+    },
+    "personal_name": "Chin-s\u014fk Ch\u014fn",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-18T07:29:53.094258"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6742907A",
+    "birth_date": "1977",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 34929794,
+    "revision": 1
+}

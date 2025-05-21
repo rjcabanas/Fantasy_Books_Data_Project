@@ -1,0 +1,37 @@
+{
+    "source_records": [
+        "bwb:9780575095007",
+        "bwb:9781558613140",
+        "amazon:4900997048",
+        "promise:bwb_daily_pallets_2021-04-28"
+    ],
+    "personal_name": "Joanna Russ",
+    "birth_date": "22 February 1937",
+    "name": "Joanna Russ",
+    "alternate_names": [
+        "Joanna, Russ",
+        "Joanna Ruth Russ",
+        "Joanna RUSS",
+        "Russ Joanna"
+    ],
+    "key": "/authors/OL539879A",
+    "remote_ids": {
+        "viaf": "109024489",
+        "wikidata": "Q265270",
+        "isni": "0000000121472216"
+    },
+    "death_date": "29 April 2011",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-19T11:54:37.724259"
+    }
+}

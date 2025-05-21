@@ -1,0 +1,39 @@
+{
+    "name": "Nicholas Grabowsky",
+    "bio": {
+        "type": "/type/text",
+        "value": "Nicholas Grabowsky\u2019s novels of horror/fantasy, both as himself and as Nicholas Randers, have generated worldwide acclaim for over two decades and praised by many of today\u2019s most popular horror gurus in the literary world.  He began his career in traditional publishing houses with a series of brisk sellers in mass market paperback horror, and the last ten years have seen him hailed by many as a mentor and advocate to the smaller presses, which has become to him a passion.  \r\nHis body of work includes the award-winning macabre aliens-among-us epic The Everborn, The Rag Man, Pray Serpent\u2019s Prey, Halloween IV (and its special edition), Diverse Tales, Reads & Reviews and The Wicked Haze, Sweet Dreams Lady Moon, numerous anthologies and magazine articles, Shocker II for Wes Craven (though never produced), with projects extending to screenplays, poetry, songs, film, and a wide variety of short fiction and nonfiction since the 1980\u2019s.  \r\nHe\u2019s a veteran special guest at numerous genre conventions including Fangoria, Horrorfind, and others throughout the U.S. and Canada, and makes appearances and signings across the United States.  He has been, in the limelight as a radical gospel preacher right out of high school and in the following years a rock vocalist, teacher, lecturer and activist, editor, publisher and founder of the Sacramento-based Diverse Media small press, which has recently blossomed into the subdivisions of Black Bed Sheet Press, which publishes local talent, and Black Bed Sheet Productions, which produces independent film.  \r\nCurrently, Nicholas is at work with numerous anthologies, graphic novels and comic books, the vampire epic Red Afterworld, the highly anticipated Red Wet Dirt collection of stories and inspired music, an Everborn sequel and the novel The Downwardens. His independent film projects include the upcoming slasher creature feature Cutting Edges, as well as co-writing the independent film Into the Basement, for Triad Pictures.  For more on the author and his works, visit www.downwarden.com, the official site of all things Grabowsky."
+    },
+    "photograph": "/static/files//8/OL3024958A_photograph_1221009312389008.jpg",
+    "entity_type": "Author, screenwriter",
+    "alternate_names": [
+        "Nicholas Randers"
+    ],
+    "photos": [
+        3364017
+    ],
+    "location": "Sacramento, CA area",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "https://www.downwarden.com",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL3024958A",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T06:33:27.187047"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-22T23:12:25.056441"
+    }
+}

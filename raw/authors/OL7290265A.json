@@ -1,0 +1,17 @@
+{
+    "name": "Eric Colossal",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-07-21T11:54:43.131062"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-07-21T11:54:43.131062"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7290265A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

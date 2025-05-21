@@ -1,0 +1,17 @@
+{
+    "name": "Kendra Merritt",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-06T17:48:05.700751"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-12-06T17:48:05.700751"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7770061A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

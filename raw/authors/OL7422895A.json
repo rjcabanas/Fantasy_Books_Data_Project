@@ -1,0 +1,29 @@
+{
+    "name": "Yoshitoki Oima",
+    "alternate_names": [
+        "Yoshitoki \u014cima",
+        "\u5927\u4eca \u826f\u6642"
+    ],
+    "key": "/authors/OL7422895A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14544005,
+        14544006,
+        14544009,
+        14544008,
+        14544007,
+        -1
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-10-07T23:48:57.232622"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-13T20:00:28.377976"
+    }
+}

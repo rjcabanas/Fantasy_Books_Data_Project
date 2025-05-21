@@ -1,0 +1,22 @@
+{
+    "key": "/authors/OL19637A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1953",
+    "name": "Bill Myers",
+    "personal_name": "Bill Myers",
+    "alternate_names": [
+        "MYERS,BILL"
+    ],
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-05-22T03:36:42.990724"
+    }
+}

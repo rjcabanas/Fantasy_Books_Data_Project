@@ -1,0 +1,22 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Beatriz Lerma naci\u00f3 en San Sebasti\u00e1n en 1975. Actualmente reside en C\u00e1diz. Se licenci\u00f3 en Ciencias de la Informaci\u00f3n y se traslad\u00f3 a Madrid para completar su formaci\u00f3n con un m\u00e1ster en Comunicaci\u00f3n Corporativa y Publicitaria. En esa ciudad realiz\u00f3 sus estudios de Arte Dram\u00e1tico y Direcci\u00f3n de Escena, y trabaj\u00f3 durante algunos a\u00f1os como actriz y como profesora de espa\u00f1ol. Su primer contacto con la escritura fue a trav\u00e9s del teatro, escribiendo varios mon\u00f3logos y obras infantiles. June Vagsto. Viaje a los Reinos del Norte es su primera novela, que ha sido declarada obra ganadora del Premio de Literatura Juvenil As de Picas 2010, convocado por Editorial Viceversa y PlayStation\u00ae"
+    },
+    "name": "Beatriz Lerma",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-11T08:28:00.002073"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-11T08:29:44.507547"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL7665766A",
+    "birth_date": "January 01, 1975",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Edith (Artist)",
+    "personal_name": "Edith",
+    "title": "(Artist)",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T06:17:36.607454"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T06:17:36.607454"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7535180A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

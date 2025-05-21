@@ -1,0 +1,85 @@
+{
+    "source_records": [
+        "amazon:8413621658",
+        "amazon:9124097012",
+        "amazon:9124135828",
+        "amazon:1838850759",
+        "amazon:989564518X",
+        "amazon:9124114235",
+        "amazon:9124131083"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Matt Haig",
+    "key": "/authors/OL1416857A",
+    "birth_date": "3 July 1975",
+    "personal_name": "Matt Haig",
+    "remote_ids": {
+        "isni": "0000000069975691",
+        "viaf": "223546310",
+        "wikidata": "Q926682",
+        "amazon": "B001IO8C1Q",
+        "bookbrainz": "11e95a59-c487-498c-af55-6b83d8eded21",
+        "goodreads": "76360",
+        "gnd": "131385755",
+        "imdb": "nm8546908",
+        "lc_naf": "n2004021970",
+        "librarything": "haigmatt-1",
+        "musicbrainz": "b78853f2-343a-4240-9740-7ea9f4288c65",
+        "storygraph": "cbf0ca35-bee4-452d-9329-83f5f6386483",
+        "inventaire": "wd:Q926682"
+    },
+    "photos": [
+        14852993,
+        14852992,
+        14852991,
+        14847975,
+        14847974
+    ],
+    "alternate_names": [
+        "Haig, Matt",
+        "Haig, M.",
+        "M. Haig"
+    ],
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.matthaig.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/h/matt-haig/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?111690",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/haig_matt",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 20,
+    "revision": 20,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-18T17:58:32.181505"
+    }
+}

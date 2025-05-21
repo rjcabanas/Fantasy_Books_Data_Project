@@ -1,0 +1,15 @@
+{
+    "name": "Gail Herman",
+    "personal_name": "Gail Herman",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-11 18:24:15.637912"
+    },
+    "key": "/authors/OL26471A",
+    "birth_date": "1959",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 67243,
+    "revision": 2
+}

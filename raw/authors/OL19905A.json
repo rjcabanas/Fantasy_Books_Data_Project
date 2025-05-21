@@ -1,0 +1,58 @@
+{
+    "name": "Piers Anthony",
+    "bio": {
+        "type": "/type/text",
+        "value": "Piers Anthony was born in Oxford, England.  When he was four years old, his family immigrated to the United States.  He graduated from Goddard College in Vermont in 1956, the year he met and married his wife, Carol Marble.  After working at odd jobs, he joined the U.S. Army in 1957 for steady income and medical insurance.  In 1958, he became a U.S. citizen.  He became an editor and cartoonist for the Battalion newspaper.  He left the army in 1959 and briefly taught public school before becoming a full-time writer.  Anthony currently lives with his wife on a tree farm which he owns in Florida."
+    },
+    "alternate_names": [
+        "Piers Anthony Jacob",
+        "Anthony Piers"
+    ],
+    "source_records": [
+        "bwb:9780722111994",
+        "bwb:9781497658103",
+        "amazon:3404240677",
+        "marc:marc_scms/20220805_ADAM_MARC_records.mrc:108094579:1208",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "amazon:0586213465",
+        "amazon:0586213473",
+        "promise:bwb_daily_pallets_2020-10-07"
+    ],
+    "photos": [
+        7241662,
+        5542028,
+        5542027
+    ],
+    "location": "Inverness, FL",
+    "remote_ids": {
+        "viaf": "59078045",
+        "wikidata": "Q559409",
+        "isni": "0000000110645564"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "6 August 1934",
+    "personal_name": "Piers Anthony",
+    "fuller_name": "Piers Anthony Dillingham Jacob",
+    "links": [
+        {
+            "url": "http://www.hipiers.com",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL19905A",
+    "latest_revision": 21,
+    "revision": 21,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T16:20:13.685641"
+    }
+}

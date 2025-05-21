@@ -1,0 +1,32 @@
+{
+    "name": "Adam Blade",
+    "key": "/authors/OL2704405A",
+    "alternate_names": [
+        "ADAM BLADE",
+        "Blade, Adam/ Tucker, Ezra (ILT)",
+        "Adam Blade (author)"
+    ],
+    "source_records": [
+        "bwb:9781408339909"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Adam Blade",
+    "remote_ids": {
+        "viaf": "64338385",
+        "isni": "0000000119506026",
+        "wikidata": "Q47123704"
+    },
+    "bio": "Adam Blade is the name for a small collective of authors who write the bestselling series Beast Quest, as well as Adam Blade\u2019s other series: Team Hero, Beast Quest: New Blood and Space Wars. Beast Quest has now sold over 11 million copies.",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-13T16:22:33.442114"
+    }
+}

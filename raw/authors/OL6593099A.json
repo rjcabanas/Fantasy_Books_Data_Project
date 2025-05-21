@@ -1,0 +1,25 @@
+{
+    "photos": [
+        10245424
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-07-10T18:15:13.246876"
+    },
+    "latest_revision": 4,
+    "name": "Duo Na",
+    "key": "/authors/OL6593099A",
+    "personal_name": "Duo Na",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T19:31:57.718715"
+    },
+    "alternate_names": [
+        "Duo Na",
+        "\u90a3\u591a"
+    ],
+    "revision": 4
+}

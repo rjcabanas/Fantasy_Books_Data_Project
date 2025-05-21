@@ -1,0 +1,29 @@
+{
+    "name": "Chris Riddell",
+    "personal_name": "Chris Riddell",
+    "remote_ids": {
+        "viaf": "9971208",
+        "wikidata": "Q711830",
+        "isni": "0000000121203470"
+    },
+    "alternate_names": [
+        "Chris. Riddell",
+        "Riddell Chris",
+        "Chris Riddell (author)",
+        "CHRIS RIDDELL"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL535666A",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-10T05:52:27.811247"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Robert Lawson",
+    "death_date": "1957",
+    "key": "/authors/OL812291A",
+    "alternate_names": [
+        "Robert. Lawson"
+    ],
+    "remote_ids": {
+        "isni": "0000000110249799",
+        "wikidata": "Q1153256",
+        "viaf": "37037479"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Robert Lawson",
+    "birth_date": "1892",
+    "photos": [
+        12446944
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Robert Lawson (October 4, 1892 \u2013 May 27, 1957) was an American writer and illustrator of children's books. He won the Caldecott Medal for his illustrations in They Were Strong and Good in 1941 and the Newbery award for his short story for Rabbit Hill in 1945."
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-14T18:37:31.685663"
+    }
+}

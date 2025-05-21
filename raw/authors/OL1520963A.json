@@ -1,0 +1,44 @@
+{
+    "name": "Dan Jolley",
+    "bio": {
+        "type": "/type/text",
+        "value": "American writer of children's fiction, comics, video games"
+    },
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dan_Jolley",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "http://www.danjolley.com",
+            "title": "Author's website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "personal_name": "Dan Jolley",
+    "birth_date": "1901",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "5160122",
+        "wikidata": "Q10263844",
+        "isni": "0000000109505150"
+    },
+    "key": "/authors/OL1520963A",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T15:55:22.629938"
+    }
+}

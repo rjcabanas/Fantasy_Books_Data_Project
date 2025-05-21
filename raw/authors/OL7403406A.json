@@ -1,0 +1,20 @@
+{
+    "name": "Muhammad Vandestra",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2017-11-15T22:48:53.547242"
+    },
+    "photos": [
+        8100288
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-11-25T19:52:36.064490"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL7403406A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

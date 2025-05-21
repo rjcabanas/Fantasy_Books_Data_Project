@@ -1,0 +1,17 @@
+{
+    "name": "K. L. Mitchell",
+    "key": "/authors/OL9385422A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-26T01:42:52.814610"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-26T01:42:52.814610"
+    }
+}

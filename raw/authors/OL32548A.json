@@ -1,0 +1,42 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Nancy springer",
+        "NANCY SPRINGER"
+    ],
+    "personal_name": "Nancy Springer",
+    "birth_date": "1948",
+    "key": "/authors/OL32548A",
+    "source_records": [
+        "amazon:9124105635"
+    ],
+    "name": "Nancy Springer",
+    "photos": [
+        14433772
+    ],
+    "remote_ids": {
+        "storygraph": "8331ce1e-4bf4-4a6e-8d45-6ef13f334974",
+        "amazon": "B001IQXJVW",
+        "goodreads": "22547",
+        "viaf": "41907010",
+        "wikidata": "Q3335610",
+        "isni": "0000000078324698",
+        "librarything": "springernancy"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "American author of fantasy, young adult literature, mystery, and science fiction"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-10T19:25:58.947409"
+    }
+}

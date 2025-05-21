@@ -1,0 +1,44 @@
+{
+    "key": "/authors/OL7411424A",
+    "bio": "Felicity Banks is a Canberra author specialising in fantasy and interactive fiction, including her Antipodean Queen fantasy steampunk series, which is also published by Odyssey Books. All her interactive fiction is listed under \"Felicity Banks\" at The Interactive Fiction Database and most of her interactive fiction can be read via an app. She writes about all her various pirates tales (some appropriate for children, some definitely not) at https://www.facebook.com/felicitybankspirates/ as well as sharing stories and images that appeal to the not-so-secret pirate within all of us. She met her husband at a pirate ball, and has two little pirates at home.",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-04-17T09:03:45.639974"
+    },
+    "latest_revision": 5,
+    "name": "Felicity Banks",
+    "links": [
+        {
+            "url": "https://www.facebook.com/felicitybankspirates/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Facebook Author Link"
+        },
+        {
+            "url": "http://odysseybooks.com.au/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Publisher Website"
+        },
+        {
+            "url": "https://www.smashwords.com/profile/view/LouiseCurtis",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Smashwords Author Link"
+        }
+    ],
+    "photos": [
+        8160273
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-04-17T08:18:30.586234"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

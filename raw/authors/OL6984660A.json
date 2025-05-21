@@ -1,0 +1,18 @@
+{
+    "name": "Ben Chandler",
+    "personal_name": "Ben Chandler",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-10-20T09:53:09.720469"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-20T09:53:09.720469"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6984660A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

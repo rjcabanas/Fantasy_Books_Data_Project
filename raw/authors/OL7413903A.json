@@ -1,0 +1,25 @@
+{
+    "name": "Kate Ormand",
+    "personal_name": "Kate Ormand",
+    "key": "/authors/OL7413903A",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Kate Louise"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "**Kate Ormand** is a YA writer represented by Isabel Atherton at Creative Authors Ltd. She lives in the UK with her family, her partner, and a cocker spaniel called Freddie. She recently graduated from university with a first class BA (Hons) degree in fine art painting. It was during this course that Kate discovered her love of reading YA books, prompting her to try a new creative angle and experiment with writing. Kate is also a member of an online group of published writers and illustrators called Author Allsorts (authorallsorts.wordpress.com). And she writes children\u2019s picture books under the name Kate Louise."
+    },
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-05-24T06:01:41.730119"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-02-01T20:39:34.187749"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Berlie Doherty",
+    "bio": {
+        "type": "/type/text",
+        "value": "Berlie Doherty is an English novelist, poet, playwright and screenwriter. She is best known for children's books, for which she has twice won the Carnegie Medal. She has also written novels for adults, plays for theatre and radio, television series and libretti for children's opera."
+    },
+    "birth_date": "1943",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL39706A",
+    "alternate_names": [
+        "berlie doherty",
+        "BERLIE DOHERTY",
+        "Jane Ray (illustrator) Berlie Doherty"
+    ],
+    "remote_ids": {
+        "wikidata": "Q276472",
+        "isni": "0000000122785361",
+        "viaf": "39406261"
+    },
+    "personal_name": "Berlie Doherty",
+    "source_records": [
+        "amazon:2081619644",
+        "bwb:9781846805981",
+        "promise:bwb_daily_pallets_2022-11-11:KR-552-351",
+        "bwb:9781849398961"
+    ],
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-16T06:58:29.066590"
+    }
+}

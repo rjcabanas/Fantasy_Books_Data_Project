@@ -1,0 +1,26 @@
+{
+    "key": "/authors/OL369568A",
+    "personal_name": "Melanie Rawn",
+    "name": "Melanie Rawn",
+    "remote_ids": {
+        "viaf": "79396067",
+        "wikidata": "Q537898",
+        "isni": "0000000116787686"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "MELANIE RAWN"
+    ],
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-03T20:41:29.988614"
+    }
+}

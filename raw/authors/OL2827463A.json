@@ -1,0 +1,34 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "https://en.wikipedia.org/wiki/Catherynne_M._Valente"
+    },
+    "name": "Catherynne M. Valente",
+    "personal_name": "Catherynne M. Valente",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "alternate_names": [
+        "Catherynne Valente"
+    ],
+    "photos": [
+        9244355
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:00:33.400337"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL2827463A",
+    "birth_date": "5 May 1979",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "85792081",
+        "wikidata": "Q859065",
+        "isni": "0000000079106465"
+    }
+}

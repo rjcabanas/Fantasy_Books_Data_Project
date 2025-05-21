@@ -1,0 +1,36 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Australian academic and children's writer known for picture books",
+    "personal_name": "Mem Fox",
+    "name": "Mem Fox",
+    "source_records": [
+        "amazon:0593304012",
+        "amazon:1862910642",
+        "ia:tenlittlefingers0000unse",
+        "amazon:0440833973",
+        "bwb:9788484643838",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-01-20",
+        "promise:bwb_daily_pallets_2023-08-16:O9-AHL-612",
+        "promise:bwb_daily_pallets_2024-02-27:O9-BTC-153"
+    ],
+    "key": "/authors/OL50556A",
+    "remote_ids": {
+        "viaf": "110441290",
+        "wikidata": "Q122736",
+        "isni": "0000000090617821"
+    },
+    "birth_date": "1946",
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-21T16:01:08.413906"
+    }
+}

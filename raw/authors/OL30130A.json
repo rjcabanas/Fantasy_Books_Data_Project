@@ -1,0 +1,45 @@
+{
+    "source_records": [
+        "ia:littleredcartore0000fren",
+        "bwb:9780688103330",
+        "amazon:6052955503",
+        "amazon:9759917149",
+        "bwb:9780008516673",
+        "bwb:9781406376319",
+        "bwb:9781447939665",
+        "promise:bwb_daily_pallets_2023-05-24:KO-565-099",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-02-24",
+        "promise:bwb_daily_pallets_2020-11-19",
+        "amazon:6050918597",
+        "promise:bwb_daily_pallets_2020-07-30"
+    ],
+    "personal_name": "Vivian French",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Vivian French",
+    "key": "/authors/OL30130A",
+    "birth_date": "1945",
+    "alternate_names": [
+        "Partis French",
+        "Vivivan French",
+        "FRENCH,VIVIAN",
+        "Vivian FRENCH",
+        "French, Vivan",
+        "Alison Bartlett and Vivien french"
+    ],
+    "remote_ids": {
+        "viaf": "24669557"
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-10T18:04:38.305713"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "The Walt Disney Company",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-09-03T04:15:46.341634"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-09-03T04:15:46.341634"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7626388A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

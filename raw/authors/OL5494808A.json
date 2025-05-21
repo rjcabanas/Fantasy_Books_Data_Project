@@ -1,0 +1,18 @@
+{
+    "name": "H. M. Bouwman",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-17T15:10:30.858397"
+    },
+    "personal_name": "H. M. Bouwman",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-17T15:10:30.858397"
+    },
+    "key": "/authors/OL5494808A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 28110157,
+    "revision": 1
+}

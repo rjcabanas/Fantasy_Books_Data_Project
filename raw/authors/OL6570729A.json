@@ -1,0 +1,19 @@
+{
+    "name": "H\u014dko Takadono",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-17T21:29:43.315037"
+    },
+    "personal_name": "H\u014dko Takadono",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-02-17T21:29:43.315037"
+    },
+    "key": "/authors/OL6570729A",
+    "birth_date": "1955",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33724461,
+    "revision": 1
+}

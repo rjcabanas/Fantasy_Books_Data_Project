@@ -1,0 +1,36 @@
+{
+    "remote_ids": {
+        "viaf": "79558451",
+        "isni": "0000000114494337",
+        "wikidata": "Q1973897"
+    },
+    "photos": [
+        12667799
+    ],
+    "key": "/authors/OL1435778A",
+    "birth_date": "1981",
+    "name": "Ned Vizzini",
+    "death_date": "19 December 2013",
+    "personal_name": "Ned Vizzini",
+    "alternate_names": [
+        "NED VIZZINI"
+    ],
+    "source_records": [
+        "amazon:9759999277",
+        "amazon:0007490143",
+        "bwb:9780007465866"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-10T17:26:02.970830"
+    }
+}

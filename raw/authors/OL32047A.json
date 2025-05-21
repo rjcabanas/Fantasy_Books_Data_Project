@@ -1,0 +1,25 @@
+{
+    "personal_name": "Nancy Willard",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:24:12.654678"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL32047A",
+    "remote_ids": {
+        "viaf": "106952961",
+        "wikidata": "Q15488995",
+        "isni": "0000000081721491"
+    },
+    "name": "Nancy Willard",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "death_date": "2017",
+    "birth_date": "1936",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

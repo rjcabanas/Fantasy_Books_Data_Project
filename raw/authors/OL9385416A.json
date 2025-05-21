@@ -1,0 +1,17 @@
+{
+    "name": "Jen Lawrence",
+    "key": "/authors/OL9385416A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-26T01:33:32.157078"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-26T01:33:32.157078"
+    }
+}

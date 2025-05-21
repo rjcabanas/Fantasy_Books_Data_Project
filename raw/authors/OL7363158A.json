@@ -1,0 +1,17 @@
+{
+    "name": "Clo\u00e9 DUC",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2017-01-08T13:04:43.400920"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-01-08T13:04:43.400920"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7363158A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

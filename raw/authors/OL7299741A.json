@@ -1,0 +1,17 @@
+{
+    "name": "J. P. Buxton",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T02:35:51.891344"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T02:35:51.891344"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7299741A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,25 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Sherry Thomas is one of the most acclaimed romance authors working today. Her books regularly receive starred reviews from trade publications and are frequently found on best-of-the-year lists. She is also a two-time winner of Romance Writers of America's prestigious RITA\u00ae Award. \r\n\r\nEnglish is Sherry's second language\u2014she has come a long way from the days when she made her laborious way through Rosemary Roger's Sweet Savage Love with an English-Chinese dictionary. She enjoys digging down to the emotional core of stories. And when she is not writing, she thinks about the zen and zaniness of her profession, plays computer games with her sons, and reads as many fabulous books as she can find."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-08-11T15:57:17.160099"
+    },
+    "latest_revision": 4,
+    "name": "Sherry Thomas",
+    "key": "/authors/OL954923A",
+    "personal_name": "Sherry Thomas",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        7260482
+    ],
+    "revision": 4
+}

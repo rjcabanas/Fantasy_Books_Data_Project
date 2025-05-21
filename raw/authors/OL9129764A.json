@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Marita Phillips",
+    "personal_name": "Marita Phillips",
+    "key": "/authors/OL9129764A",
+    "source_records": [
+        "ia:dreamdealer0000phil"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-26T17:06:39.428959"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-26T17:06:39.428959"
+    }
+}

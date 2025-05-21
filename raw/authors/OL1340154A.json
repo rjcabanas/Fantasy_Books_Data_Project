@@ -1,0 +1,36 @@
+{
+    "personal_name": "Norman Hunter",
+    "alternate_names": [
+        "Norman, Hunter",
+        "Norman HUNTER"
+    ],
+    "photos": [
+        6668623
+    ],
+    "key": "/authors/OL1340154A",
+    "name": "Norman Hunter",
+    "birth_date": "1899",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q967474",
+        "isni": "0000000081060275",
+        "viaf": "27192261"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "author and magician"
+    },
+    "death_date": "1995",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-03T21:31:40.255920"
+    }
+}

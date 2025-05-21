@@ -1,0 +1,19 @@
+{
+    "name": "V\u00edctor Panicello",
+    "personal_name": "V\u00edctor Panicello",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-20T00:13:58.149715"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-20T00:13:58.149715"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7615601A",
+    "birth_date": "1963",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

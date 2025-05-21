@@ -1,0 +1,41 @@
+{
+    "name": "Alison Goodman",
+    "personal_name": "Alison Goodman",
+    "key": "/authors/OL1476966A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "goodreads": "88685",
+        "viaf": "79526850",
+        "isni": "0000000109195148",
+        "wikidata": "Q1921661"
+    },
+    "photos": [
+        12634378
+    ],
+    "birth_date": "1966",
+    "links": [
+        {
+            "title": "Official site",
+            "url": "https://www.alisongoodman.com.au/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Alison Goodman is an Australian science-fiction author."
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-17T03:16:07.469430"
+    }
+}

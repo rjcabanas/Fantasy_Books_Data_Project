@@ -1,0 +1,18 @@
+{
+    "name": "Kit Grindstaff",
+    "personal_name": "Kit Grindstaff",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-03-23T07:04:14.242513"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-03-23T07:04:14.242513"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7099520A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

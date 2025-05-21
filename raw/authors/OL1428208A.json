@@ -1,0 +1,15 @@
+{
+    "name": "Kathy MacMillan",
+    "personal_name": "Kathy MacMillan",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 19:36:52.095871"
+    },
+    "key": "/authors/OL1428208A",
+    "birth_date": "1975",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 4831912,
+    "revision": 2
+}

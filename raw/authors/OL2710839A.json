@@ -1,0 +1,25 @@
+{
+    "name": "DC Comics",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "alternate_names": [
+        "Inc. DC Comics",
+        "Dc Comics",
+        "Inc Dc comics",
+        "Editors of DC Comics",
+        "DC Comics DC Comics",
+        "Vertigo/DC Comics"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-11-17T19:36:49.518923"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL2710839A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

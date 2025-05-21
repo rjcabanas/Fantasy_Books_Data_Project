@@ -1,0 +1,77 @@
+{
+    "personal_name": "Sullivan, Michael J.",
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://michael-j-sullivan.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Blog",
+            "url": "https://www.riyria.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/s/michael-j-sullivan/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?130253",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/sullivan_michael_j",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL468684A",
+    "alternate_names": [
+        "Michael John Sullivan",
+        "MIchael J. Sullivan"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14852119
+    ],
+    "remote_ids": {
+        "amazon": "B002BOJ41O",
+        "goodreads": "2063919",
+        "isni": "0000000120335703",
+        "gnd": "104850350X",
+        "lc_naf": "n2010035170",
+        "librarything": "sullivanmichaelj-1",
+        "musicbrainz": "a151b729-b0a7-48c6-8103-95a633be2c0e",
+        "storygraph": "ebb34ff0-915e-4892-acd3-27d99bbd2af1",
+        "viaf": "122256791",
+        "wikidata": "Q6831515",
+        "inventaire": "wd:Q6831515"
+    },
+    "name": "Michael J. Sullivan",
+    "bio": "botanist",
+    "birth_date": "17 September 1961",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-22T11:15:02.803106"
+    }
+}

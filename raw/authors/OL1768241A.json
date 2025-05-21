@@ -1,0 +1,14 @@
+{
+    "name": "Betty Brock",
+    "personal_name": "Betty Brock",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-28 00:15:07.84567"
+    },
+    "key": "/authors/OL1768241A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 6211453,
+    "revision": 2
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bronwyn Eley",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-07-17T05:49:09.650921"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-07-17T05:49:09.650921"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8005970A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

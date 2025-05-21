@@ -1,0 +1,45 @@
+{
+    "name": "Fanni S\u00fct\u0151",
+    "key": "/authors/OL7545974A",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "title": "Official site",
+            "url": "http://inkmapsandmacarons.com/en/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://twitter.com/Fanni_Pumpkin",
+            "title": "Twitter",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": "Fanni S\u00fct\u0151 is a Hungarian writer, English teacher, blogger, and translator. She studied undergraduate and graduate studies at E\u00f6tv\u00f6s Lor\u00e1nd University, followed by a degree in children's literature from Roehampton University in London.",
+    "remote_ids": {
+        "goodreads": "7234686"
+    },
+    "birth_date": "1990",
+    "alternate_names": [
+        "Fann\u00e9lie S\u00fct\u0151",
+        "Fanni Suto"
+    ],
+    "photos": [
+        12619382
+    ],
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-06-03T02:03:16.232267"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-06T22:15:52.920724"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "K. J. Parker",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "alternate_names": [
+        "K.J. Parker"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-22T11:08:57.394730"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL3137978A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

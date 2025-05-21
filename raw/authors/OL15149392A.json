@@ -1,0 +1,58 @@
+{
+    "name": "Cameron Johnston",
+    "key": "/authors/OL15149392A",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Johnston, Cameron",
+        "Johnston, C.",
+        "C. Johnston"
+    ],
+    "remote_ids": {
+        "amazon": "B00F59G69A",
+        "goodreads": "6449118",
+        "lc_naf": "no2019013357",
+        "librarything": "johnstoncameron-1",
+        "storygraph": "93abc1ec-e23a-4b92-a94d-035a06c6f608",
+        "viaf": "81153288363532652448",
+        "wikidata": "Q120607011",
+        "inventaire": "wd:Q120607011"
+    },
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.cameronjohnston.net",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/j/cameron-johnston/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?227211",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14853435
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2025-03-20T06:30:58.289176"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-20T06:41:07.245361"
+    }
+}

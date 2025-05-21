@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Igor Vardunas",
+    "personal_name": "Igor Vardunas",
+    "key": "/authors/OL10714310A",
+    "source_records": [
+        "ia:metro2033ledjano0000vard"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-27T05:08:42.907600"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-27T05:08:42.907600"
+    }
+}

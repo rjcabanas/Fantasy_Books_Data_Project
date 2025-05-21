@@ -1,0 +1,26 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "Isobelle Carmody",
+    "key": "/authors/OL28567A",
+    "personal_name": "Isobelle Carmody",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5,
+    "alternate_names": [
+        "ISOBELLE CARMODY"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:24:16.950750"
+    },
+    "remote_ids": {
+        "viaf": "84024266",
+        "wikidata": "Q15515059",
+        "isni": "0000000109934692"
+    }
+}

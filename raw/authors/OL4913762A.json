@@ -1,0 +1,25 @@
+{
+    "remote_ids": {
+        "viaf": "57066661",
+        "wikidata": "Q1760899",
+        "isni": "0000000083851783"
+    },
+    "personal_name": "Mark Clifton",
+    "type": {
+        "key": "/type/author"
+    },
+    "death_date": "1963",
+    "name": "Mark Clifton",
+    "birth_date": "1906",
+    "key": "/authors/OL4913762A",
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-20T14:25:36.227659"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-01-09T14:25:28.963717"
+    }
+}

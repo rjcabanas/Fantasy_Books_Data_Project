@@ -1,0 +1,125 @@
+{
+    "alternate_names": [
+        "\u6625\u6a39 \u6751\u4e0a",
+        "HARUKI MURAKAMI",
+        "Haruki MURAKAMI",
+        "MURAKAMI HARUKI",
+        "Murakami Haruki",
+        "MURAKAMI Haruki",
+        "Haruki Murakami",
+        "\u0425\u0430\u0440\u0443\u043a\u0438 \u041c\u0443\u0440\u0430\u043a\u0430\u043c\u0438",
+        "\u6751\u4e0a, \u6625\u6811",
+        "\u6751\u4e0a\u6625\u6811",
+        "\ubb34\ub77c\uce74\ubbf8, \ud558\ub8e8\ud0a4",
+        "\ubb34\ub77c\uce74\ubbf8 \ud558\ub8e8\ud0a4",
+        "\u0647\u0627\u0631\u0648\u0643\u064a \u0645\u0648\u0631\u0627\u0643\u0627\u0645\u064a",
+        "\u0647\u0627\u0631\u0648\u06a9\u06cc \u0645\u0648\u0631\u0627\u06a9\u0627\u0645\u06cc",
+        "\u05d4\u05e8\u05d5\u05e7\u05d9 \u05de\u05d5\u05e8\u05e7\u05de\u05d9"
+    ],
+    "title": "Schriftsteller, Japan",
+    "birth_date": "12 January 1949",
+    "photos": [
+        14853905,
+        14853904,
+        14853903,
+        14853902,
+        14395586,
+        3368394,
+        6376111
+    ],
+    "source_records": [
+        "amazon:2298062137",
+        "amazon:842268912X",
+        "amazon:2264049537",
+        "amazon:5699587039",
+        "amazon:0385683162",
+        "amazon:8374959215",
+        "amazon:1860468098",
+        "amazon:1787302601",
+        "amazon:1846558352",
+        "amazon:2714460682",
+        "amazon:5040944675",
+        "amazon:226404473X",
+        "bwb:9780141902876",
+        "amazon:9876700731",
+        "amazon:9876701975",
+        "amazon:2264069112",
+        "amazon:9124114804",
+        "amazon:987670026X",
+        "amazon:6074210810",
+        "amazon:8377582694",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2023-03-20:W8-AQW-831",
+        "promise:bwb_daily_pallets_2023-08-01:P8-CEY-687",
+        "marc:marc_columbia/Columbia-extract-20221130-004.mrc:74912716:1080"
+    ],
+    "name": "\u6751\u4e0a\u6625\u6a39",
+    "remote_ids": {
+        "isni": "0000000121468778",
+        "goodreads": "3354",
+        "amazon": "B000AP7AFI",
+        "viaf": "108238901",
+        "wikidata": "Q134798",
+        "librarything": "murakamiharuki",
+        "gnd": "119037092",
+        "lc_naf": "n81152393",
+        "bookbrainz": "b6303a1c-a332-4fd4-825b-1f7689ffeedb",
+        "imdb": "nm1633142",
+        "inventaire": "wd:Q134798",
+        "musicbrainz": "b3a0e12e-71a0-454d-86e2-2c608bb4ffba",
+        "storygraph": "f4a9ac8f-eb7e-4fd3-b721-15e49dbf3aae"
+    },
+    "bio": "Haruki Murakami is a Japanese writer and translator. His works of fiction and non-fiction have garnered him critical acclaim, and he is the sixth recipient of the Franz Kafka Prize for his novel Kafka on the Shore. He is considered an important figure in postmodern literature, and The Guardian praised him as one of the \"world's greatest living novelists.\" ([Source][1].)\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/Haruki_Murakami",
+    "personal_name": "Murakami, Haruki",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL382524A",
+    "links": [
+        {
+            "title": "Official Website (by Penguin Random House)",
+            "url": "https://harukimurakami.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Encyclop\u00e6dia Britannica Author Entry",
+            "url": "https://www.britannica.com/biography/Haruki-Murakami",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/m/haruki-murakami/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?1863",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/murakami_haruki",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 46,
+    "revision": 46,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-22T06:45:55.850501"
+    }
+}

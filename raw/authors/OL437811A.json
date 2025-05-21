@@ -1,0 +1,28 @@
+{
+    "name": "Emily Rodda",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL437811A",
+    "remote_ids": {
+        "viaf": "103217830",
+        "wikidata": "Q2460840",
+        "isni": "0000000079805151"
+    },
+    "personal_name": "Emily Rodda",
+    "alternate_names": [
+        "Rodda, Emily",
+        "emily rodda",
+        "Rodda Emily"
+    ],
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-31T16:42:26.281263"
+    }
+}

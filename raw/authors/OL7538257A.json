@@ -1,0 +1,81 @@
+{
+    "birth_date": "23 September 1971",
+    "name": "Rebecca Roanhorse",
+    "remote_ids": {
+        "viaf": "8150645346110622835",
+        "gnd": "1190672855",
+        "lc_naf": "n2017054576",
+        "isni": "0000000497257485",
+        "amazon": "B0788YCRS2",
+        "goodreads": "15862877",
+        "bookbrainz": "7ed80267-8321-429a-936d-f0f7d075edad",
+        "librarything": "roanhorserebecca",
+        "wikidata": "Q56192533",
+        "inventaire": "wd:Q56192533",
+        "storygraph": "52103bca-c524-4c43-abab-c8b83d7210c6",
+        "imdb": "nm13245162"
+    },
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://rebeccaroanhorse.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/r/rebecca-roanhorse/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?243256",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/roanhorse_rebecca",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "alternate_names": [
+        "R. Roanhorse",
+        "Roanhorse, Rebecca",
+        "Roanhorse, R.",
+        "\u0420\u0435\u0431\u0435\u043a\u043a\u0430 \u0420\u043e\u0430\u043d\u0445\u043e\u0440\u0441"
+    ],
+    "source_records": [
+        "amazon:1781089477",
+        "amazon:9504969585",
+        "bwb:9781786186041",
+        "amazon:8412057600"
+    ],
+    "photos": [
+        14860717,
+        14860716,
+        11203228
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Rebecca Roanhorse is a NYTimes bestselling and Nebula, Hugo, and Locus Award-winning speculative fiction writer and the recipient of the 2018 Astounding (Campbell) Award for Best New Writer.\r\n\r\nRebecca has published multiple award-winning short stories and five novels, including two in The Sixth World Series, Star Wars: Resistance Reborn, Race to the Sun for the Rick Riordan imprint, and her latest novel, the epic fantasy Black Sun. She has also written for Marvel Comics and for television, and had projects optioned by Amazon Studios, Netflix, and Paramount TV.\r\n\r\nShe lives in Northern New Mexico with her husband, daughter, and pup. She drinks a lot of black coffee.",
+    "personal_name": "Rebecca Roanhorse",
+    "key": "/authors/OL7538257A",
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T08:33:11.820130"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-20T20:28:02.104197"
+    }
+}

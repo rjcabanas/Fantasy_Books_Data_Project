@@ -1,0 +1,26 @@
+{
+    "name": "Dev Ross",
+    "personal_name": "Dev Ross",
+    "key": "/authors/OL242622A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1968",
+    "bio": {
+        "type": "/type/text",
+        "value": "Dev Ross is an American screenwriter, children's book author, performer, director, and producer in theater, film, and television industries."
+    },
+    "photos": [
+        12725921
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-21T18:09:22.834969"
+    }
+}

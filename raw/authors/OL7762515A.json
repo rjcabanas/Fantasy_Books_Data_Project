@@ -1,0 +1,17 @@
+{
+    "name": "Tom Miller",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-11-22T20:56:06.281526"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-11-22T20:56:06.281526"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7762515A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

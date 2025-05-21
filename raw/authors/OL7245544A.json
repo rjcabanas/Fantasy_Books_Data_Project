@@ -1,0 +1,39 @@
+{
+    "birth_date": "7 November 1983",
+    "name": "Sabaa Tahir",
+    "remote_ids": {
+        "wikidata": "Q27063770",
+        "isni": "0000000436801918",
+        "viaf": "310612070"
+    },
+    "alternate_names": [
+        "SABAA TAHIR",
+        "Sabaa Tahir (author)",
+        "Tahir  Sabaa"
+    ],
+    "source_records": [
+        "bwb:9780593202364",
+        "amazon:1984837249"
+    ],
+    "photos": [
+        12194942
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Sabaa Tahir is a Pakistani-American young adult novelist best known for her New York Times-bestselling An Ember in the Ashes and its sequels.\r\n\r\nTwo of her novels, An Ember in the Ashes and A Torch Against the Night, were listed among Time Magazine's 100 Best Fantasy Books of All Time in 2020."
+    },
+    "key": "/authors/OL7245544A",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-09-22T10:33:49.943278"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-11T15:41:28.234735"
+    }
+}

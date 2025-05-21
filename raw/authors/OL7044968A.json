@@ -1,0 +1,18 @@
+{
+    "name": "Morgan Keyes",
+    "personal_name": "Morgan Keyes",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-12-07T09:54:20.828114"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-12-07T09:54:20.828114"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7044968A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

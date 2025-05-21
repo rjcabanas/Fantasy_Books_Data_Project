@@ -1,0 +1,37 @@
+{
+    "name": "Dan Wells",
+    "personal_name": "Dan Wells",
+    "key": "/authors/OL6761792A",
+    "birth_date": "4 March 1977",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "bookbrainz": "ce0fb829-4c2c-46c1-be34-02fc418a2568",
+        "musicbrainz": "f0e00197-4291-40cb-a448-c2f3c86f54c7",
+        "isni": "0000000119532363",
+        "viaf": "96782698",
+        "wikidata": "Q82349",
+        "lc_naf": "nb2009019550",
+        "goodreads": "2740668",
+        "librarything": "wellsdan",
+        "imdb": "nm7009590",
+        "gnd": "139225668",
+        "amazon": "B002S2VIBS",
+        "storygraph": "23d80553-81b1-41eb-9af6-9b0f132eb1a9"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "American novelist"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-11-24T15:51:37.094424"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-24T22:33:50.802146"
+    }
+}

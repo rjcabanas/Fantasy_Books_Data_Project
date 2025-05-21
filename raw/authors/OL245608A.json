@@ -1,0 +1,46 @@
+{
+    "alternate_names": [
+        "Ryder Windham (author)",
+        "RYDER WINDHAM",
+        "Windham, Ryder",
+        "Wallace, Daniel",
+        "Hidalgo, Pablo",
+        "Ryder Windham, Daniel wallace, Pablo Hidalgo",
+        "Wallace, Daniel, Windham, Ryder",
+        "Dan Wallace Ryder Windham",
+        "R. Windham",
+        "Windham Ryder"
+    ],
+    "photos": [
+        10887414
+    ],
+    "birth_date": "1964",
+    "bio": "Ryder Windham is an American science fiction author who has written more than 60 Star Wars books, including novels, comics, and reference books.",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:140534167X",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2020-12-14",
+        "amazon:8448039890",
+        "bwb:9780316240284",
+        "bwb:9798855146370"
+    ],
+    "key": "/authors/OL245608A",
+    "name": "Ryder Windham",
+    "personal_name": "Ryder Windham",
+    "remote_ids": {
+        "viaf": "74015526"
+    },
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-14T14:41:34.591583"
+    }
+}

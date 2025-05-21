@@ -1,0 +1,17 @@
+{
+    "name": "Alex Prentiss",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T23:26:45.381938"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T23:26:45.381938"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6817691A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Helen Harper",
+    "key": "/authors/OL2817845A",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "https://helenharper.co.uk",
+            "title": "Helen Harper\u2019s website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "remote_ids": {
+        "goodreads": "6875729"
+    },
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-12T19:31:56.152284"
+    }
+}

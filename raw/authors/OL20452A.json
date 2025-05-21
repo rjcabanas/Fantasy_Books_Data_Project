@@ -1,0 +1,88 @@
+{
+    "alternate_names": [
+        "Jayne Ann Castle Krentz",
+        "Jayne Castle",
+        "Jayne Taylor",
+        "Jayne Bentley",
+        "Stephanie James",
+        "Jayne Ann Krentz",
+        "Amanda Glass",
+        "Amanda Quick",
+        "krentz-jayne-ann",
+        "JAYNE ANN KRENTZ",
+        "Krentz Jayne Ann",
+        "KRENTZ JAYNE ANN",
+        "Jayne Ann KRENTZ",
+        "Jayne-Ann Krentz",
+        "Jayne Krentz",
+        "Jane Ann Krentz",
+        "Krentz",
+        "Stephanie (aka Jayne Ann Krentz, Jayne Castle, Jayne Bentley, Amanda Glass, Jayne Taylor, Amanda Quick) JAMES",
+        "STEPHANIE JAMES",
+        "quick-amanda",
+        "amanda-quick",
+        "Quick Amanda",
+        "krentz-jayne-ann-quick-amanda",
+        "Jayne Castle (Jayne Ann Krentz)",
+        "Castle, Jayne.",
+        "CASTLE,JAYNE",
+        "amanda Quick",
+        "AMANDA QUICK",
+        "Jayne",
+        "A. QUICK"
+    ],
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Amanda_Quick",
+            "title": "Wikipedia",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "http://www.severnhouse.com/author/Jayne+Ann+Krentz/9442",
+            "title": "Severn House Publishers",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "birth_date": "1948",
+    "source_records": [
+        "ia:defluisteringvan0000quic",
+        "ia:lesyeuxdelamour0000kren_y2s4",
+        "amazon:0739498657",
+        "bwb:9780748128846",
+        "ia:commeunpremierba0000jame",
+        "amazon:2290043982",
+        "ia:verruchteladyrom0000quic",
+        "bwb:9780349432281"
+    ],
+    "key": "/authors/OL20452A",
+    "bio": "Jayne Ann Krentz, n\u00e9e Jayne Castle is an American writer of romance novels. Krentz is the author of a string of New York Times bestsellers under seven different pseudonyms like \"Amanda Quick\".",
+    "name": "Jayne Ann Krentz",
+    "personal_name": "Amanda Quick",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        6457633,
+        6457621,
+        10620813,
+        6457629,
+        6457632,
+        7098798,
+        6457630,
+        6457625
+    ],
+    "latest_revision": 44,
+    "revision": 44,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-18T09:10:39.215810"
+    }
+}

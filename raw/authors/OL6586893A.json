@@ -1,0 +1,122 @@
+{
+    "source_records": [
+        "bwb:9781984820709"
+    ],
+    "key": "/authors/OL6586893A",
+    "alternate_names": [
+        "Robert Bennett",
+        "Bennett, Robert Jackson, 1984-....",
+        "\u0420\u043e\u0431\u044a\u0440\u0442 \u0414\u0436\u0430\u043a\u0441\u044a\u043d \u0411\u0435\u043d\u0435\u0442",
+        "\u0631\u0627\u0628\u0631\u062a \u062c\u06a9\u0633\u0648\u0646 \u0628\u0646\u062a",
+        "\u30ed\u30d0\u30fc\u30c8\u30fb\u30b8\u30e3\u30af\u30b9\u30f3\u30fb\u30d9\u30cd\u30c3\u30c8",
+        "\u30ed\u30d0\u30fc\u30c8\u30fb\u30b8\u30e3\u30af\u30bd\u30f3\u30fb\u30d9\u30cd\u30c3\u30c8",
+        "Bennett, Robert Jackson",
+        "\u0411\u0435\u043d\u043d\u0435\u0442\u0442, \u0420. \u0414. 1984- \u0420\u043e\u0431\u0435\u0440\u0442 \u0414\u0436\u0435\u043a\u0441\u043e\u043d",
+        "Robert Jackson Bennett American writer",
+        "\u0631\u0648\u0628\u0631\u062a \u062c\u0627\u0643\u0633\u0648\u0646 \u0628\u064a\u0646\u064a\u062a",
+        "ROBERT JACKSON BENNETT",
+        "Robert Jack Bennett"
+    ],
+    "remote_ids": {
+        "viaf": "78848290",
+        "isni": "0000000121408433",
+        "goodreads": "2916869",
+        "wikidata": "Q16198845"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Robert Jackson Bennett (born 1984) is an American writer of speculative fiction"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Robert Bennett",
+    "links": [
+        {
+            "title": "Official website",
+            "url": "https://www.robertjacksonbennett.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Encyclopedida of Science Fiction",
+            "url": "https://sf-encyclopedia.com/entry/bennett_robert_jackson",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fancyclopedia",
+            "url": "https://fancyclopedia.org/Robert_Jackson_Bennett",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction",
+            "url": "https://www.fantasticfiction.com/b/robert-jackson-bennett/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Speculative Fiction DB",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?130072",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robert_Jackson_Bennett",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Website",
+            "url": "https://www.robertjacksonbennett.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/b/robert-jackson-bennett/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?130072",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/bennett_robert_jackson",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14858136,
+        14852179
+    ],
+    "name": "Robert Jackson Bennett",
+    "birth_date": "22 Jun 1984",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T11:03:43.799758"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-12T18:23:29.265910"
+    }
+}

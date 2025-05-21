@@ -1,0 +1,38 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "American writer"
+    },
+    "name": "Jean Thesman",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Jean_Thesman",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "Jean Thesman",
+    "death_date": "21 January 2016",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:17:02.908203"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL32612A",
+    "birth_date": "1929",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "21086199",
+        "wikidata": "Q6171588",
+        "isni": "0000000063476381"
+    }
+}

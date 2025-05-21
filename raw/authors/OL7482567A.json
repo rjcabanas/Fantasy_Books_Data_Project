@@ -1,0 +1,17 @@
+{
+    "name": "Julia Crane",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-19T07:31:01.114026"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-19T07:31:01.114026"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7482567A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

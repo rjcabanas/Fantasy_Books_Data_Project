@@ -1,0 +1,27 @@
+{
+    "name": "Tom Waltz",
+    "key": "/authors/OL3105549A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14619666
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Tom Waltz is the co-writer (along with Kevin Eastman) of Teenage Mutant Ninja Turtles (IDW), the story for the video game Teenage Mutant Ninja Turtles: Mutants in Manhattan, After the Fire, The Last Fall, Children of the Grave, TMNT/Ghostbusters and TMNT/Ghostbusters 2. [source](https://turtlepedia.fandom.com/wiki/Tom_Waltz)"
+    },
+    "remote_ids": {
+        "viaf": "11776673"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-28T15:10:55.756105"
+    }
+}

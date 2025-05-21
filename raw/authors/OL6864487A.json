@@ -1,0 +1,32 @@
+{
+    "alternate_names": [
+        "RAINBOW ROWELL",
+        "Rainbow (Author) Rowell"
+    ],
+    "name": "Rainbow Rowell",
+    "photos": [
+        7308875
+    ],
+    "key": "/authors/OL6864487A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Rainbow Rowell writes books. Sometimes she writes about adults (ATTACHMENTS and LANDLINE). Sometimes she writes about teenagers (ELEANOR & PARK and FANGIRL). But she always writes about people who talk a lot. And people who feel like they're screwing up. And people who fall in love.\r\n\r\nWhen she's not writing, Rainbow is reading comic books, planning Disney World trips and arguing about things that don't really matter in the big scheme of things.\r\n\r\nShe lives in Nebraska with her husband and two sons.\r\n\r\nMore at rainbowrowell.com."
+    },
+    "personal_name": "Rainbow Rowell",
+    "source_records": [
+        "amazon:1250064899"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-12-04T09:05:46.034827"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-05-19T17:27:16.302997"
+    }
+}

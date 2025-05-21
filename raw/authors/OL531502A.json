@@ -1,0 +1,59 @@
+{
+    "source_records": [
+        "amazon:2290316857",
+        "bwb:9788418173066",
+        "amazon:0593497198",
+        "amazon:0385255853",
+        "bwb:9780099278245",
+        "promise:bwb_daily_pallets_2023-03-20:KS-227-795"
+    ],
+    "photos": [
+        7399365
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Diana Gabaldon",
+    "bio": {
+        "type": "/type/text",
+        "value": "Diana Jean Gabaldon Watkins grew up in Flagstaff, Arizona and is of Mexican-American and English descent. She has earned three degrees: a B.S. in Zoology, a M.S. in Marine Biology, and a Ph.D in Ecology. She currently lives in Scottsdale, Arizona. She writes Science Fiction & Fantasy, Historical Fiction, Romance.\r\n\r\nSource: Goodreads.com"
+    },
+    "links": [
+        {
+            "url": "http://www.dianagabaldon.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's site"
+        }
+    ],
+    "personal_name": "Diana Gabaldon",
+    "key": "/authors/OL531502A",
+    "birth_date": "1952",
+    "remote_ids": {
+        "viaf": "40164873",
+        "wikidata": "Q272492",
+        "isni": "0000000121293154"
+    },
+    "alternate_names": [
+        "Gerrold Watkins",
+        "Gabaldon, Diana",
+        "Diana Gabaldon (author)",
+        "diana gabaldon",
+        "D Gabaldon",
+        "Gabaldon Diana",
+        "DIANA GABALDON",
+        "Diana GABALDON",
+        "GABALDON DIANA"
+    ],
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-28T22:57:46.313776"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "wercwercwerc",
+    "key": "/authors/OL10345299A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-04-04T10:35:38.594765"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-04T10:35:38.594765"
+    }
+}

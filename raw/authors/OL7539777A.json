@@ -1,0 +1,19 @@
+{
+    "name": "Catherine Egan",
+    "personal_name": "Catherine Egan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T09:40:19.963089"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T09:40:19.963089"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7539777A",
+    "birth_date": "1976",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

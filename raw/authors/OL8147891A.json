@@ -1,0 +1,17 @@
+{
+    "name": "Robert Ford Campany Staff",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-16T06:47:45.944551"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-16T06:47:45.944551"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8147891A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

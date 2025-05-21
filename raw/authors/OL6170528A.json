@@ -1,0 +1,18 @@
+{
+    "name": "Angie Fox",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T07:44:47.000604"
+    },
+    "personal_name": "Angie Fox",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T07:44:47.000604"
+    },
+    "key": "/authors/OL6170528A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 31217393,
+    "revision": 1
+}

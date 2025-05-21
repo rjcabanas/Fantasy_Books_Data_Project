@@ -1,0 +1,14 @@
+{
+    "name": "Chip Kidd",
+    "personal_name": "Chip Kidd",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-29 20:14:10.226133"
+    },
+    "key": "/authors/OL548344A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1567328,
+    "revision": 2
+}

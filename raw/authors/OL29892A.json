@@ -1,0 +1,29 @@
+{
+    "alternate_names": [
+        "Andrea Pinkney",
+        "Bahni Turpin, S'Von Ringo and J. B. Adkins (Narrator) Andrea Davis Pinkney (Author)",
+        "Andrea D. Pinkney",
+        "DA, PINKNEY, Andrea",
+        "Andrea David Pinkney"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Andrea Davis Pinkney",
+    "key": "/authors/OL29892A",
+    "source_records": [
+        "bwb:9780593228166",
+        "amazon:1338627406"
+    ],
+    "personal_name": "Andrea Davis Pinkney",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:17:42.101760"
+    }
+}

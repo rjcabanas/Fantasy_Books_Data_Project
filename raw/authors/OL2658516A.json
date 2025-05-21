@@ -1,0 +1,28 @@
+{
+    "name": "Terry Jones",
+    "personal_name": "Jones, Terry",
+    "photos": [
+        6278552,
+        6278542
+    ],
+    "key": "/authors/OL2658516A",
+    "birth_date": "1942",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "111608130",
+        "wikidata": "Q166159",
+        "isni": "0000000109358410"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T16:04:53.557147"
+    }
+}

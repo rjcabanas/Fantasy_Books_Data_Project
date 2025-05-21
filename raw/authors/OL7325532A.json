@@ -1,0 +1,17 @@
+{
+    "name": "Michael J. Drexler",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T11:53:16.886323"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T11:53:16.886323"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7325532A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

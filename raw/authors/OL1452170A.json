@@ -1,0 +1,27 @@
+{
+    "bio": "Daisy Meadows is the pseudonym used for the writers of the [*Rainbow Magic*](https://openlibrary.org/collections/Rainbow_Magic), *Unicorn Magic*, and *Magic Animal Friends* children's series. and we had fun reading those books",
+    "key": "/authors/OL1452170A",
+    "name": "Daisy Meadows",
+    "remote_ids": {
+        "isni": "0000000080993663",
+        "viaf": "19962804",
+        "wikidata": "Q1157698"
+    },
+    "source_records": [
+        "ia:rubicrvenavila0000mead",
+        "amazon:0545426022"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 21,
+    "revision": 21,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-10T13:04:05.616785"
+    }
+}

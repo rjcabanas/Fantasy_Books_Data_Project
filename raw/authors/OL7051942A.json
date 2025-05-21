@@ -1,0 +1,21 @@
+{
+    "personal_name": "Susan Dennard",
+    "key": "/authors/OL7051942A",
+    "name": "Susan Dennard",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "susan dennard"
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-12-28T11:08:58.040158"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-30T00:14:32.558755"
+    }
+}

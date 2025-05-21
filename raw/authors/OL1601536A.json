@@ -1,0 +1,56 @@
+{
+    "personal_name": "Troy Denning",
+    "remote_ids": {
+        "viaf": "265475481",
+        "wikidata": "Q356429",
+        "isni": "0000000109395991"
+    },
+    "source_records": [
+        "amazon:1508264198"
+    ],
+    "alternate_names": [
+        "Denning, Troy.",
+        "Denning T",
+        "TROY DENNING",
+        "denning-troy"
+    ],
+    "key": "/authors/OL1601536A",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Troy_Denning",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia (English)"
+        },
+        {
+            "url": "http://de.wikipedia.org/wiki/Troy_Denning",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia (Deutsch)"
+        }
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Troy Denning (born 1958) is a fantasy and science fiction author and game designer, best known for his works on \u201cForgotten Realms\u201d and \u201cStar Wars\u201d. Before writing, he was a Game-Devoloper. He also wrote under the pseudonym \u201cRichard Awlison\u201d."
+    },
+    "photos": [
+        6675083
+    ],
+    "birth_date": "1958",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Troy Denning",
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-18T19:51:28.469237"
+    }
+}

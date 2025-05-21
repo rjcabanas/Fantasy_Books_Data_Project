@@ -1,0 +1,18 @@
+{
+    "name": "Katherine Catmull",
+    "personal_name": "Katherine Catmull",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-05-30T10:22:05.581915"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-05-30T10:22:05.581915"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7132568A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

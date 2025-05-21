@@ -1,0 +1,60 @@
+{
+    "birth_date": "2 February 1940",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Thomas M. Disch",
+    "death_date": "4 July 2008",
+    "source_records": [
+        "amazon:0722162006",
+        "amazon:0080070566",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "remote_ids": {
+        "wikidata": "Q708581"
+    },
+    "personal_name": "Disch, Thomas M.",
+    "photos": [
+        7081792
+    ],
+    "links": [
+        {
+            "url": "http://www.fantasticfiction.co.uk/d/thomas-m-disch/",
+            "title": "Fantastic Fiction",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "http://en.wikipedia.org/wiki/Thomas_M._Disch",
+            "title": "Wikipedia",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "alternate_names": [
+        "John T. Sladek",
+        "Thomas M. Disch",
+        "Disch, Thomas M.",
+        "Thomas M Disch",
+        "Thomas disch",
+        "Thomas Michael Disch",
+        "Thomas M. DISCH",
+        "Disch Thomas M.",
+        "Thomas Disch",
+        "Tom Disch",
+        "ThomasM Disch"
+    ],
+    "key": "/authors/OL21657A",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-16T15:54:37.052143"
+    }
+}

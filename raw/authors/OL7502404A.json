@@ -1,0 +1,17 @@
+{
+    "name": "Laura Thalassa",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-13T11:45:38.234126"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-13T11:45:38.234126"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7502404A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

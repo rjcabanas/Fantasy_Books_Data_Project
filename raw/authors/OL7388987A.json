@@ -1,0 +1,17 @@
+{
+    "name": "Rhiannon Thomas",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2017-06-15T01:07:26.403121"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-06-15T01:07:26.403121"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7388987A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

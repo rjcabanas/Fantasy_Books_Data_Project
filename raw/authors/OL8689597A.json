@@ -1,0 +1,17 @@
+{
+    "name": "T. T. MacDangereuse",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-11-01T02:41:15.990919"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-01T02:41:15.990919"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8689597A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

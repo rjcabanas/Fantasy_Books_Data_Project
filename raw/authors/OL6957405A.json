@@ -1,0 +1,22 @@
+{
+    "name": "Oliver P\u00f6tzsch",
+    "alternate_names": [
+        "Oliver Potzsch"
+    ],
+    "personal_name": "Oliver P\u00f6tzsch",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL6957405A",
+    "birth_date": "1970",
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-07-29T12:50:15.882445"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-02T18:44:16.028239"
+    }
+}

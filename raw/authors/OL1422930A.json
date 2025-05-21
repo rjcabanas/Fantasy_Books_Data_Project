@@ -1,0 +1,28 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Chris Marie Green writes as Crystal Green for Harlequin and Silhouette imprints. She loves to travel: some of her favorite destinations include Great Britain, New Orleans, Italy and Japan. In fact, you can see a couple of her travelogues on her web site at www.crystal-green.com.\r\n\r\nWhen Chris was nineteen years old, she wrote a fan letter to Valerie Sherwood, a historical author who answered her gushing missive and inspired Chris to write her first romance. Today, that manuscript resides in a dusty file cabinet and will never see the light of day. However, Chris has moved on and feels lucky to have other stories published by the Special Edition, Blaze and Bombshell lines."
+    },
+    "personal_name": "Crystal Green",
+    "alternate_names": [
+        "Chris Marie Green"
+    ],
+    "photos": [
+        7260704
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-08-18T00:32:46.903209"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1422930A",
+    "name": "Crystal Green",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

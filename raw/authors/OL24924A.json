@@ -1,0 +1,23 @@
+{
+    "name": "Megan Whalen Turner",
+    "personal_name": "Megan Whalen Turner",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:04:19.207809"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL24924A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "92254558",
+        "wikidata": "Q2100107",
+        "isni": "0000000067713655"
+    }
+}

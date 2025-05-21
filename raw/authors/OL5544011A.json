@@ -1,0 +1,35 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Michael Grant is an American author of young adult fiction. He has written over 150 books, though most are co-authored with his wife. Together they have written the Animorphs, the Everworld, and the Making Out book series. Grant is the sole author of the Gone and BZRK series. \r\n\r\nGrant was raised in a military family, attending ten schools in five states, as well as three schools in France. As an adult, he became a writer in part because \"it was one of the few jobs that wouldn't tie him down to a specific location. He has lived in almost 50 homes in 14 states.\"\r\n\r\nHe currently lives in Tiburon, California. His top selling book is Gone, which was a tremendous success with teenagers. In the Gone series, there are currently six books starting with Gone and ending with Light, which the author said will be the conclusion to the series. At the moment he is working on a new book called \"Messenger of Fear\" as well as a new series called \"Soldier Girl\".\r\n\r\nSource: wikipedia"
+    },
+    "name": "Michael Grant",
+    "links": [
+        {
+            "url": "http://themichaelgrant.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Website"
+        }
+    ],
+    "personal_name": "Michael Grant",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-19T10:22:57.439097"
+    },
+    "photos": [
+        7322034
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-02-20T09:51:05.969789"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL5544011A",
+    "birth_date": "July 26, 1954",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

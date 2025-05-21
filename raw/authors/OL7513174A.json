@@ -1,0 +1,18 @@
+{
+    "name": "Emiko Jean",
+    "personal_name": "Emiko Jean",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-15T08:10:07.419955"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-15T08:10:07.419955"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7513174A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

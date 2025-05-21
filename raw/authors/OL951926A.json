@@ -1,0 +1,41 @@
+{
+    "key": "/authors/OL951926A",
+    "birth_date": "13 Jan 1893",
+    "name": "Clark Ashton Smith",
+    "bio": {
+        "type": "/type/text",
+        "value": "Clark Ashton Smith (January 13, 1893 \u2013 August 14, 1961) was an American writer and artist. He achieved early local recognition, largely through the enthusiasm of George Sterling, for traditional verse in the vein of Swinburne. As a poet, Smith is grouped with the West Coast Romantics alongside Joaquin Miller, Sterling, and Nora May French and remembered as \"The Last of the Great Romantics\" and \"The Bard of Auburn\". Smith's work was praised by his contemporaries. H. P. Lovecraft stated that \"in sheer daemonic strangeness and fertility of conception, Clark Ashton Smith is perhaps unexcelled\", and Ray Bradbury said that Smith \"filled my mind with incredible worlds, impossibly beautiful cities, and still more fantastic creatures\".\r\n\r\nSmith was one of \"the big three of *Weird Tales*, with Robert E. Howard and H. P. Lovecraft\", but some readers objected to his morbidness and violation of pulp traditions. The fantasy critic L. Sprague de Camp said of him that \"nobody since Poe has so loved a well-rotted corpse.\" Smith was a member of the Lovecraft circle and his literary friendship with Lovecraft lasted from 1922 until Lovecraft's death in 1937. His work is marked by an extraordinarily rich and ornate vocabulary, a cosmic perspective and a vein of sardonic and sometimes ribald humor.\r\n\r\nOf his writing style, Smith stated: \"My own conscious ideal has been to delude the reader into accepting an impossibility, or series of impossibilities, by means of a sort of verbal black magic, in the achievement of which I make use of prose-rhythm, metaphor, simile, tone-color, counter-point, and other stylistic resources, like a sort of incantation.\" \r\n\r\n**Source**: [Clark Ashton Smith](https://en.wikipedia.org/wiki/Clark_Ashton_Smith) on Wikipedia."
+    },
+    "alternate_names": [
+        "Clark Ashton Smith",
+        "Timeus Gaylord",
+        "Chrisophe des Laurieres",
+        "ClarkAshton Smith"
+    ],
+    "death_date": "14 Aug 1961",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Clark Ashton Smith",
+    "photos": [
+        11567777,
+        9042025,
+        6882509,
+        7127321
+    ],
+    "remote_ids": {
+        "viaf": "86145857791723020473",
+        "wikidata": "Q555298",
+        "isni": "0000000119471097"
+    },
+    "latest_revision": 15,
+    "revision": 15,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-09T10:45:03.126220"
+    }
+}

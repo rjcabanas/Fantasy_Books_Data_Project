@@ -1,0 +1,53 @@
+{
+    "birth_date": "1945",
+    "alternate_names": [
+        "JACQUELINE WILSON",
+        "Jacqueline. Wilson",
+        "Jacqueline Wilson and  Nick Sharratt",
+        "Wilson Jacqueline",
+        "Jacqueline W. Wilson",
+        "wilson-jacqueline rosty bad writer",
+        "NICK SHARRATT (ILLUSTRATOR) JACQUELINE WILSON",
+        "Jacqueline Wilson; Nick Sharratt",
+        "jacqueline wilson",
+        "Jacqueline WILSON",
+        "Jacqueline wilson",
+        "Jacqueline Wilson; Phyllida Nash"
+    ],
+    "personal_name": "Jacqueline Wilson",
+    "key": "/authors/OL19365A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Dame Jacqueline Wilson DBE FRSL (born 17 December 1945) is an English novelist known for her popular children's literature. Her novels have been notable for featuring realistic topics such as adoption and divorce without alienating her large readership. Since her debut novel in 1969, Wilson has written over 100 books.\r\n\r\nWhen Wilson began to focus on writing, she completed several crime fiction novels before dedicating herself to children's books. At the age of 40, she took A-level English and earned a grade A. She had mixed success with about 40 books before the breakthrough to fame in 1991 with The Story of Tracy Beaker, published by Doubleday.\r\n\r\nAs her children's novels frequently feature themes of adoption, divorce and mental illness, they tend to attract controversy, yet are well loved by children and adults alike."
+    },
+    "photos": [
+        10451507,
+        9326712,
+        7152021
+    ],
+    "source_records": [
+        "ia:opalplumstead0000wils_h8w3",
+        "ia:diamondgirls0000wils_i9n0",
+        "promise:bwb_daily_pallets_2020-06-24",
+        "promise:bwb_daily_pallets_2021-03-26"
+    ],
+    "remote_ids": {
+        "viaf": "59094087",
+        "isni": "0000000122805529",
+        "wikidata": "Q240647"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Jacqueline Wilson",
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-24T21:36:01.190156"
+    }
+}

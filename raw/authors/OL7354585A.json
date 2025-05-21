@@ -1,0 +1,17 @@
+{
+    "name": "Trevor Pryce",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-19T05:11:32.413810"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-19T05:11:32.413810"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7354585A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

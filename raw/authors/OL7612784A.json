@@ -1,0 +1,19 @@
+{
+    "name": "Juan Martinez",
+    "personal_name": "Juan Martinez",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:19:00.432401"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:19:00.432401"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7612784A",
+    "birth_date": "1974",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

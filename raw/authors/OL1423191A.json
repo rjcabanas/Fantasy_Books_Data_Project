@@ -1,0 +1,39 @@
+{
+    "remote_ids": {
+        "isni": "0000000114722133",
+        "wikidata": "Q1303988",
+        "viaf": "49387812"
+    },
+    "birth_date": "3 November 1952",
+    "key": "/authors/OL1423191A",
+    "source_records": [
+        "bwb:9780008907440",
+        "promise:bwb_daily_pallets_2023-08-14:W8-AXT-811"
+    ],
+    "personal_name": "Eileen Wilks",
+    "bio": {
+        "type": "/type/text",
+        "value": "Eileen Wilks was born in the dusty little town of Monahans, Texas, to the usual number of parents. She's done a lot of wandering since then, having lived in Canada and Venezuela as well as twelve U.S. cities in five states. She wandered a lot professionally, too, before finding her home in writing. A four-time finalist in RWA's prestigious RITA contest, she is the recipient of a Career Achievement Award from Romantic Times.\r\n\r\nSource:  [About the Author](https://www.amazon.com/stores/author/B000APLAHC/about)"
+    },
+    "photos": [
+        14544540
+    ],
+    "alternate_names": [
+        "Rebecca York Eileen Wilks",
+        "Feehan, Christine; Sutcliffe, Katherine; Brand, Fiona; Wilks, Eileen"
+    ],
+    "name": "Eileen Wilks",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-15T19:19:31.705445"
+    }
+}

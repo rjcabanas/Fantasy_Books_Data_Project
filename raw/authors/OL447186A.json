@@ -1,0 +1,26 @@
+{
+    "birth_date": "1926",
+    "personal_name": "Jeff Brown",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Jeff Brown",
+    "key": "/authors/OL447186A",
+    "alternate_names": [
+        "brown-jeff"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Born in New York City, Jeff Brown has been a story editor and assistant film producer in Hollywood. He has worked on the editorial staffs of The New Yorker and the Saturday Evening Post, and his stories have appeared in these magazines and many others."
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-23T22:14:55.940548"
+    }
+}

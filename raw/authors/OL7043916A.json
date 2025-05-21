@@ -1,0 +1,17 @@
+{
+    "name": "Jamie McGuire",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-12-01T19:50:18.460330"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-12-01T19:50:18.460330"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7043916A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

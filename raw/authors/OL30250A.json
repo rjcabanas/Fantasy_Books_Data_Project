@@ -1,0 +1,62 @@
+{
+    "name": "E. B. White",
+    "death_date": "1 October 1985",
+    "birth_date": "11 July 1899",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "E. B. White",
+    "key": "/authors/OL30250A",
+    "source_records": [
+        "ia:stuartlittle0000whit_m3u8",
+        "amazon:1486286186",
+        "amazon:1435145976",
+        "amazon:014133133X",
+        "amazon:006214989X",
+        "bwb:9798745036101",
+        "amazon:0060521090",
+        "bwb:9798820104473",
+        "bwb:9798726714929",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "amazon:0141368837",
+        "promise:bwb_daily_pallets_2021-01-14",
+        "bwb:9798369663158",
+        "bwb:9798366333689",
+        "promise:bwb_daily_pallets_2023-05-18:P8-CEC-732",
+        "promise:bwb_daily_pallets_2023-05-22:P8-CKL-853",
+        "promise:bwb_daily_pallets_2021-07-26",
+        "promise:bwb_daily_pallets_2020-11-27",
+        "promise:bwb_daily_pallets_2022-11-23:T2-EHY-230",
+        "promise:bwb_daily_pallets_2022-09-07:O8-ARN-082",
+        "promise:bwb_daily_pallets_2024-08-16:W9-AMX-289"
+    ],
+    "photos": [
+        6390049
+    ],
+    "remote_ids": {
+        "viaf": "66475004",
+        "wikidata": "Q361617",
+        "isni": "000000011028499X"
+    },
+    "alternate_names": [
+        "Elwyn Brooks White",
+        "E.B. White",
+        "E B White",
+        "E. B White",
+        "E B WHITE",
+        "White E B",
+        "E. B. WHITE",
+        "e white"
+    ],
+    "bio": "Elwyn Brooks \"E. B.\" White was an American writer. A long-time contributor to \"The New Yorker\" magazine, he also wrote many famous books for both adults and children, such as the popular Charlotte's Web and Stuart Little, and co-authored a widely used writing guide, The Elements of Style, popularly known by its authors' names, as \"Strunk & White.\"",
+    "latest_revision": 24,
+    "revision": 24,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-01T09:59:39.812341"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "death_date": "9 February 1989",
+    "remote_ids": {
+        "viaf": "40771534",
+        "wikidata": "Q193300",
+        "isni": "0000000121294421"
+    },
+    "photos": [
+        5542251,
+        5542250
+    ],
+    "personal_name": "Osamu Tezuka",
+    "birth_date": "3 November 1928",
+    "alternate_names": [
+        "Osamu Tezuca",
+        "Tezuka Osamu",
+        "TEZUKA OSAMU",
+        "OSAMU TEZUKA"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL1407610A",
+    "source_records": [
+        "amazon:2492463028",
+        "amazon:0007251602",
+        "amazon:2845805950"
+    ],
+    "name": "Osamu Tezuka",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T20:13:29.615106"
+    }
+}

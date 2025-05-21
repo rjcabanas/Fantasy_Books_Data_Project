@@ -1,0 +1,47 @@
+{
+    "birth_date": "1923",
+    "source_records": [
+        "amazon:7551527133",
+        "amazon:0679879234",
+        "promise:bwb_daily_pallets_2022-11-04",
+        "promise:bwb_daily_pallets_2022-04-01",
+        "promise:bwb_daily_pallets_2020-11-24",
+        "promise:bwb_daily_pallets_2022-06-30:W7-CGC-837",
+        "bwb:9780060574369",
+        "amazon:0001712047",
+        "promise:bwb_daily_pallets_2022-06-06",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "promise:bwb_daily_pallets_2021-04-01",
+        "promise:bwb_daily_pallets_2021-03-10",
+        "promise:bwb_daily_pallets_2021-01-06",
+        "promise:bwb_daily_pallets_2020-07-30",
+        "promise:bwb_daily_pallets_2020-12-04",
+        "promise:bwb_daily_pallets_2022-10-07:W7-CRP-019",
+        "promise:bwb_daily_pallets_2022-04-01:T2-CTQ-135"
+    ],
+    "remote_ids": {
+        "viaf": "104903579",
+        "wikidata": "Q23836952",
+        "isni": "0000000081718882"
+    },
+    "name": "Stan Berenstain",
+    "photos": [
+        -1
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL19823A",
+    "personal_name": "Stan Berenstain",
+    "death_date": "2005",
+    "latest_revision": 19,
+    "revision": 19,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-26T14:26:15.276348"
+    }
+}

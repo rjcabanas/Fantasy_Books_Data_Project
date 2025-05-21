@@ -1,0 +1,48 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Tamora Pierce",
+    "personal_name": "Tamora Pierce",
+    "remote_ids": {
+        "viaf": "44626351",
+        "wikidata": "Q443681",
+        "isni": "0000000108937680"
+    },
+    "source_records": [
+        "amazon:0375867678",
+        "bwb:9780008304119",
+        "amazon:1524782882",
+        "amazon:8492431555",
+        "amazon:0439011604",
+        "amazon:1435280601",
+        "amazon:150123630X",
+        "bwb:9781665938884",
+        "bwb:9781665938891"
+    ],
+    "birth_date": "1954",
+    "links": [
+        {
+            "title": "ISNI Record",
+            "url": "http://isni.org/isni/0000000108937680",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        6925198
+    ],
+    "bio": "This author's name is Tamora Pierce, the second vowel is an O not an A.",
+    "key": "/authors/OL26576A",
+    "latest_revision": 17,
+    "revision": 17,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-14T04:03:20.018115"
+    }
+}

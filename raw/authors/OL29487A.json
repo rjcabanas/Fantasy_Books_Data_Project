@@ -1,0 +1,63 @@
+{
+    "source_records": [
+        "amazon:1511394668",
+        "bwb:9781497601611",
+        "bwb:9781680573299",
+        "amazon:2265115762",
+        "amazon:1531816541",
+        "promise:bwb_daily_pallets_2021-05-14",
+        "promise:bwb_daily_pallets_2021-02-15",
+        "promise:bwb_daily_pallets_2020-10-08",
+        "amazon:9032804413",
+        "amazon:1531876927",
+        "promise:bwb_daily_pallets_2023-05-24:KH-036-617",
+        "bwb:9781504082174",
+        "bwb:9780671854119",
+        "bwb:9781504088015",
+        "promise:bwb_daily_pallets_2024-07-01:W9-BQD-003"
+    ],
+    "name": "Alan Dean Foster",
+    "personal_name": "Alan Dean Foster",
+    "remote_ids": {
+        "viaf": "64209108",
+        "isni": "0000000120272917",
+        "wikidata": "Q575345"
+    },
+    "photos": [
+        6390078
+    ],
+    "key": "/authors/OL29487A",
+    "birth_date": "18 November 1946",
+    "links": [
+        {
+            "url": "http://www.alandeanfoster.com/",
+            "title": "AlanDeanFoster.com",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Alan Dean Foster is an American author of fantasy and science fiction. He currently resides in Prescott, Arizona, with his wife, and is also known for his novelizations of film scripts. He holds a bachelor's degree in political science and a MFA from the University of California, Los Angeles. ([Source][1])\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/Alan_Dean_Foster",
+    "alternate_names": [
+        "Alan-Dean Foster",
+        "Alan D. Foster",
+        "ALAN DEAN FOSTER",
+        "Alan Dean Foster",
+        "alan dean foster",
+        "Foster, Alan Dean",
+        "Foster Dean Alan"
+    ],
+    "latest_revision": 24,
+    "revision": 24,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-21T20:30:15.377692"
+    }
+}

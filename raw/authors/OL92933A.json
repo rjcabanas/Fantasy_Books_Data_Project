@@ -1,0 +1,31 @@
+{
+    "name": "Emma Craig",
+    "personal_name": "Emma Craig",
+    "key": "/authors/OL92933A",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Pen name of Rachel Wilson who also writes as Alice Duncan"
+    },
+    "alternate_names": [
+        "Rachel Wilson",
+        "Alice Duncan"
+    ],
+    "birth_date": "1945",
+    "remote_ids": {
+        "viaf": "55973338",
+        "wikidata": "Q127853454"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-26T01:24:02.025007"
+    }
+}

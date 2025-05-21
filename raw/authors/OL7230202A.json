@@ -1,0 +1,17 @@
+{
+    "name": "Timothee de Fombelle",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-11-12T16:55:55.943105"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2014-11-12T16:55:55.943105"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7230202A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

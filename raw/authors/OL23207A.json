@@ -1,0 +1,39 @@
+{
+    "bio": "Harry Norman Turtledove is an American novelist, who has produced works in several genres including alternate history, historical fiction, fantasy and science fiction.\r\n\r\nIn 1979, Turtledove published his first two novels, *Wereblood* and *Werenight*, under the pseudonym \"Eric G. Iverson.\" Turtledove later explained that his editor at Belmont Tower did not think people would believe the author's real name was \"Turtledove\" and came up with something more Nordic. He continued to use the \"Iverson\" name until 1985, when he published his \"Herbig-Haro\" and \"And So to Bed\" under his real name. Another early pseudonym was \"Mark Gordian.\" Turtledove has recently begun publishing historical novels under the pseudonym \"H.N. Turteltaub\" (Turteltaube means turtle dove in German). He published three books as Dan Chernenko (the Scepter of Mercy series).",
+    "birth_date": "14 June 1949",
+    "alternate_names": [
+        "Eric G. Iverson",
+        "Mark Gordian",
+        "Harry Norman Turtledove",
+        "Eric (Harry Turtledove) Iverson"
+    ],
+    "name": "Harry Turtledove",
+    "personal_name": "Harry Turtledove",
+    "key": "/authors/OL23207A",
+    "photos": [
+        6390069
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:0765383012",
+        "amazon:034092179X",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "remote_ids": {
+        "wikidata": "Q455780",
+        "viaf": "104636300",
+        "isni": "0000000081718604"
+    },
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-21T16:02:53.288313"
+    }
+}

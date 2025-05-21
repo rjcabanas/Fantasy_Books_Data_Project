@@ -1,0 +1,15 @@
+{
+    "name": "Maurice Gee",
+    "personal_name": "Maurice Gee",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-16 17:25:49.097853"
+    },
+    "key": "/authors/OL4752928A",
+    "birth_date": "1931",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 20488275,
+    "revision": 1
+}

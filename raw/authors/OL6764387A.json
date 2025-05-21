@@ -1,0 +1,19 @@
+{
+    "name": "Yukako Kabei",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-02T21:21:16.601493"
+    },
+    "personal_name": "Yukako Kabei",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-12-02T21:21:16.601493"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6764387A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 35507474,
+    "revision": 1
+}

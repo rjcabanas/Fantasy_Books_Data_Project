@@ -1,0 +1,28 @@
+{
+    "title": "(Driscoll, Laura)",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Laura Driscoll",
+    "key": "/authors/OL216307A",
+    "personal_name": "Laura Driscoll",
+    "alternate_names": [
+        "Driscoll  Laura",
+        "Ji si kou er (Driscoll, Laura)"
+    ],
+    "source_records": [
+        "ia:xilaruidechengch0000jisi",
+        "promise:bwb_daily_pallets_2021-04-02",
+        "marc:harvard_bibliographic_metadata/ab.bib.13.20150123.full.mrc:411488966:878"
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-27T05:47:29.699833"
+    }
+}

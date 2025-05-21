@@ -1,0 +1,24 @@
+{
+    "name": "Fiona McIntosh",
+    "key": "/authors/OL7485541A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12983297
+    ],
+    "birth_date": "1960",
+    "remote_ids": {
+        "wikidata": "Q1987300"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-24T09:52:36.250054"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-25T05:14:00.332467"
+    }
+}

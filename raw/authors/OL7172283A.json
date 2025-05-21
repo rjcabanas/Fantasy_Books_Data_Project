@@ -1,0 +1,34 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Cassandra Rose Clarke (born 1983) is an American author who writes speculative fiction novels. [source](https://en.wikipedia.org/wiki/Cassandra_Rose_Clarke)"
+    },
+    "photos": [
+        13321079
+    ],
+    "name": "Cassandra Rose Clarke",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1983",
+    "key": "/authors/OL7172283A",
+    "remote_ids": {
+        "viaf": "Cassandra Rose Clarke"
+    },
+    "source_records": [
+        "bwb:9781299596887",
+        "bwb:9780369720702",
+        "amazon:1531875858"
+    ],
+    "personal_name": "Cassandra Rose Clarke",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-01-27T08:16:19.907572"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-21T13:48:09.593115"
+    }
+}

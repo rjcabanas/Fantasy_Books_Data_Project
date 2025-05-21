@@ -1,0 +1,59 @@
+{
+    "birth_date": "6 September 1969",
+    "photos": [
+        13779807
+    ],
+    "personal_name": "Tony DiTerlizzi",
+    "remote_ids": {
+        "viaf": "71629313",
+        "isni": "0000000121390149",
+        "wikidata": "Q778711"
+    },
+    "key": "/authors/OL223738A",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:605092869X",
+        "amazon:6050903719",
+        "amazon:0439821614",
+        "amazon:9771410725",
+        "amazon:1847381596",
+        "amazon:1847381979",
+        "amazon:1417602775",
+        "promise:bwb_daily_pallets_2021-08-26",
+        "promise:bwb_daily_pallets_2021-01-21",
+        "promise:bwb_daily_pallets_2022-12-06",
+        "amazon:9722333402",
+        "promise:bwb_daily_pallets_2020-10-08",
+        "promise:bwb_daily_pallets_2022-05-16:P7-DBO-812"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Tony M. DiTerlizzi (born September 6, 1969) is an American fantasy artist, children's book creator, and motion picture producer.\r\n\r\nIn the gaming industry, he is best known for his work in the collectible card game Magic: The Gathering and on the Planescape product line for the Dungeons & Dragons role-playing game. DiTerlizzi created The Spiderwick Chronicles series with Holly Black, and was an executive producer on the 2008 film adaptation of the series. He won a Caldecott Honor for his adaptation of The Spider and the Fly. [source](https://en.wikipedia.org/wiki/Tony_DiTerlizzi)"
+    },
+    "alternate_names": [
+        "Tony Diterlizzi",
+        "Tony DiTerlizzi and Holly Black",
+        "Tony Diterlizzi and Holly Black",
+        "Tony and Holly Black Diterlizzi",
+        "black-holly-diterlizzi-tony",
+        "Holly Black Tony DiTerlizzi",
+        "Tony DiTerlizzi Holly Black",
+        "Tony DiTerlizzi (author) Holly Black (author)",
+        "Holly Black e Tony DiTerlizzi",
+        "tony diterlizzi & holly black",
+        "Tony DiTerlizzi~Holly Black"
+    ],
+    "name": "Tony DiTerlizzi",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-31T19:07:58.154930"
+    }
+}

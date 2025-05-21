@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Achmed Abdullah was an American writer, most noted for his pulp stories of crime, mystery and adventure. He wrote screenplays for some successful films. He was the author of the progressive Siamese drama Chang: A Drama of the Wilderness, an Academy Award nominated film made in 1927. He earned an Academy Award nomination for collaborating on the screenplay to the 1935 film The Lives of a Bengal Lancer. - Wikipedia\r\n\r\nAchmed Abdullah was born in Yalta, in the Crimea, of mixed Russian-Afghan ancestry. In some sources his birthplace is reported as Malta. Abdullah was vague about his parentage, and he never revealed the name to which he was born but apparently he was christened Alexander Nicholayevitch Romanoff. However, he was also know as Achmed Abdullah Nadir Khan el-Durani el Iddrissyeh, whose father, Grand Duke Nicholas Romanoff, was a Russian-Orthodox, cousin to the last Tsar of Russia. To the Muslim name Achmed he was baptized in an Russian-Orthodox Church. Abdullah's mother, Princess Nourmahal Durani, was a Muslim, the daughter of the Emir of Kabul. Accoding to Abdullah, she tried to poison her husband in revenge for his serial infidelities.\r\n\r\nAfter the divorce of his parents, Abdullah returned to Kabul with his mother and sister, where he was brought up by his grandparents of his uncle. He was educated in Indian School, Darjeling, and College Louis le Grant, France, from where he moved to England. At Eton School he astonished his schoolmates with his turban and earring. After an education at Oxford and the University of Paris, he became a soldier and a spy. \r\n\r\nIn 1900 Abdullah entered the British army, where he spent many years as a gentleman officer. He served over the world \u2013 in India, China, Tibet, France, the Near East, and Africa. Some of Abdullah's stories drew on experiences from this period of his life. In the 1920s Abdullah settled in the United States, where was employed by Hollywood studios on occasion. Most his tales were first published in pulp magazines under the name \"Achmed Abdullah\" which he preferred more than \"Alexander Romanoff.\" His other pseudonyms were A.A. Nadir and John Hamilton.\r\n\r\nAbdullah soon gained fame with colorful, enjoyable adventure stories, which fit perfectly in the era of Rudolph Valentino and Lawrence of Arabia. *The Man on Horseback* (1919) is based on Abdullah's experiences in the American West. Especially after 1920s women readers devoured his romantic adventures with exotic settings. Sometimes they had supernatural elements, as in the collections *Wings: Tales of the Psychic* (1920) and *Mysteries of Asia* (1935).\r\n\r\nAbdullah's autobiography, *The Cat Had Nine Lives* (1933), is not far from fiction with its vivid tales of his travels and exploits. It is possible that some of the stories were not based on actual events, but as the embodiment of adventurer and writer he fitted well in the fantasy world of Hollywood. His last years Abdullah lived in New York. Abdullah died on May 12, 1945, at Columbia Presbyterian Medical Center in New York. He was married three times, first to Irene Augusta Bainbridge (1884-1955), then to Jean Wick, his literary agent who died in 1939, and then in 1940 to Rosemary Agnes Dolan. - Authors Calendar"
+    },
+    "name": "Achmed Abdullah",
+    "personal_name": "Achmed Abdullah",
+    "death_date": "12 May 1945",
+    "alternate_names": [
+        "Alexander Nicholayevitch Romanoff",
+        "A.A. Nadir",
+        "John Hamilton"
+    ],
+    "photos": [
+        7418269
+    ],
+    "key": "/authors/OL1072430A",
+    "birth_date": "12 May 1881",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "isni": "0000000083585999",
+        "viaf": "13555366",
+        "wikidata": "Q340550"
+    },
+    "links": [
+        {
+            "title": "Authors Calendar biography",
+            "url": "http://authorscalendar.info/abdullah.htm",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-05-27T21:21:21.646664"
+    }
+}

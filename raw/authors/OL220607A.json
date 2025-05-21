@@ -1,0 +1,32 @@
+{
+    "remote_ids": {
+        "viaf": "108983174",
+        "wikidata": "Q4955103",
+        "isni": "0000000081740393"
+    },
+    "alternate_names": [
+        "Molly Hunter",
+        "MOLLIE HUNTER",
+        "Mollie Hunter McVeigh"
+    ],
+    "personal_name": "Mollie Hunter",
+    "photos": [
+        8669757
+    ],
+    "name": "Mollie Hunter",
+    "birth_date": "1922",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL220607A",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-01-05T13:36:04.516949"
+    }
+}

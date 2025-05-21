@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Linda M. David",
+    "personal_name": "Linda M. David",
+    "key": "/authors/OL9966490A",
+    "source_records": [
+        "ia:firestonecrystal0000davi"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-23T17:30:23.673262"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-23T17:30:23.673262"
+    }
+}

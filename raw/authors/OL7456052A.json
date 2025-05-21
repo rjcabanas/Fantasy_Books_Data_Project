@@ -1,0 +1,17 @@
+{
+    "name": "Amanda Havard",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-02-06T10:49:08.001295"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-02-06T10:49:08.001295"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7456052A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

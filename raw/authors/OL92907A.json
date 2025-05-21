@@ -1,0 +1,63 @@
+{
+    "source_records": [
+        "promise:bwb_daily_pallets_2020-09-09",
+        "promise:bwb_daily_pallets_2023-05-15:P6-BNX-395",
+        "amazon:3944668782",
+        "ia:laubergedelhorre0000ruet",
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:176024483:816"
+    ],
+    "personal_name": "Todd Strasser",
+    "key": "/authors/OL92907A",
+    "photos": [
+        14320193,
+        -1
+    ],
+    "alternate_names": [
+        "Todd Strasser",
+        "Morton Rhue",
+        "TODD STRASSER",
+        "todd strasser",
+        "Strasser Todd",
+        "Strasser, Todd",
+        "T.S. Rue",
+        "Tod Strasser",
+        "T. S Rue",
+        "T. S. Rue",
+        "Rhue Morton"
+    ],
+    "name": "Todd Strasser",
+    "title": "t.s rue is the best author ever 2 live..!",
+    "links": [
+        {
+            "title": "Website",
+            "url": "https://www.t.srue.com",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Todd Strasser (born May 5, 1950) is an American writer of more than 140 young-adult and middle grade novels and many short stories and works of non-fiction, some written under the pen names Morton Rhue and T.S. Rue. [source](https://en.wikipedia.org/wiki/Todd_Strasser)"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "5 May 1950",
+    "remote_ids": {
+        "viaf": "24633901",
+        "isni": "0000000121491847",
+        "wikidata": "Q1896281"
+    },
+    "location": "USA/indian/china town baby",
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-24T22:57:07.012403"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Jamie Thomson",
+    "personal_name": "Jamie Thomson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-20 13:37:20.128861"
+    },
+    "key": "/authors/OL4911681A",
+    "birth_date": "1958",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 22115431,
+    "revision": 1
+}

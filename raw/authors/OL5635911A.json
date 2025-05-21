@@ -1,0 +1,37 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "American children's writer"
+    },
+    "name": "Jacqueline Kelly",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Jacqueline_Kelly",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "Jacqueline Kelly",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-20T23:14:16.312215"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:16:42.881731"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL5635911A",
+    "birth_date": "2000",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "9324116",
+        "wikidata": "Q6120127",
+        "isni": "0000000039949484"
+    }
+}

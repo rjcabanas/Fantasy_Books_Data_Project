@@ -1,0 +1,21 @@
+{
+    "name": "Richard Paul Evans",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-26T15:17:58.195337"
+    },
+    "photos": [
+        9322732
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-04-22T12:21:04.920440"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL7487000A",
+    "birth_date": "1962",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

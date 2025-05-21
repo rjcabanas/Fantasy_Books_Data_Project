@@ -1,0 +1,23 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "S. M. Stirling",
+    "remote_ids": {
+        "isni": "0000000114537544",
+        "viaf": "102011400",
+        "wikidata": "Q1368527"
+    },
+    "name": "S. M. Stirling",
+    "key": "/authors/OL21915A",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-30T07:17:12.560442"
+    }
+}

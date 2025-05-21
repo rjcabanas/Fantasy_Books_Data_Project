@@ -1,0 +1,31 @@
+{
+    "alternate_names": [
+        "Celia S. Friedman",
+        "C S Friedman"
+    ],
+    "source_records": [
+        "promise:bwb_daily_pallets_2023-05-15:UP-667-219"
+    ],
+    "name": "C. S. Friedman",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "27230624",
+        "wikidata": "Q768810",
+        "isni": "0000000078373297"
+    },
+    "personal_name": "C. S. Friedman",
+    "birth_date": "1957",
+    "key": "/authors/OL45046A",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-11T18:40:24.184185"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Margaret Cavendish",
+    "key": "/authors/OL9153732A",
+    "source_records": [
+        "amazon:6057865960"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-04-13T11:40:39.068056"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-04-13T11:40:39.068056"
+    }
+}

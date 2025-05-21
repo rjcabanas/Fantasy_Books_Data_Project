@@ -1,0 +1,39 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Kathy Lawrence",
+        "Kasey Marx",
+        "MARTIN,KAT",
+        "Ket Martin"
+    ],
+    "personal_name": "Kat Martin",
+    "remote_ids": {
+        "wikidata": "Q6374969",
+        "goodreads": "49381",
+        "isni": "0000000446443376",
+        "viaf": "49532004"
+    },
+    "key": "/authors/OL385551A",
+    "name": "Kat Martin",
+    "bio": {
+        "type": "/type/text",
+        "value": "Kathleen Kelly was born on 14 July 1947 in the Central Valley of California, USA. She obtained a degree in Anthropology and History from the University of California in Santa Barbara. She was a real estate broker, when she met her future husband, Larry Jay Martin. A short time after the two became acquainted, Larry asked her to read an unpublished manuscript of an historical western he'd written. Kat fell in love with both the book and the author! Then, after doing some editing for him, she thought she'd try her own hand at writing. She moved on to become a full time writer.\r\n\r\nPublished since 1988, she signs her books with her married name, Kat Martin. She has also used two pseudonyms: Kathy Lawrence, for a book written in collaboration with her husband Larry Jay Martin; and Kasey Marx, for her first contemporary romances. The New York Times bestselling writer, among her many awards, has won the prestigious RT Book Review Magazine Career Achievement Award. To date, Kat has over eleven million copies of her books in print.  She has been published in seventeen foreign countries, including England, South Africa, Spain, Argentina, Germany, Italy, Greece, Norway, Sweden, Russia, Bulgaria, China, and Korea. \r\n\r\nCurrently residing with her husband, a Western-writer and photographer, in Missoula, Montana, USA. When they are not writing, they enjoy skiing and traveling, particularly to Europe."
+    },
+    "photos": [
+        6459432,
+        13126970
+    ],
+    "birth_date": "14 July 1947",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-18T19:03:37.550573"
+    }
+}

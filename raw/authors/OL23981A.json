@@ -1,0 +1,39 @@
+{
+    "bio": "Amy Krouse Rosenthal (April 29, 1965 \u2013 March 13, 2017) was an American author of both adult and children's books, a short film maker, and radio show host.",
+    "remote_ids": {
+        "wikidata": "Q4749274",
+        "viaf": "70701129",
+        "isni": "0000000077340178"
+    },
+    "name": "Amy Krouse Rosenthal",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Amy K. Rosenthal",
+        "Amy Rosenthal"
+    ],
+    "birth_date": "April 29, 1965",
+    "key": "/authors/OL23981A",
+    "death_date": "March 13, 2017",
+    "source_records": [
+        "ia:duckrabbit0000rose_o6u7",
+        "bwb:9781536477566",
+        "promise:bwb_daily_pallets_2021-04-02",
+        "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:291295591:783"
+    ],
+    "personal_name": "Amy Krouse Rosenthal",
+    "photos": [
+        12619363
+    ],
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-04T03:08:02.567262"
+    }
+}

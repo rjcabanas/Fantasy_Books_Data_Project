@@ -1,0 +1,14 @@
+{
+    "name": "Tony Robinson",
+    "personal_name": "Tony Robinson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 18:07:52.809217"
+    },
+    "key": "/authors/OL1416889A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 4786203,
+    "revision": 2
+}

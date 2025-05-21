@@ -1,0 +1,60 @@
+{
+    "alternate_names": [
+        "John Shirley",
+        "D. B. Drumm",
+        "John Cutter"
+    ],
+    "birth_date": "February 10, 1953",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "**John (Patrick) Shirley** is an American writer, primarily of fantasy and science fiction and songwriting. He has also written one historical novel, a western, about Wyatt Earp, Wyatt in Wichita, and one non-fiction book, Gurdjieff: An Introduction to His Life and Ideas. Shirley has written novels, short stories, TV scripts and screenplays, and has published over 40 books and 8 short-story collections. As a musician, Shirley has fronted his own bands and written lyrics for Blue \u00d6yster Cult and others.\r\nSource: Wikipedia"
+    },
+    "personal_name": "John Shirley",
+    "key": "/authors/OL558004A",
+    "photos": [
+        7420098,
+        -1
+    ],
+    "remote_ids": {
+        "viaf": "103141107",
+        "wikidata": "Q1346126",
+        "isni": "0000000109298366"
+    },
+    "name": "John Shirley",
+    "links": [
+        {
+            "url": "https://de.wikipedia.org/wiki/John_Shirley",
+            "title": "Wikipedia (DE)",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/John_Shirley",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://www.wikidata.org/wiki/Q1346126",
+            "title": "Wikidata",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-02-13T10:13:12.721969"
+    }
+}

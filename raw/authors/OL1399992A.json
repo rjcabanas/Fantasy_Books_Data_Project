@@ -1,0 +1,33 @@
+{
+    "personal_name": "MaryJanice Davidson",
+    "name": "MaryJanice Davidson",
+    "photos": [
+        7105505
+    ],
+    "alternate_names": [
+        "Maryjanice Davidson",
+        "MARYJANICE DAVIDSON",
+        "Mary Janice Davidson",
+        "maryjanice-davidson",
+        "davidson-maryjanice"
+    ],
+    "remote_ids": {
+        "viaf": "79567390",
+        "wikidata": "Q534455",
+        "isni": "0000000116790797"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL1399992A",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-09T19:18:12.165841"
+    }
+}

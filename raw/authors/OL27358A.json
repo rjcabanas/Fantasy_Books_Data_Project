@@ -1,0 +1,37 @@
+{
+    "remote_ids": {
+        "viaf": "82181498",
+        "wikidata": "Q467066",
+        "isni": "0000000116798369"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "bwb:9781529503623",
+        "bwb:9780744556773",
+        "bwb:9781632459565",
+        "amazon:0606067043",
+        "bwb:9780763629168",
+        "promise:bwb_daily_pallets_2023-01-03",
+        "bwb:9781536237917",
+        "bwb:9781529519129"
+    ],
+    "key": "/authors/OL27358A",
+    "name": "Kate DiCamillo",
+    "birth_date": "1964-03-25",
+    "personal_name": "Kate DiCamillo",
+    "photos": [
+        14620904
+    ],
+    "latest_revision": 15,
+    "revision": 15,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-30T20:33:47.195680"
+    }
+}

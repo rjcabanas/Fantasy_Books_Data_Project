@@ -1,0 +1,15 @@
+{
+    "name": "John Balaban",
+    "personal_name": "John Balaban",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-01 22:00:14.526512"
+    },
+    "key": "/authors/OL383339A",
+    "birth_date": "1943",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1042776,
+    "revision": 2
+}

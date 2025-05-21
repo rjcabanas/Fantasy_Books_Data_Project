@@ -1,0 +1,44 @@
+{
+    "personal_name": "Brian Jacques",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Brian Jacques",
+    "photos": [
+        7252558
+    ],
+    "death_date": "05 February 2011",
+    "source_records": [
+        "ia:dewegnaardevuurb0000jacq",
+        "amazon:1862303231",
+        "promise:bwb_daily_pallets_2020-09-09"
+    ],
+    "key": "/authors/OL27229A",
+    "alternate_names": [
+        "CHRISTOPHER DENISE (ILLUSTRATOR) BRIAN JACQUES",
+        "Brian By Jacques",
+        "Brian Jacques Redwall",
+        "GARY CHALK BRIAN JACQUES",
+        "BRIAN JACQUES",
+        "Jacques Brian",
+        "Brian jacques",
+        "Brian JACQUES",
+        "Brian Jaques"
+    ],
+    "remote_ids": {
+        "wikidata": "Q468851",
+        "viaf": "22289785",
+        "isni": "0000000110446426"
+    },
+    "birth_date": "15 June 1939",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-07T20:23:09.417799"
+    }
+}

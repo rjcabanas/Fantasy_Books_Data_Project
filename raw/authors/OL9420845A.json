@@ -1,0 +1,17 @@
+{
+    "name": "Elle Mae",
+    "key": "/authors/OL9420845A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-10T11:38:20.234408"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-10T11:38:20.234408"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "death_date": "1969",
+    "birth_date": "1890",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.12.20150123.full.mrc:385837355:789",
+        "promise:bwb_daily_pallets_2023-01-10"
+    ],
+    "remote_ids": {
+        "viaf": "39391273",
+        "wikidata": "Q36014",
+        "isni": "0000000110570291"
+    },
+    "title": "Pres. Democratic Republic of Vietnam",
+    "alternate_names": [
+        "Chi\u0301 Minh Ho\u0302\u0300",
+        "Chi\u0301 Minh H`o\u0302",
+        "Ch\u00ed Minh H\u0300\u00f4",
+        "Chi Minh Ho\u0302\u0300",
+        "Chi\u0301-Minh Ho\u0300\u0302",
+        "Ho\u0302, Chi\u0301 Minh",
+        "Chi Minh Ho",
+        "Ho\u0300\u0302 Chi\u0301 Minh",
+        "Ch\u00ed Minh H\u1ed3",
+        "Ch\u00ed Minh H\u00f2\u0302",
+        "Ho Chi Minh",
+        "Ho-chi-Minh Pres. Democratic Republic of Vietnam",
+        "Ho-Chi-Minh, President, Democratic Republic of Vietnam, 1894?-1969.",
+        "HO, CHI MINH, 1890-1969.",
+        "Ho chi Minh",
+        "H\u1ed3 Ch\u00ed Minh"
+    ],
+    "key": "/authors/OL2732A",
+    "personal_name": "Ho\u0300\u0302, Chi\u0301 Minh",
+    "name": "Ho\u0300\u0302, Chi\u0301 Minh",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-12T13:20:02.419430"
+    }
+}

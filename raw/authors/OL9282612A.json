@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Jada Marie Ford",
+    "key": "/authors/OL9282612A",
+    "source_records": [
+        "amazon:154805500X"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-06-25T11:43:31.938214"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-06-25T11:43:31.938214"
+    }
+}

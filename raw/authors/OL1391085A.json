@@ -1,0 +1,58 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Stephenie Meyer",
+    "personal_name": "Stephenie Meyer",
+    "alternate_names": [
+        "Stephenie Morgan",
+        "Stephenie Meyer (author)",
+        "STEPHENIE MEYER",
+        "Meyer Stephenie"
+    ],
+    "photos": [
+        3366829,
+        3366735,
+        3366734,
+        3366733
+    ],
+    "key": "/authors/OL1391085A",
+    "source_records": [
+        "ia:eclipse0000meye",
+        "amazon:8420473367",
+        "bwb:9780349003962",
+        "bwb:9781536400182",
+        "amazon:9870415164",
+        "amazon:9870412319",
+        "amazon:605426382X",
+        "amazon:9877387301",
+        "amazon:8327160532",
+        "amazon:8420423610",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "bwb:9781941999639",
+        "promise:bwb_daily_pallets_2023-03-10:P8-AYH-857"
+    ],
+    "birth_date": "24 December 1973",
+    "remote_ids": {
+        "librarything": "meyerstephenie",
+        "wikidata": "Q160219",
+        "isni": "0000000123214384",
+        "viaf": "102313919",
+        "amazon": "B001H6GO92",
+        "goodreads": "941441"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "an American novelist and film producer. She is best known for writing the vampire romance series Twilight.\r\nMeyer was the bestselling author of 2008 and 2009 in the U.S. \r\nMeyer received the 2009 Children's Book of the Year award from the British Book Awards for Breaking Dawn, the Twilight series finale.\r\n\r\nStephenie Morgan was born on December 24, 1973, in Hartford, Connecticut, the second of six children to financial officer Stephen Morgan and homemaker Candy Morgan. Meyer was raised in Phoenix, Arizona, and attended Chaparral High School in Scottsdale, Arizona. In 1992, Meyer won a National Merit Scholarship, which helped fund her undergraduate studies at Brigham Young University in Provo, Utah, where she received a BA in English Literature in 1997. Although she began and finished her degree at BYU, she took classes at Arizona State University in fall 1996 and spring 1997.\r\n\r\nMeyer met her future husband, Christian \"Pancho\" Meyer, in Arizona when they were both children. They married in 1994, when Meyer was twenty-one.Together, they have sons who Christian Meyer retired from his job as an auditor to take care of full time.\r\n\r\nBefore writing her first novel, Twilight, Meyer considered going to law school because she felt she had no chance of becoming a writer. She later noted that the birth of her oldest son, Gabe, in 1997 changed her mind: \"Once I had Gabe, I just wanted to be his mom.\" Before becoming an author, Meyer's only professional work was as a receptionist at a property company."
+    },
+    "latest_revision": 27,
+    "revision": 27,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-17T06:10:21.643026"
+    }
+}

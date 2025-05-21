@@ -1,0 +1,39 @@
+{
+    "key": "/authors/OL3170942A",
+    "death_date": "1992",
+    "remote_ids": {
+        "wikidata": "Q254215",
+        "viaf": "22178414",
+        "isni": "0000000115564229"
+    },
+    "source_records": [
+        "bwb:9781448172993",
+        "promise:bwb_daily_pallets_2021-06-17",
+        "promise:bwb_daily_pallets_2020-12-31",
+        "promise:bwb_daily_pallets_2022-08-13",
+        "promise:bwb_daily_pallets_2023-04-20:W8-ARD-222",
+        "promise:bwb_daily_pallets_2023-05-12:O9-AEP-298",
+        "promise:bwb_daily_pallets_2023-10-09:O9-BVU-327",
+        "promise:bwb_daily_pallets_2024-01-30:P9-CUV-000",
+        "promise:bwb_daily_pallets_2024-08-08:KU-013-574"
+    ],
+    "name": "Rosemary Sutcliff",
+    "personal_name": "Rosemary Sutcliff",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Retold by Rosemary  Sutcliff"
+    ],
+    "birth_date": "1920",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-14T19:30:35.040278"
+    }
+}

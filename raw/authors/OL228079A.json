@@ -1,0 +1,101 @@
+{
+    "key": "/authors/OL228079A",
+    "name": "Isabel Allende",
+    "personal_name": "Isabel Allende",
+    "birth_date": "2 August 1942",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q83566",
+        "viaf": "61556825",
+        "isni": "0000000121356071"
+    },
+    "alternate_names": [
+        "Isabel Allende Llona",
+        "Isabelle Allende",
+        "I. Allende",
+        "ALLENDE ISABEL",
+        "ISABEL ALLENDE",
+        "Allende Isabel",
+        "Isabel (Lima 1942) ALLENDE",
+        "Allende, I., Allende, Isabel",
+        "Isabel Allende Staff"
+    ],
+    "links": [
+        {
+            "url": "https://viaf.org/viaf/61556825",
+            "title": "VIAF",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISNI",
+            "url": "http://isni.org/isni/0000000121356071",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q83566",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Web oficial",
+            "url": "https://www.isabelallende.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://es.wikipedia.org/wiki/Isabel_Allende",
+            "title": "Wikipedia (espa\u00f1ol)",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Britannica",
+            "url": "https://www.britannica.com/biography/Isabel-Allende",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Isabel Ang\u00e9lica Allende Llona (Lima, Per\u00fa; 2 de agosto de 1942)\u200b es una escritora chilena con nacionalidad estadounidense, de ascendencia hispano-portuguesa y nacida en Per\u00fa. Desde 2004 es miembro de la Academia Estadounidense de las Artes y las Letras. Obtuvo el Premio Nacional de Literatura de su pa\u00eds en 2010. La venta total de sus libros alcanza 73 millones de ejemplares y sus obras han sido traducidas a 42 idiomas. Es considerada como la escritora viva m\u00e1s le\u00edda del mundo de la lengua espa\u00f1ola.\r\n\r\nSobrina y ahijada del expresidente chileno Salvador Allende (1970 - 1973), comenz\u00f3 su carrera literaria como periodista. Tras el la muerte de su t\u00edo en el golpe militar de Chile en 1973 y el derrocamiento del gobierno de coalici\u00f3n, Isabel Allende abandon\u00f3 Chile y se refugi\u00f3 en Venezuela. Su primera novela, *La casa de los esp\u00edritus* (1985), que surgi\u00f3 directamente de su exilio, se convirti\u00f3 en un \u00e9xito de ventas y cr\u00edtica mundial. A menudo entreteje elementos de mito y realismo, o lo que se conoce como \"realismo m\u00e1gico\". Sus novelas a veces se basan en su propia infancia y experiencias vitales.\r\n\r\n\r\n----------\r\n\r\n\r\nIsabel Allende was born on 2 August 2 1942 in Lima, Peru. The niece and goddaughter of Salvador Allende, the former president of Chile from 1970 to 1973, she started her writing career as a journalist. Several months after her uncle's assassination and the overthrow of Chile's coalition government in 1973, Allende left Chile and found refuge in Venezuela. Her first novel, The House of the Spirits (1985), which arose directly out of her exile, became a worldwide bestseller and critical success. She often weaves together elements of myth and realism, or what is known as \"magic realist.\" Her novels are sometimes based on her own childhood and life experiences. Allende has been called \"the world's most widely read Spanish-language author.\""
+    },
+    "source_records": [
+        "amazon:8401020603",
+        "amazon:8483469286",
+        "amazon:8467207892",
+        "amazon:9875664529",
+        "amazon:950076282X",
+        "amazon:1471152189",
+        "amazon:902841861X",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-01-20",
+        "bwb:9780007226115",
+        "bwb:9780593598122",
+        "promise:bwb_daily_pallets_2024-08-26:W9-AAJ-710"
+    ],
+    "photos": [
+        12725988,
+        7123347
+    ],
+    "latest_revision": 21,
+    "revision": 21,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-19T20:01:39.573804"
+    }
+}

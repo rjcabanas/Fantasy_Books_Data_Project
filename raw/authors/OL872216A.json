@@ -1,0 +1,35 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Donna A. Ball born in 1951 in Georgia, USA. Her ancestors were one of the first pioneer families of North Georgia, and her family still lives on the land they purchased from the Cherokee in 1782.\r\n\r\nHer first book was published in 1982 as Donna Ball, since them she has written over a dozen works of commercial fiction under her name and under diferent pseudonyms: Rebecca Flanders, Donna Carlisle and Donna Boyd. She also signed novels with Shannon Harper as Leigh Bristol and Taylor Brady. And a novel with Linda Dano as Felicia Gallant. She is known for her work in women\u2019s fiction and suspense, as well as supernatural fantasy and adventure. Her novels have been translated into well over a dozen languages and have been published in virtually every country in the world. She has appeared on Entertainment Tonight and Lifestyles of the Rich and Famous, and has been featured in such publications as the Detroit Free Press, the Atlanta Journal Constitution, Ladies Home Journal, Good Housekeeping, and even T.V. Guide. She is the holder of the Storytelling World award, 2001, the Georgia Author of the Year Award, 2000, Romantic Times Reviewer\u2019s Choice Awards for consecutive years 1991-1996, the Georgia Romance Writer\u2019s Maggie Award, and the Lifetime Achievement Award from Romantic Times, among others.\r\n\r\nDonna lives in a restored turn-of-the-century barn in the heart of the Blue Ridge Mountains in the northeast Georgia with her dogs, they have won numerous awards for agility, obedience, and canine musical freestyle. Her hobbies include oil painting, hiking and dog obedience training."
+    },
+    "name": "Rebecca Flanders",
+    "personal_name": "Rebecca Flanders",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Donna Ball",
+        "Rebecca Flanders",
+        "Donna Carlisle",
+        "Donna Boyd",
+        "Leigh Bristol",
+        "Taylor Brady",
+        "Felicia Gallant"
+    ],
+    "photos": [
+        7260208
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-08-05T22:15:26.080472"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL872216A",
+    "birth_date": "1951",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

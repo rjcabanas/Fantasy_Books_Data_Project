@@ -1,0 +1,23 @@
+{
+    "remote_ids": {
+        "wikidata": "Q108116532"
+    },
+    "name": "Will Wight",
+    "key": "/authors/OL7493263A",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "WIll Wight"
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-03T13:29:48.098186"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-31T15:53:32.850555"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "alternate_names": [
+        "Trudi. Canavan",
+        "Canavan Trudi",
+        "canavan-trudi"
+    ],
+    "photos": [
+        13441392
+    ],
+    "remote_ids": {
+        "viaf": "7334223",
+        "wikidata": "Q256821",
+        "isni": "0000000078471495"
+    },
+    "name": "Trudi Canavan",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL2629960A",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T15:58:53.926658"
+    }
+}

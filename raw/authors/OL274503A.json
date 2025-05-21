@@ -1,0 +1,41 @@
+{
+    "key": "/authors/OL274503A",
+    "personal_name": "Margaret McAllister",
+    "source_records": [
+        "bwb:9780745962788",
+        "amazon:6053485918",
+        "amazon:2070505049",
+        "promise:bwb_daily_pallets_2021-05-05",
+        "promise:bwb_daily_pallets_2021-05-14",
+        "amazon:1948959232"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Margaret McAllister",
+    "alternate_names": [
+        "Margaret McAllister",
+        "M. I. McAllister",
+        "McAllister Margaret",
+        "Margaret Mcallister",
+        "Margaret I. McAllister",
+        "McAllister, Margaret, Archbold, Tom",
+        "M.i. Mcallister",
+        "M. I. Mcallister",
+        "M Mcallister",
+        "mcallister-m-i",
+        "M.I. Mcallister",
+        "M.I. MacAllister",
+        "M.I. McAllister"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-22T09:41:47.877650"
+    }
+}

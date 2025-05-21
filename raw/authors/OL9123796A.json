@@ -1,0 +1,17 @@
+{
+    "name": "Kizuka Nero",
+    "key": "/authors/OL9123796A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-24T04:14:06.403896"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-24T04:14:06.403896"
+    }
+}

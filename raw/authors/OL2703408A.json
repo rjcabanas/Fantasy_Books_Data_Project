@@ -1,0 +1,77 @@
+{
+    "alternate_names": [
+        "Ger\u00f3nimo Stilton",
+        "G\u00e9ronimo Stilton",
+        "Elisabetta Dami",
+        "gronimo stilton",
+        "Stilton",
+        "Thea Stilton,hhhhh,duhhhhh,duuuuuh,dddddddduh",
+        "Thea Stilton",
+        "Thea stilton",
+        "Tea Stilton",
+        "T\u00e9a Stilton",
+        " Thea Stilton (Elizebetha Dami)",
+        "STILTON TEA",
+        "TEA STILTON",
+        "Geronimo Stilton",
+        "STILTON",
+        "GERONIMO STILTON"
+    ],
+    "source_records": [
+        "amazon:0545560195",
+        "amazon:8838454248",
+        "ia:miniabenteuervon0000stil",
+        "amazon:8418443677",
+        "amazon:6054456490",
+        "ia:unvampiresanssan0000stil",
+        "amazon:9507321152",
+        "amazon:9507321896",
+        "amazon:8448860020",
+        "promise:bwb_daily_pallets_2022-08-22",
+        "promise:bwb_daily_pallets_2022-07-26",
+        "promise:bwb_daily_pallets_2021-04-13",
+        "ia:passionveterinai0000stil",
+        "amazon:9507321616",
+        "amazon:8408153277",
+        "amazon:9750841506",
+        "amazon:9507322140",
+        "amazon:950732173X",
+        "promise:bwb_daily_pallets_2023-09-06:W8-BVM-684",
+        "promise:bwb_daily_pallets_2023-10-18:O9-BIQ-205",
+        "ia:secretworldofger0000tatt",
+        "promise:bwb_daily_pallets_2023-11-03:O9-ASC-114",
+        "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:534334347:847",
+        "bwb:9782226153180"
+    ],
+    "title": "Literarische Gestalt",
+    "name": "Elisabetta Dami",
+    "bio": "Elisabetta Dami (born 1 January 1958) is an Italian children's book author who is famous as the creator of the character Geronimo Stilton.",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q1749076"
+    },
+    "photos": [
+        12384623,
+        12384621,
+        12384619,
+        -1,
+        12681291,
+        14323005,
+        10677007
+    ],
+    "personal_name": "Ger\u00f3nimo Stilton",
+    "birth_date": "1958-01-01",
+    "key": "/authors/OL2703408A",
+    "latest_revision": 43,
+    "revision": 43,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-13T06:50:17.597974"
+    }
+}

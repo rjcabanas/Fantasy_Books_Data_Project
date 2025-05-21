@@ -1,0 +1,13 @@
+{
+    "name": "Susan Coon",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-29 13:35:46.87638"
+    },
+    "key": "/authors/OL2676559A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 10122303,
+    "revision": 1
+}

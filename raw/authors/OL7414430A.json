@@ -1,0 +1,19 @@
+{
+    "name": "Melissa De la Cruz",
+    "personal_name": "Melissa De la Cruz",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-05-31T05:55:12.359283"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-05-31T05:55:12.359283"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7414430A",
+    "birth_date": "1971",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

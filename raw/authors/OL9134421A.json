@@ -1,0 +1,22 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "St\u00e9phanie Hurtubise",
+    "personal_name": "St\u00e9phanie Hurtubise",
+    "birth_date": "1965",
+    "key": "/authors/OL9134421A",
+    "source_records": [
+        "ia:lazone0000hurt"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-27T08:29:37.179041"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-27T08:29:37.179041"
+    }
+}

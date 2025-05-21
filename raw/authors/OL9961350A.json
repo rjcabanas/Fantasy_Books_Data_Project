@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Best Minecraft Novels",
+    "key": "/authors/OL9961350A",
+    "source_records": [
+        "ia:journeytocentero0000unse_x8x6"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-18T19:59:53.476529"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-18T19:59:53.476529"
+    }
+}

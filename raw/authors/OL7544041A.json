@@ -1,0 +1,18 @@
+{
+    "name": "Gloria Ana Maria M\u00f3nica Sanz Galindo",
+    "personal_name": "Gloria Ana Maria M\u00f3nica Sanz Galindo",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-31T09:08:04.272318"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-31T09:08:04.272318"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7544041A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

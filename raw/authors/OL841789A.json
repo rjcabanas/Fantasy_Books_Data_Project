@@ -1,0 +1,25 @@
+{
+    "personal_name": "James M. Ward",
+    "name": "James M. Ward",
+    "key": "/authors/OL841789A",
+    "alternate_names": [
+        "James M Ward"
+    ],
+    "birth_date": "1951",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:1936822350"
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-27T18:03:07.530252"
+    }
+}

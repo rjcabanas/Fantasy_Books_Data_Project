@@ -1,0 +1,32 @@
+{
+    "name": "Bill Willingham",
+    "remote_ids": {
+        "wikidata": "Q862653",
+        "isni": "0000000121337129",
+        "viaf": "54394200"
+    },
+    "personal_name": "Bill Willingham",
+    "source_records": [
+        "amazon:2365770630",
+        "amazon:2809414033"
+    ],
+    "key": "/authors/OL1398299A",
+    "photos": [
+        12843272
+    ],
+    "birth_date": "1956",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "William Willingham (born 1956) is an American writer and artist of comics, known for his work on the series *Elemental*s and *Fables*.",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-01T12:50:50.467805"
+    }
+}

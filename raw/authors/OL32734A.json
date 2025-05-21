@@ -1,0 +1,69 @@
+{
+    "alternate_names": [
+        "Albert Sidney Fleischmann",
+        "Sidney Fleischman",
+        "Inc. Sid Fleischman",
+        "Sid FLEISCHMAN",
+        "FLEISCHMAN SID",
+        "sid fleischman",
+        "A. S. Fleischman",
+        "S Fleischman",
+        "Albert Sidney Fleischman",
+        "Albert sidney Fleischman",
+        "Sid Fleishman"
+    ],
+    "name": "Sid Fleischman",
+    "source_records": [
+        "amazon:3980130428",
+        "amazon:0590101293",
+        "promise:bwb_daily_pallets_2022-05-25:P7-CRM-115",
+        "promise:bwb_daily_pallets_2022-06-28",
+        "promise:bwb_daily_pallets_2022-04-20:KQ-646-261",
+        "promise:bwb_daily_pallets_2023-10-06:W8-AEA-128"
+    ],
+    "links": [
+        {
+            "title": "Official Site",
+            "url": "http://www.sidfleischman.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sid_Fleischman",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "death_date": "2010",
+    "personal_name": "Sid Fleischman",
+    "remote_ids": {
+        "viaf": "66438084",
+        "wikidata": "Q1344495",
+        "isni": "0000000114740710"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Albert Sidney Fleischman (born Avron Zalmon Fleischman; March 16, 1920 \u2013 March 17, 2010) was an American author of children's books, screenplays, novels for adults, and nonfiction books about stage magic. His works for children are known for their humor, imagery, zesty plotting, and exploration of the byways of American history. He won the Newbery Medal in 1987 for *The Whipping Boy* and the Boston Globe\u2013Horn Book Award in 1979 for *Humbug Mountain*. For his career contribution as a children's writer he was U.S. nominee for the biennial, international Hans Christian Andersen Award in 1994. In 2003, the Society of Children's Book Writers and Illustrators inaugurated the Sid Fleischman Humor Award in his honor, and made him the first recipient. The Award annually recognizes a writer of humorous fiction for children or young adults. He told his own tale in *The Abracadabra Kid: A Writer's Life* (1996).\r\n\r\n*source: Wikipedia*"
+    },
+    "birth_date": "1920",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL32734A",
+    "photos": [
+        14819481
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-30T17:17:03.950935"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Shigekatsu Ihara",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:23:54.823847"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:23:54.823847"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7304828A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

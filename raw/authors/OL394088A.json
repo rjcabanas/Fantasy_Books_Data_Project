@@ -1,0 +1,31 @@
+{
+    "alternate_names": [
+        "Farmer, Nancy.",
+        "Farmer Nancy"
+    ],
+    "remote_ids": {
+        "viaf": "92966587",
+        "wikidata": "Q451379",
+        "isni": "0000000114625413"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1941",
+    "key": "/authors/OL394088A",
+    "source_records": [
+        "amazon:3785563582"
+    ],
+    "name": "Nancy Farmer",
+    "personal_name": "Nancy Farmer",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-17T19:19:16.724182"
+    }
+}

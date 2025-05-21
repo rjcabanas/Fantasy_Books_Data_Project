@@ -1,0 +1,46 @@
+{
+    "birth_date": "4 September 1924",
+    "death_date": "4 January 2004",
+    "bio": "Joan Delano Aiken was an English writer specialising in supernatural fiction and children's alternative history novels. - Wikipedia",
+    "date": "1924",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q263648",
+        "isni": "0000000114484913",
+        "viaf": "76434677"
+    },
+    "personal_name": "Aiken, Joan",
+    "alternate_names": [
+        "Joan Aiken",
+        "Nicholas Dee",
+        "Joan Aiken Hodge",
+        "Rosie Lee",
+        "Joan Aiken MBE",
+        "Joan aiken",
+        "Joan Aitken",
+        "Joan Delano Aiken",
+        "AIKEN JOAN"
+    ],
+    "photos": [
+        6678037
+    ],
+    "key": "/authors/OL20651A",
+    "source_records": [
+        "bwb:9780340681329",
+        "promise:bwb_daily_pallets_2022-09-12",
+        "promise:bwb_daily_pallets_2020-06-04"
+    ],
+    "name": "Joan Aiken",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-31T02:36:04.969781"
+    }
+}

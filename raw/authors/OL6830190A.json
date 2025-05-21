@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL6830190A",
+    "name": "Rachel Aaron",
+    "alternate_names": [
+        "aaron-rachel"
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-10-11T20:05:41.093045"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-04-16T07:17:28.844674"
+    }
+}

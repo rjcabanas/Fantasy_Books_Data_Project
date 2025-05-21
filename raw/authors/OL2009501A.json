@@ -1,0 +1,15 @@
+{
+    "name": "Victoria Walker",
+    "personal_name": "Victoria Walker",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-20 21:08:45.647727"
+    },
+    "key": "/authors/OL2009501A",
+    "birth_date": "1947",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 7229978,
+    "revision": 2
+}

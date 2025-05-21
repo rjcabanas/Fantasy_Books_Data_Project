@@ -1,0 +1,78 @@
+{
+    "remote_ids": {
+        "viaf": "19915813",
+        "wikidata": "Q462138",
+        "isni": "0000000116043994",
+        "amazon": "B000AQ1JN6",
+        "goodreads": "8591",
+        "gnd": "1229097775",
+        "imdb": "nm3984023",
+        "lc_naf": "n86066971",
+        "librarything": "wurtsjanny",
+        "storygraph": "20099a42-e223-4886-8a6d-8d98f631386e",
+        "inventaire": "wd:Q462138"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL24470A",
+    "personal_name": "Janny Wurts",
+    "name": "Janny Wurts",
+    "alternate_names": [
+        "J. Wurts",
+        "Wurts, J.",
+        "Wurts, Janny",
+        "Janny Wurts (author)"
+    ],
+    "birth_date": "10 December 1953",
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.paravia.com/JannyWurts",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Forum",
+            "url": "https://forum.paravia.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/w/janny-wurts/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?433",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/wurts_janny",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14852666
+    ],
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-17T05:35:03.332966"
+    }
+}

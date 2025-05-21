@@ -1,0 +1,32 @@
+{
+    "death_date": "2005-03-07",
+    "birth_date": "1929-04-06",
+    "personal_name": "Hall, Willis.",
+    "remote_ids": {
+        "viaf": "86445377",
+        "isni": "0000000119853693",
+        "wikidata": "Q3569123"
+    },
+    "source_records": [
+        "bwb:9780099562511"
+    ],
+    "name": "Willis Hall",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL318420A",
+    "bio": {
+        "type": "/type/text",
+        "value": "**Willis Hall** wurde in Yorkshire geboren und lebt heute mit seiner Familie in St. Albans, Hertfordshire. Er ist ein bekannter englischer Drehbuchautor und St\u00fcckeschreiber. \u203aUnd Dinosaurier gibt es doch ...\u2039 ist sein erstes Kinderbuch, wobei er betont, dass er das Wissen \u00fcber Dinosaurier von seinen Kindern erworben habe. \u2014 aus: *Und Dinosaurier gibt es doch ...*"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-20T11:52:45.741458"
+    }
+}

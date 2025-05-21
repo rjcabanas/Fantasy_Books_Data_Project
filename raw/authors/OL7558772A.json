@@ -1,0 +1,35 @@
+{
+    "name": "Richard Schwartz",
+    "personal_name": "Richard Schwartz",
+    "key": "/authors/OL7558772A",
+    "birth_date": "1958",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12807484
+    ],
+    "alternate_names": [
+        "Carl A. deWitt, Helmut Wolkenwand, Andras, David Winter"
+    ],
+    "bio": "Richard Schwartz, geboren 1958 in Frankfurt, hat eine Ausbildung als Flugzeugmechaniker und ein Studium der Elektrotechnik und Informatik absolviert. Er arbeitete er als Tankwart, Postfahrer, Systemprogrammierer und restauriert Autos und Motrr\u00e4der. Am liebsten widmet er sich jedoch fantastischen Welten, die er in der Nacht zu Papier bringt - mit gro\u00dfem Erfolg: Seine Reihe um \u00bbDas Geheimnis von Askir\u00ab wurde mehrfach f\u00fcr den Deutschen Phantastik Preis nominiert. Zuetzt erschienen seine Romane um \u00bbDie G\u00f6tterkriege\u00ab sowie das Fantasy-Epos \u00bbDie Lytar-Chronik\u00ab. \r\n\r\n*Aus dem Klappentext von \u00bbG\u00f6tterkriege: Die komplette Saga 1\u00ab*",
+    "links": [
+        {
+            "title": "Katalog der Deutschen Nationalbibliothek",
+            "url": "https://portal.dnb.de/opac.htm?method=simpleSearch&query=132030470",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-06-29T13:38:22.073966"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-06-24T09:20:03.229737"
+    }
+}

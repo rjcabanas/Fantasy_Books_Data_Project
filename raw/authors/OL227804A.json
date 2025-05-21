@@ -1,0 +1,36 @@
+{
+    "personal_name": "Frank Asch",
+    "birth_date": "1946",
+    "key": "/authors/OL227804A",
+    "source_records": [
+        "ia:yellowyellow0000asch",
+        "promise:bwb_daily_pallets_2021-08-19",
+        "promise:bwb_daily_pallets_2021-01-06"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Frank asch",
+        "FRANK FRANK ASCH",
+        "FRANK ASCH",
+        "ASCH,FRANK",
+        "Asch,Frank"
+    ],
+    "name": "Frank Asch",
+    "bio": {
+        "type": "/type/text",
+        "value": "American children's book writer, best known for his Moonbear picture books."
+    },
+    "death_date": "2022",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-07T22:26:43.361125"
+    }
+}

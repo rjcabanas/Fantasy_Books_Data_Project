@@ -1,0 +1,33 @@
+{
+    "death_date": "2003",
+    "birth_date": "1914",
+    "remote_ids": {
+        "isni": "0000000080938373",
+        "viaf": "14840715",
+        "wikidata": "Q354148"
+    },
+    "photos": [
+        12446950
+    ],
+    "bio": "John Robert McCloskey (September 15, 1914 \u2013 June 30, 2003) was an American writer and illustrator of children's books. He wrote and also illustrated nine picture books, and won two Caldecott Medals from the American Library Association for the year's best-illustrated picture book. Four of the nine books were set in Maine: Blueberries for Sal, One Morning in Maine, Time of Wonder, and Burt Dow, Deep-water Man; the last three were all set on the coast. His best-known work is Make Way For Ducklings, set in Boston. In longer works, he both wrote and illustrated Homer Price and he illustrated Keith Robertson's Henry Reed series.",
+    "personal_name": "Robert McCloskey",
+    "source_records": [
+        "amazon:1595191194",
+        "amazon:0788747193"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL952410A",
+    "name": "Robert McCloskey",
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-06T01:34:14.563558"
+    }
+}

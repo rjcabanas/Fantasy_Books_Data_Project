@@ -1,0 +1,33 @@
+{
+    "remote_ids": {
+        "viaf": "120061872",
+        "isni": "0000000110861961",
+        "wikidata": "Q1301663"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Kenneth Oppel",
+    "birth_date": "1967",
+    "personal_name": "Kenneth Oppel",
+    "alternate_names": [
+        "Ken Oppel"
+    ],
+    "source_records": [
+        "ia:weirdcaseofsuper0000oppe",
+        "promise:bwb_daily_pallets_2022-04-01",
+        "promise:bwb_daily_pallets_2021-04-01",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "key": "/authors/OL24396A",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-09T04:33:24.720343"
+    }
+}

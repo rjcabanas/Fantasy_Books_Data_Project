@@ -1,0 +1,32 @@
+{
+    "source_records": [
+        "amazon:0593110595",
+        "amazon:0141376317",
+        "bwb:9781536453584"
+    ],
+    "birth_date": "1984",
+    "remote_ids": {
+        "wikidata": "Q15721003",
+        "viaf": "268376597",
+        "isni": "0000000383288195"
+    },
+    "name": "Marie Lu",
+    "personal_name": "Marie Lu",
+    "key": "/authors/OL7057060A",
+    "photos": [
+        10103395
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-12-29T09:26:58.342703"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-03T22:00:03.730614"
+    }
+}

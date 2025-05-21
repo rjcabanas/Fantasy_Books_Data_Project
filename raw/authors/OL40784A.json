@@ -1,0 +1,65 @@
+{
+    "source_records": [
+        "ia:lalarmedesdieux0000feis",
+        "amazon:0002246546",
+        "amazon:0007229429",
+        "amazon:000224148X",
+        "amazon:0007264844",
+        "amazon:2290001643",
+        "amazon:0246133589",
+        "bwb:9780007370238",
+        "amazon:0002246813"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Raymond Feist",
+        "Raymond Elias Feist",
+        "Feist, Raymond",
+        "Feist, R.",
+        "R. Feist",
+        "R. E. Feist"
+    ],
+    "links": [
+        {
+            "title": "The Official Raymond E. Feist Website",
+            "url": "https://www.crydee.com",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "personal_name": "Raymond E. Feist",
+    "photos": [
+        14851563,
+        6387404
+    ],
+    "birth_date": "21 December 1945",
+    "bio": "Raymond Elias Feist (born Raymond Elias Gonzales III; December 21, 1945) is an American author known for his epic fantasy series, *The Riftwar Cycle*. Born in Los Angeles and raised in Southern California, Feist adopted the surname of his stepfather, Felix E. Feist, after his mother remarried. He graduated with honors from the University of California, San Diego, in 1977 with a B.A. in Communication Arts.\r\n\r\nFeist's journey into writing began during his college years when he and his friends created the role-playing game *Midkemia* as an alternative to *Dungeons & Dragons*. This game served as the foundation for his first novel, [*Magician*][4], published in 1982, which introduced readers to the richly detailed worlds of Midkemia and Kelewan. *The Riftwar Cycle*, featuring these worlds, has since become a cornerstone of modern fantasy literature, celebrated for its intricate world-building and interconnected stories spanning numerous novels and short stories. Feist's work often explores themes of conflict, magic, and the interplay between different cultures and worlds.\r\n\r\nFeist's contributions to fantasy literature have earned him recognition in the field, including the Inkpot Award in 1988. His work has achieved significant commercial success, with over 20 million copies sold worldwide and translations into multiple languages. He currently resides in San Diego, California, and continues to expand his literary universe with new installments and series.\r\n\r\nIn addition to *The Riftwar Cycle*, Feist has crafted other compelling narratives. *The Firemane Saga*, developed over four years, invites readers into a fresh realm emphasizing political intrigue and character-driven stories. Meanwhile, *The Dragonwar Saga* revisits the Riftwar universe, reuniting familiar characters and enriching the lore with new conflicts and adventures.\r\n\r\n(Sources:[1][50],[2][51])\r\n\r\n----------\r\n\r\n**Series in Order**\r\n\r\nThe *Riftwar Cycle* in Order:\r\n 1. *The Riftwar Saga*: [*Magician*][4] (1982), [*Silverthorn*][5] (1985), [*A Darkness at Sethanon*][6] (1986)\r\n 2. *The Empire Trilogy* (with [Janny Wurts][45]): [*Daughter of the Empire*][7] (1987), [*Servant of the Empire*][8] (1990), [*Mistress of the Empire*][9] (1992)\r\n 3. *Krondor's Sons*: [*Prince of the Blood*][10] (1989), [*The King's Buccaneer*][11] (1992)\r\n 4. *The Serpentwar Saga*: [*Shadow of a Dark Queen*][12] (1994), [*Rise of a Merchant Prince*][13] (1995), [*Rage of a Demon King*][14] (1997), [*Shards of a Broken Crown*][15] (1998)\r\n 5. *The Riftwar Legacy*: [*Krondor: The Betrayal*][16] (1998), [*Krondor: The Assassins*][17] (1999), [*Krondor: Tear of the Gods*][18] (2001), [*Jimmy and the Crawler*][19] (2013) (a novella)\r\n 6. *Legends of the Riftwar*: [*Honoured Enemy*][20] (2001) (with [William R. Forstchen][46]), [*Murder in LaMut*][21] (2002) (with [Joel Rosenberg][47]), [*Jimmy the Hand*][22] (2003) (with [S. M. Stirling][48])\r\n 7. *Conclave of Shadows*: [*Talon of the Silver Hawk*][23] (2002), [*King of Foxes*][24] (2003), [*Exile's Return*][25] (2004)\r\n 8. *The Darkwar Saga*: [*Flight of the Nighthawks*][26] (2005), [*Into a Dark Realm*][27] (2006), [*Wrath of a Mad God*][28] (2008)\r\n 9. *The Demonwar Saga*: [*Rides a Dread Legion*][29] (2009), [*At the Gates of Darkness*][30] (2010)\r\n 10. *Chaoswar Saga*: [*A Kingdom Besieged*][31] (2011), [*A Crown Imperilled*][32] (2012), [*Magician's End*][33] (2013)\r\n\r\nThe Firemane Saga: [*King of Ashes*][34] (2018), [*Queen of Storms*][35] (2020), [*Master of Furies*][36] (2022)\r\n\r\nThe Dragonwar Saga: [*A Darkness Returns*][37] (2024)\r\n\r\n\r\n[4]: https://openlibrary.org/works/OL554687W\r\n[5]: https://openlibrary.org/works/OL554688W\r\n[6]: https://openlibrary.org/works/OL554680W\r\n[7]: https://openlibrary.org/works/OL554742W\r\n[8]: https://openlibrary.org/works/OL554736W\r\n[9]: https://openlibrary.org/works/OL554751W\r\n[10]: https://openlibrary.org/works/OL554690W\r\n[11]: https://openlibrary.org/works/OL554691W\r\n[12]: https://openlibrary.org/works/OL554692W\r\n[13]: https://openlibrary.org/works/OL554694W\r\n[14]: https://openlibrary.org/works/OL554696W\r\n[15]: https://openlibrary.org/works/OL554695W\r\n[16]: https://openlibrary.org/works/OL554685W\r\n[17]: https://openlibrary.org/works/OL554686W\r\n[18]: https://openlibrary.org/works/OL554747W\r\n[19]: https://openlibrary.org/works/OL20887200W\r\n[20]: https://openlibrary.org/works/OL257936W\r\n[21]: https://openlibrary.org/works/OL257938W\r\n[22]: https://openlibrary.org/works/OL554703W\r\n[23]: https://openlibrary.org/works/OL554719W\r\n[24]: https://openlibrary.org/works/OL554727W\r\n[25]: https://openlibrary.org/works/OL554723W\r\n[26]: https://openlibrary.org/works/OL554701W\r\n[27]: https://openlibrary.org/works/OL554726W\r\n[28]: https://openlibrary.org/works/OL14963876W\r\n[29]: https://openlibrary.org/works/OL554735W\r\n[30]: https://openlibrary.org/works/OL15171940W\r\n[31]: https://openlibrary.org/works/OL15902261W\r\n[32]: https://openlibrary.org/works/OL16521360W\r\n[33]: https://openlibrary.org/works/OL17407680W\r\n[34]: https://openlibrary.org/works/OL19659032W\r\n[35]: https://openlibrary.org/works/OL20811145W\r\n[36]: https://openlibrary.org/works/OL25343409W\r\n[37]: https://openlibrary.org/works/OL37623281W\r\n[38]:\r\n[39]:\r\n[45]: https://openlibrary.org/authors/OL24470A\r\n[46]: https://openlibrary.org/authors/OL1475013A\r\n[47]: https://openlibrary.org/authors/OL2622993A\r\n[48]: https://openlibrary.org/authors/OL21915A\r\n[50]: https://en.wikipedia.org/wiki/Raymond_E._Feist\r\n[51]: https://www.crydee.com/",
+    "name": "Raymond E. Feist",
+    "key": "/authors/OL40784A",
+    "remote_ids": {
+        "isni": "0000000080984126",
+        "viaf": "19708573",
+        "wikidata": "Q350404",
+        "amazon": "B000AQU2EI",
+        "bookbrainz": "9cbddf59-ceff-4c77-a76f-d0f40db95d15",
+        "goodreads": "8588",
+        "imdb": "nm1618231",
+        "librarything": "feistraymonde",
+        "musicbrainz": "b5a9cf49-8560-46dd-9637-7e1006ccfd1e",
+        "storygraph": "a6b8d6cb-4848-4fe8-9675-ff49a92f650c",
+        "lc_naf": "n82027185"
+    },
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-11T21:49:41.745078"
+    }
+}

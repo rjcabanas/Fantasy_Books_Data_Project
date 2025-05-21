@@ -1,0 +1,23 @@
+{
+    "name": "Obert Skye",
+    "personal_name": "Obert Skye",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T18:21:19.430510"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1391145A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "43688665",
+        "wikidata": "Q7074822",
+        "isni": "0000000035822603"
+    }
+}

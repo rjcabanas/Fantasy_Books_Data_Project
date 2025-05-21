@@ -1,0 +1,23 @@
+{
+    "name": "Armin Shimerman",
+    "personal_name": "Armin Shimerman",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:26:44.286145"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1422920A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "56221740",
+        "wikidata": "Q353101",
+        "isni": "0000000041559573"
+    }
+}

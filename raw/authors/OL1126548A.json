@@ -1,0 +1,35 @@
+{
+    "remote_ids": {
+        "viaf": "36939041",
+        "wikidata": "Q440744",
+        "isni": "0000000108879046"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Lisa Tuttle",
+    "birth_date": "16 September 1952",
+    "personal_name": "Lisa Tuttle",
+    "alternate_names": [
+        "Maria Palmer",
+        "Lisa. (Introduction by). Tuttle",
+        "Lisa. Tuttle",
+        "Lisa Tuttle (author)",
+        "Lisa TUTTLE"
+    ],
+    "source_records": [
+        "amazon:1948405784",
+        "amazon:9896375224"
+    ],
+    "key": "/authors/OL1126548A",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-09T21:01:18.365913"
+    }
+}

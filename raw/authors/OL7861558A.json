@@ -1,0 +1,17 @@
+{
+    "name": "The Goldsmith Publishing Company",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-02T20:24:35.329775"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-02T20:24:35.329775"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7861558A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

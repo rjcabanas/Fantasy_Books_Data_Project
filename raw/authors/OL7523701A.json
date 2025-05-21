@@ -1,0 +1,19 @@
+{
+    "name": "Pendleton Ward",
+    "personal_name": "Pendleton Ward",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:32:12.144359"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:32:12.144359"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7523701A",
+    "birth_date": "1982",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

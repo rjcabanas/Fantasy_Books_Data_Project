@@ -1,0 +1,17 @@
+{
+    "name": "Carroll Burleigh Colby (1904-1977)",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-11-20T03:58:38.810261"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-11-20T03:58:38.810261"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7761155A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

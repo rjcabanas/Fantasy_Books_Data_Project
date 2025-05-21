@@ -1,0 +1,24 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-01-07T20:25:24.640153"
+    },
+    "latest_revision": 4,
+    "name": "Daryl Gregory",
+    "key": "/authors/OL6548079A",
+    "personal_name": "Daryl Gregory",
+    "birth_date": "1965",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T16:03:50.739626"
+    },
+    "remote_ids": {
+        "viaf": "53976615",
+        "wikidata": "Q3702879",
+        "isni": "0000000073305367"
+    }
+}

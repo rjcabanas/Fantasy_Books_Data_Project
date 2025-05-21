@@ -1,0 +1,19 @@
+{
+    "name": "Shunsuke Seki",
+    "personal_name": "Shunsuke Seki",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T12:12:04.202264"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T12:12:04.202264"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7607509A",
+    "birth_date": "1976",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

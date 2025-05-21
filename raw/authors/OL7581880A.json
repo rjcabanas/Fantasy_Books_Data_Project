@@ -1,0 +1,17 @@
+{
+    "name": "Sandra Waugh",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-09T17:40:57.359878"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-09T17:40:57.359878"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7581880A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

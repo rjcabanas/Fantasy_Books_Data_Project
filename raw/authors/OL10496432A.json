@@ -1,0 +1,37 @@
+{
+    "name": "Antonija Meznaric",
+    "key": "/authors/OL10496432A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "goodreads": "20201328",
+        "amazon": "B08L3H3MFY"
+    },
+    "alternate_names": [
+        "Antonija Me\u017enari\u0107"
+    ],
+    "links": [
+        {
+            "url": "https://hauntednarratives.com/",
+            "title": "Author's Site",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": "Antonija Me\u017enari\u0107 is a Croatian speculative fiction writer and editor. She specifically loves and writes urban fantasy, (folk) horror and fairy tale retellings.",
+    "photos": [
+        12802801
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-06-21T15:07:00.830625"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-06-21T15:20:24.533348"
+    }
+}

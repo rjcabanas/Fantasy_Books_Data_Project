@@ -1,0 +1,21 @@
+{
+    "name": "Cherie Priest",
+    "personal_name": "Cherie Priest",
+    "key": "/authors/OL1433627A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14541287
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-07T00:31:28.549600"
+    }
+}

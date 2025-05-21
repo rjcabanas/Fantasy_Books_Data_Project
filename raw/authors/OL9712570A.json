@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Cheryl Fassett",
+    "key": "/authors/OL9712570A",
+    "source_records": [
+        "amazon:1970006064"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-05T17:21:35.786102"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-05T17:21:35.786102"
+    }
+}

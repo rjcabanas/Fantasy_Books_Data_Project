@@ -1,0 +1,35 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Mickey Zucker Reichert (born as Miriam Susan Zucker in 1962) is an American fantasy fiction author of several best selling novels."
+    },
+    "name": "Mickey Zucker Reichert",
+    "personal_name": "Mickey Zucker Reichert",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Mickey Zucker Reichert",
+        "Miriam S. Zucker"
+    ],
+    "photos": [
+        7417009
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:19:52.513914"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL288587A",
+    "birth_date": "1962",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "24175986",
+        "wikidata": "Q6838825",
+        "isni": "0000000117294672"
+    }
+}

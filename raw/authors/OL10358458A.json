@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Rudolph K\u00f6gel",
+    "personal_name": "Rudolph K\u00f6gel",
+    "key": "/authors/OL10358458A",
+    "source_records": [
+        "marc:marc_gtu/KLF IA Export 5-5-22.mrc:18871333:1184"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-18T05:55:08.177324"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-05-18T05:55:08.177324"
+    }
+}

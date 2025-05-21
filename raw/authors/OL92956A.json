@@ -1,0 +1,57 @@
+{
+    "key": "/authors/OL92956A",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Christopher_Pike_%28author%29",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia page"
+        },
+        {
+            "url": "http://christopherpikebooks.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author web page"
+        }
+    ],
+    "name": "Christopher Pike",
+    "photos": [
+        7284354
+    ],
+    "remote_ids": {
+        "viaf": "100302103",
+        "wikidata": "Q540412",
+        "isni": "0000000108157748"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Christopher Pike pseudonym of American author Kevin Christopher McFadden. McFadden began writing mystery and science fiction novels after leaving college, but he was unable to publish them. When an editor at Avon Books suggested that he write a teen thriller, he wrote *Slumber Party*, which was published in 1985 and went on to a bestseller. In addition to dozens of teen thrillers, he has written books for children and for adult audiences."
+    },
+    "source_records": [
+        "ia:darkcorner0000pike",
+        "amazon:2266073478",
+        "amazon:1481410873",
+        "bwb:9781442413184"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Christopher Pike",
+    "birth_date": "12 November 1954",
+    "alternate_names": [
+        "Kevin McFadden, Kevin Christopher McFadden",
+        "Pike Christopher"
+    ],
+    "latest_revision": 15,
+    "revision": 15,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-09T20:58:54.671014"
+    }
+}

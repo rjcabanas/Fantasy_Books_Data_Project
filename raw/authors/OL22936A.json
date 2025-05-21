@@ -1,0 +1,19 @@
+{
+    "name": "William Joyce",
+    "personal_name": "Joyce, William",
+    "key": "/authors/OL22936A",
+    "birth_date": "1957",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-16T19:35:17.149155"
+    }
+}

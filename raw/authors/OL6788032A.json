@@ -1,0 +1,42 @@
+{
+    "birth_date": "1961",
+    "links": [
+        {
+            "url": "http://www.karenmiller.net/index.cfm",
+            "title": "author site",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        11273685
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Karen MILLER"
+    ],
+    "bio": "Karen Miller is an Australian writer. She is best known for The Innocent Mage, the first book in her duology Kingmaker, Kingbreaker.",
+    "key": "/authors/OL6788032A",
+    "name": "Karen Miller",
+    "personal_name": "Karen Miller",
+    "source_records": [
+        "amazon:073228452X",
+        "ia:lesseigneursdegu0000mill"
+    ],
+    "remote_ids": {
+        "viaf": "47097054"
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T04:58:04.203861"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-16T20:13:12.897565"
+    }
+}

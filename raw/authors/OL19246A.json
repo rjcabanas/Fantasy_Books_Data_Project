@@ -1,0 +1,55 @@
+{
+    "birth_date": "15 March 1953",
+    "personal_name": "Heather Graham",
+    "title": "(Graham, Heather)",
+    "bio": "Heather Graham was born on March 15, 1953 and grew up in Dade County, Florida, and attended the University of South Florida at Tampa, majoring in theater arts and touring Europe and parts of Asia and Africa as part of her studies. After college, she acted in dinner theaters, modeled, waitressed, and tended bar. She married Hershey Dennis Possezzere, and after the birth of her third child, she was determined to devote her efforts to her writing: her dream. She sold her first book in 1982.\r\n\r\nToday, this author's success is reflected not just by reader response and the over 20 million copies of her books in print, but in many other ways. In addition to being a New York Times bestselling author, Heather has received numerous awards for her novels, including over 20 trade awards from magazines such as Romantic Times and Affaire de Coeur, bestseller awards from B. Dalton, Waldenbooks, and BookRak, and several Reviewers' Choice and People's Choice awards.\r\n\r\nHeather has appeared on Entertainment Tonight, Romantically Speaking, a TV talk show that aired nationwide on the Romance Classics cable channel, and CBS Sunday News. She has been quoted in People and USA Today, been profiled in The Nation, and featured in Good Housekeeping. Her books have been selections for the Doubleday Book Club and the Literary Guild. She has been published across the world in more than 15 languages and has published over 70 titles, including anthologies and short stories.\r\n\r\nNow, she had five children. Somehow, this prolific author manages to juggle it all - family, career, and marriage - while reaching a level of success to which few can aspire.",
+    "alternate_names": [
+        "Heather Graham Pozzessere",
+        "Shannon Drake",
+        "Heather X. Graham",
+        "Heather Graham Possezzere",
+        "HEATHER GRAHAM",
+        "\u0428\u0435\u043d\u043d\u043e\u043d \u0414\u0440\u0435\u0439\u043a",
+        "Heather Graham-Pozzessere",
+        "Ge han (Graham, Heather)",
+        "Ge li han (Graham, Heather)",
+        "Heather Graham Pozzessere Shannon Drake",
+        "Duo lei (Drake, Shannon)",
+        "Pozzessere",
+        "Heather E. Graham",
+        "Heather G. Pozzessere"
+    ],
+    "name": "Heather Graham",
+    "remote_ids": {
+        "viaf": "84183990",
+        "isni": "0000000072472163",
+        "wikidata": "Q427886"
+    },
+    "key": "/authors/OL19246A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        6457653,
+        6457652,
+        6457655
+    ],
+    "source_records": [
+        "amazon:1741166233",
+        "amazon:1568658214",
+        "ia:lanyiren0000geha",
+        "ia:weijingqizi0000geli",
+        "promise:bwb_daily_pallets_2020-04-30",
+        "ia:jiaojiashangdexi0000duol"
+    ],
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-27T05:06:59.414957"
+    }
+}

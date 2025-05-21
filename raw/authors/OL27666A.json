@@ -1,0 +1,18 @@
+{
+    "name": "Mary Man-Kong",
+    "personal_name": "Mary Man-Kong",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-12-20T06:18:04.197210"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL27666A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

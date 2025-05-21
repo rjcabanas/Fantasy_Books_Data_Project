@@ -1,0 +1,67 @@
+{
+    "personal_name": "Andre Norton",
+    "key": "/authors/OL27951A",
+    "bio": "Andre Norton was born Alice Mary Norton in Cleveland, Ohio, the daughter of rug company owner and his wife.  She began writing while she was in high school, and she was the editor of a literary page in the school's paper.  She also wrote her first novel, Ralestone Luck, which was published in 1938.  Her first published novel was The Prince Commands (1934).  She graduated from high school in 1930 and began studying teaching at Flora Stone Mather College of Western Reserve University.  In 1932 she dropped out early due to economic conditions and began working for the Cleveland Library System.  In 1934, she legally changed her name to Andre Alice Norton, the pen name she had adopted to increase her marketability since boys were the main audience for fantasy.  In 1941, she bought a bookstore called the Mystery House in Mount Rainier, Maryland, but the business failed and she returned to the Cleveland Public Library.  In 1950 she became a reader for the Gnome Press Co.  In 1958 she became a full-time author.  In 1966 she moved to Florida for health reasons, and then to Murfreesboro, Tennessee.  In 1977, she received the Gandalf Grand Master Award from the World Science Fiction Society, and in 1983 she received the Damon Knight Memorial Grand Master Award from the Science Fiction and Fantasy Writers of America.  She died in March of 2005 of congestive heart failure.\r\n\r\nShe has been called the Grande Dame of Science Fiction and Fantasy.  Over the course of her career, she published over 300 published titles read by four generations.  Shortly after her death, the Science Fiction and Fantasy Writers of America created the Andre Norton Award for outstanding work of fantasy or science fiction for Young Adults.",
+    "remote_ids": {
+        "viaf": "121640202",
+        "wikidata": "Q235899"
+    },
+    "links": [
+        {
+            "title": "andre-norton-books.com",
+            "url": "http://www.andre-norton-books.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14612221,
+        5542283,
+        7412718,
+        7390867
+    ],
+    "birth_date": "17 February 1912",
+    "alternate_names": [
+        "Andrew North",
+        "Alice Mary Norton",
+        "Alice M. Norton",
+        "Andr\u00e9 Norton",
+        "Alice Andre Norton",
+        "Andre NORTON",
+        "Andre\u0301 Norton",
+        "Norton Andr\u00e9",
+        "Andre\u0301 NORTON",
+        "Mar\u00eda del Carmen Guti\u00e9rrez S\u00e1nchez",
+        "Carmela Guti\u00e9rrez de Gambra",
+        "Miguel Arazuri",
+        "Andr\u00e9 Ronsac",
+        "Clara San Miguel",
+        "Alice Norton",
+        "Enid Colman",
+        "Andre\u0307 Norton"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "death_date": "17 March 2005",
+    "name": "Andre Norton",
+    "fuller_name": "Andre Alice Norton",
+    "source_records": [
+        "amazon:1374845965",
+        "bwb:9780099100218",
+        "bwb:9781437804874",
+        "bwb:9781520267586",
+        "amazon:0575005254"
+    ],
+    "latest_revision": 24,
+    "revision": 24,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T16:39:53.951466"
+    }
+}

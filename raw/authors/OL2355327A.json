@@ -1,0 +1,50 @@
+{
+    "alternate_names": [
+        "Inc Staff Scholastic",
+        "Inc. Scholastic",
+        "Inc Scholastic",
+        "Scholastic",
+        "SCHOLASTIC",
+        "scholastic",
+        "et.al. Scholastic",
+        "Scholastic.",
+        "Scholastic",
+        "Scholastic",
+        "Scholastic,",
+        "Sch\u00f3lastic",
+        "null Scholastic",
+        "Scholastic (Author)",
+        "Scholastic Usa",
+        "Scholastic (author)",
+        "-Scholastic"
+    ],
+    "source_records": [
+        "amazon:1338318829",
+        "bwb:9798844538278",
+        "amazon:054500411X",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2020-11-19"
+    ],
+    "name": "Scholastic",
+    "remote_ids": {
+        "isni": "0000000406262650",
+        "viaf": "124402590",
+        "wikidata": "Q1155729"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "entity_type": "org",
+    "personal_name": "Scholastic.",
+    "key": "/authors/OL2355327A",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-11T17:55:42.560046"
+    }
+}

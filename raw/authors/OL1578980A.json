@@ -1,0 +1,33 @@
+{
+    "name": "Alan Grant",
+    "key": "/authors/OL1578980A",
+    "personal_name": "Alan Grant",
+    "birth_date": "1949",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Grant, Alan"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Scottish comic book writer"
+    },
+    "remote_ids": {
+        "wikidata": "Q327222",
+        "isni": "0000000109305845",
+        "viaf": "107585035",
+        "amazon": "B001IZ0YIO"
+    },
+    "death_date": "2022",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-19T13:50:46.562727"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Max Velthuijs",
+    "personal_name": "Max Velthuijs",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-06 22:29:13.235957"
+    },
+    "key": "/authors/OL200181A",
+    "birth_date": "1923",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 512418,
+    "revision": 2
+}

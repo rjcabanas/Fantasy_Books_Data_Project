@@ -1,0 +1,17 @@
+{
+    "name": "Emmi It\u00c3\u00a4ranta",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-13T13:53:57.620823"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-13T13:53:57.620823"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7583053A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

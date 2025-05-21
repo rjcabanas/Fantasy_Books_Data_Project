@@ -1,0 +1,17 @@
+{
+    "name": "Conrad Mason",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-12-05T10:25:41.258070"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2015-12-05T10:25:41.258070"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7275243A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

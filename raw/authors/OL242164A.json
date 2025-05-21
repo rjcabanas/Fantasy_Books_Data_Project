@@ -1,0 +1,46 @@
+{
+    "key": "/authors/OL242164A",
+    "source_records": [
+        "amazon:3442369673",
+        "bwb:9780007444489",
+        "ia:lombreduneinquis0000good_u4f9",
+        "amazon:2352946697",
+        "amazon:1501231804"
+    ],
+    "birth_date": "11 January 1948",
+    "personal_name": "Terry Goodkind",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Terry_Goodkind",
+            "title": "Wikipedia",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        7252552
+    ],
+    "death_date": "17 September 2020",
+    "remote_ids": {
+        "isni": "0000000118773739",
+        "amazon": "B000APZOQA",
+        "wikidata": "Q366150",
+        "viaf": "67399498",
+        "goodreads": "3441"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Terry Goodkind",
+    "latest_revision": 15,
+    "revision": 15,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-05T16:25:16.699800"
+    }
+}

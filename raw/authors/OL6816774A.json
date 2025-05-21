@@ -1,0 +1,17 @@
+{
+    "name": "Michelle Hasker",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T21:05:55.708659"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T21:05:55.708659"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6816774A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

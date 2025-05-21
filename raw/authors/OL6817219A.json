@@ -1,0 +1,17 @@
+{
+    "name": "Diane Story",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T22:19:56.634032"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T22:19:56.634032"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6817219A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

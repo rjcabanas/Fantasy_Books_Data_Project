@@ -1,0 +1,17 @@
+{
+    "name": "Alice Cascorbi",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-03-28T00:09:54.127492"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-28T00:09:54.127492"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7827516A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

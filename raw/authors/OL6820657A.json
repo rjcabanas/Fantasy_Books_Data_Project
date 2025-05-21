@@ -1,0 +1,17 @@
+{
+    "name": "Robin T Popp",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T06:39:51.228939"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T06:39:51.228939"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6820657A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

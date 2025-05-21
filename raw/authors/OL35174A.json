@@ -1,0 +1,54 @@
+{
+    "key": "/authors/OL35174A",
+    "personal_name": "Bond, Michael.",
+    "alternate_names": [
+        "Bond, Michael",
+        "MICHAEL BOND",
+        "Bond Michael",
+        "BOND MICHAEL",
+        "BOND, MICHAEL",
+        "Micha\u00ebl Bond",
+        "Michael BOND",
+        "michael bond",
+        "Bond M."
+    ],
+    "name": "Michael Bond",
+    "birth_date": "1926",
+    "bio": "Michael Bond, OBE, (born in Newbury, Berkshire) is an English author, most celebrated for his Paddington Bear series of books.\r\n\r\nBond began writing in 1945 and sold his first short story to the magazine London Opinion. In 1958, after producing a number of plays and short stories and while working as a BBC television cameraman (where he worked filming Blue Peter for a time), his first book, *A Bear Called Paddington*, was published. This was the start of Bond's most famous series of books, telling tales of a bear from \"Darkest Peru\", whose Aunt Lucy sends him to England, carrying a jar of marmalade. The Brown family found the bear at Paddington Station, and adopted him, naming the bear after the station. By 1967, Bond was able to give up his BBC job to work full-time as a writer. Paddington's adventures have been published in nearly twenty countries, and has inspired pop bands, race horses, plays, hot air balloons and a TV series. Bond stated in December 2007 that he did not plan to continue the adventures of Paddington Bear in further volumes.\r\n\r\n([Source][1])\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/Michael_Bond",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        6390065
+    ],
+    "death_date": "2017",
+    "source_records": [
+        "amazon:0006740448",
+        "amazon:0008226202",
+        "ia:paddingtonaucirq0000bond",
+        "bwb:9780754076926",
+        "amazon:0062569201",
+        "amazon:000782727X",
+        "amazon:0245593403",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2022-09-07:O8-CUH-760",
+        "promise:bwb_daily_pallets_2020-04-09",
+        "promise:bwb_daily_pallets_2021-04-06",
+        "promise:bwb_daily_pallets_2020-12-14",
+        "amazon:5389097661",
+        "ia:paddington0000bond_y2d3"
+    ],
+    "remote_ids": {
+        "wikidata": "Q122127"
+    },
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-02T16:55:48.471238"
+    }
+}

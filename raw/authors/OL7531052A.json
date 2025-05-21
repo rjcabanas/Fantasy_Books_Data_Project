@@ -1,0 +1,21 @@
+{
+    "personal_name": "Dhonielle Clayton",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL7531052A",
+    "name": "Dhonielle Clayton",
+    "source_records": [
+        "bwb:9781789098006"
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T03:28:12.556334"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-10T21:34:25.466027"
+    }
+}

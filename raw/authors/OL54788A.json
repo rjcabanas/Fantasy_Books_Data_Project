@@ -1,0 +1,27 @@
+{
+    "alternate_names": [
+        "Winsor Mccay"
+    ],
+    "key": "/authors/OL54788A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q207960"
+    },
+    "personal_name": "Winsor McCay",
+    "name": "Winsor McCay",
+    "photos": [
+        14423383
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-16T09:01:38.457689"
+    }
+}

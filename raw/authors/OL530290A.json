@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Monica Enid Dickens was a writer.\r\n\r\nDickens was the great-granddaughter of the author Charles Dickens, and was born into the upper-middle class. She became disillusioned her privilege and became a domestic servant. Her experiences as a servant and cook were the subject of her first book, \"One Pair of Hands,\" published in 1939. Her second book, \"One Pair of Feet,\" was about her experiences as a nurse. She also worked in an aircraft factory and on a local newspaper.\r\n\r\nDickens then married a U.S. Navy officer and moved to the United States. She continued to write and was a columnist for the British magazine Woman's Own."
+    },
+    "photos": [
+        14613298,
+        14573999,
+        9318517,
+        14613300,
+        14613308,
+        14613305,
+        14613306,
+        14613304,
+        14613307
+    ],
+    "remote_ids": {
+        "viaf": "109160958",
+        "wikidata": "Q273311",
+        "isni": "0000000110323688"
+    },
+    "alternate_names": [
+        "MONICA DICKENS",
+        "Dickens Monica",
+        "Monica DICKENS",
+        "monica dickens"
+    ],
+    "source_records": [
+        "amazon:0343461080",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-03-31",
+        "promise:bwb_daily_pallets_2022-11-03:KR-608-996"
+    ],
+    "birth_date": "1915",
+    "personal_name": "Monica Dickens",
+    "death_date": "1992",
+    "key": "/authors/OL530290A",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "title": "Wikipedia page",
+            "url": "https://en.wikipedia.org/wiki/Monica_Dickens",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "name": "Monica Dickens",
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-12T18:17:29.453406"
+    }
+}

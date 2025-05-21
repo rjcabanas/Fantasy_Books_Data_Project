@@ -1,0 +1,23 @@
+{
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-11-12T00:15:54.539078"
+    },
+    "latest_revision": 3,
+    "name": "Basil Jackson",
+    "key": "/authors/OL2684670A",
+    "personal_name": "Jackson, Basil",
+    "birth_date": "1920",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "alternate_names": [
+        "Jackson, Basil",
+        "B. Jackson"
+    ],
+    "revision": 3
+}

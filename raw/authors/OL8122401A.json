@@ -1,0 +1,17 @@
+{
+    "name": "John Forrester",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-13T15:24:17.735640"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-13T15:24:17.735640"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8122401A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

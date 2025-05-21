@@ -1,0 +1,48 @@
+{
+    "alternate_names": [
+        "may arbuthnot",
+        "M.H. Arbuthnot",
+        "Arbuthnot",
+        "M. H. Arbuthnot",
+        "Mary Hill & Shelton L. Root Arbuthnot"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "May Hill Arbuthnot",
+    "birth_date": "1884-08-27",
+    "key": "/authors/OL1763385A",
+    "bio": "May Hill Arbuthnot (August 27, 1884 \u2013 October 2, 1969) was an American educator, editor, writer, and critic who devoted her career to the awareness and importance of children's literature. Her efforts expanded and enriched the selection of books for children, libraries, and children's librarians alike. She was selected for American Libraries article \u201c100 Most Important Leaders we had for the 20th Century\u201d. [source](https://en.wikipedia.org/wiki/May_Hill_Arbuthnot)",
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-08-30",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "promise:bwb_daily_pallets_2021-04-01",
+        "promise:bwb_daily_pallets_2020-11-24",
+        "promise:bwb_daily_pallets_2022-08-13:851-BAA-775",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2022-09-14:O8-CQK-196",
+        "promise:bwb_daily_pallets_2023-01-03",
+        "promise:bwb_daily_pallets_2021-07-26",
+        "promise:bwb_daily_pallets_2023-02-23:W8-BIV-942",
+        "promise:bwb_daily_pallets_2022-09-19:W7-CQZ-845",
+        "promise:bwb_daily_pallets_2023-06-21:O9-AKP-411",
+        "promise:bwb_daily_pallets_2023-04-17:T3-BAU-766"
+    ],
+    "death_date": "1969-10-02",
+    "remote_ids": {
+        "viaf": "25890995",
+        "wikidata": "Q6796513",
+        "isni": "0000000120227040"
+    },
+    "personal_name": "May Hill Arbuthnot",
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-03T11:22:42.304084"
+    }
+}

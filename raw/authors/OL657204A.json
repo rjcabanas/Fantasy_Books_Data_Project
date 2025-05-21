@@ -1,0 +1,44 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Chris Van Allsburg (born June 18, 1949) is an American illustrator and writer of children's books. He has won two Caldecott Medals for U.S. picture book illustration, for Jumanji (1981) and The Polar Express (1985), both of which he also wrote; both were later adapted as successful motion pictures. He was also a Caldecott runner-up in 1980 for The Garden of Abdul Gasazi. For his contribution as a children's illustrator, he was a 1986 U.S. nominee for the biennial International Hans Christian Andersen Award, the highest international recognition for creators of children's books. He received the honorary degree of Doctor of Humane Letters from the University of Michigan in April 2012."
+    },
+    "birth_date": "18 June 1949",
+    "alternate_names": [
+        "Chris van Allsburg",
+        "Chris VAN ALLSBURG",
+        "VAN ALLSBURG CHRIS",
+        "Van Allsburg Chris"
+    ],
+    "key": "/authors/OL657204A",
+    "photos": [
+        12529158
+    ],
+    "remote_ids": {
+        "wikidata": "Q704553",
+        "isni": "0000000121477850",
+        "viaf": "110971034"
+    },
+    "source_records": [
+        "ia:lepaveduzephyr0000vana",
+        "amazon:2924645050",
+        "bwb:9781299890862",
+        "amazon:2211230504",
+        "promise:bwb_daily_pallets_2023-08-15:W8-AWG-132"
+    ],
+    "name": "Chris Van Allsburg",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Chris Van Allsburg",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-24T11:26:38.269008"
+    }
+}

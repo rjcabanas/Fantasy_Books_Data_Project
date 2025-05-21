@@ -1,0 +1,20 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 4,
+    "name": "Robert Plank",
+    "key": "/authors/OL585342A",
+    "personal_name": "Robert Plank",
+    "birth_date": "1907",
+    "death_date": "1983",
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-06-07T00:10:00.683603"
+    },
+    "revision": 4
+}

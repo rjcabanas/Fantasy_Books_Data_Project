@@ -1,0 +1,55 @@
+{
+    "alternate_names": [
+        "Lois Mcmaster Bujold",
+        "Lois Bujold",
+        "Lois Mac Master Bujold",
+        "Bujold Lois McMaster",
+        "LOIS MCMASTER BUJOLD",
+        "Lois Mc Master Bujold",
+        "Lois Mcmasater Bujold",
+        "Lois Mcmaster-Bujold",
+        "Mac Master Bujold Lo",
+        "Lo\u00efs McMaster Bujold",
+        "Mcmaster Bujold Lois",
+        "Bujold",
+        "LOIS McMASTER BUJOLD",
+        "mac master bujold lois"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL21317A",
+    "remote_ids": {
+        "viaf": "51747658",
+        "wikidata": "Q229369",
+        "isni": "0000000083820311"
+    },
+    "photos": [
+        7438100,
+        7438099,
+        7438098,
+        6463835
+    ],
+    "personal_name": "Lois McMaster Bujold",
+    "bio": "One of the most respected writers in the field of speculative fiction, **Lois McMaster Bujold** burst onto the scene in 1986 with Shards of Honor, the first of her tremendously popular Vorkosigan Saga novels. She has received numerous accolades and prizes, including the Nebula Award (for Falling Free), three Hugo Awards for Best Novel (The Vor Game, Barrayar, and Mirror Dance), as well as the Hugo and Nebula Awards for her novella Mountains of Mourning. Her short story, \u201cLabyrinth,\u201d won first place in Analog Magazine's annual awards. The mother of two, Ms. Bujold lives in Minneapolis, Minnesota.",
+    "source_records": [
+        "amazon:0060097078",
+        "amazon:8498722934",
+        "amazon:8440692897",
+        "amazon:2290036870",
+        "promise:bwb_daily_pallets_2023-05-15:KN-535-873",
+        "promise:bwb_daily_pallets_2023-12-21:P9-BDQ-531"
+    ],
+    "name": "Lois McMaster Bujold",
+    "birth_date": "2 November 1949",
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-12T18:38:06.142747"
+    }
+}

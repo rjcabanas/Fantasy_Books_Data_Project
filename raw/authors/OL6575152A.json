@@ -1,0 +1,19 @@
+{
+    "name": "Aaron Starmer",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T00:44:33.377251"
+    },
+    "personal_name": "Aaron Starmer",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T00:44:33.377251"
+    },
+    "key": "/authors/OL6575152A",
+    "birth_date": "1976",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33751531,
+    "revision": 1
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Erin Bow",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-01T00:33:16.020571"
+    },
+    "personal_name": "Erin Bow",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-01T00:33:16.020571"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6733982A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 34697670,
+    "revision": 1
+}

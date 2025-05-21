@@ -1,0 +1,17 @@
+{
+    "name": "Anastasia Seregina",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-18T02:55:24.383084"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-18T02:55:24.383084"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8183149A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

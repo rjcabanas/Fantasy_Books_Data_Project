@@ -1,0 +1,26 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Barbara Brooks Wallace is an award-winning American children's writer, who was born and spent her childhood in China. She is the winner of two Edgar Allan Poe Awards from the Mystery Writers of America for The Twin in the Tavern (1994) and Sparrows in the Scullery (1998). Cousins in The Castle (1997) and Ghosts in the Gallery (2001) were also nominated for the Edgar Award. She received the NLAPW Children's Book Award and International Youth Library \"Best of the Best\" Honor for Claudia (2001) and the William Allen White Children's Book Award for Peppermints in the Parlor (1983). The trilogy series, Miss Switch, enjoyed a popular run on the successful TV program, The ABC Weekend Specials, garnering the highest Nielsen ratings of all the episodes. Wallace's Hawkins books (which were notable offerings from the elite Scholastic Book Club) were also featured as live action films on The ABC Weekend Specials."
+    },
+    "personal_name": "Barbara Brooks Wallace",
+    "photos": [
+        7021384
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-01-31T03:08:27.596366"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL25649A",
+    "name": "Barbara Brooks Wallace",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "birth_date": "1922",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

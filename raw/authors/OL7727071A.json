@@ -1,0 +1,17 @@
+{
+    "name": "Adam Kline",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-11-02T00:02:07.974378"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-11-02T00:02:07.974378"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7727071A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

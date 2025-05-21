@@ -1,0 +1,46 @@
+{
+    "personal_name": "Christianna Brand",
+    "death_date": "1988",
+    "alternate_names": [
+        "Mary Ann Ashe",
+        "Annabel Jones",
+        "Mary Brand",
+        "Mary Roland",
+        "China Thompson"
+    ],
+    "name": "Christianna Brand",
+    "birth_date": "1907",
+    "source_records": [
+        "amazon:1014317622",
+        "bwb:9780712354912",
+        "bwb:9781453228319",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-03-31",
+        "promise:bwb_daily_pallets_2022-08-16",
+        "promise:bwb_daily_pallets_2021-04-26",
+        "bwb:9781015171688",
+        "bwb:9781453228326",
+        "promise:bwb_daily_pallets_2023-08-30:W8-AWK-294",
+        "bwb:9781464216411"
+    ],
+    "key": "/authors/OL889814A",
+    "remote_ids": {
+        "viaf": "39374328",
+        "isni": "0000000116245254",
+        "wikidata": "Q460630"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Christianna Brand was born Mary Christianna Milne in Malaya but spent most of her childhood in England and India. She had a number of different occupations, including model, dancer, shop assistant and governess. Brand also wrote under the pseudonyms Mary Ann Ashe, Annabel Jones, Mary Brand, Mary Roland, and China Thompson. Christianna Brand served as chair of the Crime Writers' Association from 1972 to 1973. (Wikipedia)",
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-15T16:30:28.616445"
+    }
+}

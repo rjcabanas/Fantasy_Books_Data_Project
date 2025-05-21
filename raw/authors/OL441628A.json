@@ -1,0 +1,63 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "27043127",
+        "wikidata": "Q1108703",
+        "isni": "0000000114695075"
+    },
+    "alternate_names": [
+        "Colin Milton Thiele",
+        "Max; Thiele, Colin; Ills. by Craig Smith Fatchen",
+        "Colin thiele colin"
+    ],
+    "photos": [
+        6284321
+    ],
+    "personal_name": "Colin Thiele",
+    "key": "/authors/OL441628A",
+    "source_records": [
+        "amazon:2081619121"
+    ],
+    "birth_date": "November 16, 1920",
+    "bio": {
+        "type": "/type/text",
+        "value": "Colin Thiele was an Australian author and educator. He was renowned for his award-winning children's fiction, most notably the novels Storm Boy and Blue Fin. ([Source][1].)\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/Colin_Thiele"
+    },
+    "death_date": "September 4, 2006",
+    "name": "Colin Thiele",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Colin_Thiele",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia entry"
+        },
+        {
+            "url": "http://www.library.unisa.edu.au/resources/collections/thiele/biography.asp",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "University of South Australia page"
+        },
+        {
+            "url": "http://www.eudunda.net/colinthiele/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Home page"
+        }
+    ],
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-27T15:04:06.807776"
+    }
+}

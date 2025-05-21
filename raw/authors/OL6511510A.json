@@ -1,0 +1,18 @@
+{
+    "name": "Janice Hardy",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-12-12T12:28:01.160742"
+    },
+    "personal_name": "Janice Hardy",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-12-12T12:28:01.160742"
+    },
+    "key": "/authors/OL6511510A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33291799,
+    "revision": 1
+}

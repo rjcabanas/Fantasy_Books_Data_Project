@@ -1,0 +1,17 @@
+{
+    "name": "Kate O'Hearn",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T02:35:59.296172"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T02:35:59.296172"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7299753A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

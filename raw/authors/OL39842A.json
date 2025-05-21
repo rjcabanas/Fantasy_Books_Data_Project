@@ -1,0 +1,26 @@
+{
+    "personal_name": "Mike Thaler",
+    "alternate_names": [
+        "Mike THALER",
+        "Mike thaler"
+    ],
+    "key": "/authors/OL39842A",
+    "source_records": [
+        "bwb:9780060260903"
+    ],
+    "birth_date": "1936",
+    "name": "Mike Thaler",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-17T01:00:59.535133"
+    }
+}

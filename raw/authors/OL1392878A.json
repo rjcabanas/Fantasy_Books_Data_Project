@@ -1,0 +1,36 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "W.Bruce Cameron",
+        "W. BRUCE CAMERON",
+        "W Bruce Cameron",
+        "BRUCE CAMERON",
+        "Bruce w. Cameron",
+        "W. Bruce Cameron Staff",
+        "Cameron W Bruce"
+    ],
+    "personal_name": "W. Bruce Cameron",
+    "birth_date": "1960",
+    "bio": "W. Bruce Cameron began his career writing a family newspaper humor column, eventually become an internationally syndicated columnist. His column, 8 Simple Rules for Dating My Teenage Daughter became a New York Times Bestselling book and a People\u2019s Choice Award Winning series on ABC. It currently runs in syndication in 33 countries worldwide. He is perhaps best known, however, as the Benchley Award Winning, #1 USA TODAY and #1 New York Times Bestselling author of the A Dog\u2019s Purpose series of books. He\u2019s also, along with his wife Cathryn Michon, the screenwriter for the Amblin/Universal film A Dog\u2019s Purpose, which has gone on to become the most successful international live action dog movie of all time. He has published 15 books, and his books have become international bestsellers, having been translated into over 50 languages. The Sony Pictures release of his bestselling\r\nbook A Dog\u2019s Way Home, will be in theaters January 11th 2019, and the movie A Dog\u2019s Journey, again from Amblin/Universal, will be released on May 17th of 2019. He and his wife are screenwriters for both of those films. His novels for younger readers have won awards and are being taught in classrooms everywhere. He is currently at work on the highly anticipated novel A Dog\u2019s Purpose 3: A Dog\u2019s Promise. \r\n([source][1])\r\n\r\n\r\n  [1]: https://wbrucecameron.com/wp-content/uploads/2018/11/W.-Bruce-Cameron-author-Introduction.pdf",
+    "key": "/authors/OL1392878A",
+    "source_records": [
+        "amazon:0765395029",
+        "bwb:9781529010077",
+        "bwb:9780007197804",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "amazon:8417821430"
+    ],
+    "name": "W. Bruce Cameron",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-08T11:04:13.621887"
+    }
+}

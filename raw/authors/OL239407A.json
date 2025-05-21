@@ -1,0 +1,35 @@
+{
+    "name": "Tracy Barrett",
+    "bio": {
+        "type": "/type/text",
+        "value": "Tracy Barrett is the author of numerous fiction and nonfiction books for young readers, including the award-winning YA biographical novel, Anna of Byzantium (Delacorte, 1999). Her most recent publications are The 100-Year-Old Secret (Book 1 of \u201cThe Sherlock Files,\u201d Henry Holt Books for Young Readers, 2008), The Ancient Chinese World (Oxford University Press, 2005) and On Etruscan Time (Henry Holt Books for Young Readers, 2005). Under contract with Holt are three more novels in \u201cThe Sherlock Files\u201d and a young-adult novel with the working title King of Ithaka. Some of her past publications include: Growing Up in Colonial America (The Millbrook Press, 1995); Virginia, Tennessee, and Kentucky, in the series Celebrate the States (Benchmark Books, Marshall Cavendish, 1997-1999); The Trail of Tears: An American Tragedy (Perfection Learning Corporation, 2000); \u201cThe Children\u2019s Crusade\u201d (AppleSeeds Magazine, December 2001); and Cold in Summer (Henry Holt Books for Young Readers, 2003). Tracy is Regional Advisor for the Midsouth chapter of the Society of Children\u2019s Book Writers and Illustrators (SCBWI) and  was awarded the SCBWI Work-in-Progress Grant in 2005. She holds a B.A. from Brown University, and an M.A. and Ph.D. from the University of California at Berkeley. She is married and has two young-adult children. She lives in Nashville, TN, where she teaches at Vanderbilt University. Visit her at www.tracybarrett.com."
+    },
+    "personal_name": "Tracy Barrett",
+    "photos": [
+        3370192
+    ],
+    "birth_date": "1955",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "https://www.tracybarrett.com",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL239407A",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-22T23:10:02.807602"
+    }
+}

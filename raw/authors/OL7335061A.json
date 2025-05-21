@@ -1,0 +1,17 @@
+{
+    "name": "Donna Bray",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T15:44:56.689638"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T15:44:56.689638"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7335061A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

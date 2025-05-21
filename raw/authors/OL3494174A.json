@@ -1,0 +1,40 @@
+{
+    "name": "Rich Decabo",
+    "bio": {
+        "type": "/type/text",
+        "value": "Rich Decabo is a retired teacher and author. He has taught  for 25 years and has written 23 books and over 100 short mini books.  His titles include;\r\nOf The Lake, Communed, Green Hearts, Over Procyon, and\r\nRukoya and his latest novel, Our Gathering. He has also written several series- some of which are still active such as The Wise Girls and Falcon City. i Rich completed a series on Rukoya by demand. He is now working on several other short story series. He was born in Manhattan, New York on September 2, 1965 to Frank and Maria Decabo. He was raised in Fresh Meadows, N.Y. and is presently living in Long Island, N.Y.  \r\nDecabo holds degrees in Psychology, Philosophy and Education. His interests include philosophy, astronomy, paleontology and human evolution. Decabo believes that the quest for and the attempt at discovering the truth must combine those areas that he is most interested in, that being Philosophy and the Sciences. According to him, they are essential in understanding who we as a people are and come from. He is currently working on several novels which he hopes to have published soon. Rich is presently working with the developmentally disabled population. He enjoys the challenges of teaching and wishes he could do more for the children in his class. Rich has also given a few years of service, working with autistic, young adults which was challenging, but rewarding.\r\nIn addition to his various creative endeavors, Decabo is an amateur music composer and has five songs on YouTube and for sale on ITunes and Spotify and other online music stores. Since 1993 Decabo has written over 100 songs, half of which, contain original lyrics."
+    },
+    "photograph": "/static/files//657/OL3494174A_photograph_1221177235842657.jpg",
+    "photos": [
+        6868526,
+        6868314,
+        6868313,
+        6849822,
+        6670782,
+        3364787
+    ],
+    "birth_date": "september 2, 1965",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "http://redzorg.com/",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL3494174A",
+    "latest_revision": 28,
+    "revision": 28,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T17:24:30.573606"
+    }
+}

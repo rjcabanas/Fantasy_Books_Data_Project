@@ -1,0 +1,17 @@
+{
+    "name": "Ruth M. Fuchs",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-01-15T17:52:39.665541"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-01-15T17:52:39.665541"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6886587A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

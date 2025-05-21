@@ -1,0 +1,23 @@
+{
+    "name": "David Bischoff",
+    "personal_name": "David Bischoff",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T16:54:05.902909"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL268697A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "67053831",
+        "wikidata": "Q5231419",
+        "isni": "0000000109113499"
+    }
+}

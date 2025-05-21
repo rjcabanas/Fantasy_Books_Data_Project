@@ -1,0 +1,16 @@
+{
+    "name": "James Playsted Wood",
+    "personal_name": "James Playsted Wood",
+    "death_date": ".",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-11-11T12:35:56.662106"
+    },
+    "key": "/authors/OL1757585A",
+    "birth_date": "1905",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 6165822,
+    "revision": 3
+}

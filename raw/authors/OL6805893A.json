@@ -1,0 +1,18 @@
+{
+    "name": "Carol Joan Drexler",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-05-05T05:21:53.039569"
+    },
+    "personal_name": "Carol Joan Drexler",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-05-05T05:21:53.039569"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6805893A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

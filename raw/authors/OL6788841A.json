@@ -1,0 +1,18 @@
+{
+    "name": "Stephen White",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T05:09:08.612729"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T05:09:08.612729"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6788841A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 49262933,
+    "revision": 1
+}

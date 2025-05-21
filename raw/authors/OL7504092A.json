@@ -1,0 +1,29 @@
+{
+    "name": "Jo Spurrier",
+    "links": [
+        {
+            "url": "http://www.jospurrier.com.au/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Jo Spurrier's official website"
+        }
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-19T02:07:55.241486"
+    },
+    "photos": [
+        9267281
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-11T03:12:27.921313"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL7504092A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

@@ -1,0 +1,45 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Laurence Yep",
+    "key": "/authors/OL25442A",
+    "bio": "Laurence Michael Yep (born June 14, 1948) is an American writer, best known for his children's books. He is a two-time Newbery Honor winner for books from his Golden Mountain series, the best known title being Dragonwings. In 2005, he received the biennial Laura Ingalls Wilder Medal for his career contribution to American children's literature.",
+    "source_records": [
+        "ia:americandragons0000unse",
+        "bwb:9780380698448",
+        "amazon:038539229X",
+        "amazon:4152500085",
+        "promise:bwb_daily_pallets_2020-11-24",
+        "amazon:0780761189",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "birth_date": "14 June 1948",
+    "alternate_names": [
+        "Laurence Michael Yep",
+        "Yep, Laurence, 1948-",
+        "Novela Corta De Laurence Yep",
+        "Laurence Yep; Ritsuko Sanbe",
+        "Yep. Laurence",
+        "Laurence Yep Ph.D."
+    ],
+    "personal_name": "Laurence Yep",
+    "photos": [
+        11763311
+    ],
+    "remote_ids": {
+        "isni": "0000000114793337",
+        "viaf": "105057728",
+        "wikidata": "Q6140101"
+    },
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-24T19:04:05.920447"
+    }
+}

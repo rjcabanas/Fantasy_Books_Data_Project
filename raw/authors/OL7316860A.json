@@ -1,0 +1,17 @@
+{
+    "name": "Abie Longstaff",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T08:48:03.439654"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T08:48:03.439654"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7316860A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

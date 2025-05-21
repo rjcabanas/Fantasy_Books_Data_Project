@@ -1,0 +1,15 @@
+{
+    "name": "Nick Price",
+    "personal_name": "Nick Price",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 09:38:40.947578"
+    },
+    "key": "/authors/OL240892A",
+    "birth_date": "1957",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 628638,
+    "revision": 2
+}

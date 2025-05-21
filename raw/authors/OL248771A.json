@@ -1,0 +1,19 @@
+{
+    "name": "Michael P. Waite",
+    "personal_name": "Michael P. Waite",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-09-21T20:46:34.496326"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL248771A",
+    "birth_date": "1960",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

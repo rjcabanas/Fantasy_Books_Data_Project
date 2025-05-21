@@ -1,0 +1,51 @@
+{
+    "name": "Emily X. R. Pan",
+    "personal_name": "Emily X. R. Pan",
+    "key": "/authors/OL7532240A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12617946
+    ],
+    "links": [
+        {
+            "url": "https://exrpan.com/",
+            "title": "Official site",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Twitter",
+            "url": "https://twitter.com/exrpan",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://www.instagram.com/exrpan/",
+            "title": "Instagram",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Emily X.R. Pan is the New York Times bestselling author of THE ASTONISHING COLOR OF AFTER, which won the APALA Honor Award and the Walter Honor Award. It was also a finalist for the L.A. Times Book Prize, longlisted for the Carnegie Medal, and featured on over a dozen best-of-the-year lists, among other accolades. Emily co-created the FORESHADOW anthology, teaches creative writing, and lives on Lenape land (in the New York City area)."
+    },
+    "remote_ids": {
+        "goodreads": "15450609"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T04:19:04.669453"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-05T18:25:32.296964"
+    }
+}

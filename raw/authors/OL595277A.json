@@ -1,0 +1,25 @@
+{
+    "personal_name": "Crockett Johnson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T15:13:47.418676"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL595277A",
+    "remote_ids": {
+        "viaf": "104641041",
+        "wikidata": "Q2894539",
+        "isni": "0000000081718612"
+    },
+    "name": "Crockett Johnson",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "death_date": "1975",
+    "birth_date": "1906",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

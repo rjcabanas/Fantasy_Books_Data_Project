@@ -1,0 +1,34 @@
+{
+    "remote_ids": {
+        "viaf": "108707264",
+        "isni": "0000000081736351",
+        "wikidata": "Q2631376"
+    },
+    "personal_name": "Brian Stableford",
+    "photos": [
+        8055063,
+        7284357
+    ],
+    "bio": "Brian Michael Stableford is a British science fiction writer who has published more than 70 novels. His earlier books were published under the name Brian M. Stableford, but more recent ones have dropped the middle initial and appeared under the name Brian Stableford. He has also used the pseudonym Brian Craig for a couple of very early works, and again for a few more recent works. The pseudonym derives from the first names of himself and of a school friend from the 1960s, Craig A. Mackintosh, with whom he jointly published some very early work.",
+    "alternate_names": [
+        "Brian M. Stableford",
+        "Francis Amery",
+        "Brian Craig"
+    ],
+    "key": "/authors/OL2645208A",
+    "name": "Brian Stableford",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "25 July 1948",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-01T20:56:07.942988"
+    }
+}

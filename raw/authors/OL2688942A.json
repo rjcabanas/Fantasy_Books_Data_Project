@@ -1,0 +1,61 @@
+{
+    "alternate_names": [
+        "LAINI TAYLOR",
+        "L Taylor",
+        "Taylor  Laini"
+    ],
+    "links": [
+        {
+            "url": "https://www.goodreads.com/author/show/324620.Laini_Taylor?from_search=true",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Goodreads"
+        },
+        {
+            "url": "http://www.lainitaylor.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Website"
+        },
+        {
+            "url": "https://twitter.com/lainitaylor",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Twitter"
+        }
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "81739294",
+        "wikidata": "Q6474003",
+        "isni": "0000000110731374"
+    },
+    "photos": [
+        8444782
+    ],
+    "personal_name": "Laini Taylor",
+    "birth_date": "1971",
+    "key": "/authors/OL2688942A",
+    "source_records": [
+        "ia:blackbringer0000tayl",
+        "amazon:1444753428",
+        "amazon:6071116961",
+        "promise:bwb_daily_pallets_2023-01-09"
+    ],
+    "name": "Laini Taylor",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-27T19:28:49.891340"
+    }
+}

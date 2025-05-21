@@ -1,0 +1,17 @@
+{
+    "name": "Zogarth",
+    "key": "/authors/OL10649790A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-03T15:16:31.108693"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-03T15:16:31.108693"
+    }
+}

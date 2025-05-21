@@ -1,0 +1,14 @@
+{
+    "name": "Toby Bluth",
+    "personal_name": "Toby Bluth",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-06 20:42:32.974425"
+    },
+    "key": "/authors/OL193802A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 495148,
+    "revision": 2
+}

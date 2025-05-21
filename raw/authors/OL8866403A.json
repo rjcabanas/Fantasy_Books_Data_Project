@@ -1,0 +1,18 @@
+{
+    "name": "S. L. Duncan",
+    "personal_name": "S. L. Duncan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-11-14T14:53:57.060493"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-14T14:53:57.060493"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8866403A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

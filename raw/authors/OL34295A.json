@@ -1,0 +1,35 @@
+{
+    "source_records": [
+        "amazon:1087936225",
+        "promise:bwb_daily_pallets_2021-03-10",
+        "promise:bwb_daily_pallets_2023-05-17:KN-688-365"
+    ],
+    "key": "/authors/OL34295A",
+    "remote_ids": {
+        "viaf": "79492272",
+        "wikidata": "Q535108",
+        "isni": "0000000063695672"
+    },
+    "personal_name": "P. N. Elrod",
+    "alternate_names": [
+        "Patricia Nead Elrod",
+        "P. N. Elrod (Editor)",
+        "P N Elrod",
+        "P-N Elrod",
+        "P. N. Elrod Nigel Bennett"
+    ],
+    "name": "P. N. Elrod",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-10T17:43:07.965667"
+    }
+}

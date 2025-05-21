@@ -1,0 +1,30 @@
+{
+    "personal_name": "Christina Askounis",
+    "alternate_names": [
+        "Christina Elizabeth Askounis",
+        "Christina Askounis Pogoloff",
+        "Christina Elizabeth Pogoloff"
+    ],
+    "photos": [
+        7394084,
+        7394083,
+        7394082,
+        7394081
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-01-29T02:32:26.225015"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL721466A",
+    "name": "Christina Askounis",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "birth_date": "27 April 1948",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 7
+}

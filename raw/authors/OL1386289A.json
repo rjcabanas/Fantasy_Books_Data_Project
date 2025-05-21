@@ -1,0 +1,42 @@
+{
+    "name": "Lynn Flewelling",
+    "bio": {
+        "type": "/type/text",
+        "value": "Lynn Flewelling was born in Presque Isle, Maine, United States. She graduated from the University of Maine at Presque Isle with a degree in English and a minor in History. She has been married to Douglas Flewelling since 1981 and has two sons."
+    },
+    "photograph": "/static/files//6/OL1386289A_photograph_1211859407694006.jpg",
+    "personal_name": "Lynn Flewelling",
+    "photos": [
+        3364862
+    ],
+    "birth_date": "1958-10-20",
+    "fuller_name": "Lynn Elizabeth Flewelling n\u00e9e Beaulieu",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "19916722",
+        "wikidata": "Q463279",
+        "isni": "0000000078428008"
+    },
+    "links": [
+        {
+            "url": "http://www.sff.net/people/Lynn.Flewelling/",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL1386289A",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-22T22:29:40.558978"
+    }
+}

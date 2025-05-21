@@ -1,0 +1,20 @@
+{
+    "name": "Frida Sadadi",
+    "key": "/authors/OL15161393A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14854944
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2025-03-24T20:31:54.002231"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-26T11:29:02.987701"
+    }
+}

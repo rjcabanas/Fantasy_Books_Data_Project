@@ -1,0 +1,15 @@
+{
+    "name": "Jennifer Rardin",
+    "personal_name": "Jennifer Rardin",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-26 14:07:02.982419"
+    },
+    "key": "/authors/OL5152344A",
+    "birth_date": "1965",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 25146606,
+    "revision": 1
+}

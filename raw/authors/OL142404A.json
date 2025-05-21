@@ -1,0 +1,82 @@
+{
+    "personal_name": "White, T. H.",
+    "photos": [
+        7277088
+    ],
+    "remote_ids": {
+        "viaf": "19685792",
+        "wikidata": "Q453410",
+        "isni": "0000000120220025"
+    },
+    "name": "T. H. White",
+    "birth_date": "1906",
+    "alternate_names": [
+        "Terence Hanbury White",
+        "T. H. White",
+        "T H. White",
+        "Terence Hanbury WHITE",
+        "James Aston",
+        "T H White",
+        "T.H. White",
+        "T. H. WHITE",
+        "T H WHITE",
+        "T H. white",
+        "T. H White",
+        "White T. H.",
+        "T. H. (Terence Hanbury) White",
+        "Terence H. White",
+        "T. H. T. H. White",
+        "T.h. White",
+        "t. h. white",
+        "T. H.; T. H. White White",
+        "by T. H. White",
+        "White, T. H., Illustrated by Fritz Eichenberg",
+        "T. H. Whit",
+        "White T H"
+    ],
+    "death_date": "1964",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/T._H._White",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia Entry"
+        }
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL142404A",
+    "source_records": [
+        "bwb:9798458636926",
+        "bwb:9798715121035",
+        "bwb:9798724963695",
+        "bwb:9780007382163",
+        "amazon:9875668664",
+        "bwb:9781477317358",
+        "bwb:9798698488804",
+        "bwb:9798716741812",
+        "promise:bwb_daily_pallets_2022-08-30",
+        "promise:bwb_daily_pallets_2022-05-23",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2022-07-28:W7-CJX-900",
+        "bwb:9798565946550",
+        "bwb:9798458587716",
+        "promise:bwb_daily_pallets_2021-03-30",
+        "bwb:9798525174962",
+        "promise:bwb_daily_pallets_2023-08-17:KS-660-356",
+        "promise:bwb_daily_pallets_2023-11-07:KT-043-323",
+        "promise:bwb_daily_pallets_2023-11-09:KT-059-829"
+    ],
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-11T22:46:19.492154"
+    }
+}

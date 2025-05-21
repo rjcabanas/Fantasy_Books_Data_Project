@@ -1,0 +1,37 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Clive Barker (born 5 October 1952) is an English writer, film director, and visual artist. Barker came to prominence in the mid-1980s with a series of short stories, the *Books of Blood*, which established him as a leading horror writer. He has since written many novels and other works, and his fiction has been adapted into films, notably the *Hellraiser* and *Candyman* series. He was also the executive producer of the film *Gods and Monsters*.\r\n\r\nBarker's paintings and illustrations have been featured in galleries in the United States as well as within his own books. He has created original characters and series for comic books, and some of his more popular horror stories have been adapted to comics. \r\n\r\n**Source**: [Clive Barker](https://en.wikipedia.org/wiki/Clive_Barker) on Wikipedia."
+    },
+    "name": "Clive Barker",
+    "personal_name": "Barker, Clive",
+    "alternate_names": [
+        "Barker, Clive",
+        "BARKER, CLIVE, 1952-"
+    ],
+    "photos": [
+        15001481,
+        8997640,
+        6882520
+    ],
+    "key": "/authors/OL2621804A",
+    "birth_date": "5 Oct 1952",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "111746890",
+        "wikidata": "Q298761",
+        "isni": "0000000084090090"
+    },
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-05T21:12:54.359424"
+    }
+}

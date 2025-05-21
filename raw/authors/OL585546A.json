@@ -1,0 +1,41 @@
+{
+    "source_records": [
+        "amazon:2266012819",
+        "amazon:2010115775",
+        "amazon:9873743960",
+        "ia:yongbiechiluo0000hitc",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2020-04-09",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "promise:bwb_daily_pallets_2021-02-11",
+        "promise:bwb_daily_pallets_2021-01-13",
+        "promise:bwb_daily_pallets_2023-05-17:KL-864-821",
+        "promise:bwb_daily_pallets_2023-05-24:KO-125-505"
+    ],
+    "photos": [
+        7280461
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Alfred Hitchcock",
+    "birth_date": "13 August 1899",
+    "name": "Alfred Hitchcock",
+    "key": "/authors/OL585546A",
+    "remote_ids": {
+        "viaf": "49226917",
+        "wikidata": "Q7374",
+        "isni": "0000000121318219"
+    },
+    "death_date": "29 April 1980",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-06T18:32:36.623842"
+    }
+}

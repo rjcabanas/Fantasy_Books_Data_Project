@@ -1,0 +1,40 @@
+{
+    "alternate_names": [
+        "Joyce Reardon",
+        "Wendell McCall",
+        "ridley pearson"
+    ],
+    "source_records": [
+        "ia:courantsmeurtrie0000pear",
+        "amazon:227722782X"
+    ],
+    "birth_date": "1953-03-15",
+    "remote_ids": {
+        "viaf": "73891602",
+        "wikidata": "Q936028",
+        "isni": "0000000081535648"
+    },
+    "personal_name": "Ridley Pearson",
+    "name": "Ridley Pearson",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL32217A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Edgar-nominee, Ridley Pearson is a #1 New York Times bestselling author of (more than 50) award-winning suspense and young adult adventure novels. His novels have been published in two-dozen languages and have been adapted for network television and the Broadway stage.\r\n\r\nRidley\u2019s middle-grade-reader series include, The Kingdom Keepers, Steel Trapp and Lock & Key."
+    },
+    "photos": [
+        9248586
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-25T22:02:02.204594"
+    }
+}

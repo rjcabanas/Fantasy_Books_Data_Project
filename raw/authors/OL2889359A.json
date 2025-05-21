@@ -1,0 +1,24 @@
+{
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-12-04T22:21:04.587633"
+    },
+    "latest_revision": 4,
+    "name": "Margaret Joyce Baker",
+    "key": "/authors/OL2889359A",
+    "personal_name": "Margaret Joyce Baker",
+    "birth_date": "1918",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "alternate_names": [
+        "Margaret Joyce Baker",
+        "Margaret J Baker",
+        "Margaret J. BAKER,"
+    ],
+    "revision": 4
+}

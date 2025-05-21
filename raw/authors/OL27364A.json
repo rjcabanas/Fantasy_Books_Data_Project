@@ -1,0 +1,38 @@
+{
+    "name": "David Clement-Davies",
+    "key": "/authors/OL27364A",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "David Clement-Davies",
+    "birth_date": "6 January 1964",
+    "photos": [
+        12634381
+    ],
+    "links": [
+        {
+            "title": "Official site",
+            "url": "http://www.davidclementdavies.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "remote_ids": {
+        "goodreads": "32665"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "David Clement-Davies is a British author and sculptor. He is known for animal fantasy fiction."
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-17T04:24:08.860741"
+    }
+}

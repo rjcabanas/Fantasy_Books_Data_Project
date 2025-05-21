@@ -1,0 +1,17 @@
+{
+    "name": "George Henry Smith",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T01:43:44.078273"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T01:43:44.078273"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6818599A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

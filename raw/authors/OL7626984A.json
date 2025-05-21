@@ -1,0 +1,33 @@
+{
+    "name": "David W. Landrum",
+    "key": "/authors/OL7626984A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12619413
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "David W. Landrum is an American paranormal author."
+    },
+    "links": [
+        {
+            "url": "https://davelandrum.wixsite.com/davidwlandrum",
+            "title": "Official site",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-09-06T00:22:37.569600"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-06T23:38:14.456806"
+    }
+}

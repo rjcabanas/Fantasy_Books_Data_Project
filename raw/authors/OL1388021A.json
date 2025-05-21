@@ -1,0 +1,26 @@
+{
+    "photos": [
+        10510345
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "Marcus Sedgwick",
+    "key": "/authors/OL1388021A",
+    "personal_name": "Marcus Sedgwick",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-11T11:09:37.608002"
+    },
+    "remote_ids": {
+        "viaf": "61794579",
+        "wikidata": "Q930581",
+        "isni": "0000000110725409"
+    }
+}

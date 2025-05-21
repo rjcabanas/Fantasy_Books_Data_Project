@@ -1,0 +1,19 @@
+{
+    "name": "Heather Dixon",
+    "personal_name": "Heather Dixon",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T21:02:57.888257"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T21:02:57.888257"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7600609A",
+    "birth_date": "1982",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

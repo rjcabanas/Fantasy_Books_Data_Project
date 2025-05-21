@@ -1,0 +1,38 @@
+{
+    "name": "T. Davis Bunn",
+    "source_records": [
+        "amazon:1683247345",
+        "amazon:1578564654",
+        "bwb:9781441270818",
+        "promise:bwb_daily_pallets_2022-08-13:491-ABA-166",
+        "bwb:9781441229991"
+    ],
+    "personal_name": "T. Davis Bunn",
+    "key": "/authors/OL38899A",
+    "alternate_names": [
+        "T Davis Bunn",
+        "OKE JANETTE & BUNN T. DAVIS",
+        "Davis Bunn",
+        "Thomas Locke",
+        "Thomas Thomas Locke",
+        "Bunn,  T. Davis; Poley, Hans; Fischer, John; Rogers, Dale Evans & Thatcher, Floyd W."
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Davis Bunn is an internationally-acclaimed author who has sold more than eight million books in twenty languages.\r\n\r\nHonored with four Christy Awards for excellence in historical and suspense fiction, Davis was inducted into the Christy Hall of Fame in 2014.\r\n\r\nHis bestsellers include The Great Divide, Winner Take All, The Meeting Place, The Book of Hours, and The Quilt. A sought-after lecturer in the art of writing, Bunn was serves as Writer in Residence at Regent's Park College, Oxford University.\r\n\r\nHe also publishes works under the names Davis Bunn and Thomas Locke."
+    },
+    "birth_date": "1952",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-22T12:24:45.459296"
+    }
+}

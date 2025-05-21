@@ -1,0 +1,26 @@
+{
+    "name": "Clay Griffith",
+    "links": [
+        {
+            "url": "http://clayandsusangriffith.blogspot.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's Blog"
+        }
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-19T20:24:43.424732"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL2787599A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

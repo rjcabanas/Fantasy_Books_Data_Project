@@ -1,0 +1,31 @@
+{
+    "birth_date": "1948",
+    "personal_name": "Terence Blacker",
+    "source_records": [
+        "ia:jufwijstopmodel0000blac"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Terence Blacker (author)",
+        "Blacker Terence"
+    ],
+    "remote_ids": {
+        "viaf": "13228195",
+        "wikidata": "Q2404457",
+        "isni": "0000000121212326"
+    },
+    "name": "Terence Blacker",
+    "key": "/authors/OL358605A",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-22T22:02:39.453225"
+    }
+}

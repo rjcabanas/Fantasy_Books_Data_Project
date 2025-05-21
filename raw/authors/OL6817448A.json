@@ -1,0 +1,17 @@
+{
+    "name": "Donita K Paul",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T22:54:02.181190"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T22:54:02.181190"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6817448A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

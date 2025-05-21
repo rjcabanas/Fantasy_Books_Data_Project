@@ -1,0 +1,17 @@
+{
+    "name": "Andrea Casty Castellan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T07:40:12.752708"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T07:40:12.752708"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7313762A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

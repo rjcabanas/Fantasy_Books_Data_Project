@@ -1,0 +1,22 @@
+{
+    "name": "Ian Watson",
+    "personal_name": "Watson, Ian",
+    "key": "/authors/OL473882A",
+    "birth_date": "1943",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q1371639"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T12:23:25.095140"
+    }
+}

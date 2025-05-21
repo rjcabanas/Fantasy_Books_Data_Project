@@ -1,0 +1,15 @@
+{
+    "name": "Carol Hughes",
+    "personal_name": "Carol Hughes",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-11 15:43:15.884805"
+    },
+    "key": "/authors/OL25051A",
+    "birth_date": "1961",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 63880,
+    "revision": 2
+}

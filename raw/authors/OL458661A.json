@@ -1,0 +1,33 @@
+{
+    "personal_name": "Simon Hawke",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Simon Hawke",
+    "key": "/authors/OL458661A",
+    "photos": [
+        14333323
+    ],
+    "birth_date": "30 September 1951",
+    "alternate_names": [
+        "Nicholas Valentin Yermakov",
+        "J. D. Masters"
+    ],
+    "remote_ids": {
+        "viaf": "72888928"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Simon Hawke (born September 30, 1951) is an American author of mainly science fiction and fantasy novels. He was born Nicholas Valentin Yermakov, but began writing as Simon Hawke in 1984 and later changed his legal name to Hawke. He has also written near future adventure novels under the pen name J. D. Masters and a series of humorous mystery novels. He was the Colorado Writer of the Year, 1992. [source](https://en.wikipedia.org/wiki/Simon_Hawke)"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-31T19:15:30.684428"
+    }
+}

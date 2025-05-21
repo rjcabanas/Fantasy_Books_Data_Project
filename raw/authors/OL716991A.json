@@ -1,0 +1,31 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Sally Gardner grew up and still lives in London. Being dyslexic, she did not learn to read or write until she was fourteen and had been thrown out of several schools, labeled unteachable, and sent to a school for maladjusted children. Despite this, she gained a degree with highest honors at a leading London art college, followed by a scholarship to a theater school, and then went on to become a very successful costume designer, working on some notable productions.\r\n\r\nAfter the births of twin daughters and a son, she started first to illustrate and then to write picture books and chapter books, usually with fairytale- or otherwise magical subject matter. She has been called 'an idiosyncratic genius' by London\u2019s Sunday Times."
+    },
+    "name": "Sally Gardner",
+    "personal_name": "Sally Gardner",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        8786087
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:59:22.915997"
+    },
+    "latest_revision": 8,
+    "key": "/authors/OL716991A",
+    "birth_date": "1954",
+    "revision": 8,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "6050316",
+        "wikidata": "Q535822",
+        "isni": "0000000063208045"
+    }
+}

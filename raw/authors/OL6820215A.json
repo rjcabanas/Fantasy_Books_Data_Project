@@ -1,0 +1,17 @@
+{
+    "name": "Lois Ahrens",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T05:32:51.641906"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T05:32:51.641906"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6820215A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Shakna Israel",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2013-11-12T14:25:19.155709"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-11-12T14:25:19.155709"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7171481A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

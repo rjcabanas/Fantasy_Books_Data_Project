@@ -1,0 +1,38 @@
+{
+    "name": "Paul Stewart",
+    "photos": [
+        12818789,
+        9408810,
+        9408809
+    ],
+    "personal_name": "Stewart, Paul",
+    "remote_ids": {
+        "viaf": "69075699",
+        "wikidata": "Q1971168",
+        "isni": "0000000076898823"
+    },
+    "alternate_names": [
+        "Paul and Chris Riddell Stewart",
+        "Chris & Stewart, Paul Riddell",
+        "Chris Riddell Paul Stewart",
+        "Paul Stewart & Chris Riddell",
+        "Paul",
+        "Riddell, Chris Stewart",
+        "Paul Stewart Stewart"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL35364A",
+    "birth_date": "1955",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-10T04:22:01.191557"
+    }
+}

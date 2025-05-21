@@ -1,0 +1,17 @@
+{
+    "name": "Um Jinsub",
+    "key": "/authors/OL15176252A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-01T10:45:39.873536"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-01T10:45:39.873536"
+    }
+}

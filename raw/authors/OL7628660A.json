@@ -1,0 +1,17 @@
+{
+    "name": "Carrie Anne Noble",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-09-16T19:31:38.386736"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-09-16T19:31:38.386736"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7628660A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,39 @@
+{
+    "photos": [
+        7877980,
+        7877982,
+        6781579,
+        -1
+    ],
+    "death_date": "24 December 2016",
+    "date": "1920",
+    "key": "/authors/OL800926A",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Richard Adams",
+    "alternate_names": [
+        "Richard George Adams",
+        "Adams, Richard",
+        "RICHARD ADAMS",
+        "Adams Richard"
+    ],
+    "birth_date": "9 May 1920",
+    "remote_ids": {
+        "wikidata": "Q313289",
+        "isni": "0000000109134206",
+        "viaf": "71386171"
+    },
+    "bio": "Richard Adams was born in Berkshire, England, in 1920, and studied history at Bradfield and Worcester College, Oxford. He is the author of nineteen books, including the bestselling and award-winning *Watership Down*, his first book.",
+    "personal_name": "Richard Adams",
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-06T18:52:08.204930"
+    }
+}

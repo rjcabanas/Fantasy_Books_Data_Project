@@ -1,0 +1,29 @@
+{
+    "name": "William Mayne",
+    "key": "/authors/OL27540A",
+    "personal_name": "William Mayne",
+    "birth_date": "16 March 1928",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "51693218",
+        "wikidata": "Q2579910",
+        "isni": "000000010900222X"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "An English writer of children's literature. He was born and spent most of his life in Yorkshire, where many of his books are set. He received the 1957 Carnegie Medal for *A Grass Rope.*"
+    },
+    "death_date": "24 March 2010",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-24T14:57:46.350958"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Bruno Schulz",
+    "personal_name": "Schulz, Bruno",
+    "death_date": "1942",
+    "alternate_names": [
+        "Schulz, Bruno"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T11:58:06.814122"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL2657678A",
+    "birth_date": "1892",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "19684237",
+        "wikidata": "Q148886",
+        "isni": "0000000122771568"
+    }
+}

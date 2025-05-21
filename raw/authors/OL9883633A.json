@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Brian Stowe",
+    "personal_name": "Brian Stowe",
+    "key": "/authors/OL9883633A",
+    "source_records": [
+        "ia:crosswindssevent0000stow"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-21T17:09:01.406786"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-21T17:09:01.406786"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "photos": [
+        6882792
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL2705424A",
+    "links": [
+        {
+            "title": "Author Website",
+            "url": "http://www.melissacrandall.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "http://www.melissacrandall.wordpress.com",
+            "title": "Author Blog",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Author Facebook Page",
+            "url": "https://www.facebook.com/pages/Melissa-Crandall/182779735109166",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Goodreads Profile",
+            "url": "http://www.goodreads.com/author/show/127496.Melissa_Crandall",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "personal_name": "MELISSA CRANDALL",
+    "name": "Melissa Crandall",
+    "alternate_names": [
+        "MELISSA CRANDALL"
+    ],
+    "remote_ids": {
+        "viaf": "61124198"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-31T19:02:13.645474"
+    }
+}

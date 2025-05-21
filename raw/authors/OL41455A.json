@@ -1,0 +1,27 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 4,
+    "name": "Cathy Hapka",
+    "key": "/authors/OL41455A",
+    "personal_name": "Cathy Hapka",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4,
+    "alternate_names": [
+        "Catherine Hapka",
+        "Hapka, Catherine"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T07:17:52.703117"
+    },
+    "remote_ids": {
+        "viaf": "2550149198364674940004",
+        "wikidata": "Q47111607",
+        "isni": "0000000071434974"
+    }
+}

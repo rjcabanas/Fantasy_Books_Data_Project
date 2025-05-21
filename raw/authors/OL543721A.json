@@ -1,0 +1,40 @@
+{
+    "personal_name": "Felice Holman",
+    "photos": [
+        10528102
+    ],
+    "name": "Felice Holman",
+    "birth_date": "24 October 1919",
+    "key": "/authors/OL543721A",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "F\u00e9lice Holman",
+        "felice holman",
+        "Holman, Felice"
+    ],
+    "remote_ids": {
+        "viaf": "22658142",
+        "wikidata": "Q18744609",
+        "isni": "0000000083642025"
+    },
+    "source_records": [
+        "ia:attopofmyvoice0000unse",
+        "promise:bwb_daily_pallets_2022-07-11",
+        "promise:bwb_daily_pallets_2022-04-20",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-04-01",
+        "promise:bwb_daily_pallets_2021-08-24"
+    ],
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-12-21T07:32:06.582192"
+    }
+}

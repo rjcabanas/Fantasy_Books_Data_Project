@@ -1,0 +1,21 @@
+{
+    "name": "Natasha Pulley",
+    "key": "/authors/OL7475679A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q26844457"
+    },
+    "birth_date": "4 December 1988",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-11T16:14:25.959733"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-05T06:23:35.442989"
+    }
+}

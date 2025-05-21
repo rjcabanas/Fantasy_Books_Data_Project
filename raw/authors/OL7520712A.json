@@ -1,0 +1,18 @@
+{
+    "name": "Laurent Malaquais",
+    "personal_name": "Laurent Malaquais",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T07:47:46.521861"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T07:47:46.521861"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7520712A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

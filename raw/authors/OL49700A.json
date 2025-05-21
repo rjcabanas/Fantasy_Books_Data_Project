@@ -1,0 +1,71 @@
+{
+    "name": "Selma Lagerl\u00f6f",
+    "fuller_name": "Selma Ottilia Lovisa Lagerl\u00f6f",
+    "remote_ids": {
+        "viaf": "7392519",
+        "wikidata": "Q44519",
+        "isni": "0000000121192353"
+    },
+    "photos": [
+        8465763,
+        6015140
+    ],
+    "title": "(rui dian) (Lagerlof, Selma)",
+    "personal_name": "Selma Lagerl\u00f6f",
+    "birth_date": "1858",
+    "alternate_names": [
+        "Selma Ottilia Lagerloef",
+        "Selma Lagerloff"
+    ],
+    "bio": "Swedish writer of fiction, Nobel Prize winner in 1909.",
+    "death_date": "1940",
+    "source_records": [
+        "ia:morubakkanirusun0000unse",
+        "ia:nilsholgerssonss0000lage",
+        "ia:niersiqieluxingj0000ruid_v6f7",
+        "bwb:9781409209348",
+        "bwb:9781696463430",
+        "promise:bwb_daily_pallets_2021-09-14",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "promise:bwb_daily_pallets_2020-04-02",
+        "promise:bwb_daily_pallets_2023-05-24:KL-110-653",
+        "bwb:9798585339578",
+        "promise:bwb_daily_pallets_2023-06-29:KS-635-232",
+        "bwb:9783988267511",
+        "bwb:9783847236153",
+        "promise:bwb_daily_pallets_2024-01-17:P9-BMB-191",
+        "bwb:9781019439005",
+        "promise:bwb_daily_pallets_2024-02-01:P9-BMD-087",
+        "bwb:9781720769750"
+    ],
+    "key": "/authors/OL49700A",
+    "links": [
+        {
+            "title": "Swedish Wikipedia",
+            "url": "http://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Project Runeberg",
+            "url": "http://runeberg.org/authors/lagerlof.html",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-07T20:23:15.601616"
+    }
+}

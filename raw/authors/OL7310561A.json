@@ -1,0 +1,83 @@
+{
+    "alternate_names": [
+        "SAMANTHA SHANNON",
+        "Shannon  Samantha",
+        "Shannon, Samantha"
+    ],
+    "source_records": [
+        "amazon:1526612860",
+        "amazon:1526619768"
+    ],
+    "birth_date": "8 November 1991",
+    "name": "Samantha Shannon",
+    "remote_ids": {
+        "wikidata": "Q7408727",
+        "isni": "0000000383864770",
+        "viaf": "272301964",
+        "amazon": "B00CIXEAZS",
+        "goodreads": "5830526",
+        "gnd": "1044487542",
+        "imdb": "nm5735086",
+        "lc_naf": "n2012066932",
+        "librarything": "shannonsamantha",
+        "musicbrainz": "c1e2aec5-0e6d-433b-9790-bafe63b92a56",
+        "storygraph": "fd277b92-25ea-4623-bb97-be3f30a92521",
+        "inventaire": "wd:Q7408727"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL7310561A",
+    "personal_name": "Samantha Shannon",
+    "bio": "British author of dystopian and fantasy fiction",
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.samanthashannon.co.uk/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Old Website (Tumblr)",
+            "url": "https://www.boneseasonbooks.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/s/samantha-shannon/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?191050",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/shannon_samantha",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14852189
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T06:28:42.354581"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-14T20:40:02.974138"
+    }
+}

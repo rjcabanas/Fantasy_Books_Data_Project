@@ -1,0 +1,43 @@
+{
+    "death_date": "19 July 2010",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Jon CLEARY",
+        "JON CLEARY",
+        "Cleary Jon",
+        "Jon, Cleary",
+        "jon cleary",
+        "CLEARY Jon",
+        "\u0414\u0436\u043e\u043d \u0421\u0442\u0438\u0432\u0435\u043d \u041a\u043b\u0438\u0440\u0438",
+        "\u0414\u0436\u043e\u043d \u041a\u043b\u0438\u0440\u0438",
+        "\u0414.\u041a\u043b\u0438\u0440\u0438"
+    ],
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-06-30",
+        "promise:bwb_daily_pallets_2021-06-22",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-02-11"
+    ],
+    "personal_name": "Jon Cleary",
+    "key": "/authors/OL23223A",
+    "name": "Jon Cleary",
+    "photos": [
+        14546311,
+        14322913,
+        8746419
+    ],
+    "birth_date": "22 November 1917",
+    "bio": "Jon Stephen Cleary was an Australian writer and novelist. He wrote numerous books, including The Sundowners (1951), a portrait of a rural family in the 1920s as they move from one job to the next, and The High Commissioner (1966), the first of a long series of popular detective fiction works featuring Sydney Police Inspector Scobie Malone. A number of Cleary's works have been the subject of film and television adaptations.",
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-20T15:00:45.679212"
+    }
+}

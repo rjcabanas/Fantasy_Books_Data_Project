@@ -1,0 +1,58 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "S. Kollinz",
+        "Collins  Suzanne"
+    ],
+    "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part32.utf8:143699025:1373",
+        "ia:devloek0000coll",
+        "amazon:818477169X",
+        "amazon:1760976156",
+        "amazon:6073807856",
+        "amazon:1407142682",
+        "amazon:9124135879",
+        "amazon:9876091654",
+        "amazon:1531831281",
+        "bwb:9781536425529",
+        "bwb:9781623150259",
+        "promise:bwb_daily_pallets_2023-02-08:KS-099-865",
+        "amazon:8427208405",
+        "amazon:8372789983"
+    ],
+    "personal_name": "Suzanne Collins",
+    "remote_ids": {
+        "viaf": "150638554",
+        "isni": "0000000101214703",
+        "wikidata": "Q228624"
+    },
+    "key": "/authors/OL1394359A",
+    "name": "Suzanne Collins",
+    "links": [
+        {
+            "title": "suzannecollinsbooks.com",
+            "url": "http://www.suzannecollinsbooks.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": "American author of young adult literature, whose works include *The Hunger Games* trilogy and *The Underland Chronicles* series. The daughter of an Air Force officer, she lives in her native home of Connecticut.",
+    "photos": [
+        7026950,
+        -1
+    ],
+    "birth_date": "1962",
+    "latest_revision": 23,
+    "revision": 23,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T08:05:06.849871"
+    }
+}

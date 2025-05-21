@@ -1,0 +1,40 @@
+{
+    "photos": [
+        8345965
+    ],
+    "bio": "Anthony Horowitz is one of the most prolific and successful writers working in the UK \u2013 and is unique for working across so many media. Anthony is a born polymath; juggling writing books, TV series, films, plays and journalism.\r\n\r\nAnthony has written over 40 books including the bestselling teen spy series Alex Rider, which he adapted into a movie that was released worldwide in 2006. The Alex Rider series is estimated to have sold 19 million copies worldwide. His highly anticipated novel, Oblivion, the epic conclusion to the Power of Five series, was published in October 2012. Anthony is also an acclaimed writer for adults and was commissioned by the Conan Doyle Estate and Orion Books to write two new Sherlock Holmes novels. The House of Silk was published in November 2011 and was internationally lauded as the top title of the autumn. The sequel, Moriarty, was published in October 2014 with similar success. Most recently he was commissioned by the Ian Fleming Estate to write the James Bond novel Trigger Mortis, which was published on 8th September 2015.\r\n([source][1])\r\n\r\n\r\n  [1]: https://www.anthonyhorowitz.com/about",
+    "key": "/authors/OL29053A",
+    "source_records": [
+        "amazon:1982552603"
+    ],
+    "name": "Anthony Horowitz",
+    "birth_date": "1955",
+    "links": [
+        {
+            "url": "https://www.anthonyhorowitz.com",
+            "title": "Home - Anthony Horowitz | Author | Alex Rider | Sherlock Holmes",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "remote_ids": {
+        "wikidata": "Q279305",
+        "viaf": "120002982",
+        "isni": "0000000121489907"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Anthony Horowitz",
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-01T18:04:14.961368"
+    }
+}

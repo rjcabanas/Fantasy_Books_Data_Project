@@ -1,0 +1,15 @@
+{
+    "name": "Audrey Penn Zellan",
+    "personal_name": "Audrey Penn Zellan",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-22 02:58:40.209382"
+    },
+    "key": "/authors/OL1966613A",
+    "birth_date": "1950",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 7040862,
+    "revision": 2
+}

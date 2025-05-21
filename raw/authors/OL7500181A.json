@@ -1,0 +1,32 @@
+{
+    "birth_date": "1976",
+    "photos": [
+        10954658
+    ],
+    "key": "/authors/OL7500181A",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "bwb:9781789990379",
+        "bwb:9781839941276"
+    ],
+    "bio": "Tom Huddleston is an author, editor, film journalist and musician based in Stoke Newington in East London. He lives in a first-floor flat with his partner Rosie and their ever-expanding family of dust mites. His prize possessions include an original \u2018Star Wars\u2019 storyboard depicting the Falcon flying under Yavin (see pic), some early-edition Mervyn Peake art books, a gorgeous Guild acoustic guitar and a log signed by the actual Log Lady.\r\n\r\nTom was born in Kendal in 1976, when it was still in the county of Westmoreland. He grew up all over Yorkshire, attending primary school in Threshfield in the Dales, secondary school in York and university in Sheffield.",
+    "alternate_names": [
+        "Tom Huddleston"
+    ],
+    "name": "Tom Huddleston",
+    "remote_ids": {
+        "viaf": "23149233321376510712"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-09T11:29:28.719531"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-31T18:40:55.109918"
+    }
+}

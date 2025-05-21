@@ -1,0 +1,17 @@
+{
+    "name": "Camilla Brinck",
+    "key": "/authors/OL12522422A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-04T06:04:16.287652"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-04T06:04:16.287652"
+    }
+}

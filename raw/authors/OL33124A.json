@@ -1,0 +1,33 @@
+{
+    "key": "/authors/OL33124A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "28 August 1951",
+    "photos": [
+        11139558
+    ],
+    "name": "Barbara Hambly",
+    "remote_ids": {
+        "wikidata": "Q288198",
+        "viaf": "85366831",
+        "isni": "0000000081610193"
+    },
+    "personal_name": "Barbara Hambly",
+    "bio": "Barbara Hambly (born August 28, 1951) is an American novelist and screenwriter within the genres of fantasy, science fiction, mystery, and historical fiction. She has a bestselling mystery series featuring a free man of color, a musician and physician, in New Orleans in the antebellum years. She also wrote a novel about Mary Todd Lincoln.\r\n\r\nHer science fiction novels occur within an explicit multiverse, as well as within previously existing settings (notably as established by Star Trek and Star Wars).",
+    "source_records": [
+        "amazon:1799922197",
+        "bwb:9781847519863",
+        "bwb:9781448310319"
+    ],
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T18:45:30.341467"
+    }
+}

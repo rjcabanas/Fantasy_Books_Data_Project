@@ -1,0 +1,30 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Vicki Lewis was born on 11 October in Arizona, USA. She obtained a B.A. and a M.A. in English from the University of Arizona. She married Larry Thompson, and had two children.\r\n \r\nVicki taught English, but it proved too restrictive when she discovered she didn\u2019t like being trapped in a classroom any more than the students did. Journalism seemed like a better idea, except that she kept getting assigned to scary stories like rattlesnake milking or parachute jumping. Finally, her husband suggested she write a romance, which she took as a fine testimonial to their life together. Even better, the career was a perfect fit. Writing romances provides freedom from a schedule without fear of imminent death.\r\n \r\nVicki sold her first romance to Harlequin in 1984. In collaboration with other Arizona writer, Mary Tate Engels, she also wrote under the pseudonyms of Cory Kenyon and Corey Keaton, from 1986 to 1988. With more than 70 books published in 20 years, she also writes for other publishers like: Dell, St. Martin's P or Onyx. A finalist numerous times for Romance Writers of America\u2019s RITA award, Vicki has won the Desert Rose\u2019s Golden Quill Award and has been honored by Romantic Times and Affaire de Coeur.\r\n \r\nNow that the kids are grown and Vicki has a laptop, she and her husband can travel while she writes her next novel."
+    },
+    "name": "Vicki Lewis Thompson",
+    "title": "Vicki Lewis.",
+    "personal_name": "Vicki Lewis Thompson",
+    "alternate_names": [
+        "Thompson Vicki Lewis"
+    ],
+    "photos": [
+        6279307
+    ],
+    "key": "/authors/OL1385985A",
+    "birth_date": "11 October",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-03T01:37:21.548447"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "birth_date": "1978",
+    "photos": [
+        9264333,
+        8131734
+    ],
+    "key": "/authors/OL3030442A",
+    "source_records": [
+        "amazon:9873795162",
+        "bwb:9781484441350",
+        "amazon:6055678284",
+        "amazon:6055678357",
+        "amazon:6055678403",
+        "amazon:1439588988"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "56035501",
+        "wikidata": "Q13607172"
+    },
+    "personal_name": "Kazu Kibuishi",
+    "name": "Kazu Kibuishi",
+    "alternate_names": [
+        "kibuishi"
+    ],
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T06:33:27.187047"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-04T18:28:34.504718"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "A. D. Robertson",
+    "personal_name": "A. D. Robertson",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-06-20T04:37:05.639136"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-06-20T04:37:05.639136"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7415583A",
+    "birth_date": "1978",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

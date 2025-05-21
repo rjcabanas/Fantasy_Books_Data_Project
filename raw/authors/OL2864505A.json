@@ -1,0 +1,26 @@
+{
+    "name": "Robert Kirkman",
+    "key": "/authors/OL2864505A",
+    "remote_ids": {
+        "viaf": "22380304",
+        "wikidata": "Q311891",
+        "isni": "0000000108786448"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14854823
+    ],
+    "birth_date": "30/11/1978",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-25T21:19:43.822588"
+    }
+}

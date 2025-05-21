@@ -1,0 +1,23 @@
+{
+    "name": "Juliet Marillier",
+    "personal_name": "Juliet Marillier",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:57:40.835497"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1516311A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "5862443",
+        "wikidata": "Q460187",
+        "isni": "0000000083534577"
+    }
+}

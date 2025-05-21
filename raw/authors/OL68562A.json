@@ -1,0 +1,45 @@
+{
+    "alternate_names": [
+        "Horst Eckert",
+        "\"Janosch\"",
+        "Janoch"
+    ],
+    "photos": [
+        6389184
+    ],
+    "key": "/authors/OL68562A",
+    "name": "Janosch",
+    "links": [
+        {
+            "url": "http://de.wikipedia.org/wiki/Janosch",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "Janosch.",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Deutscher Illustrator und Kinderbuchautor"
+    },
+    "remote_ids": {
+        "viaf": "79149131",
+        "wikidata": "Q77206",
+        "isni": "000000012141119X"
+    },
+    "birth_date": "1931",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-19T13:16:01.907868"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "E. A. Wyke-Smith",
+    "personal_name": "E. A. Wyke-Smith",
+    "death_date": "1935",
+    "alternate_names": [
+        "E.A. Wyke-Smith",
+        "E. A. Wyke Smith",
+        "Edward Augustine Wyke-Smith"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        7028994
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T14:44:11.941144"
+    },
+    "latest_revision": 8,
+    "key": "/authors/OL448782A",
+    "birth_date": "1871",
+    "revision": 8,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "26310418",
+        "wikidata": "Q2274359",
+        "isni": "0000000035305657"
+    }
+}

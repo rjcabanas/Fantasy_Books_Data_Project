@@ -1,0 +1,17 @@
+{
+    "name": "Laurence MacNaughton",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-04T00:53:32.122720"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-04T00:53:32.122720"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7493631A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

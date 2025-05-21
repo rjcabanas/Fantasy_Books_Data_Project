@@ -1,0 +1,19 @@
+{
+    "name": "R. J. Larson",
+    "personal_name": "R. J. Larson",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-11-30T08:43:53.574521"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-11-30T08:43:53.574521"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7042756A",
+    "birth_date": "1960",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

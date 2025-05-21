@@ -1,0 +1,19 @@
+{
+    "name": "Chris Hastings",
+    "personal_name": "Chris Hastings",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T21:40:13.274986"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T21:40:13.274986"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7522477A",
+    "birth_date": "1983",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

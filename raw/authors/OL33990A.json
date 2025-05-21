@@ -1,0 +1,38 @@
+{
+    "name": "Christopher Stasheff",
+    "links": [
+        {
+            "url": "http://christopher.stasheff.com",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Christopher Stasheff's Official Website"
+        }
+    ],
+    "personal_name": "Christopher Stasheff",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "CHRISTOPHER STASHEFF"
+    ],
+    "photos": [
+        8363758
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T16:26:35.538656"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL33990A",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "79328706",
+        "wikidata": "Q4441391",
+        "isni": "0000000063828690"
+    }
+}

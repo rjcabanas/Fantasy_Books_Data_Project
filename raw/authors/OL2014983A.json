@@ -1,0 +1,25 @@
+{
+    "personal_name": "Mary Chase",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:03:57.834207"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL2014983A",
+    "remote_ids": {
+        "viaf": "117083524",
+        "wikidata": "Q1906238",
+        "isni": "0000000108603242"
+    },
+    "name": "Mary Chase",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "death_date": "1981",
+    "birth_date": "1907",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "English novelist and broadcasting administrator"
+    },
+    "name": "P. H. Newby",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/P._H._Newby",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "P. H. Newby",
+    "death_date": "1997",
+    "alternate_names": [
+        "Percy Howard Newby"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        6734254
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:45:39.405633"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL129940A",
+    "birth_date": "1918",
+    "title": "Howard.",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "267973873",
+        "wikidata": "Q531194",
+        "isni": "0000000082939708"
+    }
+}

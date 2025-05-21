@@ -1,0 +1,19 @@
+{
+    "name": "Tamar Hodes",
+    "personal_name": "Tamar Hodes",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-07-29T07:35:32.823544"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2014-07-29T07:35:32.823544"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7207063A",
+    "birth_date": "1961",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jane Langton",
+    "key": "/authors/OL4778807A",
+    "personal_name": "Jane Langton",
+    "birth_date": "1922",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q6152472",
+        "isni": "0000000089942336",
+        "viaf": "111096798"
+    },
+    "death_date": "2018",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-17T19:50:24.813935"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-05-15T12:06:53.095573"
+    }
+}

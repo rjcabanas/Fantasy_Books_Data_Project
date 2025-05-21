@@ -1,0 +1,27 @@
+{
+    "source_records": [
+        "amazon:2205073826"
+    ],
+    "name": "N.D. Stevenson",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL7273024A",
+    "alternate_names": [
+        "Noelle Stevenson, Grace Ellis, Brooke Allen",
+        "Stevenson Noelle"
+    ],
+    "remote_ids": {
+        "wikidata": "Q21062531"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-11-13T15:16:18.735353"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-26T01:36:48.670416"
+    }
+}

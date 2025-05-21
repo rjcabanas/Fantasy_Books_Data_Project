@@ -1,0 +1,87 @@
+{
+    "key": "/authors/OL221294A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14852272,
+        11112323
+    ],
+    "birth_date": "1 September 1964",
+    "remote_ids": {
+        "wikidata": "Q6774606",
+        "viaf": "32179704",
+        "amazon": "B000APZA1O",
+        "bookbrainz": "0a089731-50de-47cd-8c62-8933214a010e",
+        "goodreads": "87305",
+        "isni": "0000000063095407",
+        "gnd": "134177134",
+        "lc_naf": "n93023694",
+        "librarything": "wellsmartha",
+        "musicbrainz": "4a92bd5c-f21b-4bd8-8b49-4b809fd37982",
+        "storygraph": "eff57134-0d82-4193-9241-522ef5f2fa19",
+        "inventaire": "wd:Q6774606"
+    },
+    "personal_name": "Martha Wells",
+    "source_records": [
+        "amazon:0982846738",
+        "amazon:9863618446",
+        "amazon:1250826799",
+        "amazon:1942712588",
+        "bwb:9781250323736"
+    ],
+    "name": "Martha Wells",
+    "bio": "Martha Wells (born September 1, 1964) is an American writer of speculative fiction. She has published a number of fantasy novels, young adult novels, media tie-ins, short stories, and nonfiction essays on fantasy and science fiction subjects. Her novels have been translated into twelve languages. Wells has won a Nebula Award, two Locus Awards, and two Hugo Awards.",
+    "alternate_names": [
+        "Wells, Martha",
+        "Wells, M.",
+        "M. Wells"
+    ],
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://marthawells.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Blog",
+            "url": "https://marthawells.dreamwidth.org",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/w/martha-wells/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?2625",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/wells_martha",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-15T03:32:28.650222"
+    }
+}

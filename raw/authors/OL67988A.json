@@ -1,0 +1,32 @@
+{
+    "death_date": "1994",
+    "remote_ids": {
+        "isni": "0000000073576802",
+        "wikidata": "Q15618705",
+        "viaf": "46756208"
+    },
+    "birth_date": "1944",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Children's illustrator."
+    },
+    "key": "/authors/OL67988A",
+    "personal_name": "Janet Ahlberg",
+    "name": "Janet Ahlberg",
+    "alternate_names": [
+        "Ahlberg Janet"
+    ],
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-06-02T18:36:29.760338"
+    }
+}

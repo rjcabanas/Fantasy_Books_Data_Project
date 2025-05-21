@@ -1,0 +1,17 @@
+{
+    "name": "Chris Columbus",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2017-05-25T01:50:48.147925"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-05-25T01:50:48.147925"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7387764A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

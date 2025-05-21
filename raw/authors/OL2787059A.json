@@ -1,0 +1,28 @@
+{
+    "source_records": [
+        "amazon:0747204667",
+        "bwb:9780759297470"
+    ],
+    "personal_name": "R.A MACAVOY",
+    "key": "/authors/OL2787059A",
+    "photos": [
+        6644744
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Roberta A. MacAvoy"
+    ],
+    "name": "R. A. Macavoy",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-10T18:15:52.565052"
+    }
+}

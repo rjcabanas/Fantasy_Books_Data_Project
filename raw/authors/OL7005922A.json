@@ -1,0 +1,19 @@
+{
+    "name": "Sam Sykes",
+    "personal_name": "Sam Sykes",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-10-22T14:47:57.479244"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-22T14:47:57.479244"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7005922A",
+    "birth_date": "1984",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

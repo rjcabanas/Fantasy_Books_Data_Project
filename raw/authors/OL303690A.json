@@ -1,0 +1,23 @@
+{
+    "name": "Allan Cole",
+    "personal_name": "Allan Cole",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T14:58:01.743742"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL303690A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "3158432",
+        "wikidata": "Q2602846",
+        "isni": "0000000120199414"
+    }
+}

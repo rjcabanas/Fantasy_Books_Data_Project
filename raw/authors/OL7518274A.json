@@ -1,0 +1,18 @@
+{
+    "name": "Oliver Platt",
+    "personal_name": "Oliver Platt",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T05:49:34.187686"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T05:49:34.187686"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7518274A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

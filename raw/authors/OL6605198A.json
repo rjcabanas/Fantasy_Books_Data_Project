@@ -1,0 +1,19 @@
+{
+    "name": "Robert V. S. Redick",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-14T04:24:48.580506"
+    },
+    "personal_name": "Robert V. S. Redick",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-05-14T04:24:48.580506"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6605198A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33955332,
+    "revision": 1
+}

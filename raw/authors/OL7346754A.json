@@ -1,0 +1,17 @@
+{
+    "name": "Malachai Nicolle",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T20:46:20.583159"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T20:46:20.583159"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7346754A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

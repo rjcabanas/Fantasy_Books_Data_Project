@@ -1,0 +1,39 @@
+{
+    "key": "/authors/OL402340A",
+    "source_records": [
+        "promise:bwb_daily_pallets_2021-06-17",
+        "promise:bwb_daily_pallets_2021-02-04",
+        "promise:bwb_daily_pallets_2023-11-27:P9-AEE-704"
+    ],
+    "bio": "Rose Impey lives in a small village in Leicestershire, U.K. She is highly regarded as a writer of books for children of all ages. It was her experience of telling stories in school as a teacher that led to her starting to write them down. Rose has a deep love and extensive knowledge of fairy and folk tales. For the Fairy Tales series (also available in a collection called The Orchard Book of Fairy Tales) and for the Twice Upon a Time series she thoroughly researched the stories of Grimm, Perrault and Joseph Jacobs before retelling them in her own spirited, direct and authoritative way. \r\nSource: http://www.lovereading4kids.co.uk/author/1418/Rose-Impey.html",
+    "personal_name": "Rose Impey",
+    "birth_date": "1947",
+    "photos": [
+        7354156
+    ],
+    "remote_ids": {
+        "viaf": "46780947",
+        "isni": "0000000116343129",
+        "wikidata": "Q47122793"
+    },
+    "alternate_names": [
+        "Rose Impey~Moira Kemp",
+        "Rosie Impey",
+        "R Impey",
+        "R. Impey"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Rose Impey",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-03T12:09:03.165356"
+    }
+}

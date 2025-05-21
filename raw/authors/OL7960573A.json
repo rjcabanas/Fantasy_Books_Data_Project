@@ -1,0 +1,17 @@
+{
+    "name": "Nahoko Uehashi",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-06-07T02:48:16.621654"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-06-07T02:48:16.621654"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7960573A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

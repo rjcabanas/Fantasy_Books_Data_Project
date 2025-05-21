@@ -1,0 +1,19 @@
+{
+    "name": "Jenna McCarthy",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-14T19:03:52.943629"
+    },
+    "personal_name": "Jenna McCarthy",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-05-14T19:03:52.943629"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6609345A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33973328,
+    "revision": 1
+}

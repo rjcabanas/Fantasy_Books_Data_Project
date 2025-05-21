@@ -1,0 +1,28 @@
+{
+    "name": "Julia Cunningham",
+    "personal_name": "Julia Cunningham",
+    "key": "/authors/OL25007A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "4 October 1916",
+    "death_date": "27 February 2008",
+    "alternate_names": [
+        "Julia Woolfolk Cunningham"
+    ],
+    "remote_ids": {
+        "viaf": "25056065",
+        "wikidata": "Q20650429",
+        "isni": "0000000083657331"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-12T11:20:56.085794"
+    }
+}

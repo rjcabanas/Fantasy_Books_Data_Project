@@ -1,0 +1,15 @@
+{
+    "name": "Christopher Hobbs",
+    "personal_name": "Christopher Hobbs",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 01:18:37.072377"
+    },
+    "key": "/authors/OL217153A",
+    "birth_date": "1944",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 562648,
+    "revision": 2
+}

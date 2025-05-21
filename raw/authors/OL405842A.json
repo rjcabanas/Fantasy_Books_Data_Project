@@ -1,0 +1,24 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "Kate Constable",
+    "key": "/authors/OL405842A",
+    "personal_name": "Kate Constable",
+    "birth_date": "1966",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:17:31.989967"
+    },
+    "remote_ids": {
+        "viaf": "43690031",
+        "wikidata": "Q6375443",
+        "isni": "0000000108144592"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Jennifer Ashley",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-15T15:25:30.549306"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-15T15:25:30.549306"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7481210A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

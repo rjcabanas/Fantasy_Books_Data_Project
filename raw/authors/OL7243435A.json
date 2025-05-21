@@ -1,0 +1,17 @@
+{
+    "name": "Anne Deirdre Wilson",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-08-06T14:51:14.894896"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2015-08-06T14:51:14.894896"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7243435A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

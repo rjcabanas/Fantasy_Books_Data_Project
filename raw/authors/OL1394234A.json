@@ -1,0 +1,43 @@
+{
+    "name": "Jim C. Hines",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Jim C. Hines",
+    "source_records": [
+        "amazon:9500209624"
+    ],
+    "links": [
+        {
+            "title": "Wikipedia [en]",
+            "url": "http://en.wikipedia.org/wiki/Jim_C._Hines",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "http://www.jimchines.com/",
+            "title": "Official home page",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL1394234A",
+    "birth_date": "1974",
+    "remote_ids": {
+        "isni": "0000000118724056",
+        "viaf": "3661180",
+        "wikidata": "Q611959"
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-14T20:26:41.703210"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Ken Akamatsu",
+    "personal_name": "Ken Akamatsu",
+    "key": "/authors/OL1393281A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "goodreads": "82969",
+        "youtube": "UC-Y8SkiaiMISZbm7ac2sXug",
+        "viaf": "66682410",
+        "wikidata": "Q311589",
+        "amazon": "B001IR3EA2",
+        "librarything": "akamatsuken",
+        "isni": "0000000120276344"
+    },
+    "photos": [
+        12818945
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Ken Akamatsu is a mangaka and Japanese politician most known for his works Love Hina and Negima!"
+    },
+    "birth_date": "05 July 1968",
+    "alternate_names": [
+        "\u8d64\u677e\u5065"
+    ],
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-10T23:11:19.646773"
+    }
+}

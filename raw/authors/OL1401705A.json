@@ -1,0 +1,28 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "American comic artist known for his work on Witchblade, Fathom, Superman/Batman, Soulfire, etc at DC and Marvel."
+    },
+    "name": "Michael Turner",
+    "personal_name": "Turner, Michael",
+    "death_date": "2008",
+    "alternate_names": [
+        "Michael Layne Turner",
+        "Micka\u00ebl Turner"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-24T18:34:55.805413"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL1401705A",
+    "birth_date": "1971",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

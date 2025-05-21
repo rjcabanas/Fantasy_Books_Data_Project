@@ -1,0 +1,18 @@
+{
+    "name": "Kristen L. Painter",
+    "personal_name": "Kristen L. Painter",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-03-23T08:06:27.160515"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-03-23T08:06:27.160515"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7100247A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

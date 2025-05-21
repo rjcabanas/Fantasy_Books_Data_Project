@@ -1,0 +1,14 @@
+{
+    "name": "Jim Starlin",
+    "personal_name": "Jim Starlin",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-31 13:07:55.950038"
+    },
+    "key": "/authors/OL469665A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1309362,
+    "revision": 2
+}

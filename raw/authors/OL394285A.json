@@ -1,0 +1,116 @@
+{
+    "key": "/authors/OL394285A",
+    "links": [
+        {
+            "title": "Official Forum",
+            "url": "https://www.michaelmoorcock.net",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/m/michael-moorcock/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?140",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/moorcock_michael",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "The Michael Moorcock Bibliography (Fansite)",
+            "url": "https://moorcography.org",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "source_records": [
+        "amazon:0856174564",
+        "bwb:9780722162156",
+        "amazon:0704310856",
+        "amazon:0352306815",
+        "promise:bwb_daily_pallets_2020-11-19",
+        "promise:bwb_daily_pallets_2022-05-23",
+        "promise:bwb_daily_pallets_2021-03-12",
+        "amazon:2266029320",
+        "amazon:2866070461",
+        "promise:bwb_daily_pallets_2023-06-26:P8-CNJ-953"
+    ],
+    "name": "Michael Moorcock",
+    "personal_name": "Michael Moorcock",
+    "bio": "Michael John Moorcock is an English writer, primarily of science fiction and fantasy, who has also published literary novels. He is best known for his novels about the character Elric of Melnibon\u00e9, a seminal influence on the field of fantasy in the 1960s and 1970s.\r\n\r\nAs editor of the controversial British science fiction magazine New Worlds, from May 1964 until March 1971 and then again from 1976 to 1996, Moorcock fostered the development of the science fiction \"New Wave\" in the UK and indirectly in the United States. He is also a comics writer, musician, and editor.\r\n\r\nSource: [Wikipedia](https://en.wikipedia.org/wiki/Michael_Moorcock)",
+    "photos": [
+        14852664,
+        6882576,
+        7236384
+    ],
+    "birth_date": "18 December 1939",
+    "alternate_names": [
+        "Barclay, Bill",
+        "Barclay, William Ewert",
+        "Barclay, William Everet",
+        "Bradbury, Edward P.",
+        "Bradbury, Edward Powys",
+        "Barrington, Michael",
+        "Janson, Hank",
+        "Colvin, James",
+        "James, Philip",
+        "Reid, Desmond",
+        "Murkok, Ma\u012dkl (Russ. Vorlageform, AACR)",
+        "Murkok, Majkl (Russ. Vorlageform, RAK-WB)",
+        "Bill Barclay (pseud.)",
+        "Desmond Reid (pseud.)",
+        "Edward P. Bradbury (pseud.)",
+        "Hank Janson",
+        "James Colvin (pseud.)",
+        "Michael Barrington (shared pseud.)",
+        "Michael John Moorcock (birthname)",
+        "Micha\u00ebl Moorcock",
+        "Philip James (pseud.)",
+        "Renegade",
+        "Roger Harris",
+        "Warwick Colvin, Jr. (pseud.)",
+        "William Ewert Barclay (pseud.)"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q316138",
+        "isni": "0000000081753119",
+        "viaf": "109785773",
+        "gnd": "120741113",
+        "lc_naf": "n79151230",
+        "amazon": "B000AQ6Q6G",
+        "bookbrainz": "bd422ef2-3802-4646-bb52-dbcaa9f52db5",
+        "goodreads": "16939",
+        "imdb": "nm0600841",
+        "librarything": "moorcockmichael",
+        "musicbrainz": "fa668ea9-009b-426a-93bc-fbd1965e6b0e",
+        "storygraph": "24d947c9-44e2-436f-9be7-4f94f2d93912",
+        "inventaire": "wd:Q316138"
+    },
+    "latest_revision": 24,
+    "revision": 24,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-17T05:06:10.557977"
+    }
+}

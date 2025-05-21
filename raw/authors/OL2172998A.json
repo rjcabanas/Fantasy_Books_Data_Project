@@ -1,0 +1,35 @@
+{
+    "key": "/authors/OL2172998A",
+    "personal_name": "Dorothy Pulis Lathrop",
+    "source_records": [
+        "ia:creaturestrackst0000unse"
+    ],
+    "name": "Dorothy Pulis Lathrop",
+    "birth_date": "1891",
+    "alternate_names": [
+        "Dorothy P. Lathrop"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "death_date": "1980",
+    "remote_ids": {
+        "wikidata": "Q5298579",
+        "viaf": "113980843",
+        "isni": "0000000083163286"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Dorothy Pulis Lathrop (April 16, 1891 \u2013 December 30, 1980) was an American writer and illustrator of children's books."
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-03T21:08:22.384977"
+    }
+}

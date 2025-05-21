@@ -1,0 +1,17 @@
+{
+    "name": "Jared Shurin",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-04T00:18:27.809427"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-04T00:18:27.809427"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7493619A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Kit Downes",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:38:14.139962"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:38:14.139962"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7305515A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

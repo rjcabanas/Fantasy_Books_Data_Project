@@ -1,0 +1,25 @@
+{
+    "personal_name": "Ann Bridge",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:23:25.613083"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL1053294A",
+    "remote_ids": {
+        "viaf": "40443276",
+        "wikidata": "Q13511828",
+        "isni": "0000000118098657"
+    },
+    "name": "Ann Bridge",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "death_date": "1974",
+    "birth_date": "1889",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

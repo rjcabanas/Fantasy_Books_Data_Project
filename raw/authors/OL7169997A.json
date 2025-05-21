@@ -1,0 +1,63 @@
+{
+    "name": "Miguel \u00c1ngel Guerrero Ramos",
+    "links": [
+        {
+            "url": "https://centerforinterculturaldialogue.org/2016/08/03/researcher-profile-miguel-angel-guerrero-ramos/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Center for Intercultural Dialogue"
+        },
+        {
+            "url": "http://www.escritores.org/libros/index.php/item/miguel-angel-guerrero-ramos",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Escritores.org"
+        },
+        {
+            "url": "http://ssociologos.com/columnistas/miguel-angel-guerrero-ramos-columnistas/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Ssoci\u00f3logos"
+        },
+        {
+            "url": "https://www.amazon.com/s?ie=UTF8&page=1&rh=n%3A283155%2Cp_27%3AMiguel%20%C3%81ngel%20Guerrero%20Ramos",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Amazon"
+        },
+        {
+            "url": "http://www.grin.com/profile/974907/sociologo-miguel-angel-guerrero-ramos",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Grin.com"
+        }
+    ],
+    "birth_date": "1987",
+    "photos": [
+        7881176,
+        7881199
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Miguel \u00c1ngel Guerrero Ramos is a Sociologist at the National University of Colombia. Master\u2019s Student in Human Rights at the Pedagogical and Technological University of Colombia (UPTC). Member of Group Research Con Paso Cr\u00edtico of the UPTC. Author of the novels Observing Reality Through Desire, and Deep Down in the Pupils of Infinite Time, among others. His research interests are: critical theory of biosocial undecidability, human rights, pragmatic sociology, and geopolitics, among others."
+    },
+    "key": "/authors/OL7169997A",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2013-06-01T22:48:41.262652"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-08T01:47:37.244409"
+    }
+}

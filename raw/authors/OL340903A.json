@@ -1,0 +1,54 @@
+{
+    "alternate_names": [
+        "Glen Trevor",
+        "James hilton",
+        "JAMES HILTON",
+        "James HILTON",
+        "James JAMES HILTON",
+        "\u0414\u0436\u0435\u0439\u043c\u0441 \u0425\u0438\u043b\u0442\u043e\u043d",
+        "James James Hilton",
+        "James Hilton James Hilton",
+        "James Hilton (Author); Edward Weeks (Foreword by)",
+        "James HIlton",
+        "James 1900-1954 Hilton",
+        "james hilton",
+        "Jame Hilton"
+    ],
+    "photos": [
+        7411505
+    ],
+    "death_date": "20 December 1954",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "James Hilton was an English novelist best remembered for several best-sellers, including Lost Horizon and Goodbye, Mr. Chips. He also wrote Hollywood screenplays.\r\nSource: Wikipedia",
+    "name": "James Hilton",
+    "personal_name": "James Hilton",
+    "remote_ids": {
+        "isni": "0000000108879310",
+        "viaf": "36944583",
+        "wikidata": "Q43227"
+    },
+    "birth_date": "9 September 1900",
+    "source_records": [
+        "bwb:9798539087234",
+        "bwb:9798548260185",
+        "bwb:9798531527486",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-04-08",
+        "bwb:9781013738142",
+        "promise:bwb_daily_pallets_2022-10-31:P8-ACS-740",
+        "bwb:9798499921661"
+    ],
+    "key": "/authors/OL340903A",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-07T08:13:03.796577"
+    }
+}

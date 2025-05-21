@@ -1,0 +1,28 @@
+{
+    "name": "Tadeusz Konwicki",
+    "personal_name": "Konwicki, Tadeusz.",
+    "death_date": "2015",
+    "alternate_names": [
+        "Tadeusz M. Konwicki"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T13:00:37.404694"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL227385A",
+    "birth_date": "1926",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "108624844",
+        "wikidata": "Q704516",
+        "isni": "0000000081735180"
+    }
+}

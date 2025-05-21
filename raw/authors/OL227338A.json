@@ -1,0 +1,28 @@
+{
+    "name": "Marilyn Singer",
+    "birth_date": "1948",
+    "source_records": [
+        "bwb:9780060258450",
+        "amazon:0545369657"
+    ],
+    "key": "/authors/OL227338A",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Marilyn Singer",
+    "remote_ids": {
+        "wikidata": "Q6763629",
+        "viaf": "951708",
+        "isni": "0000000063260337"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-13T15:11:07.661409"
+    }
+}

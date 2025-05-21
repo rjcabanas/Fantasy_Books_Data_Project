@@ -1,0 +1,37 @@
+{
+    "key": "/authors/OL7173714A",
+    "photos": [
+        7278196
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2014-05-16T14:05:51.759622"
+    },
+    "latest_revision": 4,
+    "name": "Renee Robinson",
+    "links": [
+        {
+            "url": "http://naesnest.me",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Nae's Nest Blog"
+        },
+        {
+            "url": "http://www.amazon.com/Renee-Robinson/e/B00AMYJ8L6",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Arthur Profile Amazon"
+        }
+    ],
+    "personal_name": "Renee Robinson",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-04-08T19:44:09.189069"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

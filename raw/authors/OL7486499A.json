@@ -1,0 +1,39 @@
+{
+    "name": "Nicky Drayden",
+    "key": "/authors/OL7486499A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14326047
+    ],
+    "links": [
+        {
+            "url": "http://www.nickydrayden.com/",
+            "title": "Author website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "remote_ids": {
+        "librarything": "draydennicky",
+        "storygraph": "8475c5a8-5f20-49a8-b862-f412c84d6448",
+        "isni": "0000000504153474",
+        "youtube": "@nickydrayden8023",
+        "amazon": "B071HMF6YS",
+        "wikidata": "Q65833974",
+        "goodreads": "4827710",
+        "viaf": "33149912332606210890"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-26T01:03:09.460308"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-16T19:12:10.193736"
+    }
+}

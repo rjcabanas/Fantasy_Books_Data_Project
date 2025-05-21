@@ -1,0 +1,37 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:8729109426"
+    ],
+    "name": "Holly Bourne",
+    "key": "/authors/OL7548688A",
+    "photos": [
+        14433788
+    ],
+    "remote_ids": {
+        "storygraph": "b535f494-d7e5-4873-8a49-d278abab6713",
+        "amazon": "B00CP1YKDA",
+        "viaf": "307304974",
+        "goodreads": "6561227",
+        "wikidata": "Q52930882",
+        "isni": "0000000071974997",
+        "librarything": "bourneholly"
+    },
+    "birth_date": "6 May 1986",
+    "bio": {
+        "type": "/type/text",
+        "value": "British author"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-06-04T14:45:34.631743"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-10T20:12:43.199653"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Jane Johnson",
+    "personal_name": "Johnson, Jane",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-13T13:16:12.266315"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL530390A",
+    "birth_date": "1951",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

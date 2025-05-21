@@ -1,0 +1,17 @@
+{
+    "name": "Ben Horton",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T05:16:54.620624"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T05:16:54.620624"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6814207A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

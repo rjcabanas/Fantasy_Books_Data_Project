@@ -1,0 +1,17 @@
+{
+    "name": "Kevin McGill",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-12-27T14:29:02.963357"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-12-27T14:29:02.963357"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7167645A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

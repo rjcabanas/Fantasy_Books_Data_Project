@@ -1,0 +1,17 @@
+{
+    "name": "Jerome Aceti",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-04T19:46:48.538230"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-04T19:46:48.538230"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8080312A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

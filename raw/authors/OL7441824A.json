@@ -1,0 +1,25 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Dave Barrett lives with his wife, three children, and an active imagination in Hampden, Maine, where he teaches financial accounting at the University of Maine. It's All Fun and Games is the first in his series of young adult novels and was selected as a winner of the inaugural Nerdist Collection Contest."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-08T21:28:35.251647"
+    },
+    "latest_revision": 3,
+    "name": "Dave Barrett",
+    "key": "/authors/OL7441824A",
+    "personal_name": "Dave Barrett",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-12-22T04:43:35.040374"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        8414183
+    ],
+    "revision": 3
+}

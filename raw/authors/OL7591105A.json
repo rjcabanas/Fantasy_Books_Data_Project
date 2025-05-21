@@ -1,0 +1,17 @@
+{
+    "name": "M.C.A. Hogarth",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-17T17:11:06.096158"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-17T17:11:06.096158"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7591105A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

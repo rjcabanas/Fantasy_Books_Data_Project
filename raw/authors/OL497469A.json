@@ -1,0 +1,14 @@
+{
+    "name": "Bob Terrio",
+    "personal_name": "Bob Terrio",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-31 20:33:23.106119"
+    },
+    "key": "/authors/OL497469A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1395566,
+    "revision": 2
+}

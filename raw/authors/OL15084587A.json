@@ -1,0 +1,22 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Daphne Du Maurier",
+    "birth_date": "1907",
+    "death_date": "1989",
+    "key": "/authors/OL15084587A",
+    "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:574666899:1303"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2025-02-25T10:40:16.492232"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-25T10:40:16.492232"
+    }
+}

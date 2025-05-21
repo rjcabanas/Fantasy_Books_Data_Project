@@ -1,0 +1,26 @@
+{
+    "name": "Sharon Lee",
+    "key": "/authors/OL1187903A",
+    "personal_name": "Sharon Lee",
+    "birth_date": "1952",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Sharon",
+        "Miller, Steve Lee"
+    ],
+    "remote_ids": {
+        "viaf": "40551173"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T21:22:40.111259"
+    }
+}

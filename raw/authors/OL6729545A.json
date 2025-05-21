@@ -1,0 +1,19 @@
+{
+    "name": "Stephanie Burgis",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-09-18T20:57:11.196327"
+    },
+    "personal_name": "Stephanie Burgis",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-09-18T20:57:11.196327"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6729545A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 34665002,
+    "revision": 1
+}

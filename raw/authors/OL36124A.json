@@ -1,0 +1,21 @@
+{
+    "name": "Diane Muldrow",
+    "personal_name": "Diane Muldrow",
+    "key": "/authors/OL36124A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q107068090"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-06-01T23:39:58.143123"
+    }
+}

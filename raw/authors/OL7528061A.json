@@ -1,0 +1,19 @@
+{
+    "name": "Usagi \u014ckubo",
+    "personal_name": "Usagi \u014ckubo",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T01:25:15.986046"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T01:25:15.986046"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7528061A",
+    "birth_date": "1975",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Morgan Rice",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-08-20T14:10:47.295115"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2014-08-20T14:10:47.295115"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7225844A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

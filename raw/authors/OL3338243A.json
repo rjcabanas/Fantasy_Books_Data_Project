@@ -1,0 +1,34 @@
+{
+    "source_records": [
+        "ia:baleinesdroitdev0000cole",
+        "amazon:9752122922",
+        "ia:magicschoolbusat0000cole_k6w9",
+        "amazon:9573248808",
+        "amazon:7536534590",
+        "promise:bwb_daily_pallets_2022-09-02",
+        "promise:bwb_daily_pallets_2020-10-14",
+        "promise:bwb_daily_pallets_2020-10-07",
+        "promise:bwb_daily_pallets_2022-12-28"
+    ],
+    "name": "Joanna Cole",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1944",
+    "alternate_names": [
+        "Qiaoanna Keer",
+        "Joanna A. Cole"
+    ],
+    "key": "/authors/OL3338243A",
+    "personal_name": "Qiaoanna Keer",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-26T10:56:38.010888"
+    }
+}

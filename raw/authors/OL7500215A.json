@@ -1,0 +1,38 @@
+{
+    "name": "\u4e38\u5c71\u304f\u304c\u306d",
+    "key": "/authors/OL7500215A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "librarything": "2295471172",
+        "wikidata": "Q21703926",
+        "amazon": "B00J1ZJ362",
+        "isni": "0000000400112651",
+        "viaf": "295598507",
+        "goodreads": "14590452",
+        "musicbrainz": "857b290d-7b91-4415-9748-e208fb9581f6",
+        "gnd": "1220058408",
+        "imdb": "nm9458178",
+        "lc_naf": "n2016005401",
+        "bookbrainz": "5a1f739f-a180-4cce-82a5-67d42cdbbf70",
+        "storygraph": "42f0b84a-4a99-4d37-b774-38d5a48c1c23"
+    },
+    "bio": "Japanese novelist",
+    "alternate_names": [
+        "\u4e38\u5c71 \u304f\u304c\u306d",
+        "Kugane Maruyama",
+        "Maruyama Kugane",
+        "Muchimuchi Puririn"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-09T14:33:11.354508"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-29T16:35:54.514274"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "alternate_names": [
+        "Wolfe, Gene.",
+        "Wolfe, G.",
+        "G. Wolfe"
+    ],
+    "personal_name": "Wolfe, Gene.",
+    "death_date": "14 April 2019",
+    "birth_date": "7 May 1931",
+    "photos": [
+        8540062,
+        8540052
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "isni": "0000000109247382",
+        "viaf": "92193245",
+        "wikidata": "Q361149",
+        "amazon": "B000APBL0I",
+        "bookbrainz": "68a5aaa1-7ff3-4d9f-a5b9-d2f1da602d4e",
+        "goodreads": "23069",
+        "gnd": "129353000",
+        "imdb": "nm3667179",
+        "lc_naf": "n79117035",
+        "librarything": "wolfegene",
+        "storygraph": "8e606dbd-8d7f-40e1-88b4-6ecb5ad073c3"
+    },
+    "bio": "Gene Wolfe was born in Texas. After dropping out from Texas A&M University, he served in the Korean War, and later graduated from the University of Houston. He worked first as an engineer, notably designing part of the machine that produces Pringles potatoe chips, and later as the editor of a professional engineering magazine, *Plant Engineering*.\r\n\r\nWolfe was a prolific writer, publishing over 30 novels and hundreds of short stories in his life. He was known for the complexity of his narratives and the depth of his characters, frequently using unreliable or fallible narrators to enhance his thematic focus on memory. His work explores topics of morality, often through the lens of his Catholic faith. \r\n\r\nPrimarily recognized for his science fiction and fantasy works, Wolfe received a litany of recognition in those genres including the British Science Fiction, World Fantasy, British Fantasy, Locus, Nebula, and Campbell Memorial Awards. In 2012 he was recognized as the 29th Grand Master by the Science Fiction and Fantasy Writers of America. \r\n\r\nInformation from [Tor Publishing][1] and [The New Yorker][2].\r\n\r\n\r\n  [1]: https://www.tor.com/2019/04/15/gene-wolfe-in-memoriam-1931-2019/\r\n  [2]: https://www.newyorker.com/books/page-turner/sci-fis-difficult-genius",
+    "key": "/authors/OL24856A",
+    "source_records": [
+        "amazon:2354089244",
+        "amazon:6257650984",
+        "ia:pazuragodziciela0000wolf",
+        "amazon:1848639910",
+        "amazon:2277242004",
+        "amazon:8842910104",
+        "amazon:9871180233",
+        "promise:bwb_daily_pallets_2023-09-19:O9-BXK-407",
+        "bwb:9781250846228"
+    ],
+    "name": "Gene Wolfe",
+    "links": [
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/w/gene-wolfe/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?171",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/wolfe_gene",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Ultan\u2019s Library \u2013 a web resource for the study of Gene Wolfe",
+            "url": "https://ultan.org.uk/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-15T02:19:25.933655"
+    }
+}

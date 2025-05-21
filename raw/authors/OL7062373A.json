@@ -1,0 +1,26 @@
+{
+    "name": "Veronica Rossi",
+    "personal_name": "Veronica Rossi",
+    "key": "/authors/OL7062373A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "228413926",
+        "wikidata": "Q18669910",
+        "isni": "0000000364930701"
+    },
+    "photos": [
+        12838925
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-01-11T18:03:04.741789"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-26T14:41:19.219459"
+    }
+}

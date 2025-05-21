@@ -1,0 +1,17 @@
+{
+    "name": "David Dalglish",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T03:00:14.099948"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T03:00:14.099948"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7300897A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

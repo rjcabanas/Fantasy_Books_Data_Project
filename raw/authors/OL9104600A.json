@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Mitchell S. Karnes",
+    "personal_name": "Mitchell S. Karnes",
+    "key": "/authors/OL9104600A",
+    "source_records": [
+        "ia:dragonspawn0000karn"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-02-14T05:07:30.889106"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-02-14T05:07:30.889106"
+    }
+}

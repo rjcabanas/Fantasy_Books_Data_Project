@@ -1,0 +1,18 @@
+{
+    "name": "Maria Lewis",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-11T18:16:36.026492"
+    },
+    "personal_name": "Maria Lewis",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-11T18:16:36.026492"
+    },
+    "key": "/authors/OL5416813A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 27662239,
+    "revision": 1
+}

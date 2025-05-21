@@ -1,0 +1,15 @@
+{
+    "name": "Jean Bell Mosley",
+    "personal_name": "Jean Bell Mosley",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-12 22:45:07.997779"
+    },
+    "key": "/authors/OL1241076A",
+    "birth_date": "1913",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 4116003,
+    "revision": 2
+}

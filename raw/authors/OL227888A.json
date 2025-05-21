@@ -1,0 +1,45 @@
+{
+    "source_records": [
+        "bwb:9780395068182",
+        "amazon:0823415090",
+        "promise:bwb_daily_pallets_2023-03-08:P8-CYY-255",
+        "promise:bwb_daily_pallets_2022-08-30"
+    ],
+    "photos": [
+        12529255
+    ],
+    "death_date": "13 December 2005",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Margaret Hodges",
+    "bio": {
+        "type": "/type/text",
+        "value": "Sarah Margaret \"Peggy\" Hodges n\u00e9e Moore (July 26, 1911 \u2013 December 13, 2005) was an American writer of children's books, librarian, and storyteller.\r\n\r\nSarah Margaret Moore was born in Indianapolis, Indiana to Arthur Carlisle Moore and Annie Marie Moore. She enrolled at Tudor Hall, a college preparatory school for girls. A 1932 graduate of Vassar College, she arrived in Pittsburgh, Pennsylvania with her husband Fletcher Hodges Jr. when in 1937 he became curator at the Stephen Foster Memorial. She trained as a librarian at Carnegie Institute of Technology. Beginning in 1958 with One Little Drum, she wrote more than 40 published books. She also wrote the book John F. Kennedy Voice of Hope.\r\n\r\nShe was a professor of library science at the University of Pittsburgh, where she retired in 1976.\r\n\r\nHodges died of heart disease December 13, 2005, at her home in Oakmont, Pennsylvania. She suffered from Parkinson's disease.\r\n\r\nShe wrote her stories on a notepad or a typewriter. \"I need good ideas, and they don't come out of machines\", she once said."
+    },
+    "key": "/authors/OL227888A",
+    "remote_ids": {
+        "isni": "0000000109564011",
+        "viaf": "15381104",
+        "wikidata": "Q13533595"
+    },
+    "personal_name": "Margaret Hodges",
+    "birth_date": "26 July 1911",
+    "alternate_names": [
+        "Sarah Margaret Moore",
+        "Sarah Margaret \"Peggy\" Hodges",
+        "Hodges, Margaret.",
+        "Margaret [illustrated by peter parnall] Hodges",
+        "Hodges                       M"
+    ],
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-30T09:24:09.305993"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Lynne Reid Banks",
+    "bio": {
+        "type": "/type/text",
+        "value": "Lynne Reid Banks was born in London, the only child of James and Muriel Reid Banks. During World War II she was evacuated to Saskatoon, Saskatchewan, but she returned as soon as the war was over. She was educated at St Teresa's School in Surrey. She became an actress, and also worked as a television journalist.  In 1960 she publisher her first book, The L-Shaped Room, which was a best-seller.\r\n\r\nIn 1962 she moved to Israel to join an Israeli kibbutz Yasur as a teacher. In 1965 she married Chaim Stephenson. They had three sons together. They returned to England in 1971.\r\n\r\nShe has written over 40 books, including the best-selling children's book The Indian in the Cupboard, which has sold over 10 million copies."
+    },
+    "photos": [
+        6183192
+    ],
+    "location": "Dorset, UK",
+    "alternate_names": [
+        "Lynne reid banks",
+        "LYNNE REID BANKS",
+        "Lynne Banks Reid"
+    ],
+    "date": "September 2009",
+    "birth_date": "31 July 1929",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Lynne Reid Banks",
+    "remote_ids": {
+        "viaf": "39373210",
+        "wikidata": "Q441146",
+        "isni": "0000000120242603"
+    },
+    "links": [
+        {
+            "url": "http://www.lynnereidbanks.com",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL31126A",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T16:09:15.164992"
+    }
+}

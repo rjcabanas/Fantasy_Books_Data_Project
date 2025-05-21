@@ -1,0 +1,22 @@
+{
+    "name": "Adam Jay Epstein",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-09-04T16:54:30.506607"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-09T05:44:43.158241"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL6826907A",
+    "remote_ids": {
+        "viaf": "76538936",
+        "wikidata": "Q47111748",
+        "isni": "0000000108150861"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

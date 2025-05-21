@@ -1,0 +1,22 @@
+{
+    "name": "Nicole Claveloux",
+    "personal_name": "Nicole Claveloux",
+    "key": "/authors/OL1965663A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q3341025"
+    },
+    "birth_date": "23 June 1940",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-05T16:17:34.596149"
+    }
+}

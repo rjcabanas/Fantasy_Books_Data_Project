@@ -1,0 +1,65 @@
+{
+    "name": "Michael A. Stackpole",
+    "alternate_names": [
+        "Michael Stackpole",
+        "Michael A Stackpole",
+        "Michael A. Stackpol",
+        "Michael Stockpole",
+        "Micha\u00ebl A. Stackpole",
+        "Stackpole, Michael A."
+    ],
+    "photos": [
+        6460438
+    ],
+    "birth_date": "27 November 1957",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Michael Austin Stackpole (born November 27, 1957) is an American science fiction and fantasy author best known for his Star Wars and BattleTech books. He was born in Wausau, Wisconsin, but raised in Vermont. He has a BA in history from the University of Vermont. From 1977 on, he worked as a designer of role-playing games for various gaming companies, and wrote dozens of magazine articles with limited distribution within the industry. He lives in Scottsdale, Arizona.",
+    "source_records": [
+        "amazon:0451455312",
+        "bwb:9781302932213",
+        "bwb:9781804941768",
+        "amazon:1499536569",
+        "promise:bwb_daily_pallets_2023-01-26:W8-ANG-234",
+        "promise:bwb_daily_pallets_2020-07-23",
+        "promise:bwb_daily_pallets_2021-04-15",
+        "promise:bwb_daily_pallets_2021-06-15",
+        "promise:bwb_daily_pallets_2023-03-03:P8-AXW-676",
+        "promise:bwb_daily_pallets_2023-05-24:KL-098-591",
+        "promise:bwb_daily_pallets_2023-11-29:P9-AIU-973"
+    ],
+    "key": "/authors/OL40284A",
+    "personal_name": "Michael A. Stackpole",
+    "remote_ids": {
+        "isni": "0000000115703508",
+        "viaf": "51825860",
+        "wikidata": "Q1347163"
+    },
+    "links": [
+        {
+            "url": "http://www.stormwolf.com/",
+            "title": "Official site",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "http://www.facebook.com/michael.stackpole",
+            "title": "Facebook",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-15T13:36:06.707060"
+    }
+}

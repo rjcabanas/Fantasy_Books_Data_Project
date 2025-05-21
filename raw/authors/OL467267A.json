@@ -1,0 +1,15 @@
+{
+    "name": "Cormac MacRaois",
+    "personal_name": "Cormac MacRaois",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-31 12:50:20.753667"
+    },
+    "key": "/authors/OL467267A",
+    "birth_date": "1944",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1302109,
+    "revision": 2
+}

@@ -1,0 +1,50 @@
+{
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Dorothy_Gilman",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia page"
+        }
+    ],
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-04-01",
+        "bwb:9781013331657"
+    ],
+    "personal_name": "Dorothy Gilman",
+    "photos": [
+        7268481
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Dorothy Gilman",
+    "alternate_names": [
+        "Dorothy Gilman-Butters",
+        "Dorothy Gilman Butters",
+        "Dorothy Gilman 1923- Butters"
+    ],
+    "key": "/authors/OL26402A",
+    "birth_date": "25 June 1923",
+    "bio": {
+        "type": "/type/text",
+        "value": "Dorothy Edith Gilman was born in New Brunswick, New Jersey, the daughter of a minister. In 1940, she attended Pennsylvania Academy of the Fine Arts. In 1945, she married Edgar A. Butters, Jr., with whom she had two children. In 1963, she attended the University of Pennsylvania. She divorced in 1965. She wrote mystery and spy novels, and is best known for her Mrs. Pollifax series. In 2010 she was awarded the annual Grand Master by the Mystery Writers of America."
+    },
+    "death_date": "2 February 2012",
+    "remote_ids": {
+        "viaf": "34577905",
+        "wikidata": "Q456494",
+        "isni": "0000000107989649"
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-12T23:54:57.339843"
+    }
+}

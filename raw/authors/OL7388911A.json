@@ -1,0 +1,29 @@
+{
+    "name": "Jessica Cluess",
+    "key": "/authors/OL7388911A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "bookbrainz": "f897b723-a5cb-4cbc-90fc-f64bf8dbec22",
+        "amazon": "B01HOEPHLG",
+        "goodreads": "6916708",
+        "storygraph": "c3f43875-3a1f-4d8a-b290-9335a8aa4bfb",
+        "librarything": "cluessjessica",
+        "wikidata": "Q99492990",
+        "lc_naf": "n2015044945",
+        "isni": "0000000451158107",
+        "viaf": "316788620",
+        "musicbrainz": "d31b5028-164d-4b82-ab86-1d68e76ed7ff"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2017-06-12T19:16:09.644861"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-04T17:23:21.092825"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "remote_ids": {
+        "viaf": "79087089",
+        "wikidata": "Q650991",
+        "isni": "0000000063062015"
+    },
+    "birth_date": "5 February 1956",
+    "photos": [
+        12547359
+    ],
+    "name": "David Wiesner",
+    "bio": "David Wiesner (born February 5, 1956) is an American illustrator and writer of children's books, known best for picture books including some that tell stories without words. As an illustrator he has won three Caldecott Medals recognizing the year's \"most distinguished American picture book for children\" and he was one of five finalists in 2008 for the biennial, international Hans Christian Andersen Award, the highest recognition available for creators of children's books.\r\nhttps://en.wikipedia.org/wiki/David_Wiesner",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "bwb:9780358423324",
+        "amazon:0590706322",
+        "bwb:9781856810081",
+        "promise:bwb_daily_pallets_2022-11-18",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "amazon:2878336119",
+        "amazon:8426132928"
+    ],
+    "personal_name": "David Wiesner",
+    "key": "/authors/OL454200A",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-07T08:31:30.267387"
+    }
+}

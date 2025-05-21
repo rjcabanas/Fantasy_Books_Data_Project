@@ -1,0 +1,15 @@
+{
+    "name": "Debra Doyle",
+    "personal_name": "Debra Doyle",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-11 14:16:50.101135"
+    },
+    "key": "/authors/OL24097A",
+    "birth_date": "1952",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 61629,
+    "revision": 2
+}

@@ -1,0 +1,17 @@
+{
+    "name": "J. Y. Neon Yang",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-31T10:39:54.126205"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-31T10:39:54.126205"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8351355A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

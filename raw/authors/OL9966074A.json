@@ -1,0 +1,22 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Linda McNabb",
+    "personal_name": "Linda McNabb",
+    "birth_date": "1963",
+    "key": "/authors/OL9966074A",
+    "source_records": [
+        "ia:puppetmaster0000mcna"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-23T11:38:59.741600"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-23T11:38:59.741600"
+    }
+}

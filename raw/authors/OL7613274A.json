@@ -1,0 +1,58 @@
+{
+    "source_records": [
+        "amazon:1734086246",
+        "amazon:1529088038"
+    ],
+    "personal_name": "TJ Klune",
+    "birth_date": "20 May 1982",
+    "name": "TJ Klune",
+    "alternate_names": [
+        "T. J. Klune",
+        "T.J. Klune",
+        "Tj Klune",
+        "Travis John Klune",
+        "Klune, TJ",
+        "Klune, Tj",
+        "Klune, T. J.",
+        "Klune, T.J."
+    ],
+    "photos": [
+        14824732
+    ],
+    "key": "/authors/OL7613274A",
+    "remote_ids": {
+        "viaf": "231931556",
+        "isni": "0000000505024375",
+        "wikidata": "Q60390071",
+        "goodreads": "5073330",
+        "amazon": "B005LDJ9Z8",
+        "lc_naf": "no2012023108",
+        "inventaire": "wd:Q60390071",
+        "librarything": "klunetj",
+        "storygraph": "502f70ae-5dee-487e-a343-bd0b4dc38d8b",
+        "gnd": "1231864915"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Travis John (TJ) Klune is a Lambda Literary Award-winning author (Into This River I Drown) and an ex-claims examiner for an insurance company. His novels include The House in the Cerulean Sea and The Extraordinaries. Being queer himself, TJ believes it's important\u2014now more than ever\u2014to have accurate, positive, queer representation in stories. (<a href=\"https://www.tjklunebooks.com/about\">source</a>)",
+    "links": [
+        {
+            "title": "TJ Klune website",
+            "url": "https://www.tjklunebooks.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:59:39.694321"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-17T23:11:04.951075"
+    }
+}

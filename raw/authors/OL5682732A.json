@@ -1,0 +1,18 @@
+{
+    "name": "Andre\u012d Zhvalevski\u012d",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-21T11:44:16.695673"
+    },
+    "personal_name": "Andre\u012d Zhvalevski\u012d",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-21T11:44:16.695673"
+    },
+    "key": "/authors/OL5682732A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 29029869,
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "N. S. Dolkart",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-04T23:53:07.108532"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-04T23:53:07.108532"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8084703A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

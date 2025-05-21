@@ -1,0 +1,17 @@
+{
+    "name": "Emma Hamm",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-20T21:26:18.179088"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-12-20T21:26:18.179088"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7804700A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

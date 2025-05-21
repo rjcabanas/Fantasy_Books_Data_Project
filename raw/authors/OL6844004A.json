@@ -1,0 +1,19 @@
+{
+    "name": "Mika Kawamura",
+    "personal_name": "Mika Kawamura",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-11-15T18:21:19.640821"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-11-15T18:21:19.640821"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6844004A",
+    "birth_date": "1973",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

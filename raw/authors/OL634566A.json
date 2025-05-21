@@ -1,0 +1,38 @@
+{
+    "personal_name": "John Ostrander",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "John Ostrander",
+        "John Ostrander et divers auteurs",
+        "John Ostrander",
+        "John et divers auteurs Ostrander"
+    ],
+    "key": "/authors/OL634566A",
+    "name": "John Ostrander",
+    "source_records": [
+        "amazon:9944073253",
+        "amazon:1840236701",
+        "amazon:2847896872"
+    ],
+    "photos": [
+        14317417
+    ],
+    "remote_ids": {
+        "wikidata": "Q725420",
+        "viaf": "18324522"
+    },
+    "birth_date": "20 April 1949",
+    "bio": "John Ostrander (born April 20, 1949) is an American writer of comic books, including Suicide Squad, Grimjack and Star Wars: Legacy.\r\n\r\nHe co-created the Oracle persona for Barbara Gordon and created the second and modern version of the antihero/supervillain team the Suicide Squad, of which the films Suicide Squad and The Suicide Squad are based on. [source](https://en.wikipedia.org/wiki/John_Ostrander)",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-30T09:12:43.592577"
+    }
+}

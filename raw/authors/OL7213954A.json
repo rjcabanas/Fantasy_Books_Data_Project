@@ -1,0 +1,46 @@
+{
+    "source_records": [
+        "ia:hidden0000cast",
+        "bwb:9781905654857"
+    ],
+    "photos": [
+        7238117
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Phyllis Christine Cast was born on 30 April 1960 in Watseka, Illinois, USA, and grew up being shuttled back-and-forth between Illinois and Oklahoma, which is where she fell in love with Quarter Horses and mythology (at about the same time). After high school she joined the United States Air Force and began public speaking and writing. After her tour in the USAF, she taught high school for 15 years before retiring to write full time. She has been married and divorced three times. She lives in Tulsa, Oklahoma with her fabulous daughter, Kristin Cast, her spoiled cat, her adorable Scotties, and a bunch of not totally normal horses!\r\n\r\nPublished since 2001, P. C. Cast also collabored with her daughter since 2007. She is a New York Times Best-Selling author and a member of the Oklahoma Writers Hall of Fame.  Her novels have been awarded the prestigious: Oklahoma Book Award, YALSA Quick Pick for Reluctant Readers, Romantic Times Reviewers Choice Award, the Prism, Holt Medallion, Daphne du Maurier, Booksellers Best, and the Laurel Wreath."
+    },
+    "personal_name": "P. C. Cast",
+    "birth_date": "30 April 1960",
+    "name": "P. C. Cast",
+    "key": "/authors/OL7213954A",
+    "remote_ids": {
+        "viaf": "17483867",
+        "wikidata": "Q239944",
+        "isni": "0000000121226349"
+    },
+    "alternate_names": [
+        "Phyllis Christine Cast",
+        "P. C. Cast",
+        "P.C. Cast",
+        "P.c. Cast",
+        "Cast PC",
+        "P. C. CAST",
+        "P.C. Cast,P C Cast P. C. Cast",
+        "P C Cast",
+        "P.c.cast"
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-07-30T07:22:23.927085"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-31T06:13:36.140109"
+    }
+}

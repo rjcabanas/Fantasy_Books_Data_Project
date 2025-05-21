@@ -1,0 +1,18 @@
+{
+    "name": "Sage Blackwood",
+    "personal_name": "Sage Blackwood",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-03-23T07:06:03.338373"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-03-23T07:06:03.338373"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7099536A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,40 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Mercer Mayer",
+    "photos": [
+        14551196,
+        14551195
+    ],
+    "source_records": [
+        "promise:bwb_daily_pallets_2020-06-04",
+        "promise:bwb_daily_pallets_2020-04-30",
+        "amazon:1417781696",
+        "promise:bwb_daily_pallets_2021-04-01",
+        "promise:bwb_daily_pallets_2020-11-13",
+        "promise:bwb_daily_pallets_2020-07-07"
+    ],
+    "personal_name": "Mercer Mayer",
+    "remote_ids": {
+        "viaf": "101620225",
+        "wikidata": "Q6818295",
+        "isni": "0000000123214296"
+    },
+    "key": "/authors/OL39750A",
+    "alternate_names": [
+        "Mayer, Mercer & Mayer, Marianna",
+        "Mercer Mayer Gina Mayer"
+    ],
+    "birth_date": "1943-12-30",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-24T07:43:44.737293"
+    }
+}

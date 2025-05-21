@@ -1,0 +1,17 @@
+{
+    "name": "Leanna Renee Hieber",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T04:50:45.622127"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T04:50:45.622127"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6814077A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

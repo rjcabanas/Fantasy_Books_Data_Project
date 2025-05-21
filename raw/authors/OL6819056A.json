@@ -1,0 +1,17 @@
+{
+    "name": "Amy Rench",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T02:47:11.405943"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T02:47:11.405943"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6819056A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

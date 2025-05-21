@@ -1,0 +1,17 @@
+{
+    "name": "Edward L. Ferman (Editor) and Gordon Van Gelder (Editor)",
+    "key": "/authors/OL9894881A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-29T02:02:28.714039"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-29T02:02:28.714039"
+    }
+}

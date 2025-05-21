@@ -1,0 +1,29 @@
+{
+    "personal_name": "Lisa Rojany-Buccieri",
+    "alternate_names": [
+        "Lisa Rojany Buccieri"
+    ],
+    "photos": [
+        7351658
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T07:27:18.617915"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL371173A",
+    "remote_ids": {
+        "viaf": "51825479",
+        "wikidata": "Q78169214",
+        "isni": "0000000117631341"
+    },
+    "name": "Lisa Rojany-Buccieri",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

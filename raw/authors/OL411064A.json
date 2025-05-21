@@ -1,0 +1,39 @@
+{
+    "bio": "John Blair Vornholt (born February 14, 1951) is an American author, screenwriter and journalist.\r\n\r\nAs an author, he has written numerous media tie-ins, including many Star Trek novels. As a screenwriter, he worked on several animated children's series of the 1980s, including Ghostbusters, Dennis the Menace and Beverly Hills Teens. As a journalist, he has worked as lead writer for The Hollywood Reporter and Tucson Weekly.",
+    "photos": [
+        11762517
+    ],
+    "name": "John Vornholt",
+    "birth_date": "14 February 1951",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL411064A",
+    "remote_ids": {
+        "wikidata": "Q1702027",
+        "viaf": "52415551",
+        "isni": "0000000090440755"
+    },
+    "source_records": [
+        "ia:roguesaucer0000vorn",
+        "bwb:9780751517392",
+        "promise:bwb_daily_pallets_2020-11-19",
+        "promise:bwb_daily_pallets_2022-08-24",
+        "promise:bwb_daily_pallets_2021-01-07",
+        "promise:bwb_daily_pallets_2023-11-23:P9-AMI-843"
+    ],
+    "personal_name": "John Vornholt",
+    "alternate_names": [
+        "John Blair Vornholt"
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-15T11:53:49.945255"
+    }
+}

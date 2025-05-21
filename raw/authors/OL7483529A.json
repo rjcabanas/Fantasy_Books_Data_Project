@@ -1,0 +1,17 @@
+{
+    "name": "Jay Kristoff (author)",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-20T08:53:08.118324"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-20T08:53:08.118324"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7483529A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

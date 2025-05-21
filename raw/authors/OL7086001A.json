@@ -1,0 +1,18 @@
+{
+    "name": "Jasmine Richards",
+    "personal_name": "Jasmine Richards",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-02-29T10:40:39.715638"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-02-29T10:40:39.715638"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7086001A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

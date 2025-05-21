@@ -1,0 +1,17 @@
+{
+    "name": "Peter Mohrbacher",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T20:16:37.777709"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T20:16:37.777709"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7345748A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Mike Resnick",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-11-26T02:14:41.452722"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-11-26T02:14:41.452722"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6856172A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Becky Allen",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-11T09:58:20.407027"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-11T09:58:20.407027"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7511591A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

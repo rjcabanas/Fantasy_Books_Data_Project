@@ -1,0 +1,22 @@
+{
+    "name": "Kaare Andrews",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T20:04:04.906722"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL2864413A",
+    "remote_ids": {
+        "viaf": "56893550",
+        "wikidata": "Q15511907",
+        "isni": "0000000002258567"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

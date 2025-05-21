@@ -1,0 +1,49 @@
+{
+    "birth_date": "4 Nov 1968",
+    "photos": [
+        8756346,
+        7316261,
+        8756348,
+        8756347
+    ],
+    "personal_name": "M. T. Anderson",
+    "source_records": [
+        "amazon:0763606995",
+        "promise:bwb_daily_pallets_2023-04-25:P8-CZJ-958"
+    ],
+    "key": "/authors/OL20395A",
+    "remote_ids": {
+        "viaf": "15018994"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "M. T. Anderson",
+    "alternate_names": [
+        "Matthew T. Anderson",
+        "M T Anderson",
+        "M. T, Anderson",
+        "Anderson M.T.",
+        "M.T. Anderson",
+        "Anderson, M. T."
+    ],
+    "links": [
+        {
+            "title": "Personal website",
+            "url": "https://mtanderson.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 15,
+    "revision": 15,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-25T00:51:44.516816"
+    }
+}

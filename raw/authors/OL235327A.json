@@ -1,0 +1,82 @@
+{
+    "photos": [
+        6390079,
+        -1
+    ],
+    "alternate_names": [
+        "Robert A. Silverberg",
+        "R. Silverberg",
+        "Robert K. Silverberg",
+        "Robert Allan Silverberg",
+        "Randall Garrett",
+        "Calvin M. Knox (pseud.)",
+        "Lee Sebastian (pseud.)"
+    ],
+    "bio": "Robert Silverberg is an American author, best known for writing science fiction. He is a multiple winner of both the Hugo and Nebula Awards.\r\n\r\nSilverberg received a Nebula award in 1986 for his novella Sailing to Byzantium, which takes its name from Yeats' poem; a Hugo in 1990 for Enter a Soldier. Later: Enter Another; and in 2004 he was named a Grand Master by the Science Fiction Writers of America.\r\n\r\n([Source][1])\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/Robert_Silverberg",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "title": "Quasi-Official Site of Robert Silverberg",
+            "url": "http://www.majipoor.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "source_records": [
+        "amazon:1596066040",
+        "amazon:2253015555",
+        "amazon:0553565443",
+        "bwb:9780575106611",
+        "bwb:9780722178355",
+        "amazon:2277114952",
+        "promise:bwb_daily_pallets_2022-08-13",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-09-14",
+        "promise:bwb_daily_pallets_2021-08-26",
+        "promise:bwb_daily_pallets_2021-05-14",
+        "promise:bwb_daily_pallets_2021-05-05",
+        "promise:bwb_daily_pallets_2020-12-04",
+        "promise:bwb_daily_pallets_2022-04-15",
+        "promise:bwb_daily_pallets_2021-02-19",
+        "promise:bwb_daily_pallets_2021-02-15",
+        "promise:bwb_daily_pallets_2020-11-27",
+        "promise:bwb_daily_pallets_2020-11-24",
+        "promise:bwb_daily_pallets_2020-10-07",
+        "promise:bwb_daily_pallets_2022-08-30:O8-BYQ-292",
+        "promise:bwb_daily_pallets_2022-06-30:W7-CHL-606",
+        "amazon:8412119533",
+        "bwb:9780006151470",
+        "amazon:8881128748",
+        "promise:bwb_daily_pallets_2023-03-09:P8-BAP-321",
+        "amazon:2277219053",
+        "promise:bwb_daily_pallets_2023-03-22:KS-204-611",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "promise:bwb_daily_pallets_2023-06-02:O7-BQJ-739",
+        "bwb:9780575073517",
+        "bwb:9780575106260",
+        "promise:bwb_daily_pallets_2023-08-22:W8-AYM-556"
+    ],
+    "name": "Robert Silverberg",
+    "remote_ids": {
+        "viaf": "109386240",
+        "isni": "0000000081746314",
+        "wikidata": "Q314553"
+    },
+    "title": "pseud.",
+    "personal_name": "Robert Silverberg",
+    "birth_date": "15 January 1935",
+    "key": "/authors/OL235327A",
+    "latest_revision": 19,
+    "revision": 19,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-09T16:04:02.800980"
+    }
+}

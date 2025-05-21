@@ -1,0 +1,19 @@
+{
+    "name": "Alexa Pearl",
+    "personal_name": "Alexa Pearl",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T02:23:34.583904"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T02:23:34.583904"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7529522A",
+    "birth_date": "1967",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

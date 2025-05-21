@@ -1,0 +1,41 @@
+{
+    "bio": "Fran Wilde\u2019s novels and short stories have been finalists for four Nebula Awards, a World Fantasy Award, and two Hugo Awards, and include her Nebula- and Compton-Crook-winning debut novel Updraft, its sequels Cloudbound, and Horizon, her 2019 debut Middle Grade novel Riverland, and the Nebula-, Hugo-, and Locus-nominated novelette The Jewel and Her Lapidary. Her short stories appear in Asimov\u2019s, Tor.com, Beneath Ceaseless Skies, Shimmer, Nature, and the 2017 Year\u2019s Best Dark Fantasy and Horror.\r\n([source][1])\r\n\r\n\r\n  [1]: http://www.franwilde.net/about/",
+    "links": [
+        {
+            "title": "franwilde.net",
+            "url": "http://www.franwilde.net/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "http://viaf.org/viaf/316550579",
+            "title": "VIAF ID: 316550579 (Personal)",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        9275627
+    ],
+    "key": "/authors/OL7483932A",
+    "name": "Fran Wilde",
+    "birth_date": "1979",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q23663952"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-20T17:05:08.705138"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-06T20:21:09.844248"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Tomonori Taniguchi",
+    "personal_name": "Tomonori Taniguchi",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-31T08:54:48.823915"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-31T08:54:48.823915"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7543838A",
+    "birth_date": "1978",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

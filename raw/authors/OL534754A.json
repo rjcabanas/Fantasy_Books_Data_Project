@@ -1,0 +1,23 @@
+{
+    "name": "Tom Birdseye",
+    "personal_name": "Tom Birdseye",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T18:42:05.978514"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL534754A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "50689647",
+        "wikidata": "Q7814970",
+        "isni": "0000000063649457"
+    }
+}

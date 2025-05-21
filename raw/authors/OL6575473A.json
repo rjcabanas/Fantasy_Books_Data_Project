@@ -1,0 +1,97 @@
+{
+    "source_records": [
+        "amazon:1549157256",
+        "amazon:1549131028",
+        "amazon:2290210455",
+        "amazon:1663625719",
+        "amazon:6050968020",
+        "bwb:9780356512693",
+        "amazon:2360510231",
+        "amazon:6555602708"
+    ],
+    "photos": [
+        14852575,
+        10152278
+    ],
+    "key": "/authors/OL6575473A",
+    "alternate_names": [
+        "N.K. Jemisin",
+        "Nora K. Jemisin",
+        "Jemisin, N. K.",
+        "Jemisin N.K."
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q2427544",
+        "isni": "0000000107503776",
+        "viaf": "160100764",
+        "bookbrainz": "907778d0-9ff2-41ef-840a-4a9051526e11",
+        "amazon": "B0028OIVC0",
+        "goodreads": "2917917",
+        "gnd": "141498587",
+        "imdb": "nm6478342",
+        "lc_naf": "n2009004580",
+        "librarything": "jemisinnk",
+        "storygraph": "52bdec17-ed56-4fa7-9bb0-827b1f99863e",
+        "inventaire": "wd:Q2427544"
+    },
+    "name": "N. K. Jemisin",
+    "personal_name": "N. K. Jemisin",
+    "birth_date": "19 September 1972",
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://nkjemisin.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Blog",
+            "url": "https://nkjemisin.com/blog",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Author's Tumblr",
+            "url": "https://nkjemisin.tumblr.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/j/n-k-jemisin/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?111330",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/jemisin_n_k",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 19,
+    "revision": 19,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T01:08:38.226742"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-16T22:58:52.181748"
+    }
+}

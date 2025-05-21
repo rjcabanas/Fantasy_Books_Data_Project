@@ -1,0 +1,17 @@
+{
+    "name": "Beth Bernobich",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-10-03T18:15:45.309881"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-10-03T18:15:45.309881"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6829654A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

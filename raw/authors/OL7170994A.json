@@ -1,0 +1,22 @@
+{
+    "name": "Karin Jacob",
+    "key": "/authors/OL7170994A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1980",
+    "remote_ids": {
+        "amazon": "B005TFQOKG",
+        "viaf": "305340187"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2013-09-29T11:15:12.735297"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-02T20:47:35.568435"
+    }
+}

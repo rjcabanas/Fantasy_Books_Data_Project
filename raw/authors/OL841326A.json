@@ -1,0 +1,32 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": ">**John William Gordon** was a British author of a number of fantasy and horror novels and short stories aimed at older children and mostly set in East Anglia."
+    },
+    "name": "John Gordon",
+    "personal_name": "Gordon, John",
+    "death_date": "20 November 2017",
+    "key": "/authors/OL841326A",
+    "birth_date": "19 November 1925",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q15435114",
+        "viaf": "116162761",
+        "isni": "0000000110069747"
+    },
+    "photos": [
+        14630316
+    ],
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-26T03:01:35.282635"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "personal_name": "Cressida Cowell",
+    "key": "/authors/OL24485A",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "ia:commentdompterun0000cowe_s6i3",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "photos": [
+        10510279
+    ],
+    "name": "Cressida Cowell",
+    "remote_ids": {
+        "viaf": "56779201",
+        "wikidata": "Q456616",
+        "isni": "0000000066547990"
+    },
+    "birth_date": "1966",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-22T21:59:22.999929"
+    }
+}

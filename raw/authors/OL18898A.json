@@ -1,0 +1,48 @@
+{
+    "personal_name": "Sheri S. Tepper",
+    "remote_ids": {
+        "viaf": "13841439",
+        "wikidata": "Q450737",
+        "goodreads": "20560",
+        "librarything": "TepperSheriS.",
+        "amazon": "B000AQ1QM0",
+        "isni": "0000000117445872"
+    },
+    "death_date": "October 22, 2016",
+    "bio": "Sheri Stewart Tepper was an American writer of science fiction, horror and mystery novels. She is known for feminist science fiction, often with an ecofeminist slant. -Wikipedia\r\n\r\nShe also wrote murder mysteries under the pen names of [B.J. Oliphant][1] and [A. J. Orde][2], and a horror novel under [E.E. Horlak][3]\r\n\r\n\r\n  [1]: https://openlibrary.org/authors/OL2724905A/B.J._Oliphant\r\n  [2]: https://openlibrary.org/authors/OL768769A/A._J._Orde\r\n  [3]: https://openlibrary.org/authors/OL2787259A/E.E._Horlak",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Sheri Tepper",
+        "E.E. Horlak",
+        "B.J. Oliphant",
+        "A.J. Orde",
+        "A. J. Orde",
+        "Sheri S Tepper",
+        "Sheri S. TEPPER",
+        "S. S. Tepper"
+    ],
+    "key": "/authors/OL18898A",
+    "source_records": [
+        "bwb:9780385416887"
+    ],
+    "photos": [
+        7421241,
+        7421244,
+        7421243,
+        7421242
+    ],
+    "birth_date": "July 16, 1929",
+    "name": "Sheri S. Tepper",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-05T21:04:04.205073"
+    }
+}

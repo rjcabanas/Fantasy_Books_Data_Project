@@ -1,0 +1,17 @@
+{
+    "name": "Katie Cook",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T03:30:28.494993"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T03:30:28.494993"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7302311A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

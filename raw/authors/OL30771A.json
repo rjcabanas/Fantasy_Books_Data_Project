@@ -1,0 +1,58 @@
+{
+    "personal_name": "Meg Cabot",
+    "key": "/authors/OL30771A",
+    "photos": [
+        8109585,
+        7236867,
+        6755106,
+        6667293,
+        7236868,
+        7236871,
+        7236870
+    ],
+    "alternate_names": [
+        "Meggin Patricia Cabot Egnatz",
+        "Meg Cabot",
+        "Meggin Cabot",
+        "Patricia Cabot",
+        "Jenny Carroll",
+        "cabot-meg",
+        "MEG CABOT",
+        "Jinky Coronodo(Illustrator) Meg Cabot",
+        "Meg Cabot and Josette Chicheportiche",
+        "'MEG CABOT, ANTHONY HOROWITZ, JAMIE OLIV",
+        "Cabot, Meg,",
+        "CABOT,MEG"
+    ],
+    "name": "Meg Cabot",
+    "bio": {
+        "type": "/type/text",
+        "value": "Meggin Patricia Cabot was born and and raised in Bloomington, Indiana, USA, daughter of Barbara and C. Victor Cabot, a college professor. She  also lived in Grenoble, France and Carmel, California (the setting for her bestselling Mediator series) before moving to New York City after graduating with a bachelor\u2019s degree in fine arts from Indiana University.\r\n\r\nAfter working for ten years as an assistant residence hall director at New York University (an experience from which she occasionally draws inspiration for her Heather Wells mystery series), Meg wrote the Princess Diaries series, which was made into two hit movies by Disney, sold over 20 million copies, and has been translated into 38 languages.\r\n\r\nMeg also wrote the 1-800-Where-R-You? series (which has been reprinted under the title Vanished and was made into the Lifetime series called Missing), as well as numerous other award-winning, best-selling stand-alone books and series, including All-American Girl and Avalon High (on which an original Disney Channel movie was based), and several books told entirely in emails and text messages (Boy Next Door/Boy Meets Girl/Every Boy\u2019s Got One).\r\n\r\nMeg\u2019s newest series include the tween hit Allie Finkle\u2019s Rules for Girls, the YA trilogy Airhead, and Abandon, the first book in a new paranormal series for young adult readers (the sequel, Underworld, will be in US stores in spring 2012). Insatiable, Meg\u2019s first paranormal romance for adult readers, was followed by a sequel, Overbite, in July 2011.\r\n\r\nMeg is a #1 New York Times bestselling author of books for both adults and tweens/teens. Meg married financial writer and poet Benjamin D. Egnatz on 1 April 1993, she currently lives in Key West with her husband and two cats."
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1 February 1967",
+    "remote_ids": {
+        "viaf": "61728296",
+        "wikidata": "Q231841",
+        "isni": "0000000120269590"
+    },
+    "source_records": [
+        "promise:bwb_daily_pallets_2021-03-11",
+        "amazon:0330400711",
+        "promise:bwb_daily_pallets_2021-02-04",
+        "promise:bwb_daily_pallets_2020-09-09",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-24T20:36:55.934407"
+    }
+}

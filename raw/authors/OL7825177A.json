@@ -1,0 +1,27 @@
+{
+    "key": "/authors/OL7825177A",
+    "source_records": [
+        "bwb:9786073901802",
+        "bwb:9781649377005",
+        "bwb:9780349441535",
+        "bwb:9780349442518"
+    ],
+    "remote_ids": {
+        "wikidata": "Q121091992"
+    },
+    "birth_date": "1981-04-14",
+    "name": "Rebecca Yarros",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-03-10T14:12:52.572001"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-31T19:19:56.585811"
+    }
+}

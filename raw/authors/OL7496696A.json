@@ -1,0 +1,17 @@
+{
+    "name": "Jordanna Max Brodsky",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-05T11:23:52.732462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-05T11:23:52.732462"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7496696A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,43 @@
+{
+    "key": "/authors/OL1002615A",
+    "personal_name": "Edith Thacher Hurd",
+    "alternate_names": [
+        "Juniper Sage",
+        "Edith Thatcher Hurd",
+        "Edith T. Hurd",
+        "Edith Thacher 1910-1997 Hurd",
+        "edith thacher hurd"
+    ],
+    "name": "Edith Thacher Hurd",
+    "entity_type": "Person",
+    "death_date": "25 January 1997",
+    "bio": {
+        "type": "/type/text",
+        "value": "Edith Thacher was born in Kansas City, Missouri. In 1933 she graduated from Radcliffe College and moved to New York City, and in 1934 she enrolled in the Bank Street College of Education. There she met fellow student George Hurd, and the two married in 1939. They began creating children's books, she writing and he illustrating. In 1938, she published her first book for children Hurry, Hurry. In 1949, they had a son, Thacher, who is also a children's book illustrator. Over the course of her career, Edith wrote more than seventy-five children's books, many of which were illustrated by Clement."
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "3 September 1910",
+    "remote_ids": {
+        "viaf": "84188205",
+        "wikidata": "Q19756557",
+        "isni": "0000000120296548"
+    },
+    "source_records": [
+        "amazon:0690718853",
+        "bwb:9780431070131",
+        "bwb:9781014688286",
+        "promise:bwb_daily_pallets_2022-05-25:P7-CQZ-744"
+    ],
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-22T00:19:58.061507"
+    }
+}

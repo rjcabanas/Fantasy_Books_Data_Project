@@ -1,0 +1,30 @@
+{
+    "personal_name": "D. J. MacHale",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "D.J. MacHale",
+        "D. J. Machale"
+    ],
+    "key": "/authors/OL765409A",
+    "photos": [
+        7284777
+    ],
+    "name": "D. J. MacHale",
+    "remote_ids": {
+        "viaf": "79187115",
+        "wikidata": "Q2367724",
+        "isni": "0000000114939711"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-24T14:32:00.750468"
+    }
+}

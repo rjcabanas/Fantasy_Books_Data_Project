@@ -1,0 +1,70 @@
+{
+    "name": "John Foster",
+    "links": [
+        {
+            "title": "Oxford University Press entry",
+            "url": "https://global.oup.com/education/content/children/authors/john-foster/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Personal website",
+            "url": "https://johnfosterchildrenspoet.co.uk/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Routledge author profile",
+            "url": "https://www.routledge.com/authors/i8400-john-foster",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "remote_ids": {
+        "viaf": "310594855",
+        "wikidata": "Q55411999",
+        "isni": "0000000436711920"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL1607363A",
+    "personal_name": "Foster, John",
+    "birth_date": "12 October 1941",
+    "alternate_names": [
+        "Foster, John L.",
+        "Foster, John Louis",
+        "John L. Foster",
+        "J. Foster",
+        "J. L. Foster",
+        "Foster, John",
+        "Foster, John, 1941 October 12-",
+        "Foster, John, 1941-",
+        "Foster, John f. 1941",
+        "\u099c\u09a8 \u09ab\u09b8\u09cd\u099f\u09be\u09b0",
+        "Foster, John (John Louis), 1941-",
+        "Foster, John, 1941 octobre 12-",
+        "Foster, John L. (John Louis), 1941-",
+        "John Louis Foster"
+    ],
+    "photos": [
+        14821767
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "John Foster was born in Carlisle in 1941.and educated at Denstone College and Oxford University. He was a teacher for over 20 years before becoming a full-time writer. He has also worked in teacher-training at Westminster College and the Oxford Unversity Department of Educational Studies.\r\n\r\nHe has written over 100 books for classroom use and is the author of the best-selling secondary school Personal Social and Health Education and Citizenship course Your Life (HarperCollins)-Routledge"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-05T18:47:13.658623"
+    }
+}

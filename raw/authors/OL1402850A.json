@@ -1,0 +1,32 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Chetan Bhagat",
+    "name": "Chetan Bhagat",
+    "photos": [
+        7450398,
+        -1
+    ],
+    "key": "/authors/OL1402850A",
+    "birth_date": "1974",
+    "remote_ids": {
+        "isni": "0000000078487067",
+        "viaf": "120693187",
+        "wikidata": "Q46926"
+    },
+    "source_records": [
+        "ia:dienachtophetcal0000bhag",
+        "amazon:8129136767"
+    ],
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-18T08:52:16.305356"
+    }
+}

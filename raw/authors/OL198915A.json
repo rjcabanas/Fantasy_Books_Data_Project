@@ -1,0 +1,38 @@
+{
+    "source_records": [
+        "amazon:5170045522"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "E\u0307duard Uspenskii\u0306",
+    "birth_date": "1937",
+    "alternate_names": [
+        "\u0116. Uspenski\u012d",
+        "\u0116duard Uspenski\u01d0",
+        "Eduard Nikolajevic\u030c Uspenskij",
+        "Uspenskii, E\u0307duard Nikolaevich",
+        "Uspensky, Eduard.",
+        "\u0423\u0441\u043f\u0435\u043d\u0441\u043a\u0438\u0438\u0306, \u042d\u0434\u0443\u0430\u0440\u0434",
+        "Edward Uspenski",
+        "Eduard Uspenskii",
+        "Eduard Uspenski",
+        "\u0116 (\u0116duard) Uspenski\u012d",
+        "E. Uspenskij",
+        "\u042d\u0434\u0443\u0430\u0440\u0434 \u0423\u0441\u043f\u0435\u043d\u0441\u043a\u0438\u0439",
+        "\u042d\u0434\u0443\u0430\u0440\u0434 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447 \u0423\u0441\u043f\u0435\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "personal_name": "E\u0307 Uspenskii\u0306",
+    "death_date": "2018",
+    "key": "/authors/OL198915A",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-10T16:29:54.427717"
+    }
+}

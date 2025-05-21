@@ -1,0 +1,17 @@
+{
+    "name": "Reki Kawahara",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-05T06:30:04.207497"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-05T06:30:04.207497"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7468627A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,27 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Pat Hutchins was born in Yorkshire, UK.  She won the 1974 Kate Greenaway Medal from the Library Association, recognising the year's best children's book illustration by a British subject. The work was The Wind Blew, a picture book in rhyme which she also wrote. It shows how \"a crowd of people anxiously chase their belongings\" in the wind."
+    },
+    "name": "Pat Hutchins",
+    "personal_name": "Pat Hutchins",
+    "death_date": "2017",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        8486221
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-30T01:56:47.878597"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL24290A",
+    "birth_date": "1942",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

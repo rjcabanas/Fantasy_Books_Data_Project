@@ -1,0 +1,26 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Lisa Childs was born on 31 October, a Halloween birthday predestined her to a life of writing suspense. Born soft-spoken into a big, boisterous family where only he who speaks loudest is heard, she learned early to express herself through the written word. She has been writing since she could first form sentences and transfer them to paper with crayon. Her first books revolved around the antics of the family dog until she discovered Nancy Drew and the Hardy Boys. Then writing mysteries became second nature for her. At 11 she won her first writing award and was interviewed by the local newspaper. That story's plot revolved around a kidnapping, probably something she wished on any of her six siblings.\r\n\r\nLisa lives in Michigan, with a husband who provides loving support with praise and extra housecleaning duty, and two beautiful daughters who share her love of the written word. During the day she is a part-time insurance agent and full-time wife and mother. When night falls and fog from their 15-acre swamp wraps around their house, she becomes the focused writer, spinning stories she hopes her readers will enjoy. She enjoys the mix of suspense and romance. Readers are welcome to contact Lisa at PO Box 139, Marne, MI 49435."
+    },
+    "personal_name": "Lisa Childs",
+    "photos": [
+        7259044
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-07-06T17:09:43.220843"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1386213A",
+    "name": "Lisa Childs",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "birth_date": "31 October",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

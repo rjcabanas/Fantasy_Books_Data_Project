@@ -1,0 +1,17 @@
+{
+    "name": "Nik Kerry",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-11-17T19:56:19.563866"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-11-17T19:56:19.563866"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7360388A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

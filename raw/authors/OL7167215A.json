@@ -1,0 +1,17 @@
+{
+    "name": "TL McGrath and CAL Marshall",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-11-18T14:38:52.228047"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-11-18T14:38:52.228047"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7167215A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

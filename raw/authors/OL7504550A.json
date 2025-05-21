@@ -1,0 +1,17 @@
+{
+    "name": "Lee P. Hogg",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-20T21:53:40.598375"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-20T21:53:40.598375"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7504550A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Dawn French",
+    "personal_name": "Dawn French",
+    "key": "/authors/OL742709A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1957",
+    "bio": {
+        "type": "/type/text",
+        "value": "English actress and comedian"
+    },
+    "remote_ids": {
+        "wikidata": "Q236309"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-21T17:46:44.445366"
+    }
+}

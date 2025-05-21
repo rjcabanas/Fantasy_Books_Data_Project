@@ -1,0 +1,21 @@
+{
+    "name": "Marianna Mayer",
+    "personal_name": "Marianna Mayer",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        8877493
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-11T08:22:09.555994"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL233731A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

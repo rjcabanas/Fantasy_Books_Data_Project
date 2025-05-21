@@ -1,0 +1,15 @@
+{
+    "name": "Susanne Ehmcke",
+    "personal_name": "Susanne Ehmcke",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-19 19:35:53.296717"
+    },
+    "key": "/authors/OL2142681A",
+    "birth_date": "1906",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 7834280,
+    "revision": 2
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Rosie Banks",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-05-22T09:34:40.228062"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-12-31T05:58:53.595207"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL7238321A",
+    "birth_date": "2099",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

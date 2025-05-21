@@ -1,0 +1,15 @@
+{
+    "name": "Robert Langs",
+    "personal_name": "Robert Langs",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 07:51:32.832792"
+    },
+    "key": "/authors/OL235211A",
+    "birth_date": "1928",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 612316,
+    "revision": 2
+}

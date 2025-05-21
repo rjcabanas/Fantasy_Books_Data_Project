@@ -1,0 +1,25 @@
+{
+    "personal_name": "James Gould Cozzens",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T13:36:35.372429"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL152257A",
+    "remote_ids": {
+        "viaf": "109132788",
+        "wikidata": "Q1238811",
+        "isni": "0000000121472558"
+    },
+    "name": "James Gould Cozzens",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "death_date": "1978",
+    "birth_date": "1903",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

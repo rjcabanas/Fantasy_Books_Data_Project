@@ -1,0 +1,44 @@
+{
+    "photos": [
+        5726162
+    ],
+    "remote_ids": {
+        "viaf": "22195984",
+        "wikidata": "Q268755",
+        "isni": "000000011469083X"
+    },
+    "birth_date": "1948",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Patricia A. McKillip",
+    "key": "/authors/OL29240A",
+    "personal_name": "Patricia A. McKillip",
+    "bio": {
+        "type": "/type/text",
+        "value": "Patricia Anne McKillip is an American author of fantasy and science fiction novels. She grew up in Oregon and England.  She received a BA in English in 1971 and an MA in 1973.  She is a past winner of the World Fantasy Award and Locus Award, and she lives in Oregon. \r\n\r\nMcKillip's stories usually take place in a setting similar to the Middle Ages. There are forests, castles, and lords or kings, minstrels, tinkers and wizards. Her writing usually puts her characters in situations involving mysterious powers that they don't understand."
+    },
+    "alternate_names": [
+        "Patricia A. Mckillip",
+        "Patricia McKillip",
+        "Patricia A McKillip",
+        "PATRICIA A. MCKILLIP",
+        "PATRICIA a. MCKILLIP",
+        "Patricia A."
+    ],
+    "source_records": [
+        "amazon:1473205484",
+        "bwb:9781473205598",
+        "amazon:1433223988"
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-21T03:12:42.536317"
+    }
+}

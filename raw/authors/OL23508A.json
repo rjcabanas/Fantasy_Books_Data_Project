@@ -1,0 +1,22 @@
+{
+    "photos": [
+        6882564
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-08-13T02:42:33.558225"
+    },
+    "latest_revision": 3,
+    "name": "Richard Harland",
+    "key": "/authors/OL23508A",
+    "personal_name": "Richard Harland",
+    "birth_date": "1947",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

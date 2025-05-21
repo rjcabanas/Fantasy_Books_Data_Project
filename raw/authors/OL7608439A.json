@@ -1,0 +1,19 @@
+{
+    "name": "Sean Fay Wolfe",
+    "personal_name": "Sean Fay Wolfe",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T13:24:39.360172"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T13:24:39.360172"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7608439A",
+    "birth_date": "1997",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,21 @@
+{
+    "alternate_names": [
+        "Hendee, Barb"
+    ],
+    "personal_name": "Barb Hendee",
+    "name": "Barb Hendee",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL1422768A",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T15:45:51.068189"
+    }
+}

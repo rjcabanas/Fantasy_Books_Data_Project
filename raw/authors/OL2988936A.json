@@ -1,0 +1,28 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Tabitha Byrd fell in love with a Brit whose accent was just too sexy to resist. Lucky for her, he turned out to be a keeper, so she married him and they now have two adorable children who constantly keep her on her toes. Living in the Southwest, she spends her days creating provocative romances with her favorite kind of heroes\u2014intense alpha males who cherish their women published under the pen name Rhyannon Byrd. When not writing, Rhyannon loves to travel, lose herself in books and watch as much football as humanly possible with her loud, fun-loving family. \r\n\r\nFor information on Rhyannon's books and the latest news, you can visit her Web site: www.rhyannonbyrd.com"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-09-08T23:11:07.623339"
+    },
+    "latest_revision": 3,
+    "name": "Rhyannon Byrd",
+    "key": "/authors/OL2988936A",
+    "photos": [
+        7236807
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "alternate_names": [
+        "Tabitha Byrd",
+        "Rhyannon Byrd"
+    ],
+    "revision": 3
+}

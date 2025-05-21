@@ -1,0 +1,32 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Godfried Jan Arnold Bomans (Den Haag, 2 maart 1913 \u2013 Bloemendaal, 22 december 1971) was een Nederlandse schrijver, columnist en mediapersoonlijkheid.\r\n\r\nBomans was vele jaren de meest gelezen schrijver van Nederland. Hij heeft meer dan 60 boeken en vele andere geschriften op zijn naam staan. Hij heeft tijdens zijn leven weinig offici\u00eble erkenning gekregen, in ieder geval niet in de vorm van een literaire prijs. De literaire kritiek weet nog altijd niet goed wat ze met hem aan moet.\r\n\r\nBomans werd bij het grote publiek vooral populair door zijn roman Erik of het klein insectenboek (tien drukken in het verschijningsjaar 1941) en na de Tweede Wereldoorlog met de strip Pa Pinkelman in de Volkskrant, en weer wat later met zijn columns op de voorpagina van die krant, zijn stukken in Elsevier en zijn radio- en tv-optredens. In oktober 2000 schonk de weduwe van Godfried Bomans zijn archief aan het Nederlands Letterkundig Museum.\r\n\r\nBomans was een groot kenner van het werk van Charles Dickens. Hij speelde een belangrijke rol bij het tot stand komen van de vertaling in het Nederlands van het complete werk van Dickens, die in de jaren vijftig van de twintigste eeuw in pocketformaat door Uitgeverij Het Spectrum werd uitgegeven. De langverwachte biografie van Dickens heeft hij echter nooit geschreven."
+    },
+    "name": "Godfried Bomans",
+    "personal_name": "Godfried Bomans",
+    "death_date": "1971",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        6457377
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:51:26.686274"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL368782A",
+    "birth_date": "1913",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "104108998",
+        "wikidata": "Q576143",
+        "isni": "0000000078350992"
+    }
+}

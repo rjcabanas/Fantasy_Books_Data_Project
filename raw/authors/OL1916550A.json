@@ -1,0 +1,15 @@
+{
+    "name": "Ezra Stotland",
+    "personal_name": "Ezra Stotland",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-23 23:50:27.211067"
+    },
+    "key": "/authors/OL1916550A",
+    "birth_date": "1924",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 6826396,
+    "revision": 2
+}

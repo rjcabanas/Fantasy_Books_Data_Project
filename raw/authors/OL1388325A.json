@@ -1,0 +1,27 @@
+{
+    "alternate_names": [
+        "G.P. Taylor",
+        "G PM Taylor"
+    ],
+    "personal_name": "G. P. Taylor",
+    "key": "/authors/OL1388325A",
+    "remote_ids": {
+        "viaf": "6010727",
+        "wikidata": "Q365697",
+        "isni": "0000000114668210"
+    },
+    "name": "G. P. Taylor",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-28T15:32:25.560565"
+    }
+}

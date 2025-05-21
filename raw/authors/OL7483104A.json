@@ -1,0 +1,17 @@
+{
+    "name": "C j cherryh",
+    "key": "/authors/OL7483104A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-19T18:54:56.866941"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-27T09:04:28.243270"
+    }
+}

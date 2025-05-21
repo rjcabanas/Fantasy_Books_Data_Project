@@ -1,0 +1,48 @@
+{
+    "name": "Sesyle Joslin",
+    "personal_name": "Sesyle Joslin",
+    "photos": [
+        7419222,
+        7419223
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "66984229",
+        "wikidata": "Q7456202",
+        "isni": "0000000063197606"
+    },
+    "key": "/authors/OL1189924A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Sesyle Joslin is an American author of children's books."
+    },
+    "alternate_names": [
+        "Sesyle Joslin",
+        "Josephine Gibson",
+        "G.B. Kirtland",
+        "G. B. Kirtland",
+        "Sesyle Joshin",
+        "Joslin, Sesyle, Sendak, Maurice",
+        "G. B Kirtland"
+    ],
+    "source_records": [
+        "amazon:0064431126",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2020-10-08",
+        "promise:bwb_daily_pallets_2023-05-15:P6-BWO-724",
+        "promise:bwb_daily_pallets_2024-07-09:W9-BVQ-890"
+    ],
+    "birth_date": "August 30, 1929",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-17T18:39:09.657013"
+    }
+}

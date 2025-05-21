@@ -1,0 +1,37 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "American writer"
+    },
+    "name": "Roger S. Baum",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Roger_S._Baum",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "Roger S. Baum",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T15:52:13.394345"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL457999A",
+    "birth_date": "1938",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "33564854",
+        "wikidata": "Q3439440",
+        "isni": "0000000030952548"
+    }
+}

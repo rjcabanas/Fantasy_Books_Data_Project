@@ -1,0 +1,27 @@
+{
+    "personal_name": "Simon R. Green",
+    "alternate_names": [
+        "Simon Green"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:40:58.146197"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL604306A",
+    "remote_ids": {
+        "viaf": "95338414",
+        "wikidata": "Q478068",
+        "isni": "0000000119379477"
+    },
+    "name": "Simon R. Green",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "birth_date": "1955",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

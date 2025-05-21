@@ -1,0 +1,40 @@
+{
+    "photos": [
+        12194940
+    ],
+    "remote_ids": {
+        "wikidata": "Q54358296",
+        "viaf": "302154575"
+    },
+    "source_records": [
+        "amazon:6051869395",
+        "bwb:9780007506354",
+        "amazon:8417854428",
+        "promise:bwb_daily_pallets_2022-08-30:553-BAA-777",
+        "amazon:8324142436",
+        "promise:bwb_daily_pallets_2023-05-16:P1-EMO-305",
+        "bwb:9780593570081"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Kiersten White is an American author of fiction for children and young adults. Her first book, Paranormalcy, was published by HarperCollins in 2009.",
+    "name": "Kiersten White",
+    "key": "/authors/OL6789194A",
+    "birth_date": "27 June 1983",
+    "alternate_names": [
+        "KIERSTEN WHITE",
+        "Matthew Cody, Kiersten White, E. C. Myers, Andrea Phillips, Carrie Harris, Gwenda Bond",
+        "White Kiersten"
+    ],
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T05:14:50.801323"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-21T14:08:00.691222"
+    }
+}

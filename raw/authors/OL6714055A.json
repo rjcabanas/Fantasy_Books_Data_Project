@@ -1,0 +1,18 @@
+{
+    "name": "Amber Benson",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Amber Benson",
+    "key": "/authors/OL6714055A",
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-08-05T09:20:48.734007"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-06-24T10:17:33.610742"
+    }
+}

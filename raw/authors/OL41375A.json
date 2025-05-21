@@ -1,0 +1,46 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Stephen Cosgrove",
+    "personal_name": "Stephen Cosgrove",
+    "key": "/authors/OL41375A",
+    "photos": [
+        8876957
+    ],
+    "birth_date": "26 July 1945",
+    "remote_ids": {
+        "goodreads": "35343",
+        "amazon": "B000APO02O",
+        "viaf": "28356731",
+        "wikidata": "Q7608956",
+        "isni": "0000000073851990",
+        "librarything": "cosgrovestephen"
+    },
+    "title": "(Cosgrove, Stephen)",
+    "bio": "Stephen E. Cosgrove (born July 26, 1945) is a children's author and toy designer. He is known for *Serendipity*, a series of children's books. The series was adapted into a 26-episode anime, *Serendipity the Pink Dragon*.\r\n\r\nCosgrove was born in Metaline Falls, Washington and raised in Kennewick, Washington, then Burley and Boise, Idaho. He attended Borah High School in Boise, Idaho. Growing up, Cosgrove was greatly influenced by Aesop\u2019s Fables.\r\n\r\nIn 1963, he received a scholarship for and attended Stephens College in Columbia, Missouri.\r\n\r\nIn 1973, Cosgrove teamed with illustrator Robin James, and wrote his first four books which began the Serendipity Series: \"Serendipity\", \"Wheedle on the Needle\", \"The Dream Tree\", and \"The Muffin Muncher\". His goal in writing these books was to create interesting, fun, affordable books that contained a moral in each story. The next year, a large New York publishing company offered Stephen a contract, but he refused and continued on in his search for a publisher. Three months later, Cosgrove established his own publishing company, Serendipity Press, where he was the author, publisher, shipping clerk, and janitor.\r\n\r\nIn 1978 Cosgrove sold Serendipity Press to Penguin/Putnam and began focusing on multimedia literature for children.\r\n\r\nIn 1990, Cosgrove and Wendy Edelson were awarded the Silver Jubilee Honor by the Pacific Northwest Booksellers Association (PNBA) for \"Ira Woodworthy\".\r\n\r\nIn 2002, Cosgrove created the websites Web-pop, Book-pop, and Chatty Hattie where children can read stories online with colorful and interactive illustrations. Two years later, in 2004, he created the website BuggBooks, where children can have stories read to them by the author.\r\n\r\nCurrently, Stephen Cosgrove has written around 325 books, ranging from picture books for younger children to young adult novels. \r\n\r\n-- adapted from *Wikipedia*",
+    "source_records": [
+        "ia:beibeitaojia0000cosg",
+        "ia:niniheiyelixian0000kage",
+        "promise:bwb_daily_pallets_2022-12-08",
+        "promise:bwb_daily_pallets_2022-08-16",
+        "promise:bwb_daily_pallets_2020-12-09",
+        "promise:bwb_daily_pallets_2022-10-17:O8-AVA-871",
+        "promise:bwb_daily_pallets_2022-07-11:KR-015-505",
+        "amazon:0613644751"
+    ],
+    "alternate_names": [
+        "Stephen E. Cosgrove",
+        "Ka ge luo fu (Cosgrove, Stephen)"
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-01T20:12:56.787793"
+    }
+}

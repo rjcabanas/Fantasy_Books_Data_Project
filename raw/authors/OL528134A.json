@@ -1,0 +1,35 @@
+{
+    "name": "Margaret Jean Anderson",
+    "bio": {
+        "type": "/type/text",
+        "value": "Margaret Jean Anderson was born in Gorebridge, Scotland, a small mining town where her father was the Presbyterian minister.  She was raised in Lockerbie, Scotland, where her childhood was characterized by freedom to wander through fields and woods close to her family home.  She and her brother and sister caught fish and tadpoles, picked wildflowers, created their own museum of insects and flora, and mapped the nearby marsh.  She studied biology and genetics at Edinburgh University, then worked as a statistician.  She met her husband at a biological research laboratory in Canada, married, and moved to the U.S., settling in Corvalis, Oregon.  After having four children, she took up writing, first writing nonfiction.  She wrote articles for the magazines Ranger Rick and Nature and Science, and a book on insects.  Then she began to write fiction as well, and published several novels before eventually making her way back to nonfiction.  She co-authored three Nature Discovery books with her daughter Karen Stephenson.  She has also written several biographies."
+    },
+    "personal_name": "Margaret Jean Anderson",
+    "photos": [
+        5541418
+    ],
+    "birth_date": "24 December 1931",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "http://members.peak.org/~mja/index.html",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL528134A",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-22T22:25:52.003028"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Julia March",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T08:33:27.188816"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T08:33:27.188816"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7316220A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Joe Hill",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-11-12T13:05:28.311708"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-11-12T13:05:28.311708"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7752487A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

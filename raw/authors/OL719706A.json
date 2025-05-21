@@ -1,0 +1,27 @@
+{
+    "personal_name": "Julia L. Sauer",
+    "birth_date": "1891",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "114106293",
+        "wikidata": "Q6306715",
+        "isni": "000000011455431X"
+    },
+    "name": "Julia L. Sauer",
+    "key": "/authors/OL719706A",
+    "alternate_names": [
+        "Julia Sauer"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-13T14:25:07.721899"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Hans Stempel",
+    "personal_name": "Hans Stempel",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-23 16:48:49.919508"
+    },
+    "key": "/authors/OL1893710A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 6724453,
+    "revision": 2
+}

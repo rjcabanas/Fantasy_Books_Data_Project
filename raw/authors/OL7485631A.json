@@ -1,0 +1,17 @@
+{
+    "name": "Daniela Knor",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-24T19:04:33.596133"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-24T19:04:33.596133"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7485631A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

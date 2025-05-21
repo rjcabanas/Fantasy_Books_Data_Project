@@ -1,0 +1,26 @@
+{
+    "photos": [
+        10448997
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "Adam Gopnik",
+    "key": "/authors/OL1435776A",
+    "personal_name": "Adam Gopnik",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T15:43:12.804828"
+    },
+    "remote_ids": {
+        "viaf": "84697472",
+        "wikidata": "Q3275728",
+        "isni": "000000010920717X"
+    }
+}

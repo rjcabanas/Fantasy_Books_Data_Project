@@ -1,0 +1,22 @@
+{
+    "personal_name": "Patrick Tilley",
+    "birth_date": "1928",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL1350281A",
+    "name": "Patrick Tilley",
+    "alternate_names": [
+        "PATRICK TILLEY"
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-23T12:15:42.625380"
+    }
+}

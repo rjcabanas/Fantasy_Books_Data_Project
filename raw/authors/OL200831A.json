@@ -1,0 +1,46 @@
+{
+    "alternate_names": [
+        "Singer A. L",
+        "Singer A L'",
+        "Peter Duncan Lerangis",
+        "Lerangis,Peter",
+        "Lerangis, Peter",
+        "Peter Lerangis (Adapter)",
+        "Peter Lerangis",
+        "A. L. Singer"
+    ],
+    "birth_date": "19 August 1955",
+    "bio": {
+        "type": "/type/text",
+        "value": "Peter Duncan Lerangis (born 1955, in Brooklyn, New York) is an American author of children's and young adult fiction, best known for his Seven Wonders series and his work on the 39 Clues series. As a ghostwriter he has been published under the name A. L. Singer."
+    },
+    "name": "Peter Lerangis",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12270071
+    ],
+    "remote_ids": {
+        "viaf": "13234638",
+        "isni": "0000000120211727",
+        "wikidata": "Q346805"
+    },
+    "personal_name": "A. L. Singer",
+    "key": "/authors/OL200831A",
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-05-23",
+        "promise:bwb_daily_pallets_2020-04-09",
+        "amazon:0545604354"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-01T15:43:29.094614"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "key": "/authors/OL34795A",
+    "links": [
+        {
+            "title": "James Gurney's Official Website",
+            "url": "http://jamesgurney.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "James Gurney's Blog",
+            "url": "http://gurneyjourney.blogspot.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "personal_name": "James Gurney",
+    "source_records": [
+        "amazon:0751370002"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        7000221
+    ],
+    "name": "James Gurney",
+    "birth_date": "1958",
+    "bio": {
+        "type": "/type/text",
+        "value": "James Gurney is an artist and author best known for his illustrated book series Dinotopia, which is presented in the form of a 19th-century explorer\u2019s journal from an island utopia cohabited by humans and dinosaurs. He lives in Rhinebeck, New York, in the Hudson Valley of New York State."
+    },
+    "remote_ids": {
+        "wikidata": "Q3161126",
+        "viaf": "85866302",
+        "isni": "0000000116816328"
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-20T09:07:00.712492"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Jonathan Harper",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-22T18:37:50.579165"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-22T18:37:50.579165"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7517209A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

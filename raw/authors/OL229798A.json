@@ -1,0 +1,25 @@
+{
+    "personal_name": "Jerry Siegel",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:32:06.003754"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL229798A",
+    "remote_ids": {
+        "viaf": "32002883",
+        "wikidata": "Q380113",
+        "isni": "0000000117566148"
+    },
+    "name": "Jerry Siegel",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "death_date": "1996",
+    "birth_date": "1914",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

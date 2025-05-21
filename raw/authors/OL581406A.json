@@ -1,0 +1,38 @@
+{
+    "photos": [
+        7398285
+    ],
+    "key": "/authors/OL581406A",
+    "birth_date": "24 April 1862",
+    "bio": "Arthur Christopher Benson was an English essayist, poet, and author and the 28th Master of Magdalene College, Cambridge.",
+    "alternate_names": [
+        "Christopher Carr",
+        "Arthur C. Benson",
+        "A. C. Benson"
+    ],
+    "personal_name": "Arthur Christopher Benson",
+    "name": "Arthur Christopher Benson",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q708934",
+        "isni": "0000000108824221",
+        "viaf": "27314600"
+    },
+    "source_records": [
+        "bwb:9781505321524",
+        "bwb:9781374206656"
+    ],
+    "death_date": "17 June 1925",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-07T18:52:39.102294"
+    }
+}

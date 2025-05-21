@@ -1,0 +1,14 @@
+{
+    "name": "Ann Adams",
+    "personal_name": "Ann Adams",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-06 19:23:32.174313"
+    },
+    "key": "/authors/OL188427A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 480900,
+    "revision": 2
+}

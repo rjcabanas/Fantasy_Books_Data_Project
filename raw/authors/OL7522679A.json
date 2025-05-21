@@ -1,0 +1,18 @@
+{
+    "name": "Wade Albert White",
+    "personal_name": "Wade Albert White",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T21:50:25.999334"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T21:50:25.999334"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7522679A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

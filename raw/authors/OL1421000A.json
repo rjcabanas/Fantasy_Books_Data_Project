@@ -1,0 +1,86 @@
+{
+    "key": "/authors/OL1421000A",
+    "source_records": [
+        "ia:halolevantamient0000bend",
+        "amazon:849167344X",
+        "amazon:8411013006",
+        "amazon:8468402621",
+        "amazon:8498857643",
+        "amazon:8490946086",
+        "amazon:2845388810",
+        "amazon:605501503X",
+        "amazon:8498857961",
+        "promise:bwb_daily_pallets_2021-08-19",
+        "promise:bwb_daily_pallets_2021-05-05",
+        "amazon:8498858240",
+        "amazon:8498858062",
+        "amazon:8490240116",
+        "amazon:849024524X",
+        "amazon:8498858534",
+        "amazon:8490245207",
+        "amazon:8490245819",
+        "amazon:8490246009",
+        "amazon:8498859506",
+        "amazon:849024653X",
+        "amazon:8490246343",
+        "amazon:8490246017",
+        "amazon:8490245215",
+        "amazon:8490244758",
+        "amazon:8498854261",
+        "amazon:8490942854",
+        "amazon:8490244537",
+        "amazon:8498858992",
+        "promise:bwb_daily_pallets_2023-12-18:P9-AJY-847",
+        "amazon:1417761938",
+        "amazon:2756038067",
+        "amazon:6055686260",
+        "amazon:6055686562",
+        "amazon:6055686295",
+        "bwb:9798607862435",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "amazon:8490243859",
+        "amazon:8498854636",
+        "amazon:8411017877",
+        "amazon:8490242208",
+        "amazon:8490244723",
+        "amazon:8490243832",
+        "amazon:8490245371",
+        "amazon:8490242623",
+        "amazon:8490242348",
+        "amazon:8490241813",
+        "amazon:8498859212"
+    ],
+    "remote_ids": {
+        "wikidata": "Q720012",
+        "viaf": "22325638",
+        "isni": "0000000115621123",
+        "gnd": "1058047574"
+    },
+    "bio": "US-amerikanischer Comicautor",
+    "photos": [
+        14422234
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1967-08-18",
+    "personal_name": "Brian Michael Bendis",
+    "name": "Brian Michael Bendis",
+    "alternate_names": [
+        "Brian Bendis",
+        "Brian M. Bendis",
+        "B. Bendis",
+        "BENDIS-B-M",
+        "B. Michael Bendis"
+    ],
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-09T12:13:33.736159"
+    }
+}

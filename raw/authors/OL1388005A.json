@@ -1,0 +1,32 @@
+{
+    "personal_name": "Doreen Cronin",
+    "remote_ids": {
+        "isni": "0000000073644510",
+        "wikidata": "Q5297656",
+        "viaf": "17470071"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Doreen Cronin",
+    "birth_date": "1966",
+    "key": "/authors/OL1388005A",
+    "source_records": [
+        "amazon:1416903488",
+        "amazon:8574063312",
+        "amazon:0545801087",
+        "bwb:9781532144639",
+        "amazon:0545211131",
+        "promise:bwb_daily_pallets_2024-01-catchup:O6-AYV-680"
+    ],
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-18T21:04:47.570430"
+    }
+}

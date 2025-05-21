@@ -1,0 +1,58 @@
+{
+    "key": "/authors/OL727018A",
+    "personal_name": "Christopher, John",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14545049,
+        7082008
+    ],
+    "alternate_names": [
+        "John Christopher",
+        "Christopher Samuel Youd",
+        "Hillary Ford",
+        "William Godfrey",
+        "Peter Graaf",
+        "Peter Nichols",
+        "Anthony Rye",
+        "William Vine",
+        "Stanley Winchester",
+        "John christopher"
+    ],
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_Christopher",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "The Encyclopedia of Science Fiction, 3rd edition",
+            "url": "http://sf-encyclopedia.com/entry/christopher_john",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "death_date": "3 February 2012",
+    "name": "Sam Youd",
+    "birth_date": "16 April 1922",
+    "remote_ids": {
+        "isni": "0000000109101471",
+        "wikidata": "Q552025",
+        "viaf": "66465191"
+    },
+    "bio": "Sam Youd, who wrote under a number of pseudonyms is particularly noted for his works written as **John Christopher** such as the *Tripods Trilogy* or the *Sword of the Spirits Trilogy*.\r\n\r\nSam Youd was born in Huyton, Lancashire (though Youd is an old Cheshire surname). He adopted the name Christopher Samuel Youd for his professional writings, leading to the widespread but mistaken belief that that was his birth name. Throughout his life he was known simply as Sam to his friends and acquaintances.",
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-16T14:51:31.610884"
+    }
+}

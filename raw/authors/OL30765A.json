@@ -1,0 +1,67 @@
+{
+    "remote_ids": {
+        "viaf": "60214017",
+        "isni": "0000000109066661",
+        "wikidata": "Q212727"
+    },
+    "alternate_names": [
+        "Richard Russell Riordan Jr.",
+        "RICK RIORDAN",
+        "RIck Riordan",
+        "Riordan Rick",
+        "Rick Riordian"
+    ],
+    "birth_date": "5 Jun 1964",
+    "name": "Rick Riordan",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:0141381477",
+        "amazon:1514348284",
+        "bwb:9788417460617",
+        "amazon:1368024114",
+        "amazon:8364297007",
+        "bwb:9780062239129",
+        "amazon:0678453187",
+        "bwb:9780241538203",
+        "amazon:0241534283",
+        "ia:elheroeperdido0000rior",
+        "amazon:0241335566",
+        "amazon:6050937052",
+        "amazon:0141335750",
+        "promise:bwb_daily_pallets_2022-11-01",
+        "amazon:607314217X",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "amazon:912378136X",
+        "promise:bwb_daily_pallets_2022-05-23",
+        "amazon:842466339X",
+        "amazon:8364297651",
+        "bwb:9781368100823",
+        "promise:bwb_daily_pallets_2023-10-26:KT-853-344"
+    ],
+    "key": "/authors/OL30765A",
+    "links": [
+        {
+            "title": "Rick Riordan's Website",
+            "url": "http://www.rickriordan.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14401292
+    ],
+    "personal_name": "Rick Riordan",
+    "latest_revision": 31,
+    "revision": 31,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-12-03T19:59:44.077073"
+    }
+}

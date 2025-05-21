@@ -1,0 +1,19 @@
+{
+    "name": "Katherine Harbour",
+    "personal_name": "Katherine Harbour",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-09-16T05:30:37.173649"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-09-16T05:30:37.173649"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7421736A",
+    "birth_date": "1967",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

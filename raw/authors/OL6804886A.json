@@ -1,0 +1,37 @@
+{
+    "alternate_names": [
+        "Eileen Nauman",
+        "lindsay-mckenna",
+        "Lindsay Mckenna",
+        "McKenna, Lindsay, McKenna, Lindsay",
+        "Palmer, Diana, McKenna, Lindsay"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL6804886A",
+    "photos": [
+        7260693
+    ],
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-11-30:W7-BMZ-758",
+        "promise:bwb_daily_pallets_2022-05-16:T2-CMP-226"
+    ],
+    "name": "Lindsay McKenna",
+    "bio": {
+        "type": "/type/text",
+        "value": "Lindsay McKenna is the pseudonym of award winning author, Eileen Nauman. She comes from a Navy family and her father served in WWII. She joined the U.S. Navy and served from 1964-1967. She has also been a volunteer firefighter, pioneering women as firefighters. Additionally, she was an EMT is Arizona for many years. She is a pilot and has flown many planes, including an Air Force T-38 \u201cchase plane\u201d while researching her book about test pilots. She is known as the \u201cTop Gun of Women\u2019s Military Fiction\u201d. She is also the originator of the military adventure/romance genre. She is the bestselling women\u2019s fiction author to release a new book exclusively through electronic medium."
+    },
+    "birth_date": "1946",
+    "personal_name": "Lindsay McKenna",
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-04-23T16:54:51.502111"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-14T20:56:25.501272"
+    }
+}

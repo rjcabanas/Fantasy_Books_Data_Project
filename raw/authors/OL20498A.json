@@ -1,0 +1,41 @@
+{
+    "source_records": [
+        "bwb:9784444400688",
+        "bwb:9780756413248"
+    ],
+    "birth_date": "24 June 1950",
+    "photos": [
+        7251909
+    ],
+    "remote_ids": {
+        "isni": "0000000081035950",
+        "viaf": "24735343",
+        "wikidata": "Q298234"
+    },
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mercedes_Lackey",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": "American novelist and short story writer",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL20498A",
+    "personal_name": "Mercedes Lackey",
+    "name": "Mercedes Lackey",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-10T19:14:50.420203"
+    }
+}

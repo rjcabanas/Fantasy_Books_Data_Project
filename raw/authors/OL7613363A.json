@@ -1,0 +1,19 @@
+{
+    "name": "Akiko Iwata",
+    "personal_name": "Akiko Iwata",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T21:06:17.003317"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T21:06:17.003317"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7613363A",
+    "birth_date": "1967",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

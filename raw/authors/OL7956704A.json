@@ -1,0 +1,27 @@
+{
+    "name": "Kalynn Bayron",
+    "key": "/authors/OL7956704A",
+    "source_records": [
+        "amazon:1526632799"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14397189
+    ],
+    "remote_ids": {
+        "isni": "0000000496201973",
+        "goodreads": "18885814"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-06-05T18:13:38.386738"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-30T21:31:53.284747"
+    }
+}

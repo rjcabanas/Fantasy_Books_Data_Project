@@ -1,0 +1,64 @@
+{
+    "links": [
+        {
+            "url": "https://twitter.com/jccronin",
+            "title": "Twitter | Justin Cronin",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "http://enterthepassage.com/",
+            "title": "Justin Cronin's Official Author Website - Enter the Passage",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Justin_Cronin",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "remote_ids": {
+        "wikidata": "Q153701",
+        "isni": "0000000118755098",
+        "viaf": "44524499"
+    },
+    "bio": "Born and raised in New England, Justin Cronin is a graduate of Harvard University and the Iowa Writers\u2019 Workshop. Awards for his fiction include the Stephen Crane Prize, a Whiting Writers\u2019 Award, and a Pew Fellowship in the Arts. He is a professor of English at Rice University and lives with his wife and children in Houston, Texas. \r\n\r\n*From the publisher*",
+    "photos": [
+        6464454
+    ],
+    "personal_name": "Justin Cronin",
+    "birth_date": "1962",
+    "key": "/authors/OL896513A",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Justin Cronin (author)",
+        "Justin CRONIN"
+    ],
+    "source_records": [
+        "amazon:1616376503",
+        "ia:dezomergast0000cron",
+        "ia:ilpassaggio0000cron",
+        "bwb:9781409182078",
+        "promise:bwb_daily_pallets_2023-02-24:KS-119-941",
+        "amazon:1587672316",
+        "bwb:9781409112396"
+    ],
+    "name": "Justin Cronin",
+    "latest_revision": 19,
+    "revision": 19,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-18T23:44:28.468838"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Steve Dewinter",
+    "personal_name": "Steve Dewinter",
+    "key": "/authors/OL9131954A",
+    "source_records": [
+        "ia:herobrinerises0000dewi"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-27T01:54:19.765581"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-27T01:54:19.765581"
+    }
+}

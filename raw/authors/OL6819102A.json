@@ -1,0 +1,17 @@
+{
+    "name": "Tim Marquitz",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T02:54:50.513247"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-07-01T02:54:50.513247"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6819102A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,20 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:58:36.296088"
+    },
+    "latest_revision": 1,
+    "name": "Jack Patton",
+    "key": "/authors/OL7613264A",
+    "personal_name": "Jack Patton",
+    "birth_date": "1900",
+    "death_date": "1962",
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:58:36.296088"
+    },
+    "revision": 1
+}

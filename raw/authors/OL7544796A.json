@@ -1,0 +1,18 @@
+{
+    "name": "Tasha Suri",
+    "personal_name": "Tasha Suri",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-31T10:16:01.276797"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-31T10:16:01.276797"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7544796A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

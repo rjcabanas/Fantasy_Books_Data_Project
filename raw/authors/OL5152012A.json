@@ -1,0 +1,49 @@
+{
+    "photos": [
+        7284227
+    ],
+    "personal_name": "Maggie Stiefvater",
+    "birth_date": "18 November 1981",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:9123472995",
+        "amazon:8328020866",
+        "amazon:1509460004",
+        "amazon:9507324100",
+        "amazon:0702302198",
+        "amazon:0702302201"
+    ],
+    "key": "/authors/OL5152012A",
+    "alternate_names": [
+        "#Maggie Stiefvater (Author)",
+        "Stiefvater Maggie",
+        "MAGGIE STIEFVATER",
+        "Margaret Stiefvater"
+    ],
+    "name": "Maggie Stiefvater",
+    "remote_ids": {
+        "storygraph": "f71615f1-c73e-4af4-8a61-a12e5bdd395a",
+        "wikidata": "Q293141",
+        "amazon": "B001JSBZZ6",
+        "librarything": "stiefvatermaggie",
+        "isni": "000000011644267X",
+        "goodreads": "1330292",
+        "viaf": "53621986"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "American writer"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-26T13:58:10.764474"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-10T19:21:07.784641"
+    }
+}

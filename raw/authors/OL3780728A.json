@@ -1,0 +1,17 @@
+{
+    "name": "Marie Godley",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-08-31T13:06:35.791875"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL3780728A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

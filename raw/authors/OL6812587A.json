@@ -1,0 +1,17 @@
+{
+    "name": "Sunako Kayata",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T01:38:58.531630"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T01:38:58.531630"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6812587A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

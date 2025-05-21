@@ -1,0 +1,22 @@
+{
+    "name": "Penelope Farmer",
+    "personal_name": "Penelope Farmer",
+    "key": "/authors/OL363984A",
+    "birth_date": "1939",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q2068767"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-30T10:24:45.669589"
+    }
+}

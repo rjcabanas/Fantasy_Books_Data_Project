@@ -1,0 +1,36 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Judy I. Lin",
+    "key": "/authors/OL9616871A",
+    "source_records": [
+        "bwb:9781250767080"
+    ],
+    "photos": [
+        12614831
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Judy Lin was born in Taiwan and moved to Canada when she was eight years old. She grew up with her nose in a book and loved to escape to imaginary worlds. She now divides her time between working as an occupational therapist and creating imaginary worlds of her own. She lives on the Canadian prairies with her husband and daughter."
+    },
+    "links": [
+        {
+            "url": "http://judyilin.com",
+            "title": "Official site",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-30T12:07:35.883327"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-04T23:00:44.120078"
+    }
+}

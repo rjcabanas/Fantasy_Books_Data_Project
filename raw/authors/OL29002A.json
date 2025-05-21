@@ -1,0 +1,14 @@
+{
+    "name": "Sarah Sloane",
+    "personal_name": "Sarah Sloane",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-11 21:39:42.656614"
+    },
+    "key": "/authors/OL29002A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 73439,
+    "revision": 2
+}

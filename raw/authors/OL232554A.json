@@ -1,0 +1,26 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Sonia Levitin is a German American novelist, artist, producer, Holocaust Survivor, and author of over forty novels and picture books for young adults and children, as well as several theatrical plays and published essays on various topics for adults.\r\n\r\nHer book Incident at Loring Groves (1988) won an Edgar Allan Poe Award.\r\n\r\nLevitin began her career as a publicity columnist for several newspapers, but after her first novel Journey to America became an instant classic, she began to pick up traction as a professional novelist. Levitin wrote numerous novels for young adults that oftentimes featured semi-autobiographical characters. The most common theme of her writing include courageous main characters faced with difficult challenges, who must \"take charge\" in order to overcome these obstacles. Source: wikipedia"
+    },
+    "personal_name": "Sonia Levitin",
+    "photos": [
+        7354739
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2015-07-05T19:53:03.314105"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL232554A",
+    "name": "Sonia Levitin",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "birth_date": "August 18, 1934",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

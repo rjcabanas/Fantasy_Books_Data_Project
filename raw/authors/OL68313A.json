@@ -1,0 +1,51 @@
+{
+    "birth_date": "15 November 1877",
+    "photos": [
+        6882565,
+        14615945
+    ],
+    "name": "William Hope Hodgson",
+    "bio": {
+        "type": "/type/text",
+        "value": "William Hope Hodgson (15 November 1877 \u2013 19 April 1918) was an English author. He produced a large body of work, consisting of essays, short fiction, and novels, spanning several overlapping genres including horror, fantastic fiction, and science fiction. Hodgson used his experiences at sea to lend authentic detail to his short horror stories, many of which are set on the ocean, including his series of linked tales forming the \"Sargasso Sea Stories\". His novels, such as *The House on the Borderland* (1908) and *The Night Land* (1912), feature more cosmic themes, but several of his novels also focus on horrors associated with the sea. Early in his writing career Hodgson dedicated effort to poetry, although few of his poems were published during his lifetime. He also attracted some notice as a photographer and achieved renown as a bodybuilder. He died in World War I at age 40. \r\n\r\n**Source**: [William Hope Hodgson](https://en.wikipedia.org/wiki/William_Hope_Hodgson) on Wikipedia."
+    },
+    "remote_ids": {
+        "viaf": "24602763",
+        "wikidata": "Q919277",
+        "isni": "0000000120224907"
+    },
+    "source_records": [
+        "amazon:177674571X",
+        "bwb:9798747306110",
+        "bwb:9798511100227",
+        "bwb:9798484674435",
+        "ia:ghostpirates0000hodg_d8j4"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL68313A",
+    "personal_name": "William Hope Hodgson",
+    "death_date": "19 April 1918",
+    "alternate_names": [
+        "William H. Hodgson",
+        "William Hodgson",
+        "W.H. Hodgson",
+        "William Hope-Hodgson",
+        "William Hope William Hodgson",
+        "William Hope HODGSON (1877 - 1918)",
+        "William Hope William Hope Hodgson",
+        "william hope hodgson",
+        "William Hope Hodgson Hope Hodgson"
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-28T19:09:22.827622"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "personal_name": "Melissa De la Cruz",
+    "alternate_names": [
+        "Melissa De la Cruz",
+        "Melissa de la Cruz",
+        "Melissa de La Cruz"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:05:17.125629"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL2763983A",
+    "remote_ids": {
+        "viaf": "10108869",
+        "wikidata": "Q2603691",
+        "isni": "0000000109536053"
+    },
+    "name": "Melissa De La Cruz",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "birth_date": "1971",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

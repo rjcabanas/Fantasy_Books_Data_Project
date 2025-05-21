@@ -1,0 +1,29 @@
+{
+    "name": "Bruno Munari",
+    "personal_name": "Bruno Munari",
+    "alternate_names": [
+        "Munari, Bruno"
+    ],
+    "death_date": "September 30, 1998",
+    "location": "Milano",
+    "key": "/authors/OL146299A",
+    "birth_date": "October 24, 1907",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "90119120",
+        "wikidata": "Q708028",
+        "isni": "0000000109235525"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T15:52:58.995317"
+    }
+}

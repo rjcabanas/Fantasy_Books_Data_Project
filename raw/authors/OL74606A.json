@@ -1,0 +1,32 @@
+{
+    "remote_ids": {
+        "wikidata": "Q541374"
+    },
+    "birth_date": "1970",
+    "personal_name": "Garth Ennis",
+    "name": "Garth Ennis",
+    "key": "/authors/OL74606A",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:8491673067",
+        "ia:crossed10000enni",
+        "amazon:1852869836"
+    ],
+    "bio": "Garth Ennis is an Northern Ireland-born American comics writer, best known for the Vertigo series Preacher with artist Steve Dillon, his nine-year run on Marvel Comics' Punisher franchise, and *The Boys* with artist Darick Robertson. He has collaborated with artists such as Dillon and Glenn Fabry on *Preacher*, John McCrea on *Hitman*, Marc Silvestri on *The Darkness*, and Carlos Ezquerra on both Preacher and Hitman. \r\n\r\n**Source**: [Garth Ennis](https://en.wikipedia.org/wiki/Garth_Ennis) on Wikipedia.",
+    "photos": [
+        10473328,
+        14418473
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-24T21:44:56.003724"
+    }
+}

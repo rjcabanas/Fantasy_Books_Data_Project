@@ -1,0 +1,47 @@
+{
+    "name": "Monte Cook",
+    "personal_name": "Monte Cook",
+    "key": "/authors/OL2465767A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14814216
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "**Monte Cook** is an American professional tabletop role-playing game designer and writer, best known for his work on Dungeons & Dragons."
+    },
+    "birth_date": "1968-01-29",
+    "remote_ids": {
+        "wikidata": "Q1945820",
+        "viaf": "60135151",
+        "isni": "000000011935099X"
+    },
+    "links": [
+        {
+            "title": "Monte Cook Games Q90913897",
+            "url": "https://www.montecookgames.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Forgotten Realms Fandom Wiki",
+            "url": "https://forgottenrealms.fandom.com/wiki/Monte_Cook",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-08T15:02:51.753925"
+    }
+}

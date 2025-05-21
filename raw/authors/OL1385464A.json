@@ -1,0 +1,25 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Karen Whiddon spun fanciful tales for her younger brothers as early as the age of eleven. Growing up in the Catskill Mountains of New York, then the Rocky Mountains of Colorado, she found enough magic in the rugged peaks to keep her imagination fueled for years.\r\n\r\nNow making her home in North Texas, she shares her life with her hero-like husband and two doting dogs. She has written five short contemporaries for Kensington Books - Precious Gems and also writes long paranormals for Lovespell and short contemporaries for Silhouette Intimate Moments."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-08-17T23:13:48.111382"
+    },
+    "latest_revision": 4,
+    "name": "Karen Whiddon",
+    "key": "/authors/OL1385464A",
+    "personal_name": "Karen Whiddon",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        7260679
+    ],
+    "revision": 4
+}

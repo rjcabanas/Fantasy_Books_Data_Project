@@ -1,0 +1,17 @@
+{
+    "name": "Mufrad Rahman",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-11-13T22:41:47.646629"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-11-13T22:41:47.646629"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7753532A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Betty MacDonald",
+    "remote_ids": {
+        "viaf": "23901106",
+        "wikidata": "Q454748",
+        "isni": "0000000111509249"
+    },
+    "personal_name": "Betty Bard MacDonald",
+    "birth_date": "1908",
+    "alternate_names": [
+        "Betty Bard MacDonald",
+        "Betty Macdonald",
+        "MacDonald Betty",
+        "BETTY MACDONALD"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "American author who specialized in humorous autobiographical tales. Best known for her book \"[The Egg and I][1]\".\r\n\r\n\r\n  [1]: /works/OL273762W"
+    },
+    "death_date": "1958",
+    "source_records": [
+        "promise:bwb_daily_pallets_2021-06-17"
+    ],
+    "key": "/authors/OL2629251A",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Betty_MacDonald",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-10T18:37:31.254657"
+    }
+}

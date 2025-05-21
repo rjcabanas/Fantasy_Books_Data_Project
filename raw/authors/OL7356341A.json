@@ -1,0 +1,17 @@
+{
+    "name": "Kirsty Logan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-19T10:21:28.211685"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-19T10:21:28.211685"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7356341A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

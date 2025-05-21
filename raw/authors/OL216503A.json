@@ -1,0 +1,43 @@
+{
+    "death_date": "9 May 2014",
+    "links": [
+        {
+            "url": "http://marystewartnovels.com/",
+            "title": "The Unofficial Fansite of Mary Stewart",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "birth_date": "12 September 1916",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL216503A",
+    "bio": "Mary Florence Elinor Rainbow was born on 12 September 1916 in Sunderland, England, the United Kingdom. She graduated from Durham University, from where she received an honorary D.Litt in 2009. She was a lecturer in English Language and Literature there until her marriage in 1945 to Sir Frederick Stewart, former chairman of the Geology Department of Edinburgh University, who died in 2001.\r\n\r\nLady Mary Stewart was author of twenty novels, a volume of poetry, and three books for young readers, she is admired for both her contemporary stories of romantic suspense and her historical novels. Her finest and most original achievement was Merlin Trilogy, an Arthurian saga: The Crystal Cave (1970), The Hollow Hills (1973) and The Last Enchantment (1979). The first of these was turned into a children\u2019s television series in 1991. During years she resided in Scotland, where she died on 9 May 2014.",
+    "personal_name": "Stewart, Mary",
+    "name": "Mary Stewart",
+    "photos": [
+        14325724,
+        7278353,
+        6290496,
+        6290494
+    ],
+    "alternate_names": [
+        "Mary Florence Elinor Rainbow Stewart",
+        "Mary Stewart",
+        "MARY STEWART",
+        "Mary STEWART",
+        "STEWART MARY"
+    ],
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-24T10:06:10.677108"
+    }
+}

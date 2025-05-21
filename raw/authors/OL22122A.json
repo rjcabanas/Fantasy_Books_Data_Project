@@ -1,0 +1,61 @@
+{
+    "key": "/authors/OL22122A",
+    "remote_ids": {
+        "viaf": "39374476",
+        "isni": "000000012024262X",
+        "wikidata": "Q5970117"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "May 23, 1910",
+    "photos": [
+        6765575,
+        6767362,
+        6767368
+    ],
+    "name": "Margaret Wise Brown",
+    "alternate_names": [
+        "Golden MacDonald",
+        "Juniper Sage",
+        "Timothy Hay",
+        "Golden MacDonald (Margaret Wise Brown)",
+        "Golden. (Margaret Wise Brown) MacDonald"
+    ],
+    "personal_name": "Margaret Wise Brown",
+    "source_records": [
+        "amazon:0307021513",
+        "amazon:8484705870",
+        "amazon:069065992X",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "amazon:0385076312",
+        "promise:bwb_daily_pallets_2020-12-09",
+        "promise:bwb_daily_pallets_2024-01-09:P8-BZG-306",
+        "promise:bwb_daily_pallets_2024-01-10:P9-BKW-665",
+        "promise:bwb_daily_pallets_2024-02-19:P9-BWV-355"
+    ],
+    "links": [
+        {
+            "title": "Fan Website",
+            "url": "http://www.btd-island.com/MWB.htm",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "death_date": "November 13, 1952",
+    "bio": {
+        "type": "/type/text",
+        "value": "Margaret Wise Brown was born in Brooklyn, NY. While working as a teacher at the Bank Street Experimental School, she started writing books for children. Margaret was a prolific writer. Over 100 of her stories were published as picture books during her lifetime. She also wrote articles about writing for children, adapted classics, ghost wrote stories and many of her stories appear in anthologies.\r\n\r\nOn November 13, 1952 at the age of 42 she died from an embolism, following a operation while on vacation in France. Posthumously several stories were at publishers ready for publication. In recent years many of Margaret's works have been reprinted. Many were previously published as stories in collections and anthologies; some are from unfinished manuscripts."
+    },
+    "latest_revision": 23,
+    "revision": 23,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-24T07:15:24.373769"
+    }
+}

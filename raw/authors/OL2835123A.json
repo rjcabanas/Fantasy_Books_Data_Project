@@ -1,0 +1,19 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Carol Severance",
+    "personal_name": "Carol Severance",
+    "key": "/authors/OL2835123A",
+    "birth_date": "1944",
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-16T22:07:24.990066"
+    }
+}

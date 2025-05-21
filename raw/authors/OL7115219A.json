@@ -1,0 +1,69 @@
+{
+    "photos": [
+        14571722,
+        14571720,
+        8064866
+    ],
+    "name": "Sarah J. Maas",
+    "source_records": [
+        "amazon:9124015202",
+        "bwb:9781526657077",
+        "bwb:9781536448924",
+        "promise:bwb_daily_pallets_2023-01-10",
+        "amazon:9897545352",
+        "amazon:1681198800",
+        "amazon:8377479869",
+        "amazon:9504959253",
+        "bwb:9781526628220",
+        "bwb:9781639731756",
+        "bwb:9781408834237",
+        "bwb:9781526650535",
+        "bwb:9786070744709"
+    ],
+    "alternate_names": [
+        "Sarah J Maas",
+        "sarah j maas",
+        "Sarah Maas",
+        "J. Maas Sarah",
+        "\u30de\u30fc\u30b9, \u30b5\u30e9\u30fbJ.",
+        "SARAH J. MAAS, SARAH J. MAAS, SARAH J. MAAS",
+        "Maas Sarah J",
+        "\u0421\u0430\u0440\u0430 \u041c\u0430\u0430\u0441",
+        "\u0421\u0430\u0440\u0430 \u0414\u0436. \u041c\u0430\u0430\u0441",
+        "SARAH MAAS"
+    ],
+    "remote_ids": {
+        "viaf": "238172260",
+        "librarything": "maassarahj",
+        "storygraph": "39f63883-5bb8-4a4d-b3b6-6acb5c4f0172",
+        "goodreads": "3433047",
+        "wikidata": "Q20640708",
+        "amazon": "B0070291GK",
+        "isni": "0000000369293270",
+        "bookbrainz": "592894cd-5586-4d61-9fc2-d78ae2ec174a",
+        "musicbrainz": "1a12f34a-c681-468e-b544-e68e5b998360",
+        "lc_naf": "n2012025986",
+        "imdb": "nm7733148",
+        "gnd": "1054401233"
+    },
+    "key": "/authors/OL7115219A",
+    "birth_date": "05 March 1986",
+    "personal_name": "Sarah J. Maas",
+    "bio": {
+        "type": "/type/text",
+        "value": "American author known for her fantasy series."
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 20,
+    "revision": 20,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-04-25T09:48:38.192850"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-10T20:14:10.270328"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Brandon Nolta",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-04-27T19:04:38.154163"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2015-04-27T19:04:38.154163"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7236801A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

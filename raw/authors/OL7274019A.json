@@ -1,0 +1,17 @@
+{
+    "name": "Sfe R Monster",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-11-24T21:29:32.666269"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2015-11-24T21:29:32.666269"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7274019A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

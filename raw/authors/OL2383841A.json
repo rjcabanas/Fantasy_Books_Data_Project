@@ -1,0 +1,26 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Edward Willett is an award-entering author of science fiction, fantasy and non-fiction for both children and adults."
+    },
+    "personal_name": "Edward Willett",
+    "photos": [
+        9350062
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-04-26T11:32:02.797078"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL2383841A",
+    "name": "Edward Willett",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "birth_date": "20 July 1959",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

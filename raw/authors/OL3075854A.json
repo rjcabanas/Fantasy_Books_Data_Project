@@ -1,0 +1,87 @@
+{
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.chinamieville.net",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/m/china-mieville/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?2180",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/mieville_china",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Pathfinder Wiki Entry",
+            "url": "https://pathfinderwiki.com/wiki/China_Mi%C3%A9ville",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL3075854A",
+    "personal_name": "China Mie\u0301ville",
+    "name": "China Mi\u00e9ville",
+    "birth_date": "6  September 1972",
+    "remote_ids": {
+        "viaf": "100992516",
+        "wikidata": "Q319196",
+        "isni": "0000000107869794",
+        "amazon": "B001IQUN20",
+        "bookbrainz": "deddfa29-a50a-49af-8af2-d380ae44adb0",
+        "goodreads": "33918",
+        "gnd": "133939480",
+        "imdb": "nm2407103",
+        "inventaire": "wd:Q319196",
+        "lc_naf": "nb98062876",
+        "librarything": "mievillechina",
+        "musicbrainz": "0ff7966e-016e-49d3-ba81-80fba5357d86",
+        "storygraph": "1680cdb2-2866-4ded-a936-4023b0218529"
+    },
+    "bio": "China Tom Mi\u00e9ville (pronounced /\u02c8t\u0283a\u026an\u0259 mi\u02c8e\u026av\u0259l/; born 6 September 1972 in Norwich) is an award-winning English fantasy fiction writer. He is fond of describing his work as \"weird fiction\" (after early 20th century pulp and horror writers such as H. P. Lovecraft), and belongs to a loose group of writers sometimes called New Weird who consciously attempt to move fantasy away from commercial, genre clich\u00e9s of Tolkien epigones. He is also active in left-wing politics as a member of the Socialist Workers Party. He has stood for the House of Commons for the Socialist Alliance, and published a book on Marxism and international law. He teaches creative writing at Warwick University. ([Wikipedia][1])\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/China_Mi\u00e9ville",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14852563,
+        6293070,
+        6293070
+    ],
+    "source_records": [
+        "amazon:1405051108",
+        "bwb:9781250862501",
+        "bwb:9781642598933",
+        "bwb:9780745327303",
+        "promise:bwb_daily_pallets_2021-10-06",
+        "amazon:1596064102",
+        "amazon:8415831005",
+        "amazon:6059046258"
+    ],
+    "latest_revision": 17,
+    "revision": 17,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-16T20:36:42.565868"
+    }
+}

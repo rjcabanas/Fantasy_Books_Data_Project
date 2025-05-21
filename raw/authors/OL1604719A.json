@@ -1,0 +1,14 @@
+{
+    "name": "Mary Mills",
+    "personal_name": "Mary Mills",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-01 07:30:30.287099"
+    },
+    "key": "/authors/OL1604719A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 5560268,
+    "revision": 2
+}

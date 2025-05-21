@@ -1,0 +1,24 @@
+{
+    "name": "Wataru Yoshizumi",
+    "personal_name": "Wataru Yoshizumi",
+    "alternate_names": [
+        "\u5409\u4f4f\u6e09"
+    ],
+    "key": "/authors/OL1437117A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14595170
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-08T11:06:54.251872"
+    }
+}

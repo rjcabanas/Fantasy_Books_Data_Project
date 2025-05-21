@@ -1,0 +1,29 @@
+{
+    "name": "Nolan Grey",
+    "links": [
+        {
+            "url": "http://www.scribd.com/nolanleegrey",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Scribd"
+        }
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2013-11-12T19:22:05.179065"
+    },
+    "photos": [
+        7265532
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-11-12T22:13:01.941897"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL7171484A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

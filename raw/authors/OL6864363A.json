@@ -1,0 +1,18 @@
+{
+    "name": "Amy Plum",
+    "personal_name": "Amy Plum",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-12-04T07:18:22.280012"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-12-04T07:18:22.280012"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6864363A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

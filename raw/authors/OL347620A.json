@@ -1,0 +1,15 @@
+{
+    "name": "Maggie Pearson",
+    "personal_name": "Maggie Pearson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-02 12:32:51.862461"
+    },
+    "key": "/authors/OL347620A",
+    "birth_date": "1941",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 934158,
+    "revision": 3
+}

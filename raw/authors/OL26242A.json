@@ -1,0 +1,45 @@
+{
+    "photos": [
+        12722819
+    ],
+    "key": "/authors/OL26242A",
+    "alternate_names": [
+        "Katherine Womeldorf Paterson",
+        "Paterson Katherine",
+        "Paterson, Katherine, Paterson, John"
+    ],
+    "remote_ids": {
+        "wikidata": "Q236321",
+        "isni": "0000000110316090",
+        "viaf": "98108465"
+    },
+    "source_records": [
+        "bwb:9781299905764",
+        "bwb:9780664267810",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2020-11-24",
+        "promise:bwb_daily_pallets_2024-01-catchup:P8-AKX-888",
+        "amazon:0435124773",
+        "promise:bwb_daily_pallets_2024-08-08:w9-afy-384"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Katherine Paterson is the author of more than 40 books, including 18 novels for children and young people. She has twice won the Newbery Medal, for Bridge to Terabithia in 1978 and Jacob Have I Loved in 1981. The Patersons have four grown children and seven grandchildren. Katherine currently resides in Vermont with her faithful dog, Pixie."
+    },
+    "birth_date": "31 Oct 1932",
+    "personal_name": "Katherine Paterson",
+    "name": "Katherine Paterson",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 17,
+    "revision": 17,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-06T16:43:04.120132"
+    }
+}

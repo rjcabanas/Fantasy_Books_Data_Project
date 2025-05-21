@@ -1,0 +1,25 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Solveig Paulson Russell was born in Salt Lake City, Utah. In her mid-teens, she moved with her family to Portland, Oregon, where they lived on a farm just outside the city. She attended the University of Oregon, and after graduating she spent four years as a teacher in various rural schools. She was a junior high school teacher in Salem when she retired with the birth of her daughter. She decided to use her spare time to write, and in 1958 she published her first book, Trees for Tomorrow. Over the course of her career she published forty-five books as well as over 3,400 stories, verses and articles in various periodicals."
+    },
+    "name": "Solveig Paulson Russell",
+    "personal_name": "Solveig Paulson Russell",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "birth_date": "March 1904",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-12-03T02:20:47.663632"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL1548362A",
+    "date": "November 2009",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 5328927,
+    "revision": 3
+}

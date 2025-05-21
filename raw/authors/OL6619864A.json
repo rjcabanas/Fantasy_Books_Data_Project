@@ -1,0 +1,19 @@
+{
+    "name": "Sam Munson",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-16T01:33:03.473934"
+    },
+    "personal_name": "Sam Munson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-05-16T01:33:03.473934"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6619864A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 34019003,
+    "revision": 1
+}

@@ -1,0 +1,45 @@
+{
+    "key": "/authors/OL356123A",
+    "birth_date": "1942-12-27",
+    "bio": "French writer and architect",
+    "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:108059480:980"
+    ],
+    "remote_ids": {
+        "viaf": "56731491",
+        "wikidata": "Q11958330",
+        "isni": "000000012134285X"
+    },
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Annette_Tison",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "BookBrainz",
+            "url": "https://bookbrainz.org/author/3a497b2d-8bb4-4ddc-9b52-c9c51fb79232",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "personal_name": "Annette Tison",
+    "name": "Annette Tison",
+    "type": {
+        "key": "/type/author"
+    },
+    "death_date": "2010-06-28",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-08T08:20:21.672106"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Marie Rutkoski",
+    "personal_name": "Marie Rutkoski",
+    "key": "/authors/OL5110015A",
+    "alternate_names": [
+        "RUTKOSKI MARIE"
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-25T21:11:19.684356"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-17T23:52:45.771825"
+    }
+}

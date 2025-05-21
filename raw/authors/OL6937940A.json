@@ -1,0 +1,19 @@
+{
+    "name": "Matthew J. Kirby",
+    "personal_name": "Matthew J. Kirby",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-07-25T17:37:48.808872"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-07-25T17:37:48.808872"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6937940A",
+    "birth_date": "1976",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

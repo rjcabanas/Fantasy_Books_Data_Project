@@ -1,0 +1,28 @@
+{
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-08-13T01:12:40.807183"
+    },
+    "latest_revision": 4,
+    "name": "E. W. Hildick",
+    "key": "/authors/OL385080A",
+    "personal_name": "E. W. Hildick",
+    "birth_date": "1925",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "E.W. Hildick",
+        "E.W Hildick",
+        "E W. Hildick",
+        "E.W. HILDICK",
+        "E. W Hildick",
+        "E W . Hildick",
+        "Edmund Wallace Hildick"
+    ],
+    "revision": 4
+}

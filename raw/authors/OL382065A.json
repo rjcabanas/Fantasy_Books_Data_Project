@@ -1,0 +1,27 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "Allan W. Eckert",
+    "key": "/authors/OL382065A",
+    "personal_name": "Allan W. Eckert",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5,
+    "alternate_names": [
+        "Allan W. Eckert.",
+        "Allan W Eckert"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:44:57.402332"
+    },
+    "remote_ids": {
+        "viaf": "2618428",
+        "wikidata": "Q524567",
+        "isni": "0000000115862146"
+    }
+}

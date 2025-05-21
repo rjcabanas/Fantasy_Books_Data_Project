@@ -1,0 +1,55 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Lucy Coats is a multigenre author of children's books. Her first picturebook was published in 1991, and in 2004 she was shortlisted for the Blue Peter Book Prize for 'Atticus the Storyteller's 100 Greek Myths'. Her first novel 'Hootcat Hill', was published in 2008 and had excellent reviews. Lucy was born in Hampshire and read English and Ancient History at Edinburgh University, which is where she met her husband, with whom she has two teenage children, both keen readers. Lucy read her first book of Greek myths at the age of seven, and has been hooked on myths of all kinds ever since.\r\n\r\nLucy lives in rural Northamptonshire and writes looking out over green fields full of sheep. She has a deskdog called Hero who generally lies between her screen and keyboard and is very good at encouraging Lucy when the writing is going slowly.  Lucy's latest 12 book series, Greek Beasts and Monsters were published by Orion Children's Books throughout 2010, and she is currently working on a YA fantasy novel and a series for 7-9 year-olds."
+    },
+    "links": [
+        {
+            "url": "http://lucycoats.com",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's web page"
+        },
+        {
+            "url": "http://scribblecitycentral.blogspot.com",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's blog"
+        },
+        {
+            "url": "http://tinyurl.com/lucycoatsfacebook",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's facebook page"
+        },
+        {
+            "url": "http://www.twitter.com/lucycoats",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's Twitter"
+        }
+    ],
+    "personal_name": "Lucy Coats",
+    "photos": [
+        7414718
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-05-01T16:17:43.316767"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL30934A",
+    "name": "Lucy Coats",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

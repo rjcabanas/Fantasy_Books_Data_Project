@@ -1,0 +1,24 @@
+{
+    "name": "Beth Revis",
+    "key": "/authors/OL6883175A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        11191226
+    ],
+    "bio": "Beth Revis is an American author of fantasy and science fiction, mainly for the young adult audience. She is best known for the Across the Universe trilogy, which consists of the novels Across the Universe, A Million Suns and Shades of Earth. Revis resides in North Carolina.",
+    "remote_ids": {
+        "viaf": "160512564"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-01-06T20:05:18.870523"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-31T18:33:10.186531"
+    }
+}

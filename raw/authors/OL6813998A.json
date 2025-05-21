@@ -1,0 +1,17 @@
+{
+    "name": "C.E Murphy",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T04:35:05.024193"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T04:35:05.024193"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6813998A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

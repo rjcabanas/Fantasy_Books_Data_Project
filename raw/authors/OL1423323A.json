@@ -1,0 +1,24 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 4,
+    "name": "Dave Luckett",
+    "key": "/authors/OL1423323A",
+    "personal_name": "Dave Luckett",
+    "birth_date": "1951",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T16:53:58.107102"
+    },
+    "remote_ids": {
+        "viaf": "32896022",
+        "wikidata": "Q5229232",
+        "isni": "0000000110242941"
+    }
+}

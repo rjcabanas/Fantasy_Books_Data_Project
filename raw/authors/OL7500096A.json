@@ -1,0 +1,17 @@
+{
+    "name": "Jen Williams",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-09T06:54:09.991217"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-09T06:54:09.991217"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7500096A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

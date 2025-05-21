@@ -1,0 +1,25 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1972",
+    "name": "Victor D. LaValle",
+    "key": "/authors/OL24705A",
+    "personal_name": "Victor D. LaValle",
+    "alternate_names": [
+        "Victor D. Lavalle",
+        "Victor LaValle",
+        "LAVALLE VICTOR",
+        "Victor Lavalle"
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-24T02:14:01.302750"
+    }
+}

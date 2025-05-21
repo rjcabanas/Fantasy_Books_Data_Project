@@ -1,0 +1,15 @@
+{
+    "name": "Carlos Queiroz Telles",
+    "personal_name": "Carlos Queiroz Telles",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-29 23:13:56.27254"
+    },
+    "key": "/authors/OL564047A",
+    "birth_date": "1936",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1616809,
+    "revision": 2
+}

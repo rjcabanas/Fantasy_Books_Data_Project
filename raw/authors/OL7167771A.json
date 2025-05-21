@@ -1,0 +1,17 @@
+{
+    "name": "Mark Siegel",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2013-01-09T17:22:06.553749"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-01-09T17:22:06.553749"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7167771A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

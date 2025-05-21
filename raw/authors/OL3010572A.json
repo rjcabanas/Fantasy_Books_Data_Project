@@ -1,0 +1,22 @@
+{
+    "alternate_names": [
+        "Misaho Kujirado\u0304\u0304",
+        "Misaho Kujirad\u014d\u0304"
+    ],
+    "key": "/authors/OL3010572A",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Misaho Kujiradou",
+    "personal_name": "Misaho Kujirado\u0304\u0304",
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T06:33:27.187047"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-04T02:30:21.231892"
+    }
+}

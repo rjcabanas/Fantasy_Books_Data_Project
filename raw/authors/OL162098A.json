@@ -1,0 +1,51 @@
+{
+    "name": "Carlo Collodi",
+    "death_date": "1890",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1826",
+    "personal_name": "Carlo Collodi",
+    "bio": {
+        "type": "/type/text",
+        "value": "Carlo Collodi was a pseudonym of Carlo Lorenzini"
+    },
+    "key": "/authors/OL162098A",
+    "title": "(yi) (Collodi, Carlo",
+    "alternate_names": [
+        "Carlo Lorenzini",
+        "Collodi Carlo",
+        "Carlo Collodi (Carlo Lorenzini)",
+        "Carlo Lorenzini Collodi",
+        "Collodi",
+        "C. Collodi",
+        "(yi) Ke, luo di (Collodi, Carlo",
+        "C. Collodi (Carlo Lorenzini)",
+        "C Collodi Lorenzini",
+        "Collodi, Carlo Writer, Journalist, Italy",
+        "Collodi, Carlo Ecrivain, Journaliste, Italie",
+        "Collodi, Carlo Schriftsteller, Journalist, Italien",
+        "Collodi CARLO"
+    ],
+    "remote_ids": {
+        "wikidata": "Q199588",
+        "viaf": "24599845",
+        "isni": "0000000121243974"
+    },
+    "source_records": [
+        "amazon:849101148X",
+        "ia:leavventuredipin0000unse",
+        "bwb:9781786174406",
+        "amazon:2081612992"
+    ],
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-22T19:35:44.383837"
+    }
+}

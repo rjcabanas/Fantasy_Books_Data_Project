@@ -1,0 +1,22 @@
+{
+    "name": "Arina Tanemura",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:51:31.352699"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL2944005A",
+    "remote_ids": {
+        "viaf": "74137409",
+        "wikidata": "Q232660",
+        "isni": "0000000116727595"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

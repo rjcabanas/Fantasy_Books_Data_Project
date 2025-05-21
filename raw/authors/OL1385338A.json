@@ -1,0 +1,37 @@
+{
+    "bio": "Linda's first book, the historical romance Guardian Angel, was released in 1994, and in the years since she's written in several romance sub-genres under several names. In order of appearance, Linda Winstead; Linda Jones; Linda Winstead Jones; Linda Devlin; and Linda Fallon. She's a six time finalist for the RITA Award and a winner (for Shades of Midnight, writing as Linda Fallon) in the paranormal category. Most recently she's been writing as Linda Jones in a couple of joint projects with Linda Howard, and rereleasing some of her backlist in ebook format.\r\n\r\nhttps://www.lindawinsteadjones.com/bio",
+    "personal_name": "Linda Winstead Jones",
+    "alternate_names": [
+        "Linda Jones",
+        "Linda Winstead",
+        "Linda Winstead Jones",
+        "Linda Devlin",
+        "Linda Fallon"
+    ],
+    "key": "/authors/OL1385338A",
+    "name": "Linda Winstead Jones",
+    "birth_date": "1954",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12953990
+    ],
+    "remote_ids": {
+        "amazon": "B001H6ER3C",
+        "wikidata": "Q6552072",
+        "isni": "0000000081150203",
+        "viaf": "36458349",
+        "goodreads": "139575"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-21T03:52:00.141163"
+    }
+}

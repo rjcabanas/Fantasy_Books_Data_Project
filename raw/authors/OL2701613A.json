@@ -1,0 +1,24 @@
+{
+    "personal_name": "Varley, John",
+    "birth_date": "9 Aug 1947",
+    "name": "John Varley",
+    "key": "/authors/OL2701613A",
+    "remote_ids": {
+        "wikidata": "Q504805",
+        "viaf": "116761944",
+        "isni": "0000000121486247"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-19T11:59:10.023330"
+    }
+}

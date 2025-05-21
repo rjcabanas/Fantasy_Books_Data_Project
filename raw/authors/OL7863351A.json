@@ -1,0 +1,17 @@
+{
+    "name": "M. Regis",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-03T14:31:58.672112"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-03T14:31:58.672112"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7863351A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

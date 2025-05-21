@@ -1,0 +1,17 @@
+{
+    "name": "Vamik D. Volkan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-15T22:20:53.171284"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-15T22:20:53.171284"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8143548A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

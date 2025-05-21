@@ -1,0 +1,43 @@
+{
+    "remote_ids": {
+        "isni": "0000000084065186",
+        "viaf": "109211290",
+        "wikidata": "Q6297079"
+    },
+    "name": "Joy Cowley",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL4753461A",
+    "birth_date": "1936",
+    "source_records": [
+        "ia:pawprintsinbutte0000cowl",
+        "ia:ourgranny0000cowl",
+        "promise:bwb_daily_pallets_2022-03-28",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "amazon:0723306303",
+        "promise:bwb_daily_pallets_2022-11-23",
+        "promise:bwb_daily_pallets_2022-06-13",
+        "promise:bwb_daily_pallets_2021-07-23",
+        "amazon:1556247850",
+        "amazon:0322024633",
+        "promise:bwb_daily_pallets_2021-04-15",
+        "promise:bwb_daily_pallets_2023-06-19:O9-ALM-360",
+        "promise:bwb_daily_pallets_2023-06-26:T3-BKF-288",
+        "promise:bwb_daily_pallets_2023-07-07:W8-CAZ-841"
+    ],
+    "personal_name": "Joy Cowley",
+    "photos": [
+        12605786
+    ],
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-16T17:45:15.705515"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-29T16:23:02.640056"
+    }
+}

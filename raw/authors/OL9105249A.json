@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Daniel Kason",
+    "personal_name": "Daniel Kason",
+    "key": "/authors/OL9105249A",
+    "source_records": [
+        "ia:leechworld0000kaso"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-02-16T04:54:45.139914"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-02-16T04:54:45.139914"
+    }
+}

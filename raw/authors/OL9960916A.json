@@ -1,0 +1,17 @@
+{
+    "name": "Giada Baldassarri",
+    "key": "/authors/OL9960916A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-15T11:59:17.076530"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-15T11:59:17.076530"
+    }
+}

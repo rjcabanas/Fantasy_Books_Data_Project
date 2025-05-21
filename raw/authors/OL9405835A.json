@@ -1,0 +1,22 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Jeanne Kienzle",
+    "personal_name": "Jeanne Kienzle",
+    "birth_date": "1947",
+    "key": "/authors/OL9405835A",
+    "source_records": [
+        "ia:imaginalprocesse00kien"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-02T06:28:53.308064"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-02T06:28:53.308064"
+    }
+}

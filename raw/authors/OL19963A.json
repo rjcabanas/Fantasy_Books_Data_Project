@@ -1,0 +1,33 @@
+{
+    "name": "Debbie Dadey",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12632497
+    ],
+    "key": "/authors/OL19963A",
+    "personal_name": "Debbie Dadey",
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-07-28",
+        "promise:bwb_daily_pallets_2022-04-01",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-08-26"
+    ],
+    "birth_date": "1959-05-18",
+    "remote_ids": {
+        "viaf": "43860486",
+        "wikidata": "Q5247904",
+        "isni": "000000007401633X"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-05T15:49:50.632037"
+    }
+}

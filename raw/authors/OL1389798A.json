@@ -1,0 +1,28 @@
+{
+    "name": "Gerald Brom",
+    "personal_name": "Brom",
+    "key": "/authors/OL1389798A",
+    "birth_date": "1965",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14400282
+    ],
+    "remote_ids": {
+        "wikidata": "Q956879"
+    },
+    "alternate_names": [
+        "Brom"
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-03T04:17:49.055486"
+    }
+}

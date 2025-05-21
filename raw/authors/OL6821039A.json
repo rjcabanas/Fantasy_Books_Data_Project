@@ -1,0 +1,17 @@
+{
+    "name": "Kandake E. Brockington",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-07-05T16:05:28.357890"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-07-05T16:05:28.357890"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6821039A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

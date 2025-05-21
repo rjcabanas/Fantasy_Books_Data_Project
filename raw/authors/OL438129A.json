@@ -1,0 +1,26 @@
+{
+    "photos": [
+        7370432
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "Warren Ellis",
+    "key": "/authors/OL438129A",
+    "personal_name": "Warren Ellis",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:46:40.251789"
+    },
+    "remote_ids": {
+        "viaf": "56746065",
+        "wikidata": "Q540787",
+        "isni": "0000000081358717"
+    }
+}

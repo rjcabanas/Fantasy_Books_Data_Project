@@ -1,0 +1,27 @@
+{
+    "personal_name": "Moore, Christopher",
+    "alternate_names": [
+        "Moore, Christopher"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T13:14:42.299234"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL2629911A",
+    "remote_ids": {
+        "viaf": "85622613",
+        "wikidata": "Q861482",
+        "isni": "0000000116814672"
+    },
+    "name": "Christopher Moore",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "birth_date": "1957",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

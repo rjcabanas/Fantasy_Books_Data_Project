@@ -1,0 +1,15 @@
+{
+    "name": "Bent Lorentzen",
+    "personal_name": "Bent Lorentzen",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 19:35:44.898108"
+    },
+    "key": "/authors/OL1428100A",
+    "birth_date": "1953",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 4831461,
+    "revision": 2
+}

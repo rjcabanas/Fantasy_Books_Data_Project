@@ -1,0 +1,17 @@
+{
+    "name": "Giambattista Basile",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-27T16:31:26.045027"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-27T16:31:26.045027"
+    },
+    "key": "/authors/OL6090172A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 30791438,
+    "revision": 1
+}

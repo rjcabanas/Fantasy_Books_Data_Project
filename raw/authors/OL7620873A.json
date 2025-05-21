@@ -1,0 +1,41 @@
+{
+    "name": "\u7406\u4e0d\u5c3d\u306a\u5b6b\u306e\u624b",
+    "key": "/authors/OL7620873A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q104957419",
+        "amazon": "B00LR4UJB8",
+        "goodreads": "8409916",
+        "bookbrainz": "ccb6898e-6361-4d3f-8bd1-aeb14284ed2b",
+        "gnd": "1244443220",
+        "imdb": "nm12392817",
+        "lc_naf": "n2021042558",
+        "librarything": "magonoterifujinna",
+        "storygraph": "89a51b28-224c-4eb3-87e9-4e99a4d36d8f",
+        "musicbrainz": "5297ab9e-2648-4ad0-a95a-4722f797707c"
+    },
+    "alternate_names": [
+        "Rifujin na Magonote",
+        "Rifujin Na Magonote",
+        "Rifujin na magonote.;",
+        "Rifujin na Magonote.;",
+        "Rifujin Na Magonote.;"
+    ],
+    "birth_date": "03 April 1985",
+    "bio": {
+        "type": "/type/text",
+        "value": "Japanese novelist"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-22T05:35:34.152331"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-11T13:27:44.652756"
+    }
+}

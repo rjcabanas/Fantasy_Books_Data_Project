@@ -1,0 +1,69 @@
+{
+    "name": "Tove Jansson",
+    "links": [
+        {
+            "title": "The Moomin Trove",
+            "url": "http://www.moomintrove.com/index.htm",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Wiki",
+            "url": "https://en.wikipedia.org/wiki/Tove_Jansson",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Goodreads",
+            "url": "https://www.goodreads.com/author/show/45230.Tove_Jansson?from_search=true&from_srp=true",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": "Finnish novelist, painter, and professor of philosophy, best known for the <i>Moomin</i> books.",
+    "fuller_name": "Tove Marika Jansson",
+    "photos": [
+        6015727
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Tove Marika Jansson",
+        "Tove JANSSON",
+        "Tove [Thomas Warburton, tr.] Jansson",
+        "Tove",
+        "trad. de Emmanuelle Lavoix Jansson",
+        "JANSSON TOVE",
+        "TOVE JANSSON",
+        "Jansson Tove"
+    ],
+    "birth_date": "9 August 1914",
+    "death_date": "27 June 2001",
+    "remote_ids": {
+        "wikidata": "Q102071",
+        "viaf": "111533709",
+        "goodreads": "45230",
+        "isni": "0000000121478925"
+    },
+    "source_records": [
+        "amazon:2253038180",
+        "amazon:9874755555",
+        "promise:bwb_daily_pallets_2023-01-27:KS-145-171"
+    ],
+    "key": "/authors/OL279921A",
+    "personal_name": "Tove Jansson",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T16:08:36.005531"
+    }
+}

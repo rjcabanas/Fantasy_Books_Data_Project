@@ -1,0 +1,17 @@
+{
+    "name": "Kit Alloway",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-24T09:26:03.588698"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-08-24T09:26:03.588698"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7621733A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

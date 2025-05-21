@@ -1,0 +1,36 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Alice O'Brien was born on 6 October 1939 in New Orleans, Louisiana, USA. She was one of five sister of Katherine \"Kay\" Allen and Howard O'Brien. The O'Brien family moved to Richardson, Texas, when Alice was a teenager. She began her nursing career in Houston, where she met and married her husband, Clifford Borchardt. After a 30-year career as a licensed vocational nurse, Borchardt faced staff reductions at the hospital where she worked. Alice's sister, the writer Anne Rice, encouraged her, helped her find an agent, and wrote introductions to several of her books. She wrote seven books. She passed away on 24 July 2007 in Houston, Texas."
+    },
+    "name": "Alice Borchardt",
+    "personal_name": "Alice Borchardt",
+    "death_date": "24 July 2007",
+    "alternate_names": [
+        "Alice O'Brien Borchardt",
+        "Alice Borchardt"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        7130464
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:59:18.962748"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL26319A",
+    "birth_date": "6 October 1939",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "64843885",
+        "wikidata": "Q533287",
+        "isni": "0000000116599490"
+    }
+}

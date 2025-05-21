@@ -1,0 +1,27 @@
+{
+    "alternate_names": [
+        "Harrison, Paula",
+        "Harrison Paula"
+    ],
+    "source_records": [
+        "promise:bwb_daily_pallets_2021-04-21"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Paula Harrison",
+    "key": "/authors/OL7304956A",
+    "remote_ids": {
+        "viaf": "292920050"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:26:27.628571"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-14T05:35:17.378991"
+    }
+}

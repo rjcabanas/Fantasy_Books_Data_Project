@@ -1,0 +1,59 @@
+{
+    "birth_date": "1966-10-01",
+    "alternate_names": [
+        "L. Richard Baker III",
+        "Rich Baker",
+        "Richard L. Baker III"
+    ],
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-11-30"
+    ],
+    "photos": [
+        13810366
+    ],
+    "name": "Richard Baker",
+    "links": [
+        {
+            "title": "Pathfinder Wiki",
+            "url": "https://pathfinderwiki.com/wiki/Richard_Baker",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Blog: Baker's FIeld",
+            "url": "http://richard-baker.blogspot.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Blog",
+            "url": "https://richardbakerauthor.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "personal_name": "L. Richard Baker",
+    "bio": "**Richard Baker** is a freelance author and game designer who worked first for TSR, Inc. and then Wizards of the Coast until 2011. He most recently authored the majority of the adventure Thornkeep for the Pathfinder Online Kickstarter, and then accepted a position as developer at that company.",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "isni": "0000000447071631",
+        "wikidata": "Q3029392",
+        "viaf": "19172819"
+    },
+    "key": "/authors/OL1475787A",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-23T17:18:30.147310"
+    }
+}

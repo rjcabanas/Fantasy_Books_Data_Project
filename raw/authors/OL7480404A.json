@@ -1,0 +1,17 @@
+{
+    "name": "Viktor Pelevin",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-15T05:08:10.064987"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-15T05:08:10.064987"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7480404A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

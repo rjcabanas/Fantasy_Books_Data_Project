@@ -1,0 +1,55 @@
+{
+    "personal_name": "Darren Shan",
+    "photos": [
+        12993162
+    ],
+    "remote_ids": {
+        "librarything": "shandarren",
+        "wikidata": "Q356428",
+        "goodreads": "5816",
+        "isni": "0000000120292942",
+        "viaf": "79514873",
+        "amazon": "B001IGODB2",
+        "storygraph": "100b0ac4-5f21-4a65-9868-5df700671c64"
+    },
+    "birth_date": "2 July 1972",
+    "bio": "Darren O'Shaughnessy is an Irish writer and novelist. He is best known for his young adult fiction series The Saga of Darren Shan, The Demonata, and Zom-B, published under the pseudonym Darren Shan. The former was adapted into a manga series from 2006 to 2009 as well as a live-action film in 2009, with a prequel series, The Saga of Larten Crepsley, being released from 2010 to 2012.\r\n\r\nO'Shaughnessy has published other children's books as Darren Shan, including Koyasan, and The Thin Executioner, and his newest series is called Archibald Lox.\r\n\r\nIn the past, O'Shaughnessy has also published novels for adults under the Darren Shan pseudonym, but since 2014 he has released his work for older readers under the name of Darren Dash.",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "ia:darrenshanunddie0000shan_l6p7",
+        "amazon:1409143619",
+        "ia:eenstoetvandoden0000shan",
+        "amazon:0007255675",
+        "amazon:0007260482",
+        "amazon:9944699861",
+        "amazon:9123881526",
+        "amazon:0857077775",
+        "promise:bwb_daily_pallets_2023-03-09:KS-290-633"
+    ],
+    "title": "pseud. van Darren O'Shaughnessy",
+    "name": "Darren Shan",
+    "alternate_names": [
+        "DARREN SHAN",
+        "D. Shan",
+        "darren-shan",
+        "darren shan",
+        "Darren Shan,Darren Shan",
+        "Shan, Darren pseud. van Darren O'Shaughnessy",
+        "Darren Shan,Shan Darren",
+        "Darren SHAN",
+        "Shan Darren"
+    ],
+    "key": "/authors/OL1392583A",
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-10T11:42:01.035168"
+    }
+}

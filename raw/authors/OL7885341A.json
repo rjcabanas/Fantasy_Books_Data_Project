@@ -1,0 +1,17 @@
+{
+    "name": "Maggie Tokuda-Hall",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-12T14:48:25.059256"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-12T14:48:25.059256"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7885341A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,27 @@
+{
+    "personal_name": "Andrew Dixon",
+    "source_records": [
+        "ia:lepeeenchantee0000dixo",
+        "promise:bwb_daily_pallets_2020-11-24"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Andy Dixon",
+    "birth_date": "1967",
+    "key": "/authors/OL657227A",
+    "alternate_names": [
+        "Dixon, Andy",
+        "Andrew Dixon"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-14T15:39:44.340222"
+    }
+}

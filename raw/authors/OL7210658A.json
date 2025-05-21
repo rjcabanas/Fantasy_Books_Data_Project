@@ -1,0 +1,95 @@
+{
+    "photos": [
+        14601054,
+        14548255,
+        7314387
+    ],
+    "birth_date": "1982",
+    "remote_ids": {
+        "viaf": "86124119",
+        "wikidata": "Q104199",
+        "isni": "0000000063258704"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "**Marc-Uwe Kling** is one of the most successful authors in Germany. His latest book QualityLand is an astounding satire of the future that sometimes feels closer to the present than you could wish for. QualityLand spent months on the German bestseller lists, has up to now been translated into twenty-four languages."
+    },
+    "key": "/authors/OL7210658A",
+    "personal_name": "Joanne K. Rowling",
+    "source_records": [
+        "amazon:2017876003",
+        "amazon:3944035879",
+        "amazon:9021422956",
+        "amazon:6051736603"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Marc-Uwe Kling",
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Marc-Uwe_Kling",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "https://marcuwekling.de/",
+            "url": "https://marcuwekling.de/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Mastodon",
+            "url": "https://cultur.social/@marcuwekling",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Soundcloud",
+            "url": "https://soundcloud.com/marc-uwe-kling",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "YouTube",
+            "url": "https://www.youtube.com/user/MarcUweKling",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Das Neinhorn",
+            "url": "https://dasneinhorn.de",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Vimeo",
+            "url": "https://vimeo.com/user47929744",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "alternate_names": [
+        "Marc Uwe Kling",
+        "Mark-Uwe Kling",
+        "Mark Uwe Kling"
+    ],
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-07-29T18:59:43.408300"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-24T12:24:20.752056"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Jesse Bullington",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-15T04:46:17.015376"
+    },
+    "personal_name": "Jesse Bullington",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-05-15T04:46:17.015376"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6613304A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33991341,
+    "revision": 1
+}

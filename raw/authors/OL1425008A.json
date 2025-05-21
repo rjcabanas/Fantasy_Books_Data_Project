@@ -1,0 +1,31 @@
+{
+    "name": "Michelle Sagara West",
+    "birth_date": "1963",
+    "personal_name": "Michelle Sagara West",
+    "source_records": [
+        "bwb:9781935618379"
+    ],
+    "alternate_names": [
+        "Michelle West, Michelle Sagara",
+        "Michelle Sagara",
+        "Michelle Sagara West, Michelle West",
+        "Michelle M. Sagara",
+        "Michelle West",
+        "West, Michelle",
+        "WEST MICHELLE"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL1425008A",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-27T19:37:47.774450"
+    }
+}

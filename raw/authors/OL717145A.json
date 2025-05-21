@@ -1,0 +1,24 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 4,
+    "name": "Bill Brittain",
+    "key": "/authors/OL717145A",
+    "personal_name": "Bill Brittain",
+    "birth_date": "1930",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T16:44:41.072626"
+    },
+    "remote_ids": {
+        "viaf": "30798012",
+        "wikidata": "Q4908271",
+        "isni": "0000000082147364"
+    }
+}

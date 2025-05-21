@@ -1,0 +1,24 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 4,
+    "name": "Vamik D. Volkan",
+    "key": "/authors/OL382819A",
+    "personal_name": "Vamik D. Volkan",
+    "birth_date": "1932",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:25:59.961555"
+    },
+    "remote_ids": {
+        "viaf": "2479757",
+        "wikidata": "Q348812",
+        "isni": "0000000115581782"
+    }
+}

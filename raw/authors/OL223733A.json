@@ -1,0 +1,59 @@
+{
+    "personal_name": "John Kendrick Bangs",
+    "key": "/authors/OL223733A",
+    "alternate_names": [
+        "Kendrick John Bangs",
+        "J.K. B.",
+        "Anne Warrington Witherup",
+        "T. Carlyle Smith",
+        "John M. Bangs",
+        "John Kendrick, Bangs,",
+        "John Kendrick 1862-1922 Bangs",
+        "Bangs John Kendrick",
+        "Bangs John Kendrick 1862-1922",
+        "John Kendrick John Kendrick Bangs",
+        "John Kendrick 1862 Bangs",
+        "John Bangs"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "death_date": "January 21, 1922",
+    "remote_ids": {
+        "viaf": "54461316",
+        "wikidata": "Q1357524",
+        "isni": "000000008133618X"
+    },
+    "name": "John Kendrick Bangs",
+    "birth_date": "May 27, 1862",
+    "photos": [
+        7425443
+    ],
+    "source_records": [
+        "amazon:1973916967",
+        "amazon:1362645729",
+        "amazon:1695842316",
+        "amazon:1318745357",
+        "amazon:1313246026",
+        "amazon:1729025048",
+        "bwb:9798523456558",
+        "bwb:9781245921374",
+        "bwb:9798693154476",
+        "bwb:9798737230869",
+        "bwb:9798716090491"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "John Kendrick Bangs was an American author, editor and satirist. - Wikipedia"
+    },
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T01:53:46.717424"
+    }
+}

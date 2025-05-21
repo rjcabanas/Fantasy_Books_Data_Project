@@ -1,0 +1,40 @@
+{
+    "birth_date": "1950",
+    "remote_ids": {
+        "viaf": "1636282",
+        "wikidata": "Q4970372",
+        "isni": "0000000059277611"
+    },
+    "name": "Kate Novak",
+    "personal_name": "Kate Novak",
+    "bio": {
+        "type": "/type/text",
+        "value": "American writer"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Kate_Novak",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "key": "/authors/OL956267A",
+    "alternate_names": [
+        "Kate Novak-Grubb"
+    ],
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-28T19:28:22.249270"
+    }
+}

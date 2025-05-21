@@ -1,0 +1,17 @@
+{
+    "name": "Jennifer Da\u00efna",
+    "key": "/authors/OL11672838A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-12T17:21:26.820154"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-12T17:21:26.820154"
+    }
+}

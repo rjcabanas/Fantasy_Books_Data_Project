@@ -1,0 +1,22 @@
+{
+    "key": "/authors/OL5163896A",
+    "personal_name": "J. Scott Savage",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1963",
+    "name": "J. Scott Savage",
+    "photos": [
+        9392851
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-26T18:35:02.229241"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-01-05T22:06:59.032720"
+    }
+}

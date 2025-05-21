@@ -1,0 +1,21 @@
+{
+    "name": "Philip Roy",
+    "personal_name": "Philip Roy",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-12-16T04:26:24.148562"
+    },
+    "photos": [
+        7177912
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-08-02T23:17:14.183828"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL6875090A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

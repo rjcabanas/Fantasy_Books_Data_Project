@@ -1,0 +1,15 @@
+{
+    "name": "Jan Gleiter",
+    "personal_name": "Jan Gleiter",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 02:48:19.460202"
+    },
+    "key": "/authors/OL220608A",
+    "birth_date": "1947",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 571934,
+    "revision": 2
+}

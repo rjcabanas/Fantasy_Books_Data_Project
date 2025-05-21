@@ -1,0 +1,41 @@
+{
+    "key": "/authors/OL1385427A",
+    "personal_name": "Christine Feehan",
+    "alternate_names": [
+        "Christine King Feehan",
+        "Christine Feehan",
+        "Christine Feehan (author)",
+        "CHRISTINE FEEHAN"
+    ],
+    "photos": [
+        6962014,
+        6713921
+    ],
+    "bio": "Christine King was born in California, USA. She grew up with 10 sisters and 3 brothers. She spent a lot of time getting in trouble at school for writing instead of doing the things she was supposed to do. Later she forced her ten sisters to read every word. She said: \"I've been a writer all of my life -- it is who I am. I write for myself and always have. The ability to create pictures and emotions with words is such a miracle to me. I read everything. I mean everything. All kinds of books, even encyclopedias. I am fascinated by the written word and I love storytellers. It is a great privilege to be counted one myself.\"\r\n\r\nLiving in the beautiful mountains of Lake County, she always loved hiking, camping, rafting and being outdoors. She has also been involved in the martial arts for years - she hold a third-degree black belt, instructs in a Korean karate system and has taught self defense.\r\n\r\nShe published her first novel Dark Prince in 1999, starting a paranormal saga. Her debut novel won 3 of the 9 Paranormal Excellence Awards in Romantic Literature for 1999. She also has earned 7 more PEARL awards. She has received numerous honors throughout her career including being a nominee for the RWA's RITA and receiving a Career Achievement Award from the Romantic Times.\r\n\r\nChristine is married to Richard Feehan, together they have 11 children (each had children from previous marriages), and now also numerous grandchildren. They all keep her very busy. Today, her lovely daughters read and help her edit her manuscripts.",
+    "source_records": [
+        "amazon:0349400075"
+    ],
+    "remote_ids": {
+        "viaf": "42889047",
+        "goodreads": "6268",
+        "storygraph": "03cbb2e4-6f32-405e-8ec3-a5df1f0fefb3",
+        "amazon": "B001H6QA46",
+        "isni": "0000000115683295",
+        "wikidata": "Q537141",
+        "librarything": "feehanchristine"
+    },
+    "name": "Christine Feehan",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-15T22:59:07.423299"
+    }
+}

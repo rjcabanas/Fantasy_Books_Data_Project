@@ -1,0 +1,18 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Victoria Lee",
+    "key": "/authors/OL6273766A",
+    "name": "Victoria Lee",
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T14:43:04.774238"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-07T00:14:37.119750"
+    }
+}

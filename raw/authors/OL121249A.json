@@ -1,0 +1,39 @@
+{
+    "source_records": [
+        "bwb:9781299555921",
+        "promise:bwb_daily_pallets_2022-10-27",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2020-12-04"
+    ],
+    "name": "Eric Linklater",
+    "remote_ids": {
+        "viaf": "44337081",
+        "wikidata": "Q919835",
+        "isni": "0000000111883476"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Linklater, Eric, 1899-1974.",
+        "Eric LINKLATER",
+        "Eric, Linklater",
+        "E. Linklater",
+        "Eric Linklater:",
+        "ERIC LINKLATER"
+    ],
+    "birth_date": "1899",
+    "personal_name": "Eric Linklater",
+    "key": "/authors/OL121249A",
+    "death_date": "1974",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-29T08:55:36.330879"
+    }
+}

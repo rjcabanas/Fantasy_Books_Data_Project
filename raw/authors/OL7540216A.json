@@ -1,0 +1,19 @@
+{
+    "name": "Cliff, Tony (Comic book author)",
+    "personal_name": "Cliff, Tony",
+    "title": "(Comic book author)",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T09:58:29.238441"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T09:58:29.238441"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7540216A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

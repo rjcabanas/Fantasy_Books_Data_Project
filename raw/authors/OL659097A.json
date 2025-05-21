@@ -1,0 +1,27 @@
+{
+    "alternate_names": [
+        "small-charlie",
+        "Charlie Small"
+    ],
+    "source_records": [
+        "promise:bwb_daily_pallets_2021-04-14",
+        "ia:elreydelasmarion0000smal"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Nick Ward",
+    "birth_date": "1955",
+    "personal_name": "Ward, Nick",
+    "key": "/authors/OL659097A",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-12-17T02:12:45.965398"
+    }
+}

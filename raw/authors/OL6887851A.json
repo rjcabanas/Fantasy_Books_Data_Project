@@ -1,0 +1,17 @@
+{
+    "name": "Allison Pang",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-01-28T15:23:35.435791"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-01-28T15:23:35.435791"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6887851A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

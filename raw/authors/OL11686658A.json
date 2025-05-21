@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Teti\u0361ana Vynokurova-Sadychenko",
+    "personal_name": "Teti\u0361ana Vynokurova-Sadychenko",
+    "key": "/authors/OL11686658A",
+    "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.13.20150123.full.mrc:375590055:1011"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-13T16:12:55.184772"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-13T16:12:55.184772"
+    }
+}

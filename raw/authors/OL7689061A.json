@@ -1,0 +1,17 @@
+{
+    "name": "Seth Adam Smith",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-17T22:53:20.900237"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-17T22:53:20.900237"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7689061A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

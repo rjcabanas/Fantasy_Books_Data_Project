@@ -1,0 +1,19 @@
+{
+    "name": "Gaku Miyao",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T02:58:32.085896"
+    },
+    "personal_name": "Gaku Miyao",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T02:58:32.085896"
+    },
+    "key": "/authors/OL6577961A",
+    "birth_date": "1959",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33768076,
+    "revision": 1
+}

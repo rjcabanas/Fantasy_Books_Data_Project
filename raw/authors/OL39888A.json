@@ -1,0 +1,35 @@
+{
+    "photos": [
+        7277445,
+        7277444,
+        7395840
+    ],
+    "death_date": "23 March 2018",
+    "name": "Philip Kerr",
+    "key": "/authors/OL39888A",
+    "remote_ids": {
+        "wikidata": "Q556815",
+        "isni": "0000000115624869",
+        "viaf": "24671640"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "P.B. Kerr",
+        "P. B. Kerr"
+    ],
+    "birth_date": "22 February 1956",
+    "personal_name": "Philip Kerr",
+    "bio": "Philip Kerr is a British author. After gaining a master's degree in law and philosophy, Kerr worked as an advertising copywriter for Saatchi and Saatchi before becoming a full-time writer in 1989. A writer of both adult fiction and non-fiction, he is known for the Bernie Gunther series of historical thrillers set in Germany and elsewhere during the 1930s, the Second World War and the Cold War. He has also written children's books under the name P.B. Kerr, including the Children of the Lamp series.\r\n\r\nKerr has written for The Sunday Times, the Evening Standard and the New Statesman. He is married to fellow novelist Jane Thynne.\r\n\r\nSource: wikipedia",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-05-14T22:00:17.786958"
+    }
+}

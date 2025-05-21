@@ -1,0 +1,42 @@
+{
+    "bio": "Gregory Benford (Gregory Albert Benford) is an astrophysicist and science fiction author who is on the faculty of the Department of Physics and Astronomy at the University of California, Irvine.  He is also a contributing editor of Reason magazine.  Benford is best known for the Galactic Center Saga novels, a series that postulates a galaxy in which sentient organic life is in constant warfare with sentient electromechanical life.\r\n\r\nGreg was born in Mobile, Alabama.  He received his Bachelor of Science in Physics from the University of Oklahoma, followed by his Masters and then his Doctorate from the University of California, San Diego.  Having published more than 200 scientific papers, his research encompasses both theory and experiments in the fields of astrophysics and plasma physics.\r\n\r\nGreg is a two-time winner of the Nebula Award and has also won the John W. Campbell Award, the Australian Ditmar Award, the Lord Foundation Prize, and the 1990 United Nations Medal in Literature.  \r\n\r\nSource: Secular Policy Institute",
+    "personal_name": "Gregory Benford",
+    "remote_ids": {
+        "isni": "000000011443828X",
+        "wikidata": "Q358312",
+        "viaf": "51685554"
+    },
+    "photos": [
+        7398470
+    ],
+    "source_records": [
+        "bwb:9780446507493",
+        "promise:bwb_daily_pallets_2022-09-12",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2022-09-30:O8-COZ-188",
+        "bwb:9781466801844",
+        "promise:bwb_daily_pallets_2023-10-18:O9-ATG-492"
+    ],
+    "alternate_names": [
+        "Sterling Blake",
+        "Gregory Albert Benford",
+        "Gregory A. Benford",
+        "Gregory Benford"
+    ],
+    "key": "/authors/OL32471A",
+    "name": "Gregory Benford",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "January 30, 1941",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-21T14:48:16.686082"
+    }
+}

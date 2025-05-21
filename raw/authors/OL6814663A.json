@@ -1,0 +1,17 @@
+{
+    "name": "Cyrese Covelli",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T07:09:39.837342"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T07:09:39.837342"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6814663A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Jerome Emanuel",
+    "links": [
+        {
+            "url": "https://www.amazon.co.uk/l/B077Q9S1D3",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Amazon Author - Jerome Emanuel"
+        },
+        {
+            "url": "https://www.goodreads.com/author/show/16003235.Jerome_Emanuel",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "GoodReads.com - Author - Jerome Emanuel"
+        },
+        {
+            "url": "https://www.librarything.com/author/emanueljerome",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "LibraryThing - Author - Jerome Emanuel"
+        },
+        {
+            "url": "http://booklikes.com/jerome-emanuel/author,5051180/books",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "BookLikes - Author - Jerome Emanuel"
+        },
+        {
+            "url": "https://toppsta.com/authors/profile/jerome-emanuel",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Toppsta - Author - Jerome Emanuel"
+        }
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-18T22:47:07.052944"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-02-17T16:08:54.289388"
+    },
+    "latest_revision": 8,
+    "key": "/authors/OL7352457A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 8
+}

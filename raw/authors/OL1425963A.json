@@ -1,0 +1,40 @@
+{
+    "remote_ids": {
+        "wikidata": "Q93620",
+        "isni": "0000000117624328",
+        "viaf": "49468743"
+    },
+    "photos": [
+        6957121
+    ],
+    "key": "/authors/OL1425963A",
+    "personal_name": "Christopher Paolini",
+    "birth_date": "1983",
+    "source_records": [
+        "amazon:1529046521"
+    ],
+    "name": "Christopher Paolini",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Christopher_Paolini",
+            "title": "Wikipedia",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": "American author",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-01-15T01:20:14.786432"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "personal_name": "Neal Shusterman",
+    "key": "/authors/OL234454A",
+    "source_records": [
+        "amazon:140639212X",
+        "amazon:6050321825",
+        "amazon:6050321418",
+        "amazon:9124136417"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Neal Shusterman",
+    "remote_ids": {
+        "isni": "0000000119442691",
+        "viaf": "4001399",
+        "wikidata": "Q6984190"
+    },
+    "alternate_names": [
+        "Neal SHUSTERMAN",
+        "Scythe By Neal Shusterman",
+        "Michelle Knowlden Neal Shusterman",
+        "Shusterman  Neal &"
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-27T16:24:11.783343"
+    }
+}

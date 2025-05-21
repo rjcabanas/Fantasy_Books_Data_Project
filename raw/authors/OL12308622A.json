@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Andr Nusselder",
+    "key": "/authors/OL12308622A",
+    "source_records": [
+        "bwb:9781283642378"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T03:40:37.753427"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T03:40:37.753427"
+    }
+}

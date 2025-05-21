@@ -1,0 +1,23 @@
+{
+    "name": "Samantha Hunt",
+    "personal_name": "Samantha Hunt",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:25:10.788594"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1389681A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "84285165",
+        "wikidata": "Q16213564",
+        "isni": "0000000109939645"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Foz Meadows",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2017-08-26T12:39:29.737064"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-08-26T12:39:29.737064"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7397881A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

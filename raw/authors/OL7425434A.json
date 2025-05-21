@@ -1,0 +1,19 @@
+{
+    "name": "Angela J. Townsend",
+    "personal_name": "Angela J. Townsend",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-11-08T07:56:29.791726"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-11-08T07:56:29.791726"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7425434A",
+    "birth_date": "1969",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

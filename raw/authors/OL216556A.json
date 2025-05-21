@@ -1,0 +1,46 @@
+{
+    "name": "Robert Anton Wilson",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "https://theanarchistlibrary.org/library/peter-lamborn-wilson-liquor-and-weed-for-him-were-bardic-fuel-peter-lamborn-wilson-s-obituary-f",
+            "title": "Hakim Bey -  Obituary for Bob",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "birth_date": "18. Januar 1932",
+    "key": "/authors/OL216556A",
+    "alternate_names": [
+        "Bob Wilson",
+        "Bob"
+    ],
+    "source_records": [
+        "bwb:9781952746185",
+        "amazon:8494870793"
+    ],
+    "remote_ids": {
+        "wikidata": "Q314215",
+        "isni": "0000000114629414",
+        "viaf": "101747597"
+    },
+    "photos": [
+        6882717
+    ],
+    "bio": "Robert Anton Wilson (born Robert Edward Wilson; January 18, 1932 \u2013 January 11, 2007) was an American author, novelist, essayist, editor, playwright, poet, futurist, and self-described agnostic mystic. Recognized by Discordianism as an Episkopos, Pope, and saint, Wilson helped publicize the group through his writings and interviews.\r\n\r\nWilson described his work as an \"attempt to break down conditioned associations, to look at the world in a new way, with many models recognized as models or maps, and no one model elevated to the truth\".[1] His goal being \"to try to get people into a state of generalized agnosticism, not agnosticism about God alone but agnosticism about everything.\"[2]\r\n\r\nWilson was a major figure in the counterculture, comparable to one of his coauthors, Timothy Leary, as well as Terence McKenna and others.[3]",
+    "death_date": "11. Januar 2007",
+    "personal_name": "Robert Anton Wilson",
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-17T20:31:40.190063"
+    }
+}

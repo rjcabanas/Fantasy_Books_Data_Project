@@ -1,0 +1,33 @@
+{
+    "name": "\u9ad8\u7530 \u88d5\u4e09",
+    "key": "/authors/OL2978398A",
+    "personal_name": "Y\u016bz\u014d Takada",
+    "alternate_names": [
+        "Yuzo Takada",
+        "Takada Yuzo",
+        "Yu Zo Takada",
+        "Yu zo . Takada",
+        "Y\u016bz\u014d Takada",
+        "Takada Y\u016bz\u014d",
+        "\u9ad8\u7530\u88d5\u6b21",
+        "Y\u016bji Takada"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Yuzo Takada is the pseudonym of Y\u016bji Takada, a popular Japanese manga artist."
+    },
+    "birth_date": "1963",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-04T18:41:44.220618"
+    }
+}

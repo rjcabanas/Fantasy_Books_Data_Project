@@ -1,0 +1,45 @@
+{
+    "name": "Joseph Jacobs",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Joseph_Jacobs",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia (English)"
+        },
+        {
+            "url": "http://de.wikipedia.org/wiki/Joseph_Jacobs",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia (Deutsch)"
+        }
+    ],
+    "personal_name": "Joseph Jacobs",
+    "death_date": "30 January 1916",
+    "alternate_names": [
+        "Jacobs, Joseph",
+        "Jacobs. Joseph"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T13:25:10.099854"
+    },
+    "latest_revision": 6,
+    "key": "/authors/OL2532352A",
+    "birth_date": "29 August 1854",
+    "revision": 6,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "44316214",
+        "wikidata": "Q981949",
+        "isni": "0000000108927466"
+    }
+}

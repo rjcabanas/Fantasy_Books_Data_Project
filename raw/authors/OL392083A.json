@@ -1,0 +1,15 @@
+{
+    "name": "Kim Johnson",
+    "personal_name": "Kim Johnson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-02 14:11:37.227905"
+    },
+    "key": "/authors/OL392083A",
+    "birth_date": "1955",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1069502,
+    "revision": 2
+}

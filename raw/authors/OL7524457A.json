@@ -1,0 +1,60 @@
+{
+    "name": "\u5ddd\u53e3\u4fca\u548c",
+    "personal_name": "Toshikazu Kawaguchi",
+    "key": "/authors/OL7524457A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "3 April 1971",
+    "alternate_names": [
+        "\u5ddd\u53e3, \u4fca\u548c",
+        "Toshikazu Kawaguchi",
+        "Kawaguchi, Toshikazu",
+        "\uac00\uc640\uad6c\uce58 \ub3c4\uc2dc\uce74\uc988"
+    ],
+    "remote_ids": {
+        "viaf": "81145304369878570304",
+        "isni": "0000000458308294",
+        "gnd": "1171267835",
+        "lc_naf": "no2018031588",
+        "youtube": "channel/UC5OPpehVjJxDs_cEZ3_qvhw",
+        "wikidata": "Q107585585",
+        "inventaire": "wd:Q107585585",
+        "amazon": "B07YB6PKSH",
+        "imdb": "nm9788960",
+        "librarything": "kawaguchitoshikazu",
+        "storygraph": "8f0790e0-2610-4a08-aa8e-a0b389d0ce9a",
+        "goodreads": "16836980"
+    },
+    "links": [
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/k/toshikazu-kawaguchi/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?296801",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14854095,
+        14854094,
+        14854093
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T23:02:10.785846"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-23T02:44:31.532754"
+    }
+}

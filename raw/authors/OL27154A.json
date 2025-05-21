@@ -1,0 +1,25 @@
+{
+    "name": "Antonia Barber",
+    "key": "/authors/OL27154A",
+    "personal_name": "Antonia Barber",
+    "birth_date": "1932",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "112880074",
+        "isni": "0000000109368440",
+        "wikidata": "Q4776225"
+    },
+    "death_date": "2019",
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-13T14:10:55.915781"
+    }
+}

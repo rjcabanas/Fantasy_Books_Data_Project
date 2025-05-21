@@ -1,0 +1,17 @@
+{
+    "name": "C.C Finlay",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T22:47:54.188983"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T22:47:54.188983"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6817410A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

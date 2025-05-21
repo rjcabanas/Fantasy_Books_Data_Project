@@ -1,0 +1,35 @@
+{
+    "name": "Walt Disney Productions",
+    "alternate_names": [
+        "Walt Disney Productions.",
+        "Walt disney productions",
+        "Disney (Walt) Productions.",
+        "Walt Disney Productions Staff",
+        "Disney (Walt) Productions",
+        "[Disney (Walt) Productions, Ltd.]",
+        "Walt Disney productions.",
+        "Disney (Walt) Productions.",
+        "Walt Productions Sta Disney"
+    ],
+    "key": "/authors/OL161317A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14434139
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Walt Disney Productions (previously known as Disney Brothers Cartoon Studio and Walt Disney Studio) was an entertainment company and animation studio founded by Walt and Roy Disney.\r\n\r\nWalt Disney Productions served as the top governance for all Disney-related operations until the mid-1980s, when a number of decisions were made that resulted in a massive restructure of the company. Disney's top governance became The Walt Disney Company while its feature animation studio became Walt Disney Feature Animation (later Walt Disney Animation Studios)."
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-11T18:35:50.722177"
+    }
+}

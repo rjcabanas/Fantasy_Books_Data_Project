@@ -1,0 +1,36 @@
+{
+    "name": "Michael Bedard",
+    "bio": {
+        "type": "/type/text",
+        "value": "Michael Bedard grew up in a busy household in Windsor, Ontario, Canada. His first experience with writing came in high school when a teacher introduced him to poets such as William Blake, John Keats, T. S. Eliot, and Emily Dickinson, and he soon determined to become a writer himself. Studying both English and philosophy at the University of Toronto, Bedard graduated in 1971 and took a job in a university library. He also married and started a family. While working as a pressman for a small print shop, he found a publisher for his first two original fairy tale collections for children, Woodsedge and Other Tales and Pipe and Pearls.\r\n\r\nFrom the outset, Bedard followed a challenging path as a writer. In both his early collections he made few concessions to young readers in terms of language. Although some reviewers complained, this adult tone is a quality Bedard has maintained throughout his fiction."
+    },
+    "personal_name": "Michael Bedard",
+    "photos": [
+        3369395
+    ],
+    "location": "Toronto, Canada",
+    "birth_date": "1949",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "https://www.michaelbedard.typepad.com",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL242867A",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-22T23:10:47.830271"
+    }
+}

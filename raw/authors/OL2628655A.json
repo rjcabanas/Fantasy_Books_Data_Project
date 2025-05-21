@@ -1,0 +1,38 @@
+{
+    "birth_date": "1950",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Stephen R. Lawhead",
+    "source_records": [
+        "amazon:1433255030",
+        "ia:lenoeudsansfinro0000lawh",
+        "bwb:9780849936821",
+        "amazon:8448036301",
+        "promise:bwb_daily_pallets_2023-05-24:KG-919-174",
+        "promise:bwb_daily_pallets_2022-05-23:KQ-727-544"
+    ],
+    "personal_name": "Stephen Lawhead",
+    "alternate_names": [
+        "Stephen Lawhead",
+        "STEPHEN R. LAWHEAD",
+        "Stephen R Lawhead",
+        "Steve Lawhead",
+        "Stephen Lawhead:",
+        "Stephen RDe Lawhead",
+        "STEPHEN LAWHEAD",
+        "Steve R. Lawhead",
+        "S Lawhead"
+    ],
+    "key": "/authors/OL2628655A",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-19T14:39:25.780143"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "key": "/authors/OL1427604A",
+    "name": "Django Wexler",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Django Wexler",
+    "photos": [
+        14852205
+    ],
+    "remote_ids": {
+        "amazon": "B004N2RGN0",
+        "goodreads": "639491",
+        "isni": "0000000110906218",
+        "gnd": "1049864999",
+        "lc_naf": "n2005041275",
+        "librarything": "wexlerdjango",
+        "storygraph": "77f49ebe-6744-4e35-82fd-00df4b1bee59",
+        "viaf": "143635253",
+        "wikidata": "Q48814437",
+        "inventaire": "wd:Q48814437"
+    },
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://djangowexler.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Blog",
+            "url": "https://djangowexler.com/blog",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/w/django-wexler/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?33630",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-14T22:04:23.976173"
+    }
+}

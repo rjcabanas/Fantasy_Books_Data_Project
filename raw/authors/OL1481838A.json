@@ -1,0 +1,19 @@
+{
+    "name": "Leo Madigan",
+    "personal_name": "Leo Madigan",
+    "photos": [
+        5615569
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-12T12:23:21.335434"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL1481838A",
+    "birth_date": "1939",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 5057684,
+    "revision": 3
+}

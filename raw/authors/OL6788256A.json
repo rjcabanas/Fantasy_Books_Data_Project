@@ -1,0 +1,18 @@
+{
+    "name": "Tracey O'hara",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T05:01:11.645596"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T05:01:11.645596"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6788256A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 49261476,
+    "revision": 1
+}

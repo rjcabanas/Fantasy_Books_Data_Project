@@ -1,0 +1,17 @@
+{
+    "name": "Darab Lawyer",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T20:36:03.090795"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T20:36:03.090795"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7346430A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

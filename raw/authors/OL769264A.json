@@ -1,0 +1,31 @@
+{
+    "name": "Ellen Raskin",
+    "personal_name": "Ellen Raskin",
+    "death_date": "1984",
+    "alternate_names": [
+        "Ellen. Raskin"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        8061159
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:14:54.543206"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL769264A",
+    "birth_date": "1928",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "13605190",
+        "wikidata": "Q5364985",
+        "isni": "0000000109559730"
+    }
+}

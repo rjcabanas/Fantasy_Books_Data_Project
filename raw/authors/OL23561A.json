@@ -1,0 +1,56 @@
+{
+    "photos": [
+        6671516
+    ],
+    "remote_ids": {
+        "viaf": "110244457",
+        "wikidata": "Q245407",
+        "isni": "0000000109343577"
+    },
+    "source_records": [
+        "amazon:9876278541",
+        "amazon:9501520560",
+        "promise:bwb_daily_pallets_2021-04-01",
+        "promise:bwb_daily_pallets_2023-01-26:W8-AAO-601",
+        "promise:bwb_daily_pallets_2022-11-30:O8-BRY-446",
+        "promise:bwb_daily_pallets_2022-11-04:O8-DAF-635"
+    ],
+    "key": "/authors/OL23561A",
+    "personal_name": "Richard Bach",
+    "name": "Richard Bach",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "title": "Wikipedia Article",
+            "url": "http://en.wikipedia.org/wiki/Richard_Bach",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "birth_date": "23 June 1936",
+    "bio": {
+        "type": "/type/text",
+        "value": "Richard David Bach is an American writer. He has written numerous works of fiction and also non-fiction flight-related titles. His works include *Jonathan Livingston Seagull* (1970) and *Illusions: The Adventures of a Reluctant Messiah* (1977), both of which were among the 1970's biggest sellers.\r\n\r\nMost of Bach's books have been semi-autobiographical, using actual or fictionalized events from his life to illustrate his philosophy. His books espouse his philosophy that our apparent physical limits and mortality are merely appearance. Bach is noted for his love of aviation and for his books related to flying in a metaphorical context.\r\n\r\nSource: [Wikipedia](https://en.wikipedia.org/wiki/Richard_Bach)"
+    },
+    "alternate_names": [
+        "Richard Bach",
+        "Bach  Richard",
+        "RICHARD BACH",
+        "BACH,RICHARD",
+        "Bach,Richard",
+        "Bach Richard."
+    ],
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-02T18:43:53.335681"
+    }
+}

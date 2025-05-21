@@ -1,0 +1,33 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Kate Elliott is a pseudonym of Alis A. Rasmussen, an American fantasy and science fiction writer."
+    },
+    "birth_date": "July 27, 1958",
+    "alternate_names": [
+        "Alis A. Rasmussen",
+        "Kate Elliott",
+        "Alysse Lemery",
+        "Kate. Elliott"
+    ],
+    "photos": [
+        7416958,
+        7416957
+    ],
+    "key": "/authors/OL67834A",
+    "name": "Kate Elliott",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Kate Elliott",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T15:43:06.756856"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Catherine Asaro",
+    "personal_name": "Catherine Asaro",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Catherine Asard",
+        "Asaro, Catherine"
+    ],
+    "photos": [
+        7254128
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:53:13.008738"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL39651A",
+    "birth_date": "6 November 1955",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "34681614",
+        "wikidata": "Q260054",
+        "isni": "0000000115667498"
+    }
+}

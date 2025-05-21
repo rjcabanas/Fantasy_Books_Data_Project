@@ -1,0 +1,17 @@
+{
+    "name": "Warren Wucinich",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T08:22:33.361316"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T08:22:33.361316"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7315717A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

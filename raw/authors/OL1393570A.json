@@ -1,0 +1,31 @@
+{
+    "key": "/authors/OL1393570A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Clare B. Dunkle spent her youth in Texas; she was born in Buckalew, raised in Denton, and attended Trinity University in San Antonio. After graduating with a B.A. in Russian with a minor in Latin, she attended Indiana University, earning a M.A. in Library Science. She returned to San Antonio with her husband and earned tenure as a university monographs cataloger at her alma mater, Trinity University, only leaving when it was time to homeschool her daughters. Later, her family spent over ten years in Germany before returning to the United States. \r\n\r\nShe wrote her first four books as a way to connect with her daughters while they were attending boarding school."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-23T00:41:52.956196"
+    },
+    "latest_revision": 3,
+    "name": "Clare B. Dunkle",
+    "links": [
+        {
+            "url": "http://www.claredunkle.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's webpage"
+        }
+    ],
+    "personal_name": "Clare B. Dunkle",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

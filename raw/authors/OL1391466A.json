@@ -1,0 +1,14 @@
+{
+    "name": "John Meaney",
+    "personal_name": "John Meaney",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 15:35:43.869402"
+    },
+    "key": "/authors/OL1391466A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 4690866,
+    "revision": 2
+}

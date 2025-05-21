@@ -1,0 +1,17 @@
+{
+    "name": "Barbara Campbell",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T00:30:23.316205"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T00:30:23.316205"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6812162A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

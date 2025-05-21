@@ -1,0 +1,21 @@
+{
+    "personal_name": "David R. Collins",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "David R. Collins",
+    "key": "/authors/OL19425A",
+    "alternate_names": [
+        "David. R. Collins"
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-02-23T20:56:36.267294"
+    }
+}

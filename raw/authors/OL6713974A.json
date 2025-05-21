@@ -1,0 +1,20 @@
+{
+    "name": "Paul Crilley",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-08-05T09:10:45.530526"
+    },
+    "personal_name": "Paul Crilley",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-08-05T09:10:45.530526"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6713974A",
+    "birth_date": "1975",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 34563819,
+    "revision": 1
+}

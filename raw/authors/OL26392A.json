@@ -1,0 +1,94 @@
+{
+    "remote_ids": {
+        "viaf": "29667906",
+        "isni": "0000000109623747",
+        "wikidata": "Q260730"
+    },
+    "source_records": [
+        "bwb:9781801300858",
+        "bwb:9780545388665",
+        "amazon:1443187186",
+        "amazon:0545424151",
+        "amazon:1534700773",
+        "amazon:2747065871",
+        "amazon:0063211491",
+        "amazon:2070527972",
+        "amazon:0330348582",
+        "bwb:9781956286083",
+        "bwb:9780439995030",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "amazon:9752102999",
+        "amazon:0439985714",
+        "promise:bwb_daily_pallets_2020-12-04",
+        "promise:bwb_daily_pallets_2020-11-13",
+        "promise:bwb_daily_pallets_2020-07-07",
+        "bwb:9781250811608",
+        "promise:bwb_daily_pallets_2020-11-25",
+        "amazon:8424658345",
+        "promise:bwb_daily_pallets_2023-05-24:KL-434-925",
+        "amazon:0061148881",
+        "bwb:9781801301428",
+        "bwb:9786075574998",
+        "promise:bwb_daily_pallets_2023-09-25:W8-AUQ-514",
+        "promise:bwb_daily_pallets_2023-12-30:P9-BEN-356",
+        "amazon:987747378X",
+        "bwb:9780063221147",
+        "bwb:9781338796247"
+    ],
+    "key": "/authors/OL26392A",
+    "alternate_names": [
+        "K. A. Applegate",
+        "Katherine Alice Applegate",
+        "Katherine A. Applegate",
+        "Katherine Kendall (pseud.)",
+        "Pat Pollari (pseud.)",
+        "A.R. Plumb (pseud.)",
+        "Beth Kincaid (pseud.)",
+        "Nicholas Stephens (pseud.)",
+        "L.E. Blair (pseud.)",
+        "K.A. Applegate",
+        "KATHERINE APPLEGATE",
+        "K. a. Applegate",
+        "K A Applegate",
+        "Katherine Applegate",
+        "K A APPLEGATE",
+        "K.A Applegate"
+    ],
+    "personal_name": "Katherine Applegate",
+    "photos": [
+        7356068,
+        7356067
+    ],
+    "name": "Katherine Applegate",
+    "links": [
+        {
+            "title": "Goodreads",
+            "url": "www.goodreads.com/author/show/1036736.Katherine_Applegate",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "katherineapplegate.com",
+            "url": "https://katherineapplegate.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "birth_date": "1956-10-09",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Katherine Alice Applegate is an American writer, best known as the author of the Animorphs, Remnants, Everworld and other book series. She won the 2013 Newbery Medal for her children's novel The One and Only Ivan. Applegate's most popular books are science fiction, fantasy, and adventure novels. She won the Best New Children's Book Series Award in 1997 in Publishers Weekly. Her book Home of the Brave has won two awards. - [wikipedia](https://en.wikipedia.org/wiki/Katherine_Applegate)",
+    "latest_revision": 23,
+    "revision": 23,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-21T13:14:00.339803"
+    }
+}

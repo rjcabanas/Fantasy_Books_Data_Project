@@ -1,0 +1,21 @@
+{
+    "name": "Todd McFarlane",
+    "personal_name": "Todd McFarlane",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Todd McFarlance"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-11-17T19:31:52.336854"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL735902A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

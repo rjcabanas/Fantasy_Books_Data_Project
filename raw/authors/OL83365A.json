@@ -1,0 +1,80 @@
+{
+    "source_records": [
+        "amazon:2747009726",
+        "bwb:9781909489141",
+        "bwb:9781782692034",
+        "ia:coeurdencre0000funk",
+        "bwb:9781782693314",
+        "amazon:538903211X",
+        "amazon:031612706X",
+        "amazon:389592931X",
+        "promise:bwb_daily_pallets_2023-07-20:KS-634-332",
+        "promise:bwb_daily_pallets_2023-08-22:O9-AFI-517"
+    ],
+    "title": "(Funke, Cornelia Caroline)",
+    "photos": [
+        12539099,
+        6677300
+    ],
+    "alternate_names": [
+        "Cornelia Maria Funke",
+        "Feng Ke",
+        "\u0643\u0648\u0631\u0646\u064a\u0644\u064a\u0627 \u0641\u0648\u0646\u0643\u0647",
+        "Cornelia Funkeov\u00e1",
+        "\u30b3\u30eb\u30cd\u30fc\u30ea\u30a2\u30fb\u30d5\u30f3\u30b1",
+        "Cornella Funke",
+        "Cornell Funke",
+        "Cornlia Funke",
+        "C. Funke",
+        "Editor: Cornelia Funke",
+        "Cornelia Caroline Funke",
+        "Funke Cornelia",
+        "Funke Korneliia",
+        "Funke,cornelia",
+        "Cornelia Funke",
+        "CORNELIA FUNKE"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Cornelia Funke",
+    "birth_date": "10. Dezember 1958",
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cornelia_Funke",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://corneliafunke.com/",
+            "title": "Author's homepage",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL83365A",
+    "bio": "Cornelia Maria Funke is a German author of children's fiction. \r\n\r\nOften referred to as the \"German J. K. Rowling\", Funke was chosen by Time as one of the 100 most influential people in the world in their 2005 list.\r\n\r\n**Source**: [Cornelia Funke](https://en.wikipedia.org/wiki/Cornelia_Funke) on Wikipedia",
+    "personal_name": "Cornelia Caroline Funke",
+    "remote_ids": {
+        "storygraph": "e343e830-ca77-4acd-83f7-1fcec2989dc7",
+        "amazon": "B001ILHLGQ",
+        "viaf": "102395980",
+        "librarything": "funkecornelia",
+        "goodreads": "15873",
+        "wikidata": "Q57971",
+        "isni": "0000000121035139"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-03T11:58:13.705208"
+    }
+}

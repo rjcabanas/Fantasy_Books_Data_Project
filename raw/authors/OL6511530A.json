@@ -1,0 +1,18 @@
+{
+    "name": "V. Briceland",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-12-12T12:28:49.743745"
+    },
+    "personal_name": "V. Briceland",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-12-12T12:28:49.743745"
+    },
+    "key": "/authors/OL6511530A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33291878,
+    "revision": 1
+}

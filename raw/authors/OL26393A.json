@@ -1,0 +1,27 @@
+{
+    "photos": [
+        11293651
+    ],
+    "remote_ids": {
+        "isni": "0000000116290151",
+        "viaf": "42130221",
+        "wikidata": "Q449542"
+    },
+    "key": "/authors/OL26393A",
+    "personal_name": "Elizabeth Haydon",
+    "name": "Elizabeth Haydon",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1965",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-06-02T20:15:19.639285"
+    }
+}

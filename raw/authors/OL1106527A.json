@@ -1,0 +1,14 @@
+{
+    "name": "Jane Patience",
+    "personal_name": "Jane Patience",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-19 14:23:48.430768"
+    },
+    "key": "/authors/OL1106527A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 3590917,
+    "revision": 2
+}

@@ -1,0 +1,41 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Australian literary critic"
+    },
+    "name": "Peter Nicholls",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Peter_Nicholls_(writer)",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "Peter Nicholls",
+    "death_date": "06 March 2018",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        7127868
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T18:23:32.237630"
+    },
+    "latest_revision": 6,
+    "key": "/authors/OL1550696A",
+    "birth_date": "1939",
+    "revision": 6,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "88041335",
+        "wikidata": "Q7176095",
+        "isni": "0000000109225167"
+    }
+}

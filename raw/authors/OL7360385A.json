@@ -1,0 +1,17 @@
+{
+    "name": "Matthew Ewald",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-11-17T19:34:41.479006"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-11-17T19:34:41.479006"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7360385A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

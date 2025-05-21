@@ -1,0 +1,18 @@
+{
+    "name": "Devon Monk",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T05:21:49.103296"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T05:21:49.103296"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6789627A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 49265154,
+    "revision": 1
+}

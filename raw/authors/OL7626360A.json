@@ -1,0 +1,17 @@
+{
+    "name": "Irma Wilde",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-09-01T22:54:28.117655"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-09-01T22:54:28.117655"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7626360A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

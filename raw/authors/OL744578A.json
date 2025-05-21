@@ -1,0 +1,58 @@
+{
+    "bio": "Alan Burt Akers is one of the numerous pseudonyms used by Henry Kenneth Bulmer, a British author, primarily of science fiction.",
+    "birth_date": "14 January 1921",
+    "name": "Alan Burt Akers",
+    "key": "/authors/OL744578A",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Kenneth Bulmer",
+        "Alan Burt Akers",
+        "Ken Blake",
+        "H.K. Bulmer",
+        "Ernest Corley",
+        "Arthur Frazier",
+        "Peter Green",
+        "Adam Hardy",
+        "Kenneth Johns",
+        "Philip Kent",
+        "Bruno Krauss",
+        "Neil Langholm",
+        "Karl Maras",
+        "Manning Norvil",
+        "Charles R. Pike",
+        "Dray Prescot",
+        "J. Prescot",
+        "Andrew Quiller",
+        "Chesman Scot",
+        "Nelson Sherwood",
+        "Richard Silver",
+        "Tully Zetford",
+        "Alan, Burt Akers",
+        "Alan Burt [Bulmer, Kenneth] Akers",
+        "ALAN BURT AKERS",
+        "Ken Blake, H.K. Bulmer, Ernest Corley, Arthur Frazier, Peter Green, Adam Hardy, Kenneth Johns, Philip Kent, Bruno Krauss, Neil Langholm, Karl Maras, Manning Norvil, Charles R. Pike, Dray Prescot, J. Prescot, Andrew Quiller, Chesman Scot, Nelson Sherwood, Richard Silver"
+    ],
+    "death_date": "16 December 2005",
+    "personal_name": "Alan Burt Akers",
+    "photos": [
+        7427143,
+        7427142
+    ],
+    "remote_ids": {
+        "viaf": "91279601",
+        "isni": "0000000114517420",
+        "wikidata": "Q708029"
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-14T11:35:28.683491"
+    }
+}

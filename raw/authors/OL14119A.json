@@ -1,0 +1,24 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 3,
+    "name": "Suniti Namjoshi",
+    "key": "/authors/OL14119A",
+    "personal_name": "Suniti Namjoshi",
+    "birth_date": "1941",
+    "revision": 3,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:21:15.110577"
+    },
+    "remote_ids": {
+        "viaf": "116930122",
+        "wikidata": "Q7640392",
+        "isni": "0000000081859693"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:8467914416"
+    ],
+    "personal_name": "David Petersen",
+    "key": "/authors/OL5871570A",
+    "name": "David Petersen",
+    "birth_date": "1977",
+    "alternate_names": [
+        "DAVID PETERSEN"
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-25T02:13:11.693729"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-12-12T18:12:10.969503"
+    }
+}

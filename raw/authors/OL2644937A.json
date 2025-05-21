@@ -1,0 +1,76 @@
+{
+    "personal_name": "David Gemmell",
+    "alternate_names": [
+        "David Gemmell",
+        "D. Gemmell",
+        "Gemmel, David",
+        "Gemmel, D\u0117vid",
+        "Gemmell, David",
+        "Gemmell, David A.",
+        "Gemmell, David Andrew",
+        "Gemmell, D."
+    ],
+    "photos": [
+        8251817,
+        8251818
+    ],
+    "key": "/authors/OL2644937A",
+    "remote_ids": {
+        "wikidata": "Q220450",
+        "viaf": "98815750",
+        "isni": "0000000121449147",
+        "amazon": "B000AQ70T8",
+        "goodreads": "11586",
+        "gnd": "120185385",
+        "lc_naf": "n92105356",
+        "librarything": "gemmelldavid",
+        "storygraph": "f7dc05ca-da77-4d13-8931-8ddc80f274b9",
+        "inventaire": "wd:Q220450"
+    },
+    "name": "David A. Gemmell",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1 August 1948",
+    "death_date": "28 July 2006",
+    "links": [
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/g/david-a-gemmell/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?284",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/gemmell_david_a",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Website of the David Gemmell Awards (Inactive)",
+            "url": "http://www.gemmellawards.com",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-17T18:57:22.751508"
+    }
+}

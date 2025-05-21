@@ -1,0 +1,36 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Stephen Goldin",
+    "key": "/authors/OL1549542A",
+    "bio": "Stephen Charles Goldin (born February 28, 1947) is an American science fiction and fantasy author.",
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-11-30:O8-CFN-809"
+    ],
+    "birth_date": "28 February 1947",
+    "alternate_names": [
+        "STEPHEN GOLDIN",
+        "E E Smith",
+        "Stephen Goldin",
+        "Goldin, Stephen, Illustrated by Cover Art"
+    ],
+    "personal_name": "Stephen Goldin",
+    "photos": [
+        12194359
+    ],
+    "remote_ids": {
+        "viaf": "106956274",
+        "wikidata": "Q3498557"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-24T16:34:55.544216"
+    }
+}

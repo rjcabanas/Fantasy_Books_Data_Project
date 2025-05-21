@@ -1,0 +1,17 @@
+{
+    "name": "S.E. Grove",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2014-05-05T21:50:01.324719"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2014-05-05T21:50:01.324719"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7174274A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lea Nolan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T17:32:34.323550"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T17:32:34.323550"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7339456A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,32 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Born in Amberg, Bavaria, in 1914 into a military family, Baumann was a German nationalist and a devout Catholic, belonging to the Catholic nationalist organization \"New Germany\". He started writing songs and poems when he was still an adolescent (e.g. \"Macht keinen L\u00e4rm\", 1933). In 1934 he was noticed by the Hitler Youth leadership and invited to Berlin to work as a songwriter, author and journalist. In the 1930s he wrote numerous poems, ballads and songs with various themes, both political and romantic. Some of his songs, such as his famous 1932 Es zittern die morschen Knochen (\"The frail bones tremble\", especially known for the line, \"Denn heute h\u00f6rt uns Deutschland/Und morgen die ganze Welt\", in English \"For today Germany hears us/But tomorrow the whole world shall\") which became the official marching song of the Reichsarbeitsdienst in 1935, were enormously popular within the National Socialist movement, but are less known today. Others, like the ballad \"Hohe Nacht der klaren Sterne\", are still popular. The song collections Unser Trommelbube, Wir z\u00fcnden das Feuer, Der helle Tag and others date from that period. At the outset of World War II he joined the German army in 1939 and spent most of the war on the Eastern front in a propaganda unit (Propagandakompanie 501). Continuing his work as much as possible throughout the war, he wrote two collections of war poems (Briefgedichte, 1941 and Der Wandler Krieg in 1942).\r\n\r\nAfter the war and a period spent in a prisoner of war camp, he distanced himself from the policies of the National Socialist government and made a remarkable comeback as one of the most popular contemporary writers for children and teenagers. His books dealt with natural and historical themes (e.g. I Marched with Hannibal, The Sons of the Steppe, Barnabas the Dancing Bear, The Barque of the Brothers, Son of Columbus, In the Land of Ur) and won a number of international prizes, including the New York Herald Tribune prize for the best children's book in 1968. They have been compared to the novels of Rosemary Sutcliff, his earlier books described as major works: \"long complicated stories, full of difficult concepts and problems of psychology\".\r\n\r\nHis attempted strides into other literature genres were less successful as he was viewed with suspicion by the post-war German literary and political circles because of his past NS involvement. In 1962 he was at a center of a literary controversy when forced to return the prestigious Gerhard-Hauptmann Prize received in 1959 for his drama Im Zeichen der Fische (written under a pseudonym), after his real identity was revealed. Baumann was also an accomplished translator, having translated numerous books from Russian to German, including works by Dostoevsky, Tolstoy, Anna Akhmatova and others. His own work was translated into more than twenty languages. He died in Murnau am Staffelsee (Bavaria) in 1988.\r\n\r\n--Wikipedia 8/16/2014"
+    },
+    "name": "Hans Baumann",
+    "personal_name": "Hans Baumann",
+    "death_date": "1988",
+    "alternate_names": [
+        "Baumann, Hans"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T11:25:47.421189"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL252705A",
+    "birth_date": "1914",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "91249195",
+        "wikidata": "Q75805",
+        "isni": "0000000114517316"
+    }
+}

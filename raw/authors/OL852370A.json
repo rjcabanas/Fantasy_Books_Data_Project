@@ -1,0 +1,37 @@
+{
+    "name": "Kaye Umansky",
+    "alternate_names": [
+        "Kaye UMANSKY",
+        "Kaye; Umansky"
+    ],
+    "source_records": [
+        "ia:pongwiffyspellof0000uman",
+        "ia:youcanswimjim0000uman_w2h5",
+        "amazon:0340673060",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-01-13"
+    ],
+    "key": "/authors/OL852370A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Kaye Umansky is an English children's author and poet. She has written over 130 books for children and her work ranges from picture books to novels. She is best known for the Pongwiffy & Jim Series."
+    },
+    "birth_date": "1946",
+    "photos": [
+        12728079
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Kaye Umansky",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-17T17:54:09.559769"
+    }
+}

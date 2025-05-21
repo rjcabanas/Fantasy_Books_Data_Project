@@ -1,0 +1,17 @@
+{
+    "name": "Deborah A. Wolf",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-02T13:24:52.465040"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-02T13:24:52.465040"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7492103A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

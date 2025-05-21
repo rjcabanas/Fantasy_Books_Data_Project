@@ -1,0 +1,19 @@
+{
+    "name": "Isamu Fukui",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-15T19:41:31.804693"
+    },
+    "personal_name": "Isamu Fukui",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-11-15T19:41:31.804693"
+    },
+    "key": "/authors/OL6467832A",
+    "birth_date": "1990",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33081197,
+    "revision": 1
+}

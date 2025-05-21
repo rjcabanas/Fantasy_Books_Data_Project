@@ -1,0 +1,22 @@
+{
+    "birth_date": "1971",
+    "key": "/authors/OL2811105A",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Carrie Jones",
+    "name": "Carrie Jones",
+    "alternate_names": [
+        "CARRIE JONES"
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-28T10:22:06.448672"
+    }
+}

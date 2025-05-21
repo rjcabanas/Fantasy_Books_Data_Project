@@ -1,0 +1,52 @@
+{
+    "key": "/authors/OL884528A",
+    "source_records": [
+        "amazon:229804080X",
+        "bwb:9781444903195",
+        "amazon:6053046280",
+        "ia:fantom0000smit",
+        "amazon:8498248728",
+        "bwb:9781790613502",
+        "promise:bwb_daily_pallets_2021-03-30",
+        "amazon:1441820876"
+    ],
+    "name": "Lisa Jane Smith",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "100652128",
+        "isni": "0000000107983175",
+        "wikidata": "Q233424"
+    },
+    "alternate_names": [
+        "L.J. Smith",
+        "l j smith",
+        "l.J. Smith",
+        "L. J. (Lisa Jane) Smith",
+        "Lisa Jane Smith",
+        "J. Smith L.",
+        "L .J Smith",
+        "L .J. Smith",
+        "L. J Smith",
+        "Lise Jane Smith",
+        "L. J. Smith",
+        "L J Smith",
+        "Smith L. J."
+    ],
+    "birth_date": "1965",
+    "photos": [
+        7423785
+    ],
+    "personal_name": "L. J. Smith",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-04T10:16:30.741881"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Jenna Rhodes",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-01T18:06:36.196489"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-01T18:06:36.196489"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7509428A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,33 @@
+{
+    "birth_date": "3 Aug 1946",
+    "key": "/authors/OL595621A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        6396963
+    ],
+    "alternate_names": [
+        "John Dechancie"
+    ],
+    "remote_ids": {
+        "wikidata": "Q1699781",
+        "viaf": "93267149"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "John DeChancie (born August 3, 1946)  is an American science fiction author."
+    },
+    "personal_name": "John DeChancie",
+    "name": "John DeChancie",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-20T07:52:09.303517"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "remote_ids": {
+        "wikidata": "Q13434300",
+        "viaf": "59131800",
+        "isni": "0000000081379243"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "8 September 1954",
+    "photos": [
+        6685992
+    ],
+    "source_records": [
+        "ia:funnybusiness0000unse",
+        "ia:jonscieszkastruc0000scie_b3j2",
+        "amazon:075698923X",
+        "bwb:9780062017635",
+        "bwb:9781481414609"
+    ],
+    "alternate_names": [
+        "Jon Scieszeka",
+        "John Scieszka"
+    ],
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Jon_Scieszka",
+            "title": "Wikipedia",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://jonscieszka.com/",
+            "title": "Author's web page",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "name": "Jon Scieszka",
+    "personal_name": "Jon Scieszka",
+    "key": "/authors/OL25111A",
+    "bio": "Jon Scieszka was born in Flint, Michigan, the second oldest of six sons born to Shirly Scieszka, a Registered Nurse, and Louis Scieszka, an elementary school principal. He attended Culver Military Academy in Indiana and graduated in three years. He then studied both English and science at Albion College, and in 1976 he received a B.A. in writing. He went on to Columbia University's writing program, and in 1980 he received a Master of Fine Arts degree.\r\n\r\nAfter graduating, Scieszka held several jobs, including teaching elementary school, writing for magazines, painting apartments, working as a carpenter, and being a lifeguard. In 1989, he published his first book, [The True Story of the Three Little Pigs][1]. He currently lives in Park Slope, Brooklyn with his wife and children.\r\n\r\n\r\n  [1]: /works/OL39550W",
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-20T21:47:13.636128"
+    }
+}

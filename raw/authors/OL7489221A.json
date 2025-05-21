@@ -1,0 +1,17 @@
+{
+    "name": "Jennifer Blecher",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-28T09:42:17.020222"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-28T09:42:17.020222"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7489221A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

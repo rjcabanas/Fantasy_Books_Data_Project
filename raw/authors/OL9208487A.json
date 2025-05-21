@@ -1,0 +1,17 @@
+{
+    "name": "Eleanor Ehrhardt",
+    "key": "/authors/OL9208487A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-05-11T19:49:01.258583"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-05-11T19:49:01.258583"
+    }
+}

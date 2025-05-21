@@ -1,0 +1,43 @@
+{
+    "name": "Steven Arntson",
+    "links": [
+        {
+            "url": "http://www.kirkusreviews.com/book-reviews/steven-arntson/wikkeling/#review",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Kirkus review"
+        },
+        {
+            "url": "http://booklistonline.com/ProductInfo.aspx?pid=4643496&AspxAutoDetectCookieSupport=1",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Booklist review"
+        },
+        {
+            "url": "http://www.stevenarntson.info",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's website"
+        }
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-11-13T21:30:24.397033"
+    },
+    "photos": [
+        6965188
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-11-13T21:40:37.490271"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL7036543A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

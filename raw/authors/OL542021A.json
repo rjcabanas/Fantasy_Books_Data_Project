@@ -1,0 +1,42 @@
+{
+    "personal_name": "Douglas Arthur Hill",
+    "death_date": "2007",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Martin Hillman"
+    ],
+    "key": "/authors/OL542021A",
+    "photos": [
+        10703511,
+        -1
+    ],
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Douglas_Hill",
+            "title": "Wikipedia page",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": "Douglas Arthur Hill was a science fiction author, editor and reviewer.\r\n\r\nHall was born in Brandon, Manitoba, and raised in Prince Albert, Saskatchewan. He was a science fiction fan from an early age. He received his B.A. in English from the University of Saskatchewan. In 1959, he moved to Britain, where he worked as a freelance writer and editor for Aldus Books.\r\n\r\nHall wrote many books on history, science, and folklore before turning to write fiction full-time in 1978. He edited anthologies under the pseudonym \"Martin Hillman.\"",
+    "remote_ids": {
+        "viaf": "102014804",
+        "wikidata": "Q5301602",
+        "isni": "000000011354438X"
+    },
+    "name": "Douglas Hill",
+    "birth_date": "1935",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-15T09:27:19.759465"
+    }
+}

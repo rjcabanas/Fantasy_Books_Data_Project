@@ -1,0 +1,17 @@
+{
+    "name": "Natasha Ngan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-17T14:54:57.760365"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-17T14:54:57.760365"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7591104A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

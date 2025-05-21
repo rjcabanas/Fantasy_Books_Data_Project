@@ -1,0 +1,17 @@
+{
+    "name": "Jayra Almanzor",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-11-17T20:02:58.142966"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-11-17T20:02:58.142966"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7360391A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

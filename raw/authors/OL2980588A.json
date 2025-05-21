@@ -1,0 +1,36 @@
+{
+    "name": "\u8352\u5ddd \u5f18",
+    "personal_name": "Hiromu Arakawa",
+    "remote_ids": {
+        "isni": "0000000109145191",
+        "viaf": "71672955",
+        "wikidata": "Q230962"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Hiromu Arakawa",
+        "Arakawa Hiromu",
+        "\u0425\u0456\u0440\u043e\u043c\u0443 \u0410\u0440\u0430\u043a\u0430\u0432\u0430"
+    ],
+    "key": "/authors/OL2980588A",
+    "birth_date": "1973",
+    "source_records": [
+        "amazon:8467911808",
+        "amazon:2351421477",
+        "promise:bwb_daily_pallets_2021-03-02",
+        "amazon:8467913177",
+        "amazon:8467925671"
+    ],
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-25T23:27:45.031190"
+    }
+}

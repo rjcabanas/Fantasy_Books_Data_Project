@@ -1,0 +1,17 @@
+{
+    "name": "Han Yang",
+    "key": "/authors/OL10500615A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-07-03T15:47:24.122814"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-03T15:47:24.122814"
+    }
+}

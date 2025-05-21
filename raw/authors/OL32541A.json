@@ -1,0 +1,59 @@
+{
+    "alternate_names": [
+        "BEATRIX POTTER",
+        "Beatrix. Potter",
+        "Beatrix POTTER",
+        "Beatrix] [Potter",
+        "Potter Beatrix",
+        "beatrix Potter",
+        "beatrix potter",
+        "Helen Beatrix Potter",
+        "B\u00e9atrix Potter",
+        "Potter, Beatrix",
+        "Based on Illustrations by Beatrix Potter",
+        "Based on Characters Created By Beatrix Potter",
+        "From the Original Designs by Beatrix Potter",
+        "Beatrix Beatrix Potter",
+        "\u30d3\u30a2\u30c8\u30ea\u30af\u30b9\u30fb\u30dd\u30bf\u30fc",
+        "beatrix beatrix potter"
+    ],
+    "photos": [
+        3365648
+    ],
+    "name": "Beatrix Potter",
+    "death_date": "1943",
+    "key": "/authors/OL32541A",
+    "bio": "Helen Beatrix Potter (28 July 1866 \u2013 22 December 1943) was an English writer, illustrator, natural scientist, and conservationist. She is best known for her children's books featuring animals, such as The Tale of Peter Rabbit, which was her first published work in 1902. Her books, including 23 Tales, have sold more than 250 million copies. Potter was also a pioneer of merchandising\u2014in 1903, Peter Rabbit was the first fictional character to be made into a patented stuffed toy, making him the oldest licensed character.\r\n\r\nBorn into an upper-middle-class household, Potter was educated by governesses and grew up isolated from other children. She had numerous pets and spent holidays in Scotland and the Lake District, developing a love of landscape, flora and fauna, all of which she closely observed and painted. Potter's study and watercolours of fungi led to her being widely respected in the field of mycology. In her thirties, Potter self-published the highly successful children's book The Tale of Peter Rabbit. Following this, Potter began writing and illustrating children's books full-time.\r\n\r\nPotter wrote over 60 books; the best known being her twenty-three children's tales. With the proceeds from the books and a legacy from an aunt, in 1905 Potter bought Hill Top Farm in Near Sawrey, a village in the Lake District, in the county of Cumbria (then Lancashire). Over the following decades, she purchased additional farms to preserve the unique hill country landscape. In 1913, at the age of 47, she married William Heelis, a respected local solicitor from Hawkshead. Potter was also a prize-winning breeder of Herdwick sheep and a prosperous farmer keenly interested in land preservation. She continued to write and illustrate, and to design spin-off merchandise based on her children's books for British publisher Warne until the duties of land management and her diminishing eyesight made it difficult to continue.\r\n\r\nPotter died of pneumonia and heart disease on 22 December 1943 at her home in Near Sawrey at the age of 77, leaving almost all her property to the National Trust. She is credited with preserving much of the land that now constitutes the Lake District National Park. Potter's books continue to sell throughout the world in many languages with her stories being retold in songs, films, ballet, and animations, and her life is depicted in two films and a television series.",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1866",
+    "personal_name": "Beatrix Potter",
+    "remote_ids": {
+        "viaf": "59088051",
+        "wikidata": "Q214565",
+        "isni": "0000000121348055"
+    },
+    "source_records": [
+        "bwb:9798712930029",
+        "amazon:8474446228",
+        "amazon:0241249430",
+        "bwb:9798540822343",
+        "amazon:109343208X",
+        "bwb:9798418650740",
+        "bwb:9798649619356",
+        "promise:bwb_daily_pallets_2023-08-22:KS-769-720",
+        "promise:bwb_daily_pallets_2024-08-01:KU-541-677",
+        "bwb:9781977544056"
+    ],
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-20T10:18:03.839873"
+    }
+}

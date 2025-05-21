@@ -1,0 +1,17 @@
+{
+    "name": "Jenniffer Wardell",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-19T15:51:22.126971"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-19T15:51:22.126971"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7482949A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

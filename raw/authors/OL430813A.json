@@ -1,0 +1,37 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Jeff Smith",
+    "photos": [
+        11844621
+    ],
+    "death_date": "2004",
+    "birth_date": "27 Feb 1960",
+    "key": "/authors/OL430813A",
+    "personal_name": "Smith, Jeff",
+    "remote_ids": {
+        "isni": "0000000114472779",
+        "viaf": "69039303",
+        "wikidata": "Q1335436"
+    },
+    "alternate_names": [
+        "Jeff SMITH",
+        "Smith Jeff",
+        "JEFF SMITH"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Jeff Smith (born February 27, 1960) is an American cartoonist. He is best known as the creator of the self-published comic book series *Bone*.\r\n\r\n**Source**: [Jeff Smith](https://en.wikipedia.org/wiki/Jeff_Smith_(cartoonist) on Wikipedia"
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-28T23:14:05.804046"
+    }
+}

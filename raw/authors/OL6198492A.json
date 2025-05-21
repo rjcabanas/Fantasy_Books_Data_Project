@@ -1,0 +1,19 @@
+{
+    "name": "Harvey Gallagher Cox",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T18:25:57.768160"
+    },
+    "personal_name": "Harvey Gallagher Cox",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T18:25:57.768160"
+    },
+    "key": "/authors/OL6198492A",
+    "birth_date": "1929",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 31363450,
+    "revision": 1
+}

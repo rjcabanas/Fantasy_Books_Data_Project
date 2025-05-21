@@ -1,0 +1,29 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Mary Jo Putney was born in Upstate New York, USA. She obtained degrees in eighteenth-century English Literature and Industrial Design at Syracuse University, she did various forms of design work in California and England before inertia took over in Baltimore, Maryland, where she has lived very comfortably ever since, single with her cats.\r\n\r\nAfter purchasing her first computer for her freelance graphic design business, she decided to wrote her first novel. Her first book sold quickly and was published in 1987, thereby changing her life forever, in most ways for the better. She decided become a full-time writer as soon as possible.\r\n\r\nShe has made all of the national bestseller lists including the New York Times, Wall Street Journal, USAToday, and Publishers Weekly.  Five of her books have been named among the year\u2019s top five romances by The Library Journal.  The Spiral Path and Stolen Magic were chosen as one of Top Ten romances of their years by Booklist, published by the American Library Association. A nine-time finalist for the Romance Writers of America RITA, she has won RITAs for Dancing on the Wind and The Rake and the Reformer and is on the RWA Honor Roll for bestselling authors.  She has been awarded two Romantic Times Career Achievement Awards, four NJRW Golden Leaf awards, plus the NJRW career achievement award for historical romance."
+    },
+    "personal_name": "Mary Jo Putney",
+    "alternate_names": [
+        "M. J. Putney",
+        "Marie Jo Putney"
+    ],
+    "photos": [
+        6459343
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-11-09T00:15:05.504253"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL20781A",
+    "name": "Mary Jo Putney",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

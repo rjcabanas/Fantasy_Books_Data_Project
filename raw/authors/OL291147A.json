@@ -1,0 +1,22 @@
+{
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-02-13T17:15:57.486743"
+    },
+    "latest_revision": 3,
+    "name": "Wilhelm Genazino",
+    "key": "/authors/OL291147A",
+    "personal_name": "Wilhelm Genazino",
+    "birth_date": "1943",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Wilhelm GENAZINO"
+    ],
+    "revision": 3
+}

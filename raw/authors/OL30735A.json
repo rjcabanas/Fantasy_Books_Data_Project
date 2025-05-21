@@ -1,0 +1,40 @@
+{
+    "photos": [
+        7423754
+    ],
+    "key": "/authors/OL30735A",
+    "type": {
+        "key": "/type/author"
+    },
+    "death_date": "January 27, 2015",
+    "alternate_names": [
+        "Suzette Haden Elgin",
+        "Suzette Wilkins Haden",
+        "Elgin, Suzette Haden"
+    ],
+    "remote_ids": {
+        "viaf": "108336994",
+        "wikidata": "Q2741191",
+        "isni": "0000000120188467"
+    },
+    "name": "Suzette Haden Elgin",
+    "source_records": [
+        "bwb:9781558617766"
+    ],
+    "birth_date": "November 18, 1936",
+    "bio": {
+        "type": "/type/text",
+        "value": "Suzette Haden Elgin (born Patricia Anne Wilkins) was an American science fiction author. She founded the Science Fiction Poetry Association, and is considered an important figure in the field of science fiction constructed languages. - Wikipedia"
+    },
+    "personal_name": "Suzette Haden Elgin",
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-09T05:32:20.682994"
+    }
+}

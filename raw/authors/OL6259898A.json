@@ -1,0 +1,18 @@
+{
+    "name": "F. Bloomfield",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T09:27:07.200720"
+    },
+    "personal_name": "F. Bloomfield",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T09:27:07.200720"
+    },
+    "key": "/authors/OL6259898A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 31717205,
+    "revision": 1
+}

@@ -1,0 +1,25 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Joseph \"Jeph\" Loeb III is an American film and television writer, producer and award-winning comic book writer. Loeb was a producer/writer on the TV series Smallville and Lost, writer for the films Commando and Teen Wolf, and a writer and co-executive producer on the NBC TV show Heroes from its premiere in 2006 to November 2008. In 2010, Loeb became Executive Vice President of Marvel Television.\r\n\r\nA four-time Eisner Award winner and five-time Wizard Fan Awards winner, Loeb's comic book work, which has appeared on the New York Times Best Seller list, includes work on many major characters, including Spider-Man, Batman, Superman, Hulk, Captain America, Cable, Iron Man, Daredevil, Supergirl, the Avengers, and Buffy the Vampire Slayer, much of which he has produced in collaboration with artist Tim Sale."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-05-07T02:56:12.315098"
+    },
+    "latest_revision": 4,
+    "name": "Jeph Loeb",
+    "key": "/authors/OL69125A",
+    "personal_name": "Jeph Loeb",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        7416662
+    ],
+    "revision": 4
+}

@@ -1,0 +1,37 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Scottish children's writer"
+    },
+    "name": "Theresa Breslin",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Theresa_Breslin",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "Theresa Breslin",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:56:41.054921"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL1476069A",
+    "birth_date": "1947",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "69168704",
+        "wikidata": "Q446747",
+        "isni": "0000000081491999"
+    }
+}

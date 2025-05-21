@@ -1,0 +1,63 @@
+{
+    "alternate_names": [
+        "Robert Anthony Salvatore",
+        "R Salvatore",
+        "R A Salvatore",
+        "R-A Salvatore",
+        "R.A. Salvatore",
+        "R. A Salvatore"
+    ],
+    "remote_ids": {
+        "viaf": "112374441",
+        "wikidata": "Q316431",
+        "isni": "000000008409725X"
+    },
+    "name": "R. A. Salvatore",
+    "bio": "Robert Anthony Salvatore (born January 20, 1959) is an American author best known for The DemonWars Saga; and The Legend of Drizzt, for which he created the popular character Drizzt Do'Urden; and Vector Prime, the first novel in the Star Wars: The New Jedi Order series. He has sold more than 15 million copies of his books in the United States alone and twenty-two of his titles have been New York Times best-sellers.",
+    "key": "/authors/OL35996A",
+    "title": "(Salvatore, R. A., 1959- )",
+    "photos": [
+        7252551,
+        6392319
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "20 January 1959",
+    "personal_name": "R. A. Salvatore",
+    "links": [
+        {
+            "title": "Author's Website",
+            "url": "http://www.rasalvatore.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "source_records": [
+        "amazon:1536638900",
+        "ia:mushiwubuqu0000saer",
+        "amazon:6053757063",
+        "bwb:9780062688620",
+        "promise:bwb_daily_pallets_2022-12-12",
+        "promise:bwb_daily_pallets_2023-02-02:P8-CHF-895",
+        "promise:bwb_daily_pallets_2022-08-29:KR-226-147",
+        "amazon:975273085X",
+        "promise:bwb_daily_pallets_2021-03-03",
+        "amazon:8834411986",
+        "amazon:1504080580",
+        "promise:bwb_daily_pallets_2023-03-22:KS-204-512",
+        "promise:bwb_daily_pallets_2023-07-18:W8-APJ-719",
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:139411934:758"
+    ],
+    "latest_revision": 18,
+    "revision": 18,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-21T20:28:48.042732"
+    }
+}

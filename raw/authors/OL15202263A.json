@@ -1,0 +1,17 @@
+{
+    "name": "F\u00e9lix Sorgate",
+    "key": "/authors/OL15202263A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-13T15:48:01.013331"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-13T15:48:01.013331"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Lara Bergen",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-04T22:23:12.520500"
+    },
+    "personal_name": "Lara Bergen",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-04T22:23:12.520500"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6809987A",
+    "birth_date": "1955",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

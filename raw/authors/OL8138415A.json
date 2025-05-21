@@ -1,0 +1,17 @@
+{
+    "name": "Chris Willrich",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-15T13:49:49.530776"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-15T13:49:49.530776"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8138415A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

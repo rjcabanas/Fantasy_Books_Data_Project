@@ -1,0 +1,17 @@
+{
+    "name": "Andrew S. Chilton",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2017-10-17T14:18:34.630615"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-10-17T14:18:34.630615"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7401343A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

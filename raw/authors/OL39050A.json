@@ -1,0 +1,29 @@
+{
+    "key": "/authors/OL39050A",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "bwb:9781442422872"
+    ],
+    "name": "Henry Cole",
+    "birth_date": "1955",
+    "personal_name": "Cole, Henry",
+    "photos": [
+        12713476
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Henry Cole is an American author and illustrator of children's books. He has illustrated several books for many authors including Julie Andrews Edwards, Lester Laminack, Erica Perl, Margie Palatini, Alyssa Capucilli, Harvey Fierstein, and Pamela Duncan."
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T14:31:49.191255"
+    }
+}

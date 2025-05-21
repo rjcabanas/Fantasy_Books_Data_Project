@@ -1,0 +1,26 @@
+{
+    "photos": [
+        7284832
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:09:20.964543"
+    },
+    "latest_revision": 4,
+    "name": "Robin Benway",
+    "key": "/authors/OL3906845A",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+    },
+    "birth_date": "1978",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "284625636",
+        "wikidata": "Q3814933",
+        "isni": "0000000116152998"
+    }
+}

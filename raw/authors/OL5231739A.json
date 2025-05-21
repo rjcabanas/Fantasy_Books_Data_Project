@@ -1,0 +1,19 @@
+{
+    "name": "Jack Thorne",
+    "personal_name": "Jack Thorne",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-27T23:48:08.656802"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-11-07T17:56:21.052261"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL5231739A",
+    "birth_date": "1978",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

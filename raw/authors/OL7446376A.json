@@ -1,0 +1,18 @@
+{
+    "name": "Lori C. Hawkins",
+    "personal_name": "Lori C. Hawkins",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-01-12T11:01:04.686015"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-01-12T11:01:04.686015"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7446376A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

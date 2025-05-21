@@ -1,0 +1,18 @@
+{
+    "name": "Akifumi Sawano",
+    "personal_name": "Akifumi Sawano",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T17:16:26.229134"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T17:16:26.229134"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7598175A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

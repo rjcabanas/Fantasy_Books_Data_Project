@@ -1,0 +1,53 @@
+{
+    "remote_ids": {
+        "isni": "0000000121484356",
+        "wikidata": "Q190220",
+        "viaf": "115199438"
+    },
+    "alternate_names": [
+        "Pu er man",
+        "PHILIP PULLMAN",
+        "Philip PULLMAN",
+        "Pullman  Philip",
+        "Phillip Pullman"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "19 October 1946",
+    "personal_name": "Philip Pullman",
+    "key": "/authors/OL26545A",
+    "bio": "Philip Pullman CBE, FRSL is an English writer from Norwich. He is the best-selling author of several books, most notably his trilogy of fantasy novels, *His Dark Materials*, and his fictional biography of Jesus, *The Good Man Jesus and the Scoundrel Christ*. The first of *His Dark Materials* has been turned into the film The Golden Compass and the first two books from his Sally Lockhart series have been adapted for television.\r\n\r\nIn 2008, The Times named Pullman in their list of \"The 50 greatest British writers since 1945\".\r\n\r\n([Source][1])\r\n\r\n\r\n  [1]:  http://en.wikipedia.org/wiki/Philip_Pullman",
+    "source_records": [
+        "amazon:055255751X",
+        "amazon:0590542435",
+        "amazon:6257737141",
+        "amazon:1407106376",
+        "amazon:043995178X",
+        "amazon:2017121703",
+        "bwb:9780718197933",
+        "amazon:8466617299",
+        "bwb:9798842809301",
+        "promise:bwb_daily_pallets_2020-09-09",
+        "promise:bwb_daily_pallets_2023-03-31:KS-259-807",
+        "promise:bwb_daily_pallets_2023-04-05:KS-319-438",
+        "promise:bwb_daily_pallets_2023-05-16:KO-832-349",
+        "bwb:9781847679307",
+        "amazon:841716720X"
+    ],
+    "death_date": ")",
+    "photos": [
+        6390041
+    ],
+    "name": "Philip Pullman",
+    "latest_revision": 24,
+    "revision": 24,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-25T17:52:22.996689"
+    }
+}

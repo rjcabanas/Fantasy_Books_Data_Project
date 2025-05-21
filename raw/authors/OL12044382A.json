@@ -1,0 +1,22 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Lasse Bo Jensen",
+    "personal_name": "Lasse Bo Jensen",
+    "birth_date": "1963",
+    "key": "/authors/OL12044382A",
+    "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.12.20150123.full.mrc:1235849:901"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-31T08:36:02.041098"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-31T08:36:02.041098"
+    }
+}

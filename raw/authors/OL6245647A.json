@@ -1,0 +1,30 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL6245647A",
+    "source_records": [
+        "amazon:2286031169"
+    ],
+    "personal_name": "Muriel Barbery",
+    "birth_date": "1969",
+    "name": "Muriel Barbery",
+    "remote_ids": {
+        "viaf": "64172549",
+        "wikidata": "Q235731",
+        "isni": "0000000078249472"
+    },
+    "alternate_names": [
+        "Muriel BARBERY"
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-01T18:17:03.982006"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-06-10T16:06:15.274660"
+    }
+}

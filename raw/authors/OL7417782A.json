@@ -1,0 +1,25 @@
+{
+    "name": "David Anthony",
+    "personal_name": "David Anthony",
+    "key": "/authors/OL7417782A",
+    "birth_date": "1967",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Anthony, David, 1967-"
+    ],
+    "remote_ids": {
+        "viaf": "92473709"
+    },
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-07-27T05:26:45.249763"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T02:28:58.113907"
+    }
+}

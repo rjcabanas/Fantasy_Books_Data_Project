@@ -1,0 +1,33 @@
+{
+    "name": "Nathan A. Thompson",
+    "key": "/authors/OL9241549A",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Nathan Thompson was born in Michigan, grew up in Texas, and has been trying to get all the stories stuck out of himself for as long as he could remember. He loves reading stories, writing stories, and occasionally voicing stories when people request him to do voice work (currently on hold. Sorry folks!) He lives in Texas (back after four years of super-secret work he totally can't talk about) with his wife and new son. His fbook group page can be found at https://www.facebook.com/groups/2287385907946045/ if you would like to chat about his books.\r\n\r\nSource: https://www.amazon.com/Nathan-Thompson/e/B07FLG9GWT/ref=dp_byline_cont_pop_ebooks_1",
+    "photos": [
+        11176114
+    ],
+    "links": [
+        {
+            "url": "https://www.facebook.com/groups/2287385907946045/",
+            "title": "Facebook Page",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "remote_ids": {
+        "wikidata": "Q108116956"
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-05-26T16:37:22.036627"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-17T13:32:52.720222"
+    }
+}

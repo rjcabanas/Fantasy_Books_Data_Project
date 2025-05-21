@@ -1,0 +1,39 @@
+{
+    "links": [
+        {
+            "title": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q209873",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL1124351A",
+    "source_records": [
+        "bwb:9781788452168"
+    ],
+    "remote_ids": {
+        "viaf": "61625614",
+        "wikidata": "Q209873",
+        "isni": "0000000083874045"
+    },
+    "photos": [
+        10457550
+    ],
+    "name": "Jeremy Strong",
+    "birth_date": "1949-11-18",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Jeremy Strong",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-25T11:01:01.888728"
+    }
+}

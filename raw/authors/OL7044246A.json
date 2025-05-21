@@ -1,0 +1,79 @@
+{
+    "remote_ids": {
+        "amazon": "B007JP96JU",
+        "viaf": "78192675",
+        "wikidata": "Q607588",
+        "librarything": "liucixin",
+        "goodreads": "5780686",
+        "isni": "0000000037048121",
+        "bookbrainz": "12c8f5fd-2482-4228-bfdb-5920e72ffe26",
+        "gnd": "1072055163",
+        "imdb": "nm7286732",
+        "lc_naf": "n2005083742",
+        "musicbrainz": "57f8a54d-521c-46f6-9340-c4f44096e203",
+        "storygraph": "db769bf7-855e-4886-897e-676b77f18ccb",
+        "inventaire": "wd:Q607588"
+    },
+    "photos": [
+        10246623
+    ],
+    "bio": "Chinese science fiction writer",
+    "birth_date": "23 June 1963",
+    "key": "/authors/OL7044246A",
+    "name": "\u5218\u6148\u6b23",
+    "alternate_names": [
+        "Liu Cixin",
+        "Cixin Liu",
+        "Cixin Liu; Liu Cixin"
+    ],
+    "personal_name": "Cixin Liu",
+    "source_records": [
+        "ia:shijianyimintime0000liuc",
+        "bwb:9781784978501",
+        "marc:marc_columbia/Columbia-extract-20221130-032.mrc:8984307:1453",
+        "amazon:2367629439"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "title": "Author's Blog (in Chinese)",
+            "url": "https://blog.sina.com.cn/lcx",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/c/liu-cixin/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?208409",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/liu_cixin",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 14,
+    "revision": 14,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-12-07T06:54:50.825332"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-15T01:56:10.995648"
+    }
+}

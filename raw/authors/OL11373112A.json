@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Meg Shaffer",
+    "key": "/authors/OL11373112A",
+    "source_records": [
+        "bwb:9780593598832"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T12:04:19.152473"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T12:04:19.152473"
+    }
+}

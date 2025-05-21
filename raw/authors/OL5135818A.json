@@ -1,0 +1,22 @@
+{
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2014-06-18T03:06:21.200328"
+    },
+    "latest_revision": 2,
+    "name": "Wayne Thomas Batson",
+    "key": "/authors/OL5135818A",
+    "personal_name": "Wayne Thomas Batson",
+    "birth_date": "1968",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-26T07:52:52.232439"
+    },
+    "alternate_names": [
+        "Wayne Batson"
+    ],
+    "revision": 2
+}

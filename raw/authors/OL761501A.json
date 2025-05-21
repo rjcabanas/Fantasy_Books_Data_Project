@@ -1,0 +1,54 @@
+{
+    "source_records": [
+        "amazon:1776833783",
+        "amazon:1791323294",
+        "bwb:9798525882737",
+        "bwb:9781521142134",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "promise:bwb_daily_pallets_2020-12-22",
+        "promise:bwb_daily_pallets_2022-11-02",
+        "bwb:9781387673735"
+    ],
+    "personal_name": "Laura Lee Hope",
+    "bio": {
+        "type": "/type/text",
+        "value": "Laura Lee Hope is a pseudonym used by the Stratemeyer Syndicate for the Bobbsey Twins and several other series of children's novels. Actual writers taking up the pen of Laura Lee Hope include Edward Stratemeyer, Howard and Lilian Garis, Elizabeth Ward, Harriet (Stratemeyer) Adams, and Nancy Axelrad. Laura Lee Hope was first used as a pseudonym in 1904 for the debut of the Bobbsey Twins. It was used for the following series: The Bobbsey Twins, The Outdoor Girls, The Moving Picture Girls, Bunny Brown, Six Little Bunkers, Make Believe Stories, and Blythe Girls."
+    },
+    "entity_type": "Pseudonym",
+    "name": "Laura Lee Hope",
+    "key": "/authors/OL761501A",
+    "alternate_names": [
+        "Lee Laura Hope",
+        "Laura Hope",
+        "Laura L. Hope",
+        "Laura, Lee Hope",
+        "Laura Lee, Hope",
+        "LauraLee Hope",
+        "Laura Lee Hope; et al.",
+        "Laura Lee HOPE",
+        "Laura LEE HOPE",
+        "Laura Lee Laura Lee Hope",
+        "Howard R. Garis Laura Lee Hope",
+        "Hope Laura Lee",
+        "Hope, Laura Lee,",
+        "Larua Lee Hope",
+        "L. L. Hope"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q6499118"
+    },
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-29T21:53:55.266158"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-04-14T19:53:06.126484"
+    },
+    "latest_revision": 5,
+    "name": "Marta Randall",
+    "key": "/authors/OL1072689A",
+    "personal_name": "Marta Randall",
+    "birth_date": "1948",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Martha Conley (Pseudonym)",
+        "MARTA Randall",
+        "MARTA RANDALL"
+    ],
+    "revision": 5
+}

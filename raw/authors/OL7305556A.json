@@ -1,0 +1,17 @@
+{
+    "name": "Dan Bar-el",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:38:58.021433"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T04:38:58.021433"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7305556A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

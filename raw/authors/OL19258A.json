@@ -1,0 +1,40 @@
+{
+    "source_records": [
+        "amazon:0007986114",
+        "ia:nachtswenndergar0000lask",
+        "promise:bwb_daily_pallets_2021-01-06",
+        "promise:bwb_daily_pallets_2023-02-24:W8-BNW-262",
+        "amazon:032914099X",
+        "amazon:0007215185"
+    ],
+    "photos": [
+        6743962
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Kathryn Lasky",
+    "key": "/authors/OL19258A",
+    "birth_date": "1944",
+    "personal_name": "Kathryn Lasky",
+    "remote_ids": {
+        "viaf": "22400770",
+        "wikidata": "Q455852",
+        "isni": "0000000120957545",
+        "amazon": "B000APL6IK"
+    },
+    "title": "(mei) (Lasky, Kathryn)",
+    "alternate_names": [
+        "Kathryn Lasky Knight"
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-27T15:56:22.033118"
+    }
+}

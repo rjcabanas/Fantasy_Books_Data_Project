@@ -1,0 +1,64 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "William Neville Scott OAM (4 October 1923 \u2013 22 December 2005) was an Australian author, folklorist, songwriter, poet, and collector of bush ballads and Australian folk history.[1] He has published anthologies of Australian bush songs, including the best selling book The Complete Book of Australian Folklore published in 1976. He was awarded the Order of Australia in 1992[2] for his contributions to folklore, folk music, and Australian literature. He was considered a living treasure,[3] and his anthologies of songs and his donated collections continue his legacy. -Wikipedia"
+    },
+    "birth_date": "4 Oct 1923",
+    "personal_name": "William Neville Scott",
+    "alternate_names": [
+        "Scott, Bill, 1923-2005",
+        "Scott, William Neville, 1923-2005",
+        "Scott, Bill, 1923-",
+        "Scott, W. B.",
+        "Bill Scott",
+        "Scott, W.N., 1923-",
+        "Scott, William Neville",
+        "\u09ac\u09bf\u09b2 \u09b8\u09cd\u0995\u099f",
+        "Mr William Neville SCOTT",
+        "W.N Scott"
+    ],
+    "remote_ids": {
+        "viaf": "23223001",
+        "wikidata": "Q4910807",
+        "isni": "0000000386924142",
+        "musicbrainz": "310b384d-004e-413b-9204-302fa62c74e8"
+    },
+    "death_date": "22 Dec 2005",
+    "links": [
+        {
+            "title": "Internet Speculative Fiction Database",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?181582",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bill_Scott_(author)",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL346887A",
+    "name": "William Neville Scott",
+    "source_records": [
+        "promise:bwb_daily_pallets_2021-09-14"
+    ],
+    "photos": [
+        14855366
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-30T12:23:14.644199"
+    }
+}

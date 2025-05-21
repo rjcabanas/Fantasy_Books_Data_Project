@@ -1,0 +1,18 @@
+{
+    "name": "Pit Wahl",
+    "personal_name": "Pit Wahl",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-01-03T14:04:29.353344"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-01-03T14:04:29.353344"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6882326A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

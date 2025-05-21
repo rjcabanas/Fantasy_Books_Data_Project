@@ -1,0 +1,30 @@
+{
+    "name": "P. C. Hodgell",
+    "personal_name": "P. C. Hodgell",
+    "alternate_names": [
+        "P.C. Hodgell, Patricia Christine Hodgell"
+    ],
+    "photos": [
+        7104512
+    ],
+    "key": "/authors/OL1296261A",
+    "birth_date": "16 March 1951",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "18557241",
+        "wikidata": "Q2043557",
+        "isni": "0000000032754537"
+    },
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T16:07:03.529896"
+    }
+}

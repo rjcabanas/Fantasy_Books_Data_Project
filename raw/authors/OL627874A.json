@@ -1,0 +1,59 @@
+{
+    "name": "Roger Hargreaves",
+    "personal_name": "Hargreaves, Roger.",
+    "death_date": "11 September 1988",
+    "alternate_names": [
+        "Roger Hargreaves",
+        "R. Hargreaves",
+        "ROGER HARGREAVES, Charles Roger Hargreaves",
+        "Roger. Hargreaves",
+        "Hargreaves ( Roger )",
+        "Hargreaves",
+        "Roger",
+        "ROGER HARGREAVES",
+        "roger hargreaves"
+    ],
+    "key": "/authors/OL627874A",
+    "birth_date": "9 May 1935",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "120084211",
+        "wikidata": "Q349013",
+        "isni": "0000000083368708"
+    },
+    "photos": [
+        14401320
+    ],
+    "links": [
+        {
+            "url": "https://mrmen.com/pages/about-us",
+            "title": "Mr. Men website",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://www.goodreads.com/author/show/3206",
+            "title": "At Goodreads",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Charles Roger Hargreaves was an English author and illustrator of children's books. He created the Mr. Men series, Little Miss series and Timbuctoo series, intended for young readers. The simple and humorous stories, with bold, brightly coloured illustrations, have sold over 85 million copies worldwide in 20 languages.\r\n\r\nHargreaves and his wife had four children. The first of the Mr. Men characters was allegedly created when Hargreaves's son Adam, then 8, asked his father what a tickle looked like. Hargreaves drew a figure with a round orange body and long arms which became Mr. Tickle. The book was published in August of 1971 and the books became an instant success, selling over one million copies within three years. The Little Miss series of books was launched and in 1983, and each series was made into an animated television show.\r\n\r\nHargreaves died at the age of 53 following a stroke. After his death, his son, Adam, continued writing and drawing the Mr. Men and Little Miss characters with new stories (while signing the covers in his father's signature).\r\n\r\nAlthough Hargreaves wrote many other children's stories\u2014including the Timbuctoo series of 25 books, *John Mouse* and the *Roundy and Squarey* books\u2014he is best known for his 46 Mr. Men and 33 Little Miss books.\r\n\r\n--adapted from *Wikipedia*"
+    },
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-03T08:26:50.778661"
+    }
+}

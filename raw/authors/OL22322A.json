@@ -1,0 +1,36 @@
+{
+    "name": "Suzy McKee Charnas",
+    "alternate_names": [
+        "Suzy Mckee Charnas"
+    ],
+    "source_records": [
+        "amazon:2253119245",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "marc:marc_columbia/Columbia-extract-20221130-015.mrc:90064570:1026",
+        "promise:bwb_daily_pallets_2024-07-01:P9-DUF-466"
+    ],
+    "remote_ids": {
+        "viaf": "90724346",
+        "wikidata": "Q441603",
+        "isni": "0000000120304608"
+    },
+    "key": "/authors/OL22322A",
+    "birth_date": "1939-10-22",
+    "personal_name": "Suzy McKee Charnas",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14824741
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-11-19T11:53:18.808585"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Liz Maverick",
+    "personal_name": "Liz Maverick",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 15:15:52.314135"
+    },
+    "key": "/authors/OL1389463A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 4683174,
+    "revision": 2
+}

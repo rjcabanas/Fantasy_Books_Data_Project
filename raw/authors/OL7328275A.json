@@ -1,0 +1,17 @@
+{
+    "name": "Media Viz",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T13:00:13.971113"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T13:00:13.971113"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7328275A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

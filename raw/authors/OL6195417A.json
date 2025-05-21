@@ -1,0 +1,18 @@
+{
+    "name": "Bernard Segal",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T16:41:53.337628"
+    },
+    "personal_name": "Bernard Segal",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T16:41:53.337628"
+    },
+    "key": "/authors/OL6195417A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 31345123,
+    "revision": 1
+}

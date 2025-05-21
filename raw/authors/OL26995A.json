@@ -1,0 +1,59 @@
+{
+    "alternate_names": [
+        "LAURELL K. HAMILTON",
+        "Laurell Hamilton",
+        "Laurell K Hamilton",
+        "Laurell-K Hamilton",
+        "Laurell K. Hamilton (author)",
+        "HAMILTON LAURELL K",
+        "hamilton-laurell-k",
+        "Hamilton Laurell K.",
+        "Laurel K. Hamilton",
+        "Hamilton,Laurell K,",
+        "Meagan - Hamilton, Laurell K. Hatfield",
+        "Hamilton Laurell K",
+        "K. Laurell Hamilton",
+        "MaryJanice Davidson Laurell K. Hamilton",
+        "Laurell K. Hamilton.",
+        "Laurell K. Hamilton,Laurell K Hamilton",
+        "Laurell Kaye Hamilton",
+        "L. K. Hamilton"
+    ],
+    "birth_date": "19 February 1963",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL26995A",
+    "source_records": [
+        "amazon:8375063894",
+        "bwb:9780755388981",
+        "promise:bwb_daily_pallets_2022-05-16",
+        "amazon:085750178X",
+        "promise:bwb_daily_pallets_2020-09-09",
+        "promise:bwb_daily_pallets_2022-06-30",
+        "amazon:0755352548",
+        "ia:bloodnoir0000hami",
+        "bwb:9780356221632"
+    ],
+    "remote_ids": {
+        "viaf": "39520379",
+        "wikidata": "Q298229",
+        "isni": "0000000081186089"
+    },
+    "name": "Laurell K. Hamilton",
+    "personal_name": "Laurell K. Hamilton",
+    "bio": "Laurell Kaye Hamilton (born February 19, 1963) is an American fantasy and romance writer. She is best known as the author of two series of stories.\r\n\r\nHer New York Times-bestselling Anita Blake: Vampire Hunter series centers on Anita Blake, a professional zombie raiser, vampire executioner and supernatural consultant for the police, which includes novels, short story collections, and comic books. Six million copies of Anita Blake novels are in print. Her Merry Gentry series centers on Meredith Gentry, Princess of the Unseelie court of Faerie, a private detective facing repeated assassination attempts. Both of these fantasy series follow their protagonists as they gain in power and deal with the dangers of worlds in which creatures of legend live.\r\n\r\nSeveral media outlets, including USA Today, Entertainment Weekly, and Time have identified her works as significant contributions to the development of the urban-fantasy genre. [source](https://en.wikipedia.org/wiki/Laurell_K._Hamilton)",
+    "photos": [
+        14343719
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-17T02:40:12.314932"
+    }
+}

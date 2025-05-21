@@ -1,0 +1,25 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Keri Arthur is a writer of fantasy, horror fiction, and romance novels from Melbourne, Australia. She began writing at the age of twelve and has published more than 32 novels."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-04-28T14:38:48.455885"
+    },
+    "latest_revision": 4,
+    "name": "Keri Arthur",
+    "key": "/authors/OL1435240A",
+    "personal_name": "Keri Arthur",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        6625156
+    ],
+    "revision": 4
+}

@@ -1,0 +1,36 @@
+{
+    "alternate_names": [
+        "Natalie S. Carlson",
+        "Natalie Savage Carson",
+        "NATALIE SAVAGE CARLSON",
+        "Natalie (Savage) Carlson",
+        "Natalie Savage. Carlson",
+        "Carlson, Natalie Savage, Loh, George",
+        "natalie savage carlson",
+        "N. S. Carlson",
+        "Carlson                      Ns",
+        "N S. Carlson"
+    ],
+    "key": "/authors/OL951118A",
+    "name": "Natalie Savage Carlson",
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-04-01",
+        "promise:bwb_daily_pallets_2021-07-26",
+        "promise:bwb_daily_pallets_2021-03-10",
+        "promise:bwb_daily_pallets_2020-11-27"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Natalie Savage Carlson",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-12-11T07:52:05.415607"
+    }
+}

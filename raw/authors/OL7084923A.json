@@ -1,0 +1,21 @@
+{
+    "name": "Carmen Manea",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-02-27T08:52:37.940525"
+    },
+    "photos": [
+        7076068
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-03-05T11:15:19.026950"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL7084923A",
+    "birth_date": "1948",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

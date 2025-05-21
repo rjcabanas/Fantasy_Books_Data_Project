@@ -1,0 +1,25 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "(From Double Dragon Publishing Author's Pages:)\r\n\r\nDan DeBono was born and raised in Southeastern Michigan. He went to Wayne State University in Detroit and just before he graduated, he met his wife, Melissa. Shortly thereafter, they moved to Florida and had a son, Zachary. \r\n\r\nDan has written professionally for about 15 years. He has written well over a thousand stories and features for newspapers, magazines \u2013 both fiction and non fiction \u2013 and even severla comic books. His investor-education work has appeared in well over fifty-million copies worldwide. He has also written for dozens of Fortune 500 and startup \"dotcom\" Websites. Hs fiction work has also been published under the name of Gareth Blackmore. \r\n\r\nDan wrote travel features and even a ghost story for The St Petersburg Times\u2019 special Christmas Eve \u201cExtra.\u201d Dan wrote more than 150 travel articles centering on Florida day trips for The Citrus Chronicle. \r\n\r\nFinancial Insights and Strategies \u2013 This Merrill Lynch publication was Dan\u2019s baby for nearly three years and it had about 2 million copies per issue! \r\n\r\nDan wrote several science fiction and horror stories for a variety of magazines. Midnight Zoo published his tale about clones: Why not send another self to work instead of actually showing up? Vision Magazine published Touchdown, one of his favorite pieces about immortality gained \u2026 then lost. Eldritch Tales published the thriller, Agnatha Anathema \u2026 Jaws meets the Great Lakes. \r\n\r\nIn the 90s, Dan teamed up with a variety of artists and publishers to create several comics and graphic novels. Factual Illusions was the most successful, with over 20,000 in sales \u2013 quite a bit at the time (or evne now) for an independent comic publisher! Kyle (Spiderman/The Incredible Hulk) Hotz illustrated it. Enchanted Worlds was a 3-issue fantasy series published by PC Press. Gareth Blackmore\u2019s Unusual Tales was a fabulously-illustrated graphic novel. Armando (What If Hulk Killed Wolverine, Jurassic Park) Gil, Kyle (Spiderman) Hotz were among the illustrators of Dan\u2019s (Gareth\u2019s) tales."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-01-11T18:41:21.197974"
+    },
+    "latest_revision": 2,
+    "name": "Dan DeBono",
+    "key": "/authors/OL3027318A",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T06:33:27.187047"
+    },
+    "birth_date": "11 November 1964",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Gareth Blackmore"
+    ],
+    "revision": 2
+}

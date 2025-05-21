@@ -1,0 +1,59 @@
+{
+    "name": "Georges Ivanovitch Gurdjieff",
+    "remote_ids": {
+        "viaf": "74037717",
+        "wikidata": "Q217771",
+        "isni": "0000000080753512"
+    },
+    "alternate_names": [
+        "George Ivanovich Gurdjieff",
+        "George Gurdjieff",
+        "G. Gurdjieff",
+        "G Gurdjieff",
+        "G. I. (Georges Ivanovitch) Gurdjieff",
+        "George Ivanovitch Gurdjieff",
+        "George I. Gurdjieff",
+        "Georg Iwanowitsch Gurdjieff",
+        "G.I Gurdjieff",
+        "G. I. Gurdjieff",
+        "G. GURDJIEFF",
+        "G.I. Gurdjieff",
+        "Georges Gurdjieff",
+        "Georges Ivanovic Gurdjieff",
+        "George Iv\u00e1novich Gurdjieff"
+    ],
+    "key": "/authors/OL767343A",
+    "source_records": [
+        "bwb:9798795301402",
+        "bwb:9781099352942",
+        "amazon:8484454967"
+    ],
+    "personal_name": "Georges Ivanovitch Gurdjieff",
+    "location": "Paris, France",
+    "photos": [
+        8563883,
+        6752109,
+        5541215,
+        6882705
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "fuller_name": "George Ivanovich Gurdjieff",
+    "bio": {
+        "type": "/type/text",
+        "value": "George Ivanovich Gurdjieff was a mystic, philosopher, spiritual teacher, and composer of Armenian and Greek descent, born in Alexandrapol (now Gyumri), Armenia. Gurdjieff taught that most humans do not possess a unified consciousness and thus live their lives in a state of hypnotic \"waking sleep\", but that it is possible to awaken to a higher state of consciousness and achieve full human potential. Gurdjieff described a method attempting to do so, calling the discipline \"The Work\"(connoting \"work on oneself\") or \"the Method\". According to his principles and instructions, Gurdjieff's method for awakening one's consciousness unites the methods of the fakir, monk and yogi, and thus he referred to it as the \"Fourth Way\".\r\n\r\n---Wikipedia"
+    },
+    "death_date": "29 October 1949",
+    "birth_date": "28 November 1877 ?",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T16:37:49.804552"
+    }
+}

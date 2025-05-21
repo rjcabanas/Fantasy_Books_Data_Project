@@ -1,0 +1,18 @@
+{
+    "name": "Jess E. Owen",
+    "personal_name": "Jess E. Owen",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-11-13T16:37:12.617161"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-13T16:37:12.617161"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8824586A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

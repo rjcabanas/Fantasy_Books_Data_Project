@@ -1,0 +1,19 @@
+{
+    "name": "Shirley Rousseau Murphy",
+    "personal_name": "Shirley Rousseau Murphy",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2014-07-08T04:10:53.914508"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL21328A",
+    "birth_date": "1928",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

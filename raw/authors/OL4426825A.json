@@ -1,0 +1,41 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Born 1908 in Manchester, Lancashire, England; died 1984 in Corbridge, Northumberland, England. A fantastic and charming author, quite popular in her day, who has largely been forgotten. 'Ruth Ainsworth' was the pseudonym of Mrs. Ruth Gilbert (nee Ainsworth)."
+    },
+    "name": "Ruth Ainsworth",
+    "links": [
+        {
+            "title": "Ruth Ainsworth commemorative website",
+            "url": "http://www.ruthainsworth.co.uk/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "personal_name": "Ruth Ainsworth",
+    "death_date": "1984",
+    "alternate_names": [
+        "Ruth Gilbert"
+    ],
+    "key": "/authors/OL4426825A",
+    "birth_date": "1908",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "isni": "0000000082042829",
+        "wikidata": "Q16157253",
+        "viaf": "18468011"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-01T22:24:53.070831"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-22T19:08:58.545845"
+    }
+}

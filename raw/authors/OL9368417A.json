@@ -1,0 +1,17 @@
+{
+    "name": "Audrey Niffenger",
+    "key": "/authors/OL9368417A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-18T06:14:03.932146"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-18T06:14:03.932146"
+    }
+}

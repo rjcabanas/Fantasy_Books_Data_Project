@@ -1,0 +1,43 @@
+{
+    "name": "Rosemarie Breuer (Stellenbosch)",
+    "links": [
+        {
+            "url": "http://www.stellenboschwriters.com/Zettelwitz/order.html",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "More info on Zettelwitz"
+        },
+        {
+            "url": "http://www.amazon.de/Zauberer-Zettelwitz-vom-Tafelberg-ebook/dp/B0064P2LPC/ref=ntt_at_ep_dpt_1",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Amazon Kindle"
+        },
+        {
+            "url": "http://www.amazon.de/Zettelwitz-Table-Mountain-Wizard-ebook/dp/B0068QKA8W/ref=ntt_at_ep_dpt_1",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Amazon English books"
+        }
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-01-29T14:04:56.498053"
+    },
+    "photos": [
+        7114990
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-05-09T06:30:27.191713"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL6887952A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

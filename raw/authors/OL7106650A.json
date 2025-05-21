@@ -1,0 +1,18 @@
+{
+    "name": "Emily Hainsworth",
+    "personal_name": "Emily Hainsworth",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-04-13T06:31:20.300857"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-04-13T06:31:20.300857"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7106650A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

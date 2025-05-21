@@ -1,0 +1,17 @@
+{
+    "name": "Barbara Ann Wright",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T17:20:05.478694"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T17:20:05.478694"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7338942A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

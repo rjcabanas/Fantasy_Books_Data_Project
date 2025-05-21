@@ -1,0 +1,41 @@
+{
+    "alternate_names": [
+        "Jeff Vandermeer"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL359235A",
+    "source_records": [
+        "amazon:6051714804",
+        "amazon:6064305835"
+    ],
+    "name": "Jeff VanderMeer",
+    "remote_ids": {
+        "wikidata": "Q1038440",
+        "isni": "0000000114610385",
+        "viaf": "47888668"
+    },
+    "personal_name": "Jeff VanderMeer",
+    "bio": "Jeff VanderMeer is a writer and editor whose fiction merges elements of science fiction, fantasy, and the weird. His stories frequently examine the intricate connection between humanity and the natural world, uncovering strange and sometimes unsettling phenomena. He is widely recognized for the Southern Reach trilogy, which delves into the enigma of Area X, a cryptic and potentially extraterrestrial zone. Beyond this series, his novels such as Borne, Hummingbird Salamander, and Dead Astronauts depict futures shaped by biotechnology, environmental collapse, and the rise of unusual new lifeforms. VanderMeer has also co-edited several notable anthologies, including The New Weird, The Weird, and The Big Book of Science Fiction, often working alongside his wife, Ann VanderMeer.",
+    "birth_date": "16 July 1968",
+    "links": [
+        {
+            "title": "Interview with Jeff VanderMeer: The Southern Reach, The Uncanny and The Beyond",
+            "url": "https://retrofuturista.com/interview-with-jeff-vandermeer-the-southern-reach-the-uncanny-and-the-beyond/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-11T21:54:24.492592"
+    }
+}

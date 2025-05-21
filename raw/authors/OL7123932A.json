@@ -1,0 +1,56 @@
+{
+    "personal_name": "Zoey Castile",
+    "key": "/authors/OL7123932A",
+    "photos": [
+        10242615
+    ],
+    "alternate_names": [
+        "Zoraida Cordova",
+        "Zoey Castile"
+    ],
+    "links": [
+        {
+            "title": "C\u00f3rdova's Website",
+            "url": "https://zoraidacordova.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "name": "Zoraida C\u00f3rdova",
+    "bio": {
+        "type": "/type/text",
+        "value": "Zoraida C\u00f3rdova is the author of many fantasy novels for kids and teens, most recently the award-winning *Brooklyn Brujas* series, *Incendiary*,  and *Star Wars: A Crash of Fate*. Her short fiction has appeared in the New York Times bestselling anthology *Star Wars: From a Certain Point of View*, *Come on In: 15 Stories About Immigration and Finding Home*, and *Toil & Trouble: 15 Tales of Women and Witchcraft*. She is the co-editor of *Vampires Never Get Old: Tales with Fresh Bite*. Her debut middle grade novel is *The Way to Rio Luna*. She is the co-host of the podcast Deadline City with Dhonielle Clayton. Zoraida was born in Ecuador and raised in Queens, New York. When she isn\u2019t working on her next novel, she\u2019s planning a new adventure.\r\n\r\nShe also writes romance as Zoey Castile.\r\n\r\n([source][1])\r\n\r\n\r\n  [1]: https://zoraidacordova.com/about/"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "26 June 1987",
+    "remote_ids": {
+        "viaf": "1270159035189401380001"
+    },
+    "source_records": [
+        "bwb:9781982102555",
+        "amazon:3833238305",
+        "amazon:136805336X",
+        "bwb:9781957329031",
+        "amazon:0593358651",
+        "bwb:9781402265143",
+        "bwb:9781536482652",
+        "bwb:9781368095198",
+        "bwb:9781250823847",
+        "bwb:9781800786226",
+        "bwb:9798885798082",
+        "bwb:9781957329062"
+    ],
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-05-11T14:13:35.136548"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-30T19:06:46.856915"
+    }
+}

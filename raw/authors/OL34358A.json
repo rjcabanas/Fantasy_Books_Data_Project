@@ -1,0 +1,36 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "7569331",
+        "wikidata": "Q441793",
+        "isni": "0000000117403672"
+    },
+    "death_date": "2021",
+    "source_records": [
+        "amazon:1907737626"
+    ],
+    "birth_date": "1956",
+    "personal_name": "Storm Constantine",
+    "key": "/authors/OL34358A",
+    "bio": {
+        "type": "/type/text",
+        "value": "British sci fi author"
+    },
+    "alternate_names": [
+        "Constantine Storm",
+        "Constantine,Storm"
+    ],
+    "name": "Storm Constantine",
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-13T15:49:34.557885"
+    }
+}

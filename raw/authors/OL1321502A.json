@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Susan Fletcher was born in Pasadena, California. She writes fantasy novels, and currently resides in Oregon."
+    },
+    "name": "Susan Fletcher",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Susan_Fletcher_%28American_author%29",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedial page"
+        },
+        {
+            "url": "http://susanfletcher.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author web page"
+        }
+    ],
+    "personal_name": "Susan Fletcher",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "photos": [
+        6965076
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:21:17.541522"
+    },
+    "latest_revision": 6,
+    "key": "/authors/OL1321502A",
+    "birth_date": "1951",
+    "revision": 6,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "79064356",
+        "wikidata": "Q7647835",
+        "isni": "0000000078308508"
+    }
+}

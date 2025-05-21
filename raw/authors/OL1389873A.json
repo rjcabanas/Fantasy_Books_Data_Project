@@ -1,0 +1,45 @@
+{
+    "alternate_names": [
+        "Kate Cary, Cherith Baldry, Tui Sutherland, and Victoria Holmes",
+        "Erin W. Hunter.  ebook",
+        "Erin L Hunter",
+        "(ying) Heng, te (Hunter, Erin)",
+        "Hunter, Erin pseud",
+        "Erin W. Hunter",
+        "\u0415\u0440\u0456\u043d \u0413\u0430\u043d\u0442\u0435\u0440",
+        "\u042d\u0440\u0438\u043d \u0425\u0430\u043d\u0442\u0435\u0440"
+    ],
+    "source_records": [
+        "amazon:0061127787"
+    ],
+    "remote_ids": {
+        "viaf": "17907668",
+        "isni": "0000000107779756",
+        "wikidata": "Q641740",
+        "goodreads": "27498"
+    },
+    "name": "Erin Hunter",
+    "title": "(ying) (Hunter, Erin)",
+    "bio": {
+        "type": "/type/text",
+        "value": "Erin Hunter is a collective pseudonym used by the authors Victoria Holmes, Kate Cary, Cherith Baldry, Inbali Iserles, Tui T. Sutherland, and Rosie Best in the writing of several juvenile fantasy novel series, which focus on animals and their adventures. Each of the authors play a different role in the production of the books: Holmes creates the plot for each book, and the others take turns writing the books. Dan Jolley, though not an official Erin Hunter author, also writes the stories for manga published under the Hunter name."
+    },
+    "key": "/authors/OL1389873A",
+    "personal_name": "Erin Hunter",
+    "photos": [
+        -1
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-28T01:29:18.211915"
+    }
+}

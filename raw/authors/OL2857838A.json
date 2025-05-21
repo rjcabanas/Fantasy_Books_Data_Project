@@ -1,0 +1,28 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Jennifer Armintrout was born on 15 July 1980. She has been obsessed with vampires since age four, and her first crush was on Vincent Price. Raised in an enormous Catholic family, Jennifer attributes her interest in the macabre to viewing too many funerals at a formative age. Her debut novel, Blood Ties Book One: The Turning made the USA Today Bestsellers list in 2006. When not writing, she can be found in front of the Playstation. She resides in Grand Rapids, a small, rural community in Michigan, with her husband and children."
+    },
+    "alternate_names": [
+        "Abigail Barnette"
+    ],
+    "photos": [
+        7029487
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-06-21T22:34:42.706169"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL2857838A",
+    "name": "Jennifer Armintrout",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "birth_date": "15 July 1980",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

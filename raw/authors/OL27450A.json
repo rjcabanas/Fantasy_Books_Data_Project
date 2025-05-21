@@ -1,0 +1,52 @@
+{
+    "key": "/authors/OL27450A",
+    "death_date": "February 26, 2020",
+    "alternate_names": [
+        "Betsy's Byars",
+        "BETSY BYARS",
+        "Byars Betsy",
+        "Betsy C. Byars",
+        "Betsy Byar",
+        "Betsy Byars",
+        "Byars Betsy.",
+        "Byars. Betsy",
+        "betsy byers"
+    ],
+    "bio": "Betsy Cromer Byars (born August 7, 1928) is an American author of children's books. Her novel Summer of the Swans won the 1971 Newbery Medal. She has also received a National Book Award for Young People's Literature for The Night Swimmers (1980) and an Edgar Award for Wanted ... Mud Blossom (1991).\r\n\r\nByars has been called \"one of the ten best writers for children in the world\" by Nancy Chambers, editor of the British literary journal Signal, and in 1987 Byars received the Regina Medal for lifetime achievement from the Catholic Library Association. Due to the popularity of her books with children, she has also been listed as one of the Educational Paperback Association's top 100 authors.",
+    "birth_date": "August 7, 1928",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        8486087
+    ],
+    "name": "Betsy Cromer Byars",
+    "source_records": [
+        "ia:deathsdoor0000unse",
+        "ia:lessoeursolalaau0000byar",
+        "amazon:2081643162",
+        "amazon:0385280165",
+        "bwb:9781453294239",
+        "amazon:0812427785",
+        "bwb:9781480402744"
+    ],
+    "remote_ids": {
+        "librarything": "byarsbetsy",
+        "goodreads": "6207",
+        "isni": "0000000084098113",
+        "viaf": "112446154",
+        "wikidata": "Q2900161",
+        "amazon": "B000APQA5O"
+    },
+    "personal_name": "Betsy Cromer Byars",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-13T15:06:11.318033"
+    }
+}

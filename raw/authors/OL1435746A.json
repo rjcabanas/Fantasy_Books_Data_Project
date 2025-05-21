@@ -1,0 +1,25 @@
+{
+    "alternate_names": [
+        "Ysabeau S Wilce",
+        "Ysabeau Wilce"
+    ],
+    "name": "Ysabeau S. Wilce",
+    "source_records": [
+        "bwb:9781983357053"
+    ],
+    "key": "/authors/OL1435746A",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Ysabeau S. Wilce",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-06T20:20:46.988566"
+    }
+}

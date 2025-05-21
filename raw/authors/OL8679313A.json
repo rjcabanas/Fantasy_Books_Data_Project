@@ -1,0 +1,18 @@
+{
+    "name": "Barbara Niebelska-Rajca",
+    "personal_name": "Barbara Niebelska-Rajca",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-10-28T16:07:10.016861"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-28T16:07:10.016861"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8679313A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

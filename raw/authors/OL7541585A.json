@@ -1,0 +1,18 @@
+{
+    "name": "Ellen Goodlett",
+    "personal_name": "Ellen Goodlett",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T11:01:09.245966"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T11:01:09.245966"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7541585A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

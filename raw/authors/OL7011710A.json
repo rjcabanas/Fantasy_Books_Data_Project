@@ -1,0 +1,21 @@
+{
+    "name": "Kate O'Hearn",
+    "personal_name": "Kate O'Hearn",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-10-23T11:19:45.901804"
+    },
+    "photos": [
+        9424955
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-14T01:16:58.747311"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL7011710A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

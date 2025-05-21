@@ -1,0 +1,17 @@
+{
+    "name": "Cassie Beasley",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-04-08T03:32:55.924152"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-04-08T03:32:55.924152"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7281952A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

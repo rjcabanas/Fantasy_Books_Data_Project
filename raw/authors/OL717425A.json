@@ -1,0 +1,42 @@
+{
+    "name": "Lesley Sims",
+    "alternate_names": [
+        "Lesley (RTL) Sims",
+        "Lesley SIMS",
+        "Lesley Sim",
+        "Lesley M. Sims",
+        "Sims Lesley",
+        "sims-lesley",
+        "Lesley Sims And David Semple",
+        "Lesley Sims,Lesley Sims Georgien Overwater",
+        "Lesley Sims Lesley Sims Elisa Squillace",
+        "Lesley Sims ; Zanna Davidson",
+        "Sims-Lesley",
+        "?Lesley Sims",
+        "Sims, Lesley; Oliver, Martin",
+        "L. Sims",
+        "L Sims"
+    ],
+    "personal_name": "Lesley Sims",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL717425A",
+    "source_records": [
+        "amazon:1474915132",
+        "amazon:0746092393",
+        "amazon:1409516652",
+        "amazon:0746088256",
+        "promise:bwb_daily_pallets_2022-10-31:O8-CYY-625"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-09T15:37:40.202978"
+    }
+}

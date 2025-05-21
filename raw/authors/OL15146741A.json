@@ -1,0 +1,49 @@
+{
+    "name": "Peter Newman",
+    "key": "/authors/OL15146741A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14853018,
+        14853017,
+        14853016
+    ],
+    "alternate_names": [
+        "Newman, Peter"
+    ],
+    "remote_ids": {
+        "amazon": "B00MAAUZA8",
+        "goodreads": "9852801",
+        "gnd": "1289462569",
+        "librarything": "newmanpeter-6",
+        "wikidata": "Q39070170",
+        "inventaire": "wd:Q39070170"
+    },
+    "links": [
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/n/peter-newman/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?209717",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2025-03-18T19:00:45.596468"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-18T19:56:46.367576"
+    }
+}

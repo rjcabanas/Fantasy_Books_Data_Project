@@ -1,0 +1,37 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        11445613
+    ],
+    "key": "/authors/OL28662A",
+    "personal_name": "Diana L. Paxson",
+    "name": "Diana L. Paxson",
+    "remote_ids": {
+        "viaf": "52334453",
+        "wikidata": "Q442474",
+        "isni": "0000000066546912"
+    },
+    "alternate_names": [
+        "DIANA L. PAXSON",
+        "Diana L Paxson",
+        "L. Diana Paxson",
+        "Diana Paxson",
+        "D. Paxson"
+    ],
+    "birth_date": "1943",
+    "source_records": [
+        "ia:silberhaarderwan0000paxs"
+    ],
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-13T21:47:51.126422"
+    }
+}

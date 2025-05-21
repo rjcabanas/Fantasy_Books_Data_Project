@@ -1,0 +1,21 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Imogen Rossi",
+    "personal_name": "Imogen Rossi",
+    "key": "/authors/OL9129056A",
+    "source_records": [
+        "ia:darkcity0000ross"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-26T14:22:47.450244"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-26T14:22:47.450244"
+    }
+}

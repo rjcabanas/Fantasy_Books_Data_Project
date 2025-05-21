@@ -1,0 +1,17 @@
+{
+    "name": "Heidi Heilig",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-21T08:45:59.314789"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-21T08:45:59.314789"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7484637A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

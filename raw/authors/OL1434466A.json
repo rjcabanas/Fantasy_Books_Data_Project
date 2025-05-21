@@ -1,0 +1,28 @@
+{
+    "name": "Sarah Monette",
+    "key": "/authors/OL1434466A",
+    "personal_name": "Sarah Monette",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Katherine Addison",
+        "Sarah Elizabeth Monette"
+    ],
+    "remote_ids": {
+        "viaf": "9251090",
+        "wikidata": "Q465851",
+        "isni": "0000000037369822"
+    },
+    "birth_date": "25 November 1974",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-19T18:31:31.432252"
+    }
+}

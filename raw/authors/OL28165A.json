@@ -1,0 +1,87 @@
+{
+    "photos": [
+        6679454
+    ],
+    "source_records": [
+        "amazon:1538761653",
+        "ia:unefemmesouscont0000bald_i8t2",
+        "amazon:1509874585",
+        "amazon:1529061784",
+        "amazon:1538763958",
+        "amazon:0330457799",
+        "amazon:1455567027",
+        "amazon:1509874348",
+        "bwb:9781471103957",
+        "amazon:1447227611",
+        "amazon:1455558486",
+        "amazon:1538719754",
+        "bwb:9781538719855",
+        "promise:bwb_daily_pallets_2023-02-16:KS-200-372",
+        "promise:bwb_daily_pallets_2021-08-13",
+        "amazon:0330446649",
+        "amazon:1529061733",
+        "amazon:1476791171",
+        "amazon:1529061970",
+        "amazon:9074336582",
+        "amazon:3404173090",
+        "amazon:9400505035",
+        "promise:bwb_daily_pallets_2023-06-30:W8-CGI-450",
+        "amazon:9752101860",
+        "bwb:9781607888727",
+        "promise:bwb_daily_pallets_2023-10-11:O9-BVX-683",
+        "bwb:9781035035595",
+        "promise:bwb_daily_pallets_2020-06-24"
+    ],
+    "links": [
+        {
+            "url": "https://www.davidbaldacci.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "davidbaldacci.com"
+        }
+    ],
+    "title": "(Baldacci, David)",
+    "remote_ids": {
+        "viaf": "102339955",
+        "wikidata": "Q495420",
+        "isni": "0000000120967639"
+    },
+    "alternate_names": [
+        "David C. Baldacci",
+        "Baldacci David",
+        "DAVID BALDACCI",
+        "BALDACCI DAVID",
+        "David G Baldacci",
+        "David-G. Baldacci",
+        "david-baldacci",
+        "BALDACCI",
+        "Baldacci, David",
+        "David G. Baldacci",
+        "Bao er da qi (Baldacci, David)",
+        "baldacci-david",
+        "Baldacci,David",
+        "D. Baldacci",
+        "David Baldacci (author)",
+        "David. Baldacci",
+        "David (Edited by( Baldacci",
+        "David; David Baldacci (Author) Baldacci"
+    ],
+    "name": "David Baldacci",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL28165A",
+    "personal_name": "David Baldacci",
+    "birth_date": "1960",
+    "latest_revision": 29,
+    "revision": 29,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-08T19:49:35.113262"
+    }
+}

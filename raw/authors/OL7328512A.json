@@ -1,0 +1,17 @@
+{
+    "name": "Ole K'Onnecke",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T13:05:45.437164"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T13:05:45.437164"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7328512A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

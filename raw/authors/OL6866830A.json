@@ -1,0 +1,41 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Ruth Chew was born on April 8, 1920 in Minneapolis, Minnesota. She graduated Western High School in 1936 and attended the Corcoran School of Art in Washington, DC for 4 years.\r\nEven as a child, Ruth was determined to at first be a artist. (Which she illustrated most of her books.) She also believed that the only reason why she passed biology in High School was because of her incredible drawings she drew of the specimens she was studying. \r\nMany of her books, many of which are fantasy usually including witches, were inspired by her belief in magic. She believed in magic, saying she would trust magic's intuition before she trusted that 2+2=4. Growing up she hated science and math.\r\nShe married Aaron Silver in 1948 and had 5 children with him: David, Eve, George, Anne, and Helen.\r\nHer husband died on May 10, 1993. \r\nOn May 13, 2010, Ruth Chew passed away of pneumonia at the age of 90 years old in Castro Valley, California. She left behind her 5 children, 8 grandchildren, and her brother, Geoffrey Chew."
+    },
+    "name": "Ruth Chew",
+    "links": [
+        {
+            "url": "http://www.ruthchew.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Ruth Chew Hompage Website"
+        }
+    ],
+    "personal_name": "Ruth Chew",
+    "death_date": "May 13, 2010",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-12-06T12:54:03.354155"
+    },
+    "photos": [
+        6456718
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:20:45.085022"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL6866830A",
+    "birth_date": "April 8, 1920",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "23419844",
+        "wikidata": "Q7382920",
+        "isni": "0000000073779108"
+    }
+}

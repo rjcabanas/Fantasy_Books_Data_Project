@@ -1,0 +1,15 @@
+{
+    "name": "John Lawrence Peterson",
+    "personal_name": "John Lawrence Peterson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-08 14:58:08.230456"
+    },
+    "key": "/authors/OL92906A",
+    "birth_date": "1924",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 234007,
+    "revision": 2
+}

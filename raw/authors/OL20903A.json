@@ -1,0 +1,67 @@
+{
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2022-09-12:W7-CMY-979",
+        "promise:bwb_daily_pallets_2022-05-25:W7-ARV-467"
+    ],
+    "personal_name": "James Thurber",
+    "links": [
+        {
+            "title": "BookBrainz",
+            "url": "https://bookbrainz.org/author/8a5d87ce-d9ce-41c6-9b53-94fc14c7fc14",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://inventaire.io/entity/wd:Q124527",
+            "title": "inventaire.io",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/James_Thurber",
+            "title": "Wikipedia",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        6665759
+    ],
+    "name": "James Thurber",
+    "key": "/authors/OL20903A",
+    "death_date": "2 November 1961",
+    "remote_ids": {
+        "viaf": "22149445",
+        "librarything": "thurberjames",
+        "goodreads": "16839",
+        "isni": "0000000108777576",
+        "amazon": "B000APA8I4",
+        "wikidata": "Q124527"
+    },
+    "bio": "The author of The Secret Life of Walter Mitty and the creator of numerous New Yorker  magazine cover cartoons, was born in Columbus, Ohio on December, 8, 1894. One of the foremost American humorists of the 20th century, his inimitable wit and pithy prose spanned a breadth of genres, including short stories, modern commentary, fiction, children's fantasy and letters.\r\n\r\nThurber's father, Charles, was a civil clerk, and his mother, Mame, was an eccentric woman who would influence many of her son's stories. Thurber had two brothers, William and Robert. One day while playing \"William Tell\" with them as youngsters, Thurber lost the sight in one eye when an arrow pierced it. Ultimately, he would go blind in both eyes, but that never stopped him from writing or drawing.\r\n\r\nThurber CarnivalFrom 1913-1917, Thurber attended the Ohio State University where he was a member of the Phi Kappa Psi fraternity. It was at this time that the Thurbers rented the house at 77 Jefferson Avenue, which became Thurber House in 1984. Due to his eye injury, Thurber was not able to complete a compulsory ROTC course so OSU would not let him graduate, although they did give him an honorary degree later.\r\n\r\nThurber launched his professional writing career as a reporter for the Columbus Dispatch in 1920. He began writing for the New Yorker in 1927 after friend E.B. White (Charlotte's Web) got him a job at the magazine. Thurber started as an editor for the magazine but quickly became a writer. His career as a cartoonist began in 1930, when White dug some of Thurber's drawings out of the trash and submitted them to be published in the New Yorker.\r\n\r\nThurber wrote nearly forty books and won a Tony Award for his popular Broadway play, A Thurber Carnival, in which he often starred as himself.\r\n\r\nThurber died of complications from pneumonia on November 2, 1961. \r\n\r\n--Thurberhouse.org",
+    "birth_date": "8 December 1894",
+    "alternate_names": [
+        "James THURBER",
+        "Thurber, James, 1894-1961",
+        "Thurber, James and White, E. B.",
+        "James Thurber & E B White",
+        "James and E. B. White Thurber"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-25T09:01:02.596955"
+    }
+}

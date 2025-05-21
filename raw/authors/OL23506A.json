@@ -1,0 +1,14 @@
+{
+    "name": "Edward Eager",
+    "personal_name": "Edward Eager",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-11 13:37:32.279023"
+    },
+    "key": "/authors/OL23506A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 60216,
+    "revision": 2
+}

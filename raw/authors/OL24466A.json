@@ -1,0 +1,32 @@
+{
+    "key": "/authors/OL24466A",
+    "source_records": [
+        "ia:einprotestgegend0000mill",
+        "amazon:9877900157"
+    ],
+    "birth_date": "1943",
+    "remote_ids": {
+        "viaf": "66471217",
+        "wikidata": "Q640807",
+        "isni": "0000000109101842"
+    },
+    "personal_name": "Steven Millhauser",
+    "name": "Steven Millhauser",
+    "alternate_names": [
+        "Steven MILLHAUSER",
+        "STEVEN MILLHAUSER"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-05T20:11:11.080491"
+    }
+}

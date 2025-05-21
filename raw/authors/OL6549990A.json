@@ -1,0 +1,18 @@
+{
+    "name": "Riccardo Steiner",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-01-08T01:16:59.435862"
+    },
+    "personal_name": "Riccardo Steiner",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-01-08T01:16:59.435862"
+    },
+    "key": "/authors/OL6549990A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33499738,
+    "revision": 1
+}

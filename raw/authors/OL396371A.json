@@ -1,0 +1,18 @@
+{
+    "name": "Chris Powling",
+    "personal_name": "Chris Powling",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-12-04T23:25:53.012649"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL396371A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

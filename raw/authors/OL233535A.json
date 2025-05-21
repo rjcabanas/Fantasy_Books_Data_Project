@@ -1,0 +1,28 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "J. V. Jones",
+    "key": "/authors/OL233535A",
+    "personal_name": "Jones, J. V.",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5,
+    "alternate_names": [
+        "J.V. Jones",
+        "J. V Jones",
+        "J V Jones"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:59:28.681191"
+    },
+    "remote_ids": {
+        "viaf": "69716497",
+        "wikidata": "Q538057",
+        "isni": "0000000072993735"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Moore, Peter",
+    "personal_name": "Moore, Peter",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-01 03:28:50.625462"
+    },
+    "key": "/authors/OL1389690A",
+    "birth_date": "1963",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 4684034,
+    "revision": 1
+}

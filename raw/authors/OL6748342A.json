@@ -1,0 +1,19 @@
+{
+    "name": "Matt Mikalatos",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-11-21T08:18:55.239240"
+    },
+    "personal_name": "Matt Mikalatos",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-11-21T08:18:55.239240"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6748342A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 35404214,
+    "revision": 1
+}

@@ -1,0 +1,35 @@
+{
+    "name": "E. K. Johnston",
+    "remote_ids": {
+        "viaf": "304064519"
+    },
+    "alternate_names": [
+        "Emily Kate Johnston",
+        "E.K. Johnston",
+        "E.K. Johnston (author)",
+        "E. K Johnston (author)",
+        "E.K.Johnston",
+        "Johnston E.K."
+    ],
+    "source_records": [
+        "amazon:9504967450"
+    ],
+    "photos": [
+        10953310
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "E.K. Johnston had several jobs and one vocation before she became a published writer. If she\u2019s learned anything, it\u2019s that things turn out weird sometimes, and there\u2019s not a lot you can do about it. Well, that and how to muscle through awkward fanfic because it\u2019s about a pairing she likes.\r\n\r\nHer books range from contemporary fantasy to fairy-tale reimaginings, from hopeful sci-fi to quiet epics, and from small town Ontario to a galaxy far, far away. She has no plans to rein anything in.",
+    "key": "/authors/OL7232144A",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-02-17T18:10:23.802143"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-10T18:59:36.863652"
+    }
+}

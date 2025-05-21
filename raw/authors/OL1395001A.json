@@ -1,0 +1,48 @@
+{
+    "alternate_names": [
+        "JEFF MARIOTTE",
+        "Kudranski, Szymon; Mariotte, Jeff"
+    ],
+    "personal_name": "Jeff Mariotte",
+    "key": "/authors/OL1395001A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Jeff Mariotte is the award-winning author of more than seventy novels, including thrillers Empty Rooms and The Devil\u2019s Bait, supernatural thrillers Season of the Wolf, Missing White Girl, River Runs Red, and Cold Black Hearts, and horror epic The Slab. With his wife, the author Marsheila Rockwell, he wrote the science fiction/horror/thriller 7 SYKOS, and numerous shorter works. He also writes comic books, including the long-running horror/Western comic book series Desperadoes and graphic novels Zombie Cop and Fade to Black. He has worked in virtually every aspect of the book business, including bookselling, marketing, editing, and publishing. He lives in Arizona, in a home filled with books, art, music, toys, and love."
+    },
+    "remote_ids": {
+        "isni": "0000000367765289",
+        "viaf": "233068583",
+        "wikidata": "Q1412142"
+    },
+    "name": "Jeff Mariotte",
+    "links": [
+        {
+            "url": "https://www.simonandschuster.com/authors/Jeff-Mariotte/1776253",
+            "title": "Publisher",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "birth_date": "7 September 1955",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:6051735011",
+        "promise:bwb_daily_pallets_2022-11-11:P8-BAX-676"
+    ],
+    "photos": [
+        12092892
+    ],
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-01T20:02:43.098627"
+    }
+}

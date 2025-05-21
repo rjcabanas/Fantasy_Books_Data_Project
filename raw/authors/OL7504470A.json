@@ -1,0 +1,17 @@
+{
+    "name": "Laurie Forest",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-04-20T12:43:41.162037"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-04-20T12:43:41.162037"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7504470A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

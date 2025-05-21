@@ -1,0 +1,25 @@
+{
+    "personal_name": "Robert Desoille",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T15:51:34.599829"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL1944658A",
+    "remote_ids": {
+        "viaf": "32117627",
+        "wikidata": "Q3434952",
+        "isni": "0000000110515284"
+    },
+    "name": "Robert Desoille",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "death_date": "1966",
+    "birth_date": "1890",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 5
+}

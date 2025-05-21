@@ -1,0 +1,17 @@
+{
+    "name": "Kato Kazue",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T07:34:06.396410"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T07:34:06.396410"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7313485A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

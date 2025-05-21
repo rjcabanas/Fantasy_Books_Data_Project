@@ -1,0 +1,36 @@
+{
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-08-13",
+        "promise:bwb_daily_pallets_2021-04-01",
+        "promise:bwb_daily_pallets_2021-07-26",
+        "promise:bwb_daily_pallets_2021-04-06"
+    ],
+    "name": "David G. Hartwell",
+    "key": "/authors/OL457863A",
+    "remote_ids": {
+        "viaf": "33278380",
+        "wikidata": "Q5233934",
+        "isni": "000000011441187X"
+    },
+    "photos": [
+        7251663,
+        7251662
+    ],
+    "personal_name": "David G. Hartwell",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1941-07-10",
+    "death_date": "2016-01-20",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-19T12:56:20.605385"
+    }
+}

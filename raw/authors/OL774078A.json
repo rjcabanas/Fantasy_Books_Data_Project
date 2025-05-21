@@ -1,0 +1,29 @@
+{
+    "name": "Stuart Hill",
+    "key": "/authors/OL774078A",
+    "personal_name": "Stuart Hill",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Stuart HIll"
+    ],
+    "remote_ids": {
+        "viaf": "112843596",
+        "wikidata": "Q2270271",
+        "isni": "0000000084713497"
+    },
+    "photos": [
+        12850865
+    ],
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-03T21:11:29.366093"
+    }
+}

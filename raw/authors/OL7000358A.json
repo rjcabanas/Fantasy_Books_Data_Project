@@ -1,0 +1,19 @@
+{
+    "name": "William Alexander",
+    "personal_name": "William Alexander",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2011-10-22T09:10:24.454092"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-22T09:10:24.454092"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7000358A",
+    "birth_date": "1976",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

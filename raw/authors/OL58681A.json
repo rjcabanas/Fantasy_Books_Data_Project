@@ -1,0 +1,22 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Randi Reisfeld has written over 60 books, primarily for \u2018tweens and teens; non-fiction (celebrity biographies, two of which have made the New York Times best seller list); and fiction. She wrote the Clueless series, original stories based on the characters in the movie, as well as six books based on the character of TV's Moesha. Her original fiction series called T*Witches is a Disney Channel TV movie, broadcast October 2005. [NOTE: Although Witches is in the title, this series is completely wholesome, compelling, and humorous, and has nothing to do with the occult]. \r\n\r\nShe is an editor at Scholastic, as well."
+    },
+    "name": "Randi Reisfeld",
+    "personal_name": "Randi Reisfeld",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2017-12-18T02:53:54.909054"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL58681A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

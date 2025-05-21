@@ -1,0 +1,22 @@
+{
+    "photos": [
+        8383230
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-02-22T08:52:47.449159"
+    },
+    "latest_revision": 3,
+    "name": "Janette Rallison",
+    "key": "/authors/OL219350A",
+    "personal_name": "Janette Rallison",
+    "birth_date": "1966",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

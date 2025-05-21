@@ -1,0 +1,17 @@
+{
+    "name": "Heather Nuhfer",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-05T06:26:43.396380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-05T06:26:43.396380"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7468622A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

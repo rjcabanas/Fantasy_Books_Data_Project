@@ -1,0 +1,18 @@
+{
+    "name": "Yannick Grotholt",
+    "personal_name": "Yannick Grotholt",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-09-24T05:00:19.025568"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-09-24T05:00:19.025568"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7422237A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

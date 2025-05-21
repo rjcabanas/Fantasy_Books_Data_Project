@@ -1,0 +1,60 @@
+{
+    "alternate_names": [
+        "Cameron Hall (pseud.)",
+        "Charles Satterfield (pseud.)",
+        "Edson McCann (pseud.)",
+        "Erik Van Lhin (pseud.)",
+        "John Alvarez (pseud.)",
+        "Kenneth Wright (pseud.)",
+        "Leonard Knapp (birthname)",
+        "Marion Henry (pseud.)",
+        "Philip James (pseud.)",
+        "Philip St John (pseud.)",
+        "Philip St. John (pseud.)",
+        "Ramon F. Alvarez-del Rey (pseud.)",
+        "Wade Kaempfert (pseud.)"
+    ],
+    "photos": [
+        5540865
+    ],
+    "name": "Lester del Rey",
+    "death_date": "10 May 1993",
+    "key": "/authors/OL1755216A",
+    "bio": "Lester del Rey was born Leonard Knapp in Saratoga, Minnesota, the son of poor sharecroppers of partly Spanish ancestry.  His mother died shortly after his birth, and he managed to complete high school and two years at George Washington University before dropping out for economic reasons.  He started publishing stories in pulp magazines in the late 1930s. He was closely associated Astounding Science Fiction, then the leading science fiction magazine. In 1935, his first wife was killed in a car accident.  By 1947 he had written enough solid short fiction to generate his first book, the anthology And Some Were Human.  In the 1950s, he was a leading science fiction writer.  After marrying his second wife in 1945, he became a full-time writer. In 1947 he met the literary agent Scott Meredith at a convention and he began working for Meredith's agency as a reader and office manager.  He later made his way into editing for pulp magazines and then for book publishers. In 1952 and 1953, he edited Space SF, Fantasy Fiction, Science Fiction Adventures (as Philip St. John), Rocket Stories (as Wade Kampfaert), and Fantasy Fiction (as Cameron Hall).  He was most successful editing for Ballantine Books with his final wife, Judy-Lynn del Rey, and founded a popular science fiction imprint with her at Ballantine, Del Rey Books, in 1977.",
+    "type": {
+        "key": "/type/author"
+    },
+    "location": "New York City, NY",
+    "birth_date": "2 June 1915",
+    "personal_name": "Leonard Knapp",
+    "remote_ids": {
+        "viaf": "104718798",
+        "wikidata": "Q684748",
+        "isni": "0000000110020361"
+    },
+    "source_records": [
+        "amazon:1469259788",
+        "amazon:1374850659",
+        "bwb:9781322630243",
+        "ia:bestscienceficti0000unse_d9f6",
+        "bwb:9780557633791",
+        "marc:marc_scms/20220805_ADAM_MARC_records.mrc:33341182:1337",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2020-11-27",
+        "promise:bwb_daily_pallets_2022-11-15:P8-AZM-587",
+        "promise:bwb_daily_pallets_2023-05-22:O9-ABR-257",
+        "promise:bwb_daily_pallets_2023-05-24:KM-393-656",
+        "bwb:9798707075704",
+        "bwb:9781546404262"
+    ],
+    "latest_revision": 17,
+    "revision": 17,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T15:53:09.202564"
+    }
+}

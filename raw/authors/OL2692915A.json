@@ -1,0 +1,85 @@
+{
+    "personal_name": "Morgan, Richard K.",
+    "alternate_names": [
+        "Morgan, Richard K.",
+        "Richard Kingsley Morgan",
+        "Richard K Morgan",
+        "Richard Morgan",
+        "\u30ea\u30c1\u30e3\u30fc\u30c9 \u30e2\u30fc\u30ac\u30f3",
+        "\u7406\u67e5\u5fb7\u00b7\u6469\u6839",
+        "\ub9ac\ucc98\ub4dc K. \ubaa8\uac74",
+        "\u0420\u0438\u0447\u0430\u0440\u0434 \u041c\u043e\u0440\u0433\u0430\u043d",
+        "Ri\u010dard Morgan"
+    ],
+    "key": "/authors/OL2692915A",
+    "remote_ids": {
+        "viaf": "102483092",
+        "wikidata": "Q254635",
+        "isni": "0000000114762565",
+        "inventaire": "wd:Q254635",
+        "gnd": "130100935",
+        "lc_naf": "n2002039466",
+        "bookbrainz": "520c6b0b-527d-4ea7-a690-1ccb5b3eb47c",
+        "goodreads": "16496",
+        "imdb": "nm3975029",
+        "musicbrainz": "541669a9-a25e-4f51-ac10-c1487eaf97aa",
+        "librarything": "morganrichardk-1",
+        "storygraph": "fbba695d-5433-4642-bd2b-1f25a0d94e21"
+    },
+    "name": "Richard K. Morgan",
+    "birth_date": "24 September 1965",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "title": "Official Website",
+            "url": "https://www.richardkmorgan.com",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Official Blog",
+            "url": "https://www.richardkmorgan.com/news-and-blog",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/m/richard-morgan/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?7119",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/morgan_richard",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14855871,
+        14855870
+    ],
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-30T14:52:47.251161"
+    }
+}

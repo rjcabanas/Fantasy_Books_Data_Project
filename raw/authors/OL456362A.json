@@ -1,0 +1,38 @@
+{
+    "death_date": "1898",
+    "birth_date": "1850",
+    "remote_ids": {
+        "isni": "0000000119508531",
+        "viaf": "69017465",
+        "wikidata": "Q455776"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Bellamy, Edward",
+    "alternate_names": [
+        "Edward Edward Bellamy",
+        "Edward 1850-1898 Bellamy",
+        "Bellamy Edward 1850-1898",
+        "Edward (1850-1898) Bellamy"
+    ],
+    "source_records": [
+        "amazon:137729367X",
+        "bwb:9798462404726",
+        "amazon:1014595827",
+        "amazon:1340476916",
+        "promise:bwb_daily_pallets_2021-09-14"
+    ],
+    "key": "/authors/OL456362A",
+    "name": "Edward Bellamy",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-06T01:39:17.189004"
+    }
+}

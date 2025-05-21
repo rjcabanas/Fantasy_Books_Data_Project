@@ -1,0 +1,36 @@
+{
+    "remote_ids": {
+        "viaf": "100880163",
+        "wikidata": "Q243027",
+        "isni": "0000000081700391"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Elizabeth Moon",
+    "birth_date": "1945",
+    "links": [
+        {
+            "title": "Wikipedia [en]",
+            "url": "http://en.wikipedia.org/wiki/Elizabeth_Moon",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL24838A",
+    "source_records": [
+        "amazon:1538475804"
+    ],
+    "name": "Elizabeth Moon",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-08T10:13:50.880140"
+    }
+}

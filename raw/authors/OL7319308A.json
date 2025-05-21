@@ -1,0 +1,17 @@
+{
+    "name": "Catherine Egan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T09:39:23.934887"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T09:39:23.934887"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7319308A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

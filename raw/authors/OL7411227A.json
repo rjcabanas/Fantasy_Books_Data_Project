@@ -1,0 +1,26 @@
+{
+    "name": "Linsey Miller",
+    "links": [
+        {
+            "url": "http://www.linseymiller.com/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Author's Website"
+        }
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-04-12T23:12:09.611781"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-04-12T23:21:51.490324"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL7411227A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

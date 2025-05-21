@@ -1,0 +1,25 @@
+{
+    "name": "Ally Condie",
+    "key": "/authors/OL3252950A",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "American author of young adult and middle grade fiction."
+    },
+    "birth_date": "1978",
+    "alternate_names": [
+        "Allyson Braithwaite Condie"
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-20T17:53:26.491531"
+    }
+}

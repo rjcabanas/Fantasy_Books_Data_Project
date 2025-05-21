@@ -1,0 +1,22 @@
+{
+    "name": "Lucien Soulban",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-09T04:49:55.216788"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL2876090A",
+    "remote_ids": {
+        "viaf": "26586782",
+        "wikidata": "Q17126390",
+        "isni": "0000000043235847"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

@@ -1,0 +1,23 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Evgenij Veltistov",
+    "personal_name": "Evgenij Veltistov",
+    "birth_date": "1934",
+    "death_date": "1989",
+    "key": "/authors/OL9961761A",
+    "source_records": [
+        "ia:vseoprikljutjeni0000velt"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-19T23:40:44.881412"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-19T23:40:44.881412"
+    }
+}

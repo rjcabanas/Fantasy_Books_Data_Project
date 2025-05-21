@@ -1,0 +1,37 @@
+{
+    "source_records": [
+        "ia:lesamouraibambou0000mats",
+        "ia:lesamouraibambou0000mats_e1u3"
+    ],
+    "birth_date": "25 October 1967",
+    "photos": [
+        8576654,
+        8577855
+    ],
+    "remote_ids": {
+        "viaf": "51799515",
+        "wikidata": "Q1504165",
+        "isni": "0000000117631085"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "\u677e\u672c\u5927\u6d0b",
+        "Taiyo Matsumoto",
+        "Taiy\u00f4 Matsumoto"
+    ],
+    "key": "/authors/OL3065168A",
+    "personal_name": "Taiy\u014d Matsumoto",
+    "name": "Taiy\u014d Matsumoto",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-10T20:47:57.172000"
+    }
+}

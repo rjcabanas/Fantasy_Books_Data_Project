@@ -1,0 +1,18 @@
+{
+    "name": "Steve Bein",
+    "personal_name": "Steve Bein",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-02-08T11:01:39.994626"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-02-08T11:01:39.994626"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7077625A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ethel Spector Person",
+    "personal_name": "Ethel Spector Person",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-28 23:39:33.811323"
+    },
+    "key": "/authors/OL658645A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 1935721,
+    "revision": 2
+}

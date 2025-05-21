@@ -1,0 +1,18 @@
+{
+    "name": "D. M. Paige",
+    "personal_name": "D. M. Paige",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-04-13T05:17:34.670513"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-04-13T05:17:34.670513"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7411275A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

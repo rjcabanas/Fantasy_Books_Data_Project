@@ -1,0 +1,41 @@
+{
+    "birth_date": "21 October 1977",
+    "name": "Delilah S. Dawson",
+    "remote_ids": {
+        "viaf": "63538187"
+    },
+    "alternate_names": [
+        "Lila Bowen",
+        "Ava Lovelace",
+        "Delilah S Dawson",
+        "\u0414\u0435\u043b\u0430\u0439\u043b\u0430 \u0421. \u0414\u043e\u0443\u0441\u043e\u043d / Delilah S. Dawson"
+    ],
+    "source_records": [
+        "bwb:9781789097948",
+        "amazon:6177279392",
+        "bwb:9781532142895",
+        "promise:bwb_daily_pallets_2020-12-09",
+        "amazon:0593722132",
+        "amazon:8491469389",
+        "amazon:8413348498"
+    ],
+    "photos": [
+        11087467,
+        11087458
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": "Delilah S. Dawson is the New York Times bestselling writer of Star Wars: PHASMA, plus Galaxy\u2019s Edge: Black Spire, The Secrets of Long Snoot, The Perfect Weapon, and Scorched; the Blud series, Servants of the Storm, the HIT series, Wake of Vultures and the Shadow series (as Lila Bowen), and a variety of short stories in anthologies such as Death & Honey, Robots vs. Fairies, Hellboy: an Assortment of Horrors, Violent Ends, Carniepunk, Three Slices, and Last Night a Superhero Saved My Life. With Kevin Hearne, she is the co-writer of the Tales of Pell series. \r\n\r\nHer next projects are MINE, a middle grade horror novel with Delacorte in Fall 2021 and THE VIOLENCE, a generational trauma tale set during a pandemic of random outbreaks of violence, out with Del Rey in 2022.\r\n\r\nHer comics credits include the creator-owned Ladycastle #1-4, Sparrowhawk #1-5, Star Pig #1-4, Firefly: The Sting, The X-Files Case Files: Florida Man #1-2, Adventure Time comics #66-69, Rick and Morty Presents: Pickle Rick, and Jim Henson's Labyrinth 2017 Special from BOOM! Studios, as well as stories in Star Wars Adventures #5, #6, #18, #25, and Star Wars: Forces of Destiny: Rose and Paige for IDW. Her most recent comics project is WELLINGTON, written with Aaron Mahnke of the Lore podcast.\r\n\r\nDelilah is the winner of the 2015 Fantasy Book of the Year from RT Book Reviews for WAKE OF VULTURES and the 2013 Steampunk Book of the Year and May Seal of Excellence for WICKED AS SHE WANTS. Her work has earned multiple stars from Kirkus, Publishers Weekly, Booklist, and Library Journal.\r\n\r\nShe lives in Florida with her family.",
+    "key": "/authors/OL7334544A",
+    "latest_revision": 11,
+    "revision": 11,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T15:31:27.536461"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-10T19:07:42.347805"
+    }
+}

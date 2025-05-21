@@ -1,0 +1,21 @@
+{
+    "name": "Kelley Armstrong",
+    "personal_name": "Kelley Armstrong",
+    "key": "/authors/OL7159378A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        -1
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-08-01T10:14:53.482726"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T12:08:53.026576"
+    }
+}

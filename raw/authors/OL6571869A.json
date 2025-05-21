@@ -1,0 +1,19 @@
+{
+    "name": "Shinji Ishii",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-17T22:41:12.194674"
+    },
+    "personal_name": "Shinji Ishii",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-02-17T22:41:12.194674"
+    },
+    "key": "/authors/OL6571869A",
+    "birth_date": "1966",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33731864,
+    "revision": 1
+}

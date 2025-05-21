@@ -1,0 +1,17 @@
+{
+    "name": "Anna Hackett",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T03:09:54.417186"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-06-30T03:09:54.417186"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6813499A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

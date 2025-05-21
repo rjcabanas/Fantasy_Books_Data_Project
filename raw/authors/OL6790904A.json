@@ -1,0 +1,19 @@
+{
+    "name": "Hilary Wagner",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-18T07:51:46.545699"
+    },
+    "personal_name": "Hilary Wagner",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-03-18T07:51:46.545699"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6790904A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 49384413,
+    "revision": 1
+}

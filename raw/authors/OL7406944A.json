@@ -1,0 +1,17 @@
+{
+    "name": "Platte F. Clark",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-01-15T17:31:25.136561"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-01-15T17:31:25.136561"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7406944A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

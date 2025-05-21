@@ -1,0 +1,20 @@
+{
+    "name": "Gene Luen Yang",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "photos": [
+        9046819
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-31T12:35:03.060436"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL3127125A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

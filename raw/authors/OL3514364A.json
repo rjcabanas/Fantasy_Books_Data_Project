@@ -1,0 +1,24 @@
+{
+    "remote_ids": {
+        "viaf": "16682801",
+        "wikidata": "Q6900607",
+        "isni": "0000000040194461"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Monk Ashland",
+    "birth_date": "1972",
+    "key": "/authors/OL3514364A",
+    "name": "Monk Ashland",
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-10T12:19:43.408674"
+    }
+}

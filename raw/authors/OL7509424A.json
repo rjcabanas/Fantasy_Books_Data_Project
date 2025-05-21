@@ -1,0 +1,17 @@
+{
+    "name": "Pam Brondos",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-01T17:40:20.321973"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-01T17:40:20.321973"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7509424A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

@@ -1,0 +1,24 @@
+{
+    "key": "/authors/OL668699A",
+    "personal_name": "Helen Cresswell",
+    "name": "Helen Cresswell",
+    "birth_date": "1936",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "122233185",
+        "wikidata": "Q444313",
+        "isni": "0000000117023899"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-02T19:30:03.434713"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "alternate_names": [
+        "Kingsley, Charles, 1819-1875",
+        "Charles 1819-1875 Kingsley",
+        "Charles 1819-1875 What Kingsley"
+    ],
+    "personal_name": "Charles Kingsley",
+    "death_date": "23 January 1875",
+    "key": "/authors/OL5989856A",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Charles Kingsley",
+    "photos": [
+        8745627
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Church of England priest, novelist, professor, historian (<a href=http://en.wikipedia.org/wiki/Charles_Kingsley>more</a>)."
+    },
+    "birth_date": "12 June 1819",
+    "remote_ids": {
+        "viaf": "27081838",
+        "wikidata": "Q353238",
+        "isni": "0000000114009856"
+    },
+    "source_records": [
+        "amazon:101422716X",
+        "bwb:9781376968118"
+    ],
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-27T00:18:36.893111"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-04T10:07:18.754116"
+    }
+}

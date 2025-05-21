@@ -1,0 +1,34 @@
+{
+    "photos": [
+        7413295
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Frank Cammuso",
+    "bio": {
+        "type": "/type/text",
+        "value": "American cartoonist"
+    },
+    "key": "/authors/OL30209A",
+    "remote_ids": {
+        "wikidata": "Q62747779",
+        "viaf": "7624073",
+        "isni": "0000000117404384"
+    },
+    "personal_name": "Frank Cammuso",
+    "birth_date": "1965",
+    "alternate_names": [
+        "FRANK CAMMUSO"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-27T21:45:09.645230"
+    }
+}

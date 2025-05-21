@@ -1,0 +1,18 @@
+{
+    "name": "S. A. Caldwell",
+    "personal_name": "S. A. Caldwell",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:08:17.104532"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:08:17.104532"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7612706A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

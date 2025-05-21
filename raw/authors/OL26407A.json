@@ -1,0 +1,51 @@
+{
+    "remote_ids": {
+        "wikidata": "Q6551733"
+    },
+    "name": "Linda Lael Miller",
+    "photos": [
+        13303819
+    ],
+    "alternate_names": [
+        "Linda Lael-Miller",
+        "Linda LaelMiller",
+        "Linda Lael Miller",
+        "LINDA LAEL MILLER",
+        "Mi le (Miller, Linda Lael)",
+        "Mi le (Linda Lael Miller)",
+        "MILLER,LINDA LAEL",
+        "Miller Linda Lael",
+        "Lael St. James",
+        "Linda Lael",
+        "Lael St James"
+    ],
+    "source_records": [
+        "ia:heritageenaustra0000mill",
+        "amazon:8468709239",
+        "ia:qiziqingfujiu0000mile",
+        "ia:malishaqinqin0000mile",
+        "promise:bwb_daily_pallets_2022-07-26",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "bwb:9781451611199",
+        "amazon:0739417819",
+        "bwb:9780606351768"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL26407A",
+    "personal_name": "Linda Lael Miller",
+    "title": "(Miller, Linda Lael)",
+    "bio": "TODAY bestselling author of more than 100 historical and contemporary novels, most of which reflect her love of the West. Raised in Northport, Washington, Linda pursued her wanderlust, living in London and Arizona and traveling the world before returning to the state of her birth to settle down on a spacious property outside Spokane.\r\n\r\nLinda traces the birth of her writing career to the day when a Northport teacher told her that the stories she was writing were good, that she just might have a future in writing. Later, when she decided to write novels, she endured her share of rejection before she sold Fletcher\u2019s Woman in 1983 to Pocket Books. Since then, Linda has successfully published historicals, contemporaries, paranormals, mysteries and thrillers before coming home, in a literal sense, and concentrating on novels with a Western flavor. For her devotion to her craft, the Romance Writers of America awarded her their prestigious Nora Roberts Lifetime Achievement Award in 2007.",
+    "birth_date": "1949",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-27T16:36:47.932595"
+    }
+}

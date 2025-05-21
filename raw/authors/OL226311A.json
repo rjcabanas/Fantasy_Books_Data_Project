@@ -1,0 +1,28 @@
+{
+    "key": "/authors/OL226311A",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-21T03:19:16.477439"
+    },
+    "latest_revision": 3,
+    "name": "Ann Hood",
+    "links": [
+        {
+            "url": "http://www.newschool.edu/writing/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "The New School Creative Writing Programs"
+        }
+    ],
+    "personal_name": "Ann Hood",
+    "birth_date": "1956",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

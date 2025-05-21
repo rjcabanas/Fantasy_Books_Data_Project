@@ -1,0 +1,21 @@
+{
+    "name": "James Clemens",
+    "personal_name": "James Clemens",
+    "key": "/authors/OL24154A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12840631
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-27T15:03:33.360928"
+    }
+}

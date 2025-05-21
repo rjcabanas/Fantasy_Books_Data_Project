@@ -1,0 +1,37 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "British writer"
+    },
+    "name": "Sally Prue",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Sally_Prue",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "Sally Prue",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:20:50.565151"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL1480058A",
+    "birth_date": "2000",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "79558217",
+        "wikidata": "Q7405262",
+        "isni": "0000000057185385"
+    }
+}

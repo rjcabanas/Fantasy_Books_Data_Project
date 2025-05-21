@@ -1,0 +1,19 @@
+{
+    "name": "Heather Dyer",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-21T12:41:11.574164"
+    },
+    "personal_name": "Heather Dyer",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-21T12:41:11.574164"
+    },
+    "key": "/authors/OL5687938A",
+    "birth_date": "1970",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 29053512,
+    "revision": 1
+}

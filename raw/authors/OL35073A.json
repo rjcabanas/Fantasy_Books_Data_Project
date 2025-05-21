@@ -1,0 +1,43 @@
+{
+    "death_date": "August 5, 2014",
+    "alternate_names": [
+        "Malcolm Scott Ciencin",
+        "Richard Awlinson",
+        "Nick Baron"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "**Malcolm Scott Ciencin** was an American author of adult and children's fiction, including fantasy and horror. He co-authored several books with his wife Denise Ciencin. \r\n- Wikipedia"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "100310295",
+        "wikidata": "Q4516103",
+        "isni": "0000000116918973"
+    },
+    "personal_name": "Scott Ciencin",
+    "photos": [
+        7428895,
+        7428896,
+        7428897
+    ],
+    "birth_date": "September 1, 1962",
+    "key": "/authors/OL35073A",
+    "source_records": [
+        "ia:shadowdale0000awli",
+        "promise:bwb_daily_pallets_2021-03-01"
+    ],
+    "name": "Scott Ciencin",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-26T14:56:44.378404"
+    }
+}

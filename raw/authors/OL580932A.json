@@ -1,0 +1,27 @@
+{
+    "name": "Stephen Manes",
+    "key": "/authors/OL580932A",
+    "personal_name": "Stephen Manes",
+    "birth_date": "1949",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "9850120",
+        "wikidata": "Q7609887",
+        "isni": "0000000120206776"
+    },
+    "photos": [
+        14392916
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-27T16:12:14.103479"
+    }
+}

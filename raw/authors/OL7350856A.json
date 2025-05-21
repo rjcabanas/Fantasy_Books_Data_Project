@@ -1,0 +1,17 @@
+{
+    "name": "Matty Long",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-16T02:38:56.422787"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-16T02:38:56.422787"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7350856A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

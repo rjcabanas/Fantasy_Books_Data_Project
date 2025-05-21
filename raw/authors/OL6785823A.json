@@ -1,0 +1,25 @@
+{
+    "name": "Gail Carriger",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-04T20:25:55.020103"
+    },
+    "photos": [
+        7006404
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:08:02.016234"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL6785823A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "255639039",
+        "wikidata": "Q3333439",
+        "isni": "0000000377930890"
+    }
+}

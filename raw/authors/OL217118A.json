@@ -1,0 +1,15 @@
+{
+    "name": "Rafe Martin",
+    "personal_name": "Rafe Martin",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 01:18:37.072377"
+    },
+    "key": "/authors/OL217118A",
+    "birth_date": "1946",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 562542,
+    "revision": 2
+}

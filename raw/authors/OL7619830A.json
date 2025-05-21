@@ -1,0 +1,17 @@
+{
+    "name": "J.H. Schlengmann",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-15T19:28:02.701386"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-08-15T19:28:02.701386"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7619830A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

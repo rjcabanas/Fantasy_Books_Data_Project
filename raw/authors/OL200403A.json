@@ -1,0 +1,58 @@
+{
+    "source_records": [
+        "amazon:0008205752",
+        "ia:marypoppins0000trav_e7w0",
+        "bwb:9780008289362",
+        "amazon:6054435094",
+        "amazon:0001811010",
+        "amazon:1014167868",
+        "bwb:9798218036614",
+        "amazon:8817075574",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-02-24"
+    ],
+    "personal_name": "Travers, P. L.",
+    "bio": "Pamela Lyndon Travers OBE was an Australian novelist, actress and journalist, popularly remembered for her series of children's novels about the mystical and magical nanny *Mary Poppins*. Her popular series has been adapted many times, including in the 1964 film starring Julie Andrews, and in the new and extremely popular Broadway musical which originally was produced in London's West End. ([Source][1])\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/P._L._Travers",
+    "death_date": "23 April 1996",
+    "remote_ids": {
+        "viaf": "95161798",
+        "wikidata": "Q228901",
+        "isni": "0000000118452003"
+    },
+    "photos": [
+        6390057,
+        12447636
+    ],
+    "birth_date": "9 August 1899",
+    "alternate_names": [
+        "P.L. Travers",
+        "P. L. Travers",
+        "Pamela Lyndon Travers",
+        "Pamela L. Travers",
+        "Pamela Travers",
+        "Helen Lyndon Goff",
+        "P. L. TRAVERS",
+        "Travers, Pamela",
+        "P. Travers",
+        "P L (Pamela Lyndon) 1899- Travers",
+        "Paula Travers",
+        "P L Travers",
+        "P. L Travers",
+        "p travers"
+    ],
+    "key": "/authors/OL200403A",
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "P. L. Travers",
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-12T23:09:43.251356"
+    }
+}

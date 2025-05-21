@@ -1,0 +1,21 @@
+{
+    "name": "Jessica Brody",
+    "personal_name": "Jessica Brody",
+    "key": "/authors/OL5092563A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "storygraph": "57d93b2e-2002-4ce0-b9c4-dd96aae6d06c"
+    },
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-25T14:17:54.966826"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-04T23:00:40.885358"
+    }
+}

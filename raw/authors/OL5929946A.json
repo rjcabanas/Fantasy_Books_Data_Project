@@ -1,0 +1,18 @@
+{
+    "name": "Gary Meehan",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-26T06:41:32.530916"
+    },
+    "personal_name": "Gary Meehan",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-26T06:41:32.530916"
+    },
+    "key": "/authors/OL5929946A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 30210448,
+    "revision": 1
+}

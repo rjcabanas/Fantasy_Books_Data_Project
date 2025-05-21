@@ -1,0 +1,24 @@
+{
+    "personal_name": "William Sleator",
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL19688A",
+    "birth_date": "1945",
+    "name": "William Sleator",
+    "remote_ids": {
+        "viaf": "76850861",
+        "wikidata": "Q1515266",
+        "isni": "0000000110719164"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-15T21:21:23.976321"
+    }
+}

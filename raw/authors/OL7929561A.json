@@ -1,0 +1,28 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL7929561A",
+    "name": "Namina Forna",
+    "source_records": [
+        "amazon:0593487028"
+    ],
+    "remote_ids": {
+        "amazon": "B083HZC3L2",
+        "storygraph": "01443efd-06ef-4a81-ba3a-41593b22fd18",
+        "wikidata": "Q105675333",
+        "librarything": "fornanamina",
+        "goodreads": "17999114",
+        "viaf": "6519161763132922560005"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-26T17:04:13.224709"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-19T16:14:01.939540"
+    }
+}

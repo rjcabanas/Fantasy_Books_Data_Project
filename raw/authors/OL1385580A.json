@@ -1,0 +1,25 @@
+{
+    "photos": [
+        7241532,
+        -1
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-10-30T16:21:49.484785"
+    },
+    "latest_revision": 6,
+    "name": "Maggie Shayne",
+    "key": "/authors/OL1385580A",
+    "personal_name": "Maggie Shayne",
+    "type": {
+        "key": "/type/author"
+    },
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "MAGGIE SHAYNE"
+    ],
+    "revision": 6
+}

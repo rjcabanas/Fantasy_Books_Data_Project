@@ -1,0 +1,20 @@
+{
+    "name": "Ichir\u014d Sakaki",
+    "personal_name": "Ichir\u014d Sakaki",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-12-04T07:20:31.967617"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-05-22T10:10:04.684238"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL6500643A",
+    "birth_date": "1969",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33238829,
+    "revision": 2
+}

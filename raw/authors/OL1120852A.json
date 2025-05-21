@@ -1,0 +1,41 @@
+{
+    "personal_name": "Robert C. O'Brien",
+    "birth_date": "1922",
+    "name": "Robert C. O'Brien",
+    "death_date": "1973",
+    "photos": [
+        14608615
+    ],
+    "remote_ids": {
+        "viaf": "107012026",
+        "isni": "0000000110317632",
+        "wikidata": "Q2156711"
+    },
+    "source_records": [
+        "bwb:9781641772327",
+        "amazon:1439574405",
+        "promise:bwb_daily_pallets_2023-02-21:P8-AXF-723"
+    ],
+    "alternate_names": [
+        "Robert Obrien",
+        "Robert C. O'brien"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL1120852A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Robert C. O'Brien In real life, Robert C. O'Brien was Robert Leslie Conly. He was born in Brooklyn, New York, attended Williams College and graduated from the Universtiy of Rochester. While there he studied piano at Eastman School of Music, and at one time considered being a musician. Instead, he became an editor and writer for Newsweek magazine from 1941 to 1944, and for Pathfinder from 1946 to 1951. From 1951 until the time of his death in 1973 he was employed as a writer and editor by the National Geographic Magazine. He made his home in New York City before 1944 and in Washington, D.C. after that. He also had a home in Morgan County, West Virginia, after 1965, a place he loved and visited as often as he could. He was married and the father of one son and three daughters. His books include The Silver Crown, Mrs. Frisby and the Rats of NIMH, which won the Newbery Award, and A Report From Group 17. His last book, Z is for Zachariah was nearly completed at the time of his death; the last few chapters were written from notes by this wife and one of his daughters."
+    },
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-13T12:24:04.262206"
+    }
+}

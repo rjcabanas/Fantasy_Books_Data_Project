@@ -1,0 +1,42 @@
+{
+    "key": "/authors/OL363502A",
+    "alternate_names": [
+        "E.D. Baker",
+        "E D Baker",
+        "E.D.BAKER",
+        "E.D.Baker",
+        "BAKER E. D.",
+        "E. D Baker"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "works": [
+        {
+            "key": "/works/OL21429215W"
+        }
+    ],
+    "personal_name": "E. D. Baker",
+    "remote_ids": {
+        "viaf": "266822454",
+        "wikidata": "Q5321811",
+        "isni": "0000000382863004"
+    },
+    "source_records": [
+        "bwb:9780470394151",
+        "amazon:8499180418",
+        "amazon:0439528380",
+        "promise:bwb_daily_pallets_2020-07-30"
+    ],
+    "name": "Elizabeth Dawson Baker",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-18T16:58:13.017178"
+    }
+}

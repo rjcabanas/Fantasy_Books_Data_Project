@@ -1,0 +1,46 @@
+{
+    "name": "W. Heath Robinson",
+    "personal_name": "W. Heath Robinson",
+    "alternate_names": [
+        "W.Heath Robinson",
+        "Illustrator-W. Heath Robinson",
+        "W Heath Robinson",
+        "William Heath Robinson",
+        "Heath Robinson",
+        "Robinson Heath",
+        "W Heath 1872-1944 Robinson",
+        "W. Heath (William Heath) 1872 Robinson",
+        "Robinson, W Heath, Browne, K R G",
+        "W. Heath (William Heath) 1 Robinson",
+        "Heath ROBINSON"
+    ],
+    "birth_date": "1872",
+    "death_date": "1944",
+    "source_records": [
+        "amazon:0344867110",
+        "amazon:1362725951",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "promise:bwb_daily_pallets_2021-04-08",
+        "bwb:9781014944085",
+        "amazon:9061410320"
+    ],
+    "remote_ids": {
+        "viaf": "95146331",
+        "wikidata": "Q731717",
+        "isni": "0000000109271729"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL829834A",
+    "latest_revision": 9,
+    "revision": 9,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-17T02:55:26.132247"
+    }
+}

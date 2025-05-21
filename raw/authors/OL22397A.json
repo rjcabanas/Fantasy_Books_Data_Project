@@ -1,0 +1,31 @@
+{
+    "name": "Holly Lisle",
+    "personal_name": "Holly Lisle",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "HOLLY LISLE",
+        "Holly lisle"
+    ],
+    "photos": [
+        7241874
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:54:21.404417"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL22397A",
+    "birth_date": "1960",
+    "revision": 7,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "5152598",
+        "wikidata": "Q273843",
+        "isni": "0000000114370617"
+    }
+}

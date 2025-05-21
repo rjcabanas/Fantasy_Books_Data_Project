@@ -1,0 +1,33 @@
+{
+    "alternate_names": [
+        "Yasemine Galenorn",
+        "Galenorn"
+    ],
+    "personal_name": "Yasmine Galenorn",
+    "name": "Yasmine Galenorn",
+    "birth_date": "1961",
+    "source_records": [
+        "amazon:6053489204"
+    ],
+    "key": "/authors/OL26973A",
+    "photos": [
+        -1
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "American novelist"
+    },
+    "latest_revision": 7,
+    "revision": 7,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-05T00:25:06.744332"
+    }
+}

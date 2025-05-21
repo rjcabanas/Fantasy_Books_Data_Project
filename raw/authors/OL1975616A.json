@@ -1,0 +1,25 @@
+{
+    "personal_name": "R. G. Austin",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T14:20:12.198125"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1975616A",
+    "remote_ids": {
+        "viaf": "67769693",
+        "wikidata": "Q1715353",
+        "isni": "0000000110688687"
+    },
+    "name": "R. G. Austin",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "death_date": "1974",
+    "birth_date": "1901",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

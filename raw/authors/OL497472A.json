@@ -1,0 +1,25 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Dwight Jon Zimmerman",
+    "bio": {
+        "type": "/type/text",
+        "value": "Dwight Jon Zimmerman is an American author and producer. His most recent book, *Uncommon Valor: The Medal of Honor and the Six Warriors Who Earned It in Afghanistan and Iraq*, co-authored with John D. Gresham and published by St. Martin\u2019s Press, received the 2010 Founder\u2019s Award from the Military Writers Society of America. Zimmerman\u2019s other books include the award-winning *The Vietnam War: A Graphic History* (Hill & Wang), with artist Wayne Vansant; *Beyond Hell and Back* (St. Martin\u2019s Press), with co-author John D. Gresham; *First Command: Paths to Leadership* (Vandamere Press). Zimmerman has lectured at the U.S. Military Academy at West Point and the Naval War College and has written numerous articles on military history subjects. Zimmerman began his career in publishing at Marvel Comics, where he held a variety of editorial positions. In 1992, Zimmerman became executive editor of Topps Comics and was responsible for the editorial and art direction of its lines of media tie-in comics."
+    },
+    "key": "/authors/OL497472A",
+    "name": "Dwight Jon Zimmerman",
+    "alternate_names": [
+        "DWIGHT Zimmerman"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-21T18:02:35.284309"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "bio": "James Branch Cabell was an American author of fantasy fiction and belles letters. He has written fifty-two books, including novels, genealogies, collections of short stories, poetry, magazine articles, and miscellanea. He was elected to the American Academy of Arts and Sciences in 1937. - Source:Wikipedia",
+    "photos": [
+        7278274
+    ],
+    "name": "James Branch Cabell",
+    "personal_name": "James Branch Cabell",
+    "remote_ids": {
+        "viaf": "51705206",
+        "wikidata": "Q723374",
+        "isni": "0000000120256837"
+    },
+    "source_records": [
+        "bwb:9798489462402",
+        "amazon:0353400939",
+        "bwb:9798762642026",
+        "bwb:9780557628551",
+        "bwb:9781713390169",
+        "bwb:9781015093065",
+        "promise:bwb_daily_pallets_2021-07-21",
+        "promise:bwb_daily_pallets_2022-09-07:O8-CXA-120",
+        "amazon:160424822X",
+        "bwb:9798501365636",
+        "bwb:9798473186215",
+        "promise:bwb_daily_pallets_2022-08-02:O8-CHZ-145",
+        "bwb:9798729758913",
+        "promise:bwb_daily_pallets_2023-10-09:O9-BXZ-964",
+        "promise:bwb_daily_pallets_2023-11-08:P9-AIF-211",
+        "bwb:9781020502378",
+        "bwb:9781022023925",
+        "promise:bwb_daily_pallets_2024-01-catchup:P8-BNW-194",
+        "bwb:9781713300946",
+        "standard_ebooks:james-branch-cabell/the-cords-of-vanity"
+    ],
+    "alternate_names": [
+        "James BRANCH CABELL",
+        "James Branch 1879-1958 Cabell",
+        "James Cabell",
+        "James Cabell Branch",
+        "James Branch James Branch Cabell",
+        "Cabell James Branch",
+        "James Branch CABELL",
+        "Branch Cabell James Branch Cabell",
+        "James B. CABELL",
+        "james cabell",
+        "James Brach Cabell",
+        "James Branch Cabell Willson Follett"
+    ],
+    "death_date": "May 5, 1958",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "April 14, 1879",
+    "key": "/authors/OL1766758A",
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-13T12:51:08.898868"
+    }
+}

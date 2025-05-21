@@ -1,0 +1,29 @@
+{
+    "personal_name": "Gates, Eleanor",
+    "death_date": "1951",
+    "alternate_names": [
+        "Eleanor Gates",
+        "ELEANOR. GATES"
+    ],
+    "key": "/authors/OL2006357A",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1875",
+    "name": "Eleanor Gates",
+    "remote_ids": {
+        "isni": "0000000043076794",
+        "viaf": "21699532",
+        "wikidata": "Q3721233"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-04T01:53:32.074538"
+    }
+}

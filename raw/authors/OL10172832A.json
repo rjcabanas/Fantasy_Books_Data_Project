@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Lyn Hemphill",
+    "key": "/authors/OL10172832A",
+    "source_records": [
+        "bwb:9781636790831"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T10:35:14.374659"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T10:35:14.374659"
+    }
+}

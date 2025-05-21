@@ -1,0 +1,24 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Karen Chance grew up in Orlando, Florida, the home of make-believe, which probably explains a lot. She has since resided in France, Great Britain, Hong Kong and New Orleans, mostly goofing off but occasionally teaching history. She is currently living in Tampa. She published her first urban fantasy novel in 2006, and since them she continues writing. She has had books on the New York Times and USAToday bestselling lists."
+    },
+    "name": "Karen Chance",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "photos": [
+        7251645
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-02-24T23:04:09.885147"
+    },
+    "latest_revision": 3,
+    "key": "/authors/OL2702318A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

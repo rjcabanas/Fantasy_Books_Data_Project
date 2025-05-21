@@ -1,0 +1,19 @@
+{
+    "name": "Sherry D. Ramsey",
+    "personal_name": "Sherry D. Ramsey",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-11-12T08:06:00.935598"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-12T08:06:00.935598"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL8770828A",
+    "birth_date": "1963",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

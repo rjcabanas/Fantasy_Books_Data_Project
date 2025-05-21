@@ -1,0 +1,20 @@
+{
+    "name": "Yaeko Ninagawa",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-09T18:15:05.330156"
+    },
+    "alternate_names": [
+        "\u8737\u5ddd \u30e4\u30a8\u30b3"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-08-09T18:16:14.563969"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL7618801A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

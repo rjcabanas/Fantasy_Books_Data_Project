@@ -1,0 +1,24 @@
+{
+    "name": "Chris Claremont",
+    "key": "/authors/OL26992A",
+    "remote_ids": {
+        "viaf": "85553600",
+        "wikidata": "Q631369",
+        "isni": "0000000119117442"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Chris Claremont",
+    "birth_date": "1950",
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-21T17:33:56.696151"
+    }
+}

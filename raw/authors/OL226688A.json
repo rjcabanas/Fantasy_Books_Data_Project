@@ -1,0 +1,64 @@
+{
+    "name": "Jennifer Blake",
+    "bio": {
+        "type": "/type/text",
+        "value": "Patricia Ann Ponder was born on March 9, 1942 in a one hundred-twenty year old house constructed by her grandparents near Goldonna, Louisiana, where her family resided during seventh generation. She grep up in her parent's farm in Northern Louisiana. \r\n\r\nAt 15, Patricia married with Mr. Maxwell and they formed a happy family. At 21, she needed to be something more than a housewife and she began writing, she sold her first book at 27. She start writing gothic novels with her real name, Patricia Maxwell; she wrote one book in collaboration as Elizabeth Trehearne and she singed a murder mystery and a romantic suspense story as her maiden name, Patricia Ponder. When the gothic genre began to decay, she began to publish only romance genre, contemporany romances as Maxine Patrick and historical romances as Jennifer Blake, the only pseudonym that she uses now. \r\n\r\nThis legend of the romance genre is called the \"Steel Magnolia of women's fiction\" and gained New York Times Best Seller status since 1977, with \"Love's wild desire\". An international best seller as well, she has been published in 18 languages with worldwide sales approaching 30 million. She was honored with the position as Writer-in-Residence for the University of Northeastern Louisiana, and is a charter, and honorary, member of Romance Writers of America. \r\n\r\nSince 1998, Patricia and her husband have resided in a lakeside Caribbean-styled retreat in North Louisiana where they often entertain friends and family."
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Patricia Anne Ponder Maxwell",
+    "alternate_names": [
+        "Patricia Ann Ponder Maxwell",
+        "Patricia Maxwell",
+        "Elizabeth Trehearne",
+        "Patricia Ponder",
+        "Maxine Patrick",
+        "Jennifer Blake",
+        "Aka Jennifer Blake",
+        "Jennifer BLAKE",
+        "JENNIFER BLAKE",
+        "jennifer blake"
+    ],
+    "photos": [
+        7003969,
+        5539936,
+        6457681,
+        5539937
+    ],
+    "remote_ids": {
+        "goodreads": "128235",
+        "amazon": "B000APHHS8",
+        "viaf": "82631493",
+        "wikidata": "Q7145720",
+        "isni": "0000000116798449",
+        "librarything": "blakejennifer"
+    },
+    "location": "U.S.A. (Louisiana)",
+    "birth_date": "9 March 1942",
+    "fuller_name": "Patricia Anne Ponder Maxwell",
+    "source_records": [
+        "promise:bwb_daily_pallets_2020-10-08",
+        "promise:bwb_daily_pallets_2021-03-31"
+    ],
+    "links": [
+        {
+            "url": "http://www.jenniferblake.com",
+            "title": "Website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "key": "/authors/OL226688A",
+    "latest_revision": 17,
+    "revision": 17,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-13T14:29:59.950917"
+    }
+}

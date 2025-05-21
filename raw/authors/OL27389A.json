@@ -1,0 +1,40 @@
+{
+    "personal_name": "David Almond",
+    "remote_ids": {
+        "viaf": "100114026",
+        "wikidata": "Q706856",
+        "isni": "0000000115789591"
+    },
+    "source_records": [
+        "bwb:9780340883495",
+        "amazon:1406348023",
+        "amazon:6071612683",
+        "bwb:9780763653453",
+        "promise:bwb_daily_pallets_2021-04-05",
+        "promise:bwb_daily_pallets_2021-02-05",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "photos": [
+        10510374,
+        7284367
+    ],
+    "alternate_names": [
+        "Almond David"
+    ],
+    "key": "/authors/OL27389A",
+    "name": "David Almond",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "15 May 1951",
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-20T16:08:44.749618"
+    }
+}

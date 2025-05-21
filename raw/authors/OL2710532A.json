@@ -1,0 +1,45 @@
+{
+    "name": "Hugh Cook",
+    "links": [
+        {
+            "url": "http://en.wikipedia.org/wiki/Hugh_Cook_(science_fiction_author)",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        },
+        {
+            "url": "http://www.fantasticfiction.co.uk/c/hugh-cook/",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Fantastic Fiction"
+        }
+    ],
+    "personal_name": "Cook, Hugh",
+    "death_date": "8 November 2008",
+    "alternate_names": [
+        "Cook, Hugh",
+        "Hugh Walter Gilbert Cook"
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T13:09:57.884711"
+    },
+    "latest_revision": 5,
+    "key": "/authors/OL2710532A",
+    "birth_date": "9 August 1956",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "70394998",
+        "wikidata": "Q751879",
+        "isni": "0000000114933328"
+    }
+}

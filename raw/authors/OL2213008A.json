@@ -1,0 +1,57 @@
+{
+    "bio": "John Frederick Lange Jr. (born June 3, 1931) is an American writer who, as John Norman, has authored the Gor series of science fantasy novels. Norman is also a philosophy professor.",
+    "name": "John Norman",
+    "source_records": [
+        "amazon:0426181476"
+    ],
+    "remote_ids": {
+        "viaf": "90712237",
+        "wikidata": "Q982133",
+        "isni": "0000000118793641",
+        "gnd": "121935205"
+    },
+    "key": "/authors/OL2213008A",
+    "alternate_names": [
+        "John Frederick Lange, Jr."
+    ],
+    "personal_name": "John Norman",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "3 Jun 1931",
+    "links": [
+        {
+            "title": "Wikipedia",
+            "url": "http://en.wikipedia.org/wiki/John_Norman",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB",
+            "url": "http://www.isfdb.org/cgi-bin/ea.cgi?352",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        14606280,
+        7360573,
+        6933167,
+        6674467,
+        6674470,
+        6674468,
+        7912493
+    ],
+    "latest_revision": 25,
+    "revision": 25,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-15T16:15:05.966884"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_records": [
+        "bwb:9781942952053",
+        "amazon:1787736377",
+        "bwb:9780345516961",
+        "amazon:8448044347"
+    ],
+    "photos": [
+        11120216
+    ],
+    "alternate_names": [
+        "Matthew Stover",
+        "Mathew Stover"
+    ],
+    "name": "Matthew Woodring Stover",
+    "remote_ids": {
+        "viaf": "24774519",
+        "wikidata": "Q1909623",
+        "isni": "0000000079874341"
+    },
+    "personal_name": "Matthew Woodring Stover",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "29 January 1962",
+    "key": "/authors/OL399295A",
+    "bio": {
+        "type": "/type/text",
+        "value": "Matthew Woodring Stover (born 1962) is an American fantasy and science fiction novelist. He may be known best for his four Star Wars novels, including the novelization of Star Wars: Episode III \u2013 Revenge of the Sith. He has also written several fantasy novels, including Iron Dawn and Jericho Moon. He has written four science-fiction/fantasy hybrid stories featuring a hero named Caine: Heroes Die, Blade of Tyshalle, and Caine Black Knife, with the most recent, Caine's Law, released April 4, 2012."
+    },
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-10T18:18:04.591797"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Jeremy P. Bushnell",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-25T16:41:39.490440"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-25T16:41:39.490440"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7486034A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

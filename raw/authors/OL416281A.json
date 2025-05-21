@@ -1,0 +1,28 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Frank Frazetta (born Frank Frazzetta; February 9, 1928 \u2013 May 10, 2010) was an American fantasy and science fiction artist, noted for comic books, paperback book covers, paintings, posters, LP record album covers and other media. He is often referred to as the \"Godfather\" of Fantasy Art, and one of the most renowned illustrators of the 20th century. He was also the subject of a 2003 documentary \"Painting with Fire\".\r\n\r\nFrazetta was inducted into the comic book industry's Will Eisner Comic Book Hall of Fame, the Jack Kirby Hall of Fame, the The Society of Illustrators Hall of Fame, the Science Fiction Hall of Fame, and was awarded a Life Achievement Award from the World Fantasy Convention. \r\n\r\n**Source**: [Frank Frazetta](https://en.wikipedia.org/wiki/Frank_Frazetta) on Wikipedia."
+    },
+    "name": "Frank Frazetta",
+    "personal_name": "Frank Frazetta",
+    "death_date": "10 May 2010",
+    "photos": [
+        14322493,
+        10463744
+    ],
+    "key": "/authors/OL416281A",
+    "birth_date": "9 Feb 1928",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-18T15:09:36.792561"
+    }
+}

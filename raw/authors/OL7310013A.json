@@ -1,0 +1,17 @@
+{
+    "name": "Giulia Conti",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T06:16:58.790383"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T06:16:58.790383"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7310013A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

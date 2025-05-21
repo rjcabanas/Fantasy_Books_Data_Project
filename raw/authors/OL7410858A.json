@@ -1,0 +1,28 @@
+{
+    "source_records": [
+        "amazon:0593638441"
+    ],
+    "key": "/authors/OL7410858A",
+    "name": "Emily Henry",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "Henry  Emily"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Emily Henry is an American author. She studied creative writing at Hope College and the New York Center for Art & Media Studies, and now spends most of her time in Cincinnati, Ohio, and that part just beneath it."
+    },
+    "birth_date": "1991",
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-04-06T09:23:00.981435"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-30T16:58:13.019028"
+    }
+}

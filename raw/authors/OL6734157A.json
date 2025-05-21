@@ -1,0 +1,20 @@
+{
+    "name": "Stephen Deas",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-01T01:40:45.050397"
+    },
+    "personal_name": "Stephen Deas",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-01T01:40:45.050397"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL6734157A",
+    "birth_date": "1968",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 34698699,
+    "revision": 1
+}

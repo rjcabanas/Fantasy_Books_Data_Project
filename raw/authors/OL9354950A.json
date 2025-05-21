@@ -1,0 +1,33 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Vanessa Len",
+    "key": "/authors/OL9354950A",
+    "source_records": [
+        "amazon:0063024640"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Vanessa Len is an Australian author of Chinese-Malaysian and Maltese heritage. She lives in Melbourne, Australia."
+    },
+    "links": [
+        {
+            "title": "Official Author Website",
+            "url": "https://www.vanessalen.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-08T23:01:00.792814"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-08T22:39:58.169654"
+    }
+}

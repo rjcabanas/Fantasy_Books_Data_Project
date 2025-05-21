@@ -1,0 +1,19 @@
+{
+    "name": "P. J. Hoover",
+    "personal_name": "P. J. Hoover",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:57:34.090682"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:57:34.090682"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7613259A",
+    "birth_date": "1970",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

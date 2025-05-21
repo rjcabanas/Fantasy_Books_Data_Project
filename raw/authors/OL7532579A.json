@@ -1,0 +1,18 @@
+{
+    "name": "Donny Cates",
+    "personal_name": "Donny Cates",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T04:36:39.858194"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T04:36:39.858194"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7532579A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

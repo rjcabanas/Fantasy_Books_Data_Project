@@ -1,0 +1,20 @@
+{
+    "name": "P. W. Catanese",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "photos": [
+        8576138
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-21T23:11:43.578101"
+    },
+    "latest_revision": 2,
+    "key": "/authors/OL2763982A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 2
+}

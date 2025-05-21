@@ -1,0 +1,20 @@
+{
+    "name": "Camilla Ochlan",
+    "key": "/authors/OL8623438A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12249169
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-10-13T23:42:55.335861"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-30T18:18:13.089374"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Jinghong Zhang",
+    "personal_name": "Jinghong Zhang",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2012-05-02T08:40:53.604036"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-05-02T08:40:53.604036"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7118438A",
+    "birth_date": "1969",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

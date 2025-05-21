@@ -1,0 +1,26 @@
+{
+    "name": "Brian K. Vaughan",
+    "personal_name": "Brian K. Vaughan",
+    "key": "/authors/OL1399650A",
+    "type": {
+        "key": "/type/author"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "American screenwriter, comic book creator"
+    },
+    "remote_ids": {
+        "wikidata": "Q849628"
+    },
+    "birth_date": "1976",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-05T20:20:47.433016"
+    }
+}

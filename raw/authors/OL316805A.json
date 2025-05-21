@@ -1,0 +1,73 @@
+{
+    "key": "/authors/OL316805A",
+    "death_date": "1909",
+    "name": "Edward Everett Hale",
+    "title": "Sr",
+    "links": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Edward_Everett_Hale",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikipedia"
+        }
+    ],
+    "personal_name": "Hale, Edward Everett",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1822",
+    "source_records": [
+        "amazon:0353139998",
+        "amazon:0341653276",
+        "amazon:0341667188",
+        "bwb:9781245869461",
+        "promise:bwb_daily_pallets_2021-06-03",
+        "promise:bwb_daily_pallets_2022-05-23",
+        "promise:bwb_daily_pallets_2023-01-13:P8-BVM-449",
+        "promise:bwb_daily_pallets_2023-03-30:T2-FCC-203",
+        "promise:bwb_daily_pallets_2023-03-14:P8-DHP-736",
+        "ia:inhisnamestoryo00hale",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "remote_ids": {
+        "viaf": "40173248",
+        "wikidata": "Q786616",
+        "isni": "0000000081195735"
+    },
+    "alternate_names": [
+        "Hale, Edward Everett",
+        "Eduardo Everett Hale",
+        "Edward E. Hale",
+        "Edward F. Hale",
+        "Everett Edward Hale",
+        "Edward Everett And Others Hale",
+        "Edward Hale",
+        "Edward Everett 1822-1909 Hale",
+        "Thomas Tapper Edward Everett Hale",
+        "Edward E Hale",
+        "Edward Everett 1822 Hale",
+        "edward everett hale",
+        "Edward Everett (1822-1909) Hale",
+        "Hale, Everett, Edward.",
+        "Edward E. Hale, Edward E. Hale, Jr.",
+        "Edward Everett Hale Thomas Tapper",
+        "Hale, Edward Everett Sr",
+        "E. E. Hale",
+        "Carl Hale Edward Everett; introduction by Van Doren"
+    ],
+    "photos": [
+        11664339,
+        3367200
+    ],
+    "latest_revision": 15,
+    "revision": 15,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-04T02:46:02.346741"
+    }
+}

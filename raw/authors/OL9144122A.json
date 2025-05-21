@@ -1,0 +1,17 @@
+{
+    "name": "Mrs. J. C. Gorham ",
+    "key": "/authors/OL9144122A",
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2021-04-01T18:38:59.514135"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-04-01T18:38:59.514135"
+    }
+}

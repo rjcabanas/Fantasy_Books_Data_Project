@@ -1,0 +1,30 @@
+{
+    "personal_name": "T. A. Barron",
+    "alternate_names": [
+        "T.A. Barron",
+        "Thomas A. Barron"
+    ],
+    "photos": [
+        8568997
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T13:10:32.396465"
+    },
+    "latest_revision": 7,
+    "key": "/authors/OL19954A",
+    "remote_ids": {
+        "viaf": "119595826",
+        "wikidata": "Q764800",
+        "isni": "0000000114560517"
+    },
+    "name": "T. A. Barron",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 7
+}

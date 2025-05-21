@@ -1,0 +1,17 @@
+{
+    "name": "Audrey Coulthurst",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-11-24T16:27:13.988193"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-11-24T16:27:13.988193"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7434274A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

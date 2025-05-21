@@ -1,0 +1,25 @@
+{
+    "source_records": [
+        "amazon:9123926031"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Emma Carroll",
+    "key": "/authors/OL7613258A",
+    "personal_name": "Emma Carroll",
+    "birth_date": "1970",
+    "remote_ids": {
+        "amazon": "B00QXUNUOE"
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T20:57:27.348596"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-27T14:36:38.945628"
+    }
+}

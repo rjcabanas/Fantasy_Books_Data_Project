@@ -1,0 +1,15 @@
+{
+    "name": "Afzal Kureshi",
+    "personal_name": "Afzal Kureshi",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-23 19:56:42.653845"
+    },
+    "key": "/authors/OL1905154A",
+    "birth_date": "1939",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 6769510,
+    "revision": 2
+}

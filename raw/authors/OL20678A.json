@@ -1,0 +1,26 @@
+{
+    "photos": [
+        10454832
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 5,
+    "name": "Kage Baker",
+    "key": "/authors/OL20678A",
+    "personal_name": "Kage Baker",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:53:11.300283"
+    },
+    "remote_ids": {
+        "viaf": "79179312",
+        "wikidata": "Q259888",
+        "isni": "0000000114939658"
+    }
+}

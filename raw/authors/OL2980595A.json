@@ -1,0 +1,28 @@
+{
+    "name": "Tsugumi Ohba",
+    "key": "/authors/OL2980595A",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q558858"
+    },
+    "alternate_names": [
+        "Tsugumi \u014cba",
+        "Tsugumi Oba"
+    ],
+    "photos": [
+        14544118,
+        14544117
+    ],
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-13T22:01:21.879766"
+    }
+}

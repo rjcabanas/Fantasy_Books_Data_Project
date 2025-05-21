@@ -1,0 +1,120 @@
+{
+    "birth_date": "16 October 1854",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "title": "Wikipedia entry",
+            "url": "http://en.wikipedia.org/wiki/Oscar_Wilde",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Oscar Wilde Quotations",
+            "url": "http://izquotes.com/author/oscar-wilde",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Jardin des citations",
+            "url": "https://jardindescitations.com/auteurs/@oscarWilde",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "photos": [
+        3366081,
+        11564883,
+        5698231,
+        6289827,
+        -1
+    ],
+    "remote_ids": {
+        "amazon": "B000AQ0DXI",
+        "storygraph": "40dce906-6580-4c63-ab54-bc593e36e3f0",
+        "librivox": "114",
+        "project_gutenberg": "111",
+        "goodreads": "3565",
+        "wikidata": "Q30875",
+        "librarything": "wildeoscar",
+        "isni": "0000000121272652",
+        "viaf": "34464414",
+        "bookbrainz": "7b8f8f3a-4f2e-4b02-a0db-bccf34beef73",
+        "musicbrainz": "ca8acd72-3ea4-4b15-baf0-49bf9ab60d53"
+    },
+    "alternate_names": [
+        "Oscar O'Flahertie Wills Wilde",
+        "Wilde, Oscar O'Flahertie Wills",
+        "Oscar Fingal O'Flahertie Wills Wilde",
+        "Wilde, Oscar Fingal O'Flahertie Wills",
+        "Sebastian Melmoth",
+        "Wilde Oscar",
+        "Wilde, Oscar",
+        "OSCAR WILDE"
+    ],
+    "bio": "An Irish writer, poet, and prominent aesthete.\r\n\r\nOscar Fingal O'Flahertie Wills Wilde was an Irish playwright, poet, and author of numerous short stories, and one novel. Known for his biting wit, and a plentitude of aphorisms, he became one of the most successful playwrights of the late Victorian era in London, and one of the greatest celebrities of his day. Several of his plays continue to be widely performed, especially The Importance of Being Earnest.\r\n\r\nAs the result of a widely covered series of trials, Wilde suffered a dramatic downfall and was imprisoned for two years hard labour after being convicted of \"gross indecency\" with other men. After Wilde was released from prison he set sail for Dieppe by the night ferry. He never returned to Ireland or Britain, and died in poverty.",
+    "personal_name": "Oscar Wilde",
+    "name": "Oscar Wilde",
+    "source_records": [
+        "amazon:1528451635",
+        "amazon:9871784104",
+        "amazon:8415089872",
+        "amazon:1986180816",
+        "amazon:960329148X",
+        "amazon:9872425698",
+        "amazon:9874413530",
+        "bwb:9781408145166",
+        "bwb:9798585832680",
+        "bwb:9798529454183",
+        "amazon:1718081286",
+        "amazon:9871093527",
+        "amazon:0343343967",
+        "amazon:1539382567",
+        "bwb:9798829263300",
+        "bwb:9798495760172",
+        "promise:bwb_daily_pallets_2022-08-13",
+        "promise:bwb_daily_pallets_2021-08-24",
+        "bwb:9798766625438",
+        "bwb:9798669271978",
+        "bwb:9781071047897",
+        "amazon:1438787375",
+        "promise:bwb_daily_pallets_2020-12-04",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "promise:bwb_daily_pallets_2022-12-23",
+        "amazon:9873952292",
+        "amazon:8498428203",
+        "amazon:1534892257",
+        "amazon:8497167066",
+        "amazon:849794481X",
+        "bwb:9798357662248",
+        "bwb:9781784282585",
+        "ia:cuentos0000wild",
+        "amazon:8475253652",
+        "bwb:9798640359664",
+        "bwb:9798844362064",
+        "bwb:9798726405803",
+        "promise:bwb_daily_pallets_2022-12-20",
+        "promise:bwb_daily_pallets_2023-05-01:P8-DDH-086",
+        "promise:bwb_daily_pallets_2022-07-11:KR-079-385",
+        "amazon:8415171404",
+        "promise:bwb_daily_pallets_2023-05-10:W8-AJY-192",
+        "promise:bwb_daily_pallets_2023-05-24:KH-215-031"
+    ],
+    "death_date": "30 November 1900",
+    "key": "/authors/OL20646A",
+    "title": "Oscar.",
+    "latest_revision": 36,
+    "revision": 36,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-31T12:14:35.120828"
+    }
+}

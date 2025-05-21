@@ -1,0 +1,14 @@
+{
+    "name": "Jane Johnson",
+    "personal_name": "Jane Johnson",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-01 18:26:35.237193"
+    },
+    "key": "/authors/OL363825A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 980448,
+    "revision": 2
+}

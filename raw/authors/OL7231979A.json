@@ -1,0 +1,17 @@
+{
+    "name": "Zoe Reed",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2015-02-06T18:51:09.811042"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2015-02-06T18:51:09.811042"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7231979A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

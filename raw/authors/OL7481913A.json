@@ -1,0 +1,17 @@
+{
+    "name": "David Steffen",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-17T13:16:06.361112"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-17T13:16:06.361112"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7481913A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

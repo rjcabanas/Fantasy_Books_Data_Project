@@ -1,0 +1,27 @@
+{
+    "photos": [
+        7274391,
+        7274390
+    ],
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-07T23:52:28.122230"
+    },
+    "latest_revision": 5,
+    "name": "Ransom Riggs",
+    "key": "/authors/OL5372995A",
+    "personal_name": "Ransom Riggs",
+    "revision": 5,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T18:25:18.209875"
+    },
+    "remote_ids": {
+        "viaf": "73303041",
+        "wikidata": "Q7293486",
+        "isni": "0000000036876523"
+    }
+}

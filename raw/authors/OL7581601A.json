@@ -1,0 +1,17 @@
+{
+    "name": "2014 Jan 01",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-08T10:40:42.825923"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-08T10:40:42.825923"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7581601A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

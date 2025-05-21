@@ -1,0 +1,20 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Sophie Lark",
+    "key": "/authors/OL10621490A",
+    "source_records": [
+        "bwb:9781958931011"
+    ],
+    "latest_revision": 1,
+    "revision": 1,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-18T13:14:02.150805"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-18T13:14:02.150805"
+    }
+}

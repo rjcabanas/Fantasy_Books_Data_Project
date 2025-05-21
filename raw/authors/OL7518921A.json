@@ -1,0 +1,18 @@
+{
+    "name": "Rosamund Hodge",
+    "personal_name": "Rosamund Hodge",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T06:20:06.436057"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T06:20:06.436057"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7518921A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

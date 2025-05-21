@@ -1,0 +1,23 @@
+{
+    "name": "Lian Hearn",
+    "key": "/authors/OL1415040A",
+    "personal_name": "Lian Hearn",
+    "birth_date": "29 August 1942",
+    "title": "Schriftstellerin",
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "wikidata": "Q263599"
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-12T21:25:22.184332"
+    }
+}

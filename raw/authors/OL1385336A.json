@@ -1,0 +1,31 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Born Julia A. Beck in Mountainview, California, in 1965. Her father was an aeronautical engineer, and her mother worked as a secretary. She grew up in Austin, Texas, where she attended Lyndon Baines Johnson High School, graduating as valedictorian of her class. She went on to the University of Texas, where she received a bachelor's degree in communications (radio-television-film). Afterward, she worked as a media specialist for a community college, before enrolling in Baylor Law School. Coincidently, her father was attending Baylor and earning his law degree at the same time. She graduated second in her class, and started to work as a lawyer.\r\n\r\nShe married with Donald \"Don\" Kenner, and when in 1995, she and her husband , moved from Los Angeles back to her hometown of Austin, she decided to try to focus some of her creative energy. She has always loved making up stories, particularly those with a happy ending, and romance writing was a perfect fit. Though her first manuscript will never see the light of day, her second sold to Harlequin Temptation after placing first in the Tampa Area Romance Authors' Contest. That novel, Nobody Does It Better, was published in February of 2000. Since that first sale, Julie continued writing and publishing, she quit the practice of law to write full time in 2004. She was the winner of Romantic Times' Reviewer's Choice Award for Best Contemporary Paranormal of 2001, the winner of the Reviewers International Organization's award for best romantic suspense of 2004 and best paranormal of 2005, and the winner of the National Readers' Choice Award for best mainstream book of 2005, and was also the  two-time RITA finalist, both times for books about strong women. Her novel, Carpe Demon, is in development as a feature film with Warner Brothers and 1492 Pictures.\r\n\r\nWhen she's not writing, she loves spending time with her husband, her two daughters, her cats and with the neighborhood cats who tend to hang around her house. She and her husband also love to travel\u2014whether to small towns in the Texas hill country, or to more distant venues such as Ireland, London, or Paris. Julie's a movie buff, enjoying everything from the lightest romantic comedy to the most action-packed adventure! Julie loves to hear from readers, and you can write her at P.O. Box 151417, Austin, TX 78715-1417 (if you'd like free goodies, send a SASE), or send an e-mail to julie@juliekenner.com"
+    },
+    "name": "Julie Kenner",
+    "personal_name": "Julie Kenner",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "alternate_names": [
+        "Julia A. Beck Kenner",
+        "Julie Kenner",
+        "J. K. Beck"
+    ],
+    "photos": [
+        7100179
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-04-10T20:24:21.807384"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1385336A",
+    "birth_date": "1965",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

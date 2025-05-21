@@ -1,0 +1,75 @@
+{
+    "bio": "Dan Simmons (born April 4, 1948) is an American science fiction and horror writer. He is the author of the *Hyperion Cantos* and the *Ilium*/*Olympos* cycles, among other works which span the science fiction, horror, and fantasy genres, sometimes within a single novel. A typical example of Simmons' intermingling of genres is *Song of Kali* (1985), winner of the World Fantasy Award. He also writes mysteries and thrillers, some of which feature the continuing character Joe Kurtz.\r\n\r\n**Source**: [Dan Simmons](https://en.wikipedia.org/wiki/Dan_Simmons) on Wikipedia.",
+    "birth_date": "4 April 1948",
+    "key": "/authors/OL235668A",
+    "name": "Dan Simmons",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "amazon:2913039987"
+    ],
+    "photos": [
+        14852877,
+        6882581
+    ],
+    "personal_name": "Dan Simmons",
+    "remote_ids": {
+        "viaf": "107011235",
+        "isni": "0000000122838339",
+        "wikidata": "Q297538",
+        "amazon": "B000APQZD6",
+        "bookbrainz": "21c75ce6-4778-42e2-a7c4-491ca0958538",
+        "goodreads": "2687",
+        "gnd": "120399792",
+        "imdb": "nm0799721",
+        "lc_naf": "n85026246",
+        "librarything": "simmonsdan",
+        "musicbrainz": "f0784bdf-9f9c-4366-ac42-ea793ff56ff0",
+        "storygraph": "cc535a4a-2b36-492d-a749-3fc479bef147",
+        "inventaire": "wd:Q297538"
+    },
+    "alternate_names": [
+        "Simmons, Dan",
+        "Simmons, D.",
+        "D. Simmons",
+        "\u30c0\u30f3\u30fb\u30b7\u30e2\u30f3\u30ba",
+        "\u0414\u0430\u043d \u0421\u0438\u043c\u044a\u043d\u0441",
+        "\u0414\u044d\u043d \u0421\u0438\u043c\u043c\u043e\u043d\u0441",
+        "\u0414\u0435\u043d \u0421i\u043c\u043c\u043e\u043d\u0441",
+        "Den Simons"
+    ],
+    "links": [
+        {
+            "title": "Fantastic Fiction Author Entry",
+            "url": "https://www.fantasticfiction.com/s/dan-simmons/",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "ISFDB Author Entry",
+            "url": "https://www.isfdb.org/cgi-bin/ea.cgi?170",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "SFE Author Entry",
+            "url": "https://sf-encyclopedia.com/entry/simmons_dan",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-18T04:53:24.855159"
+    }
+}

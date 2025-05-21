@@ -1,0 +1,35 @@
+{
+    "key": "/authors/OL1042295A",
+    "personal_name": "A. C. H. Smith",
+    "birth_date": "31 Oct 1935",
+    "name": "A. C. H. Smith",
+    "type": {
+        "key": "/type/author"
+    },
+    "alternate_names": [
+        "A.C.H. Smith",
+        "Anthony Charles Hockley Smith"
+    ],
+    "photos": [
+        12565019
+    ],
+    "remote_ids": {
+        "wikidata": "Q4647613",
+        "isni": "0000000081471891",
+        "viaf": "66995324"
+    },
+    "bio": {
+        "type": "/type/text",
+        "value": "Anthony Charles Hockley Smith (born Anthony Charles Smith, 31 October 1935), best known as A. C. H. Smith, is a British novelist and playwright from Kew."
+    },
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-01-19T19:34:29.537490"
+    }
+}

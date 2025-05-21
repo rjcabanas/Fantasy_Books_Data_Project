@@ -1,0 +1,25 @@
+{
+    "birth_date": "1969",
+    "key": "/authors/OL1425196A",
+    "personal_name": "Kelly Link",
+    "source_records": [
+        "ia:lajeunedetective0000link"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Kelly Link",
+    "alternate_names": [
+        "link-kelly"
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-25T00:37:18.640265"
+    }
+}

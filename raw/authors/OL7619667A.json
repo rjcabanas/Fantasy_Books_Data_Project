@@ -1,0 +1,17 @@
+{
+    "name": "Yamatogawa",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-14T21:18:41.749321"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-08-14T21:18:41.749321"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7619667A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

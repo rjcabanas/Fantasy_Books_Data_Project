@@ -1,0 +1,33 @@
+{
+    "name": "Akram El-Bahay",
+    "key": "/authors/OL7654281A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        12879687
+    ],
+    "bio": "Akram El-Bahay hat seine Leidenschaft, das Schreiben, zum Beruf gemacht: Er arbeitet als Journalist und Autor. Als Kind eines \u00e4gyptischen Vaters und einer deutschen Mutter ist er mit Einfl\u00fcssen aus zwei Kulturkreisen aufgewachsen, deren Mythenwelt ihn gleicherma\u00dfen inspirieren.",
+    "remote_ids": {
+        "goodreads": "8324752",
+        "amazon": "B00GSKI5FI",
+        "wikidata": "Q62520074",
+        "isni": "0000000500752728",
+        "viaf": "311196283"
+    },
+    "birth_date": "1976",
+    "alternate_names": [
+        "El-Bahay, Akram",
+        "Bahay, Akram El"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-08T16:16:00.952121"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-28T21:21:07.312388"
+    }
+}

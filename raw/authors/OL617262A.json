@@ -1,0 +1,31 @@
+{
+    "name": "Tom Miller",
+    "personal_name": "Tom Miller",
+    "key": "/authors/OL617262A",
+    "type": {
+        "key": "/type/author"
+    },
+    "links": [
+        {
+            "url": "http://www.tommillerbooks.com/",
+            "title": "Author's website",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "Tom Miller is the author of *La ruta de los Panam\u00e1s* about South America, *En la frontera*, which recounts adventures on the U.S.-Mexico border, and *Trading with the Enemy: A Yankee Travels Through Castro's Cuba*. His articles have appeared in *Smithsonian* magazine, *The New Yorker*, *The New York Times*, and other newspapers. Miller resides in Tucson, Arizona."
+    },
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-01T16:36:46.726504"
+    }
+}

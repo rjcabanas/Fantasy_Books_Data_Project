@@ -1,0 +1,14 @@
+{
+    "name": "John Goode",
+    "personal_name": "John Goode",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-19 13:47:28.138508"
+    },
+    "key": "/authors/OL1098930A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 3561747,
+    "revision": 2
+}

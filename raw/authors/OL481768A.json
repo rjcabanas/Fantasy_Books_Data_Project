@@ -1,0 +1,22 @@
+{
+    "key": "/authors/OL481768A",
+    "personal_name": "Martin Powell",
+    "type": {
+        "key": "/type/author"
+    },
+    "birth_date": "1959",
+    "name": "Martin Powell",
+    "remote_ids": {
+        "viaf": "249765325"
+    },
+    "latest_revision": 4,
+    "revision": 4,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-30T09:09:19.125451"
+    }
+}

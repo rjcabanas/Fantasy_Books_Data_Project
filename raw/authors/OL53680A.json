@@ -1,0 +1,43 @@
+{
+    "photos": [
+        6672560,
+        6672558
+    ],
+    "alternate_names": [
+        "Naomi May Margaret Haldane",
+        "Naomi Haldane Mitchison",
+        "Naomi M. Mitchison"
+    ],
+    "name": "Naomi Mitchison",
+    "type": {
+        "key": "/type/author"
+    },
+    "source_records": [
+        "promise:bwb_daily_pallets_2022-08-22",
+        "promise:bwb_daily_pallets_2020-11-19",
+        "promise:bwb_daily_pallets_2023-01-09",
+        "bwb:9781015082632",
+        "promise:bwb_daily_pallets_2023-05-15:TM-280-226",
+        "promise:bwb_daily_pallets_2023-05-16:KJ-133-668"
+    ],
+    "key": "/authors/OL53680A",
+    "bio": "Scottish novelist and poet.",
+    "birth_date": "1897-11-01",
+    "remote_ids": {
+        "wikidata": "Q461571",
+        "viaf": "76330590",
+        "isni": "0000000108586876"
+    },
+    "death_date": "1999-01-11",
+    "personal_name": "Naomi Mitchison",
+    "latest_revision": 12,
+    "revision": 12,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T20:25:55.239472"
+    }
+}

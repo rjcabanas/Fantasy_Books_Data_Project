@@ -1,0 +1,71 @@
+{
+    "alternate_names": [
+        "F. Marion Crawford",
+        "F. M. Crawford",
+        "F Marion 1854-1909 Crawford",
+        "Marion F. Crawford",
+        "F Marion Crawford",
+        "F. Marion CRAWFORD",
+        "F. Marion 1854-1909 Crawford",
+        "F. Marion (Francis Marion) Crawford",
+        "Crawford, F. Marion, Crawford, Francis Marion",
+        "F. Marion [DD - Decorative Designers]. Crawford",
+        "F. MARION CRAWFORD"
+    ],
+    "bio": {
+        "type": "/type/text",
+        "value": "A prolific American writer of romances and fantasies (<a href=http://en.wikipedia.org/wiki/Francis_Marion_Crawford>Wikipedia</a>).\r\nHe was born in Italy and lived much of his adult life there."
+    },
+    "personal_name": "Crawford, F. Marion",
+    "death_date": "19 April 1909",
+    "remote_ids": {
+        "viaf": "4958780",
+        "wikidata": "Q670179",
+        "isni": "0000000110360729"
+    },
+    "birth_date": "2 August 1854",
+    "photos": [
+        7029993
+    ],
+    "links": [
+        {
+            "url": "https://en.wikisource.org/wiki/Author:Francis_Marion_Crawford",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Wikisource"
+        },
+        {
+            "url": "http://www.gutenberg.org/ebooks/author/1316",
+            "type": {
+                "key": "/type/link"
+            },
+            "title": "Gutenberg"
+        }
+    ],
+    "name": "Francis Marion Crawford",
+    "key": "/authors/OL215791A",
+    "source_records": [
+        "amazon:143782854X",
+        "amazon:3348072417",
+        "bwb:9781796672268",
+        "bwb:9780274678921",
+        "bwb:9781014628633",
+        "promise:bwb_daily_pallets_2022-06-01",
+        "promise:bwb_daily_pallets_2022-05-23",
+        "promise:bwb_daily_pallets_2020-10-07"
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-08T19:07:03.131791"
+    }
+}

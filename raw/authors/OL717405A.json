@@ -1,0 +1,15 @@
+{
+    "name": "Richardson, Alan",
+    "personal_name": "Richardson, Alan",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-01 03:28:50.625462"
+    },
+    "key": "/authors/OL717405A",
+    "birth_date": "1923",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 2135874,
+    "revision": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Amy Ewing",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-11T08:00:55.080147"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-03-11T08:00:55.080147"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7475402A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

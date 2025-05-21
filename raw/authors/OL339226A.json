@@ -1,0 +1,23 @@
+{
+    "bio": {
+        "type": "/type/text",
+        "value": "Rachel Billington has written twenty one novels and eleven books for children. She is also a journalist, feature writer and reviewer. She is a regular contributor and Associate Editor of Inside Time, the national newspaper for prisoners and a Vice-President of English PEN. In 2012 she was awarded an OBE for Services to Literature."
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-02-28T22:45:53.059078"
+    },
+    "latest_revision": 3,
+    "name": "Rachel Billington",
+    "key": "/authors/OL339226A",
+    "personal_name": "Rachel Billington",
+    "birth_date": "May 11, 1942",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 3
+}

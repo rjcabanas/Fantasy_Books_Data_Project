@@ -1,0 +1,29 @@
+{
+    "personal_name": "Moyra Caldecott",
+    "alternate_names": [
+        "Caldecott, Moyra.",
+        "Moyra, Caldecott",
+        "MOYRA CALDECOTT"
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T04:02:21.121745"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL4326376A",
+    "remote_ids": {
+        "viaf": "67092452",
+        "wikidata": "Q1396723",
+        "isni": "0000000063198000"
+    },
+    "name": "Moyra Caldecott",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-08-30T18:11:17.761930"
+    },
+    "birth_date": "1927",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 4
+}

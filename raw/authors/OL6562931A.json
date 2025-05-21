@@ -1,0 +1,18 @@
+{
+    "name": "Reiz\u014d Fukunaga",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-12T14:48:43.760784"
+    },
+    "personal_name": "Reiz\u014d Fukunaga",
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-02-12T14:48:43.760784"
+    },
+    "key": "/authors/OL6562931A",
+    "type": {
+        "key": "/type/author"
+    },
+    "id": 33669668,
+    "revision": 1
+}

@@ -1,0 +1,27 @@
+{
+    "key": "/authors/OL31757A",
+    "type": {
+        "key": "/type/author"
+    },
+    "personal_name": "Jonathan Emmett",
+    "name": "Jonathan Emmett",
+    "remote_ids": {
+        "isni": "000000011209038X",
+        "viaf": "107598105",
+        "wikidata": "Q18685923"
+    },
+    "source_records": [
+        "amazon:6053482994",
+        "promise:bwb_daily_pallets_2020-04-09"
+    ],
+    "latest_revision": 5,
+    "revision": 5,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-30T12:22:51.011232"
+    }
+}

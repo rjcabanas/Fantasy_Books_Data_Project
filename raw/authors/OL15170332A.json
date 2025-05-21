@@ -1,0 +1,27 @@
+{
+    "name": "Deritric Redstar",
+    "key": "/authors/OL15170332A",
+    "type": {
+        "key": "/type/author"
+    },
+    "photos": [
+        14856376,
+        14856375,
+        14856374
+    ],
+    "birth_date": "2014.4.8",
+    "bio": {
+        "type": "/type/text",
+        "value": "Deritric Redstar is born in Yeis's term. In 2018 Redstar became deputy of King Crust. After Dalestar became elder, Redstar succeeding King Crust's leader Redstar is the tenth king of Hamdongo, second and tenth king of Kemyangdongo."
+    },
+    "latest_revision": 10,
+    "revision": 10,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2025-03-30T02:36:43.162497"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T06:16:18.690985"
+    }
+}

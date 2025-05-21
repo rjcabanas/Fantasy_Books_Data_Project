@@ -1,0 +1,18 @@
+{
+    "name": "Pat McHale",
+    "personal_name": "Pat McHale",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T21:49:28.853387"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T21:49:28.853387"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7522666A",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

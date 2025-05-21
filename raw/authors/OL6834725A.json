@@ -1,0 +1,61 @@
+{
+    "birth_date": "1969-02-08",
+    "personal_name": "Mary Robinette Kowal",
+    "source_records": [
+        "amazon:1543691080",
+        "amazon:1543664326",
+        "bwb:9781250786128"
+    ],
+    "key": "/authors/OL6834725A",
+    "links": [
+        {
+            "title": "Wikipedia entry",
+            "url": "https://en.wikipedia.org/wiki/Mary_Robinette_Kowal",
+            "type": {
+                "key": "/type/link"
+            }
+        },
+        {
+            "title": "Author's web site",
+            "url": "https://maryrobinettekowal.com/",
+            "type": {
+                "key": "/type/link"
+            }
+        }
+    ],
+    "type": {
+        "key": "/type/author"
+    },
+    "name": "Mary Robinette Kowal",
+    "remote_ids": {
+        "wikidata": "Q4225496",
+        "isni": "000000007913567X",
+        "viaf": "121205922",
+        "bookbrainz": "e1a01ed9-e0a8-458f-a0e4-06e8af7f2ed0",
+        "musicbrainz": "9187f571-c2c0-421d-9783-e4f27fc154fa",
+        "goodreads": "2868678",
+        "librarything": "kowalmaryrobinette",
+        "lc_naf": "no2010075611",
+        "imdb": "nm1708885",
+        "gnd": "1251017339",
+        "amazon": "B0033T90TC",
+        "storygraph": "30f33ffd-a70c-472f-8d34-112e3e491c1b"
+    },
+    "photos": [
+        14595589
+    ],
+    "alternate_names": [
+        "Mary Robinette Harrison",
+        "Mary Kowal"
+    ],
+    "latest_revision": 13,
+    "revision": 13,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2010-10-22T18:17:14.280829"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-24T22:26:37.165521"
+    }
+}

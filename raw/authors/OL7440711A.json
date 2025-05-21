@@ -1,0 +1,19 @@
+{
+    "name": "Frank Lampard",
+    "personal_name": "Frank Lampard",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2018-12-19T07:52:32.580107"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-12-19T07:52:32.580107"
+    },
+    "latest_revision": 1,
+    "key": "/authors/OL7440711A",
+    "birth_date": "1978",
+    "type": {
+        "key": "/type/author"
+    },
+    "revision": 1
+}

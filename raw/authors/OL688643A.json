@@ -1,0 +1,44 @@
+{
+    "birth_date": "1882",
+    "alternate_names": [
+        "E. R. Eddison",
+        "E.R. Eddison",
+        "Eric Rucker Eddison",
+        "E R Eddison",
+        "E., R. Eddison",
+        "E.R Eddison",
+        "E.R.Eddison",
+        "Eddison Eric Rucker",
+        "Eric Ru\u0308cker Eddison"
+    ],
+    "photos": [
+        5729994
+    ],
+    "key": "/authors/OL688643A",
+    "personal_name": "Eric R\u00fccker Eddison",
+    "remote_ids": {
+        "viaf": "44885882",
+        "wikidata": "Q260982",
+        "isni": "0000000063186712"
+    },
+    "source_records": [
+        "amazon:0345278607",
+        "promise:bwb_daily_pallets_2022-08-18",
+        "amazon:1913751430"
+    ],
+    "name": "Eric R\u00fccker Eddison",
+    "type": {
+        "key": "/type/author"
+    },
+    "death_date": "1945",
+    "latest_revision": 8,
+    "revision": 8,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-16T22:30:58.292649"
+    }
+}

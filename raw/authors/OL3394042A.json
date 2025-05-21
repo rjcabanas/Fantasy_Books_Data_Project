@@ -1,0 +1,18 @@
+{
+    "type": {
+        "key": "/type/author"
+    },
+    "key": "/authors/OL3394042A",
+    "name": "Gerald M. King",
+    "personal_name": "Gerald M. KING",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-21T22:37:15.649175"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tim Waggoner",
+    "personal_name": "Tim Waggoner",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T18:41:58.601316"
+    },
+    "latest_revision": 4,
+    "key": "/authors/OL1392479A",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "remote_ids": {
+        "viaf": "38764930",
+        "wikidata": "Q7804433",
+        "isni": "000000011933747X"
+    }
+}

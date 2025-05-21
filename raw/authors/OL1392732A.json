@@ -1,0 +1,24 @@
+{
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+    },
+    "latest_revision": 4,
+    "name": "David Anthony Durham",
+    "key": "/authors/OL1392732A",
+    "personal_name": "David Anthony Durham",
+    "birth_date": "1969",
+    "revision": 4,
+    "type": {
+        "key": "/type/author"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T13:25:31.388776"
+    },
+    "remote_ids": {
+        "viaf": "102136079",
+        "wikidata": "Q983109",
+        "isni": "0000000114789864"
+    }
+}
