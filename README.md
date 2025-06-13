@@ -40,4 +40,4 @@ This project collects all available data on fantasy books stored within the Open
     - PowerBI is connected to the tables by using a Parquet Connector directly to the Gold Layer files to access the data (Alternatively, Azure Synapse Analytics can be used         to directly connect with the storage account to access the data for analytical work).
     - A simple dashboard was created to showcase the most popular and best rated books and authors
 
-    ![image](https://github.com/user-attachments/assets/70316702-e58e-48d6-bc69-ba632e8cef51)
+    ![image](https://github.com/user-attachments/assets/f2709225-dc49-4f35-aa4b-47b4492b0719)
