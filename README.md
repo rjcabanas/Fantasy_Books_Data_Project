@@ -12,6 +12,7 @@ This project collects all available data on fantasy books stored within the Open
     - Orchestration carried out using Apache Airflow
    
     ![image](https://github.com/user-attachments/assets/e74e6a4e-3d5c-4624-b9b3-702a5188ae41)
+
     Apache Airflow DAG run screenshot.
   
   - Data Transformation Pipeline (Databricks Notebooks, PySpark, Databricks Workflows):
