@@ -12,6 +12,7 @@ This project collects all available data on fantasy books stored within the Open
     - Orchestration carried out using Apache Airflow
    
     ![image](https://github.com/user-attachments/assets/e74e6a4e-3d5c-4624-b9b3-702a5188ae41)
+    Apache Airflow DAG run screenshot.
   
   - Data Transformation Pipeline (Databricks Notebooks, PySpark, Databricks Workflows):
     - Data Cleaning:
@@ -35,6 +36,7 @@ This project collects all available data on fantasy books stored within the Open
       -  Orchestration carried out using Databricks Workflows (parameters are created here to control the widget within the relevant notebooks for incremental runs)
 
       ![image](https://github.com/user-attachments/assets/fd7838b6-043a-4f74-899d-d058286f0014)
+      Databricks Workflows run screenshot.
 
   -  Data Analytics (PowerBI):
     - PowerBI is connected to the tables by using a Parquet Connector directly to the Gold Layer files to access the data (Alternatively, Azure Synapse Analytics can be used         to directly connect with the storage account to access the data for analytical work).
