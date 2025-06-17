@@ -1,8 +1,8 @@
-#Project Overview
+# Project Overview
 
 This project collects data related to fantasy books from the Open Library API, including metadata on books, authors, and user reviews/ratings. The data is processed and stored using a medallion architecture (Bronze, Silver, Gold layers) on Azure Data Lake Gen2, with orchestration and analytics pipelines implemented using industry-standard tools.
 
-#Tech Stack
+# Tech Stack
 - Orchestration: Apache Airflow, Databricks Workflows
 - Data Processing: Python, PySpark, Pandas
 - Storage: Azure Data Lake Gen2
@@ -10,12 +10,12 @@ This project collects data related to fantasy books from the Open Library API, i
 - Visualization: Power BI
 - File Formats: JSON (raw), Parquet (processed)
 
-#Architecture: Medallion Layers
+# Architecture: Medallion Layers
 - Bronze Layer: Raw ingested data from API, stored as combined Parquet files
 - Silver Layer: Cleaned, structured data ready for modeling
 - Gold Layer: Dimensional and fact tables optimized for analytics
 
-#Pipeline Stages
+# Pipeline Stages
 
 1. Data Ingestion (Apache Airflow + Python)
 - Connects to the Open Library API
@@ -71,7 +71,7 @@ Databricks Workflows run screenshot.
   - Best-rated authors
 - Sample dashboard available in the PowerBI_Files folder
 
-#GitHub Repo Folder Structure
+# GitHub Repo Folder Structure
 - "materials"
   - Python Scripts for data ingestion
   - DAG file for orchestration
