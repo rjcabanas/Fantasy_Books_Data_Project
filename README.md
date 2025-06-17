@@ -33,7 +33,7 @@ This project collects data related to fantasy books from the Open Library API, i
 
 Apache Airflow DAG run screenshot.
 
-2. 🧹 Data Transformation (Databricks + PySpark)
+2. Data Transformation (Databricks + PySpark)
 
 a. Data Cleaning
   - Databricks connects to Azure Data Lake Gen2 using an Entra ID app
@@ -63,7 +63,7 @@ c. Fact Table Creation
 ![image](https://github.com/user-attachments/assets/fd7838b6-043a-4f74-899d-d058286f0014)
 Databricks Workflows run screenshot.
 
-3. 📊 Data Analytics (Power BI)
+3. Data Analytics (Power BI)
 - Power BI connects to the Gold layer using the Parquet Connector
 - Alternatively, Azure Synapse Analytics can be used to access Gold data
 - Visualizations include:
