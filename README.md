@@ -34,6 +34,7 @@ This project collects data related to fantasy books from the Open Library API, i
 Apache Airflow DAG run screenshot.
 
 2. 🧹 Data Transformation (Databricks + PySpark)
+
 a. Data Cleaning
   - Databricks connects to Azure Data Lake Gen2 using an Entra ID app
   - Reads Parquet files from the Bronze layer
