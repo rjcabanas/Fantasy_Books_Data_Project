@@ -35,30 +35,30 @@ This project collects data related to fantasy books from the Open Library API, i
 
 2. Data Transformation (Databricks + PySpark)
 
-  a. Data Cleaning
-    - Databricks connects to Azure Data Lake Gen2 using an Entra ID app
-    - Reads Parquet files from the Bronze layer
-    - Cleans and normalizes the dataset
-    - Writes processed data to the Silver layer
-  
-  b. Dimensional Modeling
-    - Uses widgets to control run type: initial or incremental
-    - Creates dimension tables with selected fields and a new DimKey (surrogate key)
-    - Checks if a dimension table already exists:
-      - If initial run: DimKey starts from 1
-      - If incremental: continues from the max DimKey
-    - Separates new and existing records
-    - Applies Slowly Changing Dimension Type 1 to handle updates
-    - Combines records to generate updated dimension tables
-  
-  c. Fact Table Creation
-    - Reads ratings data from the Silver layer
-    - Joins dimension keys from dimension tables
-    - Drops natural keys from the fact table
-    - Writes to the Gold layer:
-      - If no existing fact table: overwrite mode
-      - If it exists: upsert logic is used
-    - Controlled via Databricks Workflows, which pass parameters to notebooks
+a. Data Cleaning
+  - Databricks connects to Azure Data Lake Gen2 using an Entra ID app
+  - Reads Parquet files from the Bronze layer
+  - Cleans and normalizes the dataset
+  - Writes processed data to the Silver layer
+
+b. Dimensional Modeling
+  - Uses widgets to control run type: initial or incremental
+  - Creates dimension tables with selected fields and a new DimKey (surrogate key)
+  - Checks if a dimension table already exists:
+    - If initial run: DimKey starts from 1
+    - If incremental: continues from the max DimKey
+  - Separates new and existing records
+  - Applies Slowly Changing Dimension Type 1 to handle updates
+  - Combines records to generate updated dimension tables
+
+c. Fact Table Creation
+  - Reads ratings data from the Silver layer
+  - Joins dimension keys from dimension tables
+  - Drops natural keys from the fact table
+  - Writes to the Gold layer:
+    - If no existing fact table: overwrite mode
+    - If it exists: upsert logic is used
+  - Controlled via Databricks Workflows, which pass parameters to notebooks
   
   ![image](https://github.com/user-attachments/assets/fd7838b6-043a-4f74-899d-d058286f0014)
   *Databricks Workflows run screenshot.*
