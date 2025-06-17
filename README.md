@@ -84,4 +84,5 @@ c. Fact Table Creation
   - Description of entire project         
 
 ![image](https://github.com/user-attachments/assets/8dfbb100-c2a2-4627-b410-316529ccc6a2)
+
 *Folder structure screenshot.*
