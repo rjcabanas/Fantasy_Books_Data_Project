@@ -31,7 +31,7 @@ This project collects data related to fantasy books from the Open Library API, i
 
 ![image](https://github.com/user-attachments/assets/e74e6a4e-3d5c-4624-b9b3-702a5188ae41)
 
-Apache Airflow DAG run screenshot.
+*Apache Airflow DAG run screenshot.*
 
 2. Data Transformation (Databricks + PySpark)
 
@@ -61,7 +61,7 @@ c. Fact Table Creation
   - Controlled via Databricks Workflows, which pass parameters to notebooks
 
 ![image](https://github.com/user-attachments/assets/fd7838b6-043a-4f74-899d-d058286f0014)
-Databricks Workflows run screenshot.
+*Databricks Workflows run screenshot.*
 
 3. Data Analytics (Power BI)
 - Power BI connects to the Gold layer using the Parquet Connector
@@ -84,3 +84,4 @@ Databricks Workflows run screenshot.
   - Description of entire project         
 
 ![image](https://github.com/user-attachments/assets/8dfbb100-c2a2-4627-b410-316529ccc6a2)
+*Folder structure screenshot.*
